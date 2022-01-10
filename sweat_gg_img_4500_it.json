@@ -1,0 +1,81 @@
+{
+  "english": "sweat",
+  "list_translation_mean": [
+    {
+      "translate_mean": "công việc vất vả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giọt nước rỉ ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mồ hôi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự toán mồ hôi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chảy mồ hôi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm chảy mồ hôi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm việc mệt nhọc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "moisture exuded through the pores of the skin, typically in profuse quantities as a reaction to heat, physical exertion, fever, or fear.",
+      "definitions_ex_en": "beads of sweat broke out on her brow",
+      "definitions_ex_vn": "Hạt mồ hôi nổ tung trên trán",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "exude sweat.",
+      "definitions_ex_en": "he was sweating profusely",
+      "definitions_ex_vn": "Anh đang đổ mồ hôi đầm đìa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "heat (chopped vegetables) slowly in a pan with a small amount of fat, so that they cook in their own juices.",
+      "definitions_ex_en": "sweat the celery and onions with olive oil and seasoning",
+      "definitions_ex_vn": "Đổ mồ hôi cần tây và hành tây bằng dầu ô liu và gia vị",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "subject (metal) to surface melting, especially to fasten or join by solder without a soldering iron.",
+      "definitions_ex_en": "the tire is sweated onto the wooden parts",
+      "definitions_ex_vn": "lốp xe bị đổ mồ hôi vào các bộ phận bằng gỗ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070620_59e8bab8f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070620_8a561477c8_o.png",
+      "id_image": "sweat_1466560"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688734_2a247183f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688734_7f72fe3c6a_o.png",
+      "id_image": "sweat_1933297"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070535_29bcc3e31b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070535_ce4818d4dd_o.png",
+      "id_image": "sweat_2688373"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070495_bdc1d1f7e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070495_980ca5f564_o.png",
+      "id_image": "sweat_5571657"
+    }
+  ]
+}

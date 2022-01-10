@@ -1,0 +1,51 @@
+{
+  "english": "social",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ở thành đoàn thể",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về xã hội",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to society or its organization.",
+      "definitions_ex_en": "alcoholism is recognized as a major social problem",
+      "definitions_ex_vn": "Nghiện rượu được công nhận là một vấn đề xã hội lớn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "needing companionship and therefore best suited to living in communities.",
+      "definitions_ex_en": "we are social beings as well as individuals",
+      "definitions_ex_vn": "Chúng tôi là những sinh vật xã hội cũng như các cá nhân",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a bird) gregarious; breeding or nesting in colonies.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "an informal social gathering, especially one organized by the members of a particular club or group.",
+      "definitions_ex_en": "a church social",
+      "definitions_ex_vn": "một nhà thờ xã hội",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442728_6ffcd458ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442728_f7c0c55242_o.png",
+      "id_image": "social_780563"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327661_344d88ed45_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327661_ae41058540_o.png",
+      "id_image": "social_992641"
+    }
+  ]
+}

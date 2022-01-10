@@ -1,0 +1,55 @@
+{
+  "english": "tunnel",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đường hầm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đào đường hần ngang qua",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an artificial underground passage, especially one built through a hill or under a building, road, or river.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "dig or force a passage underground or through something.",
+      "definitions_ex_en": "he tunneled under the fence",
+      "definitions_ex_vn": "Anh hầm dưới hàng rào",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a particle) pass through a potential barrier.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684234_7c252ff509_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684234_7b30bba14a_o.png",
+      "id_image": "tunnel_1185510"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329241_dbaea4e7e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329241_b0fe402c4f_o.png",
+      "id_image": "tunnel_1996240"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329171_876200d13f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329171_c1cf542f59_o.png",
+      "id_image": "tunnel_4300135"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065945_99fd6f6732_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065945_5f4d2421ea_o.png",
+      "id_image": "tunnel_5331778"
+    }
+  ]
+}

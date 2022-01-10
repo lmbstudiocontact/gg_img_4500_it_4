@@ -1,0 +1,46 @@
+{
+  "english": "soap",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xà bông",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a substance used with water for washing and cleaning, made of a compound of natural oils or fats with sodium hydroxide or another strong alkali, and typically having perfume and coloring added.",
+      "definitions_ex_en": "a bar of soap",
+      "definitions_ex_vn": "xà phòng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a soap opera.",
+      "definitions_ex_en": "the soaps are at the top of the ratings",
+      "definitions_ex_vn": "Các xà phòng nằm trên đỉnh xếp hạng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "wash with soap.",
+      "definitions_ex_en": "she soaped her face",
+      "definitions_ex_vn": "Cô ấy đang rửa mặt",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064700_23d0710639_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064700_6aa4d0317f_o.png",
+      "id_image": "soap_123765"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372727_c0fdb9e8b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372727_11f791dec6_o.png",
+      "id_image": "soap_410426"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682979_c31728ded5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682979_6e8f6ebcee_o.png",
+      "id_image": "soap_577987"
+    }
+  ]
+}

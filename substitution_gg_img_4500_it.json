@@ -1,0 +1,41 @@
+{
+  "english": "substitution",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự thay thể",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thay vật khác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thế chổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thế vật khác vào",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of replacing someone or something with another person or thing.",
+      "definitions_ex_en": "a tactical substitution",
+      "definitions_ex_vn": "một sự thay thế chiến thuật",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077000_16a1de8a00_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077000_2b64eee740_o.png",
+      "id_image": "substitution_2396278"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339726_b0097967cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339726_88aecae3e6_o.png",
+      "id_image": "substitution_3564481"
+    }
+  ]
+}

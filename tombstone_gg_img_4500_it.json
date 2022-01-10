@@ -1,0 +1,40 @@
+{
+  "english": "tombstone",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có lông",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large, flat inscribed stone standing or laid over a grave.",
+      "definitions_ex_en": "his grin exposed his yellowed teeth like a row of tombstones",
+      "definitions_ex_vn": "nụ cười của anh lộ ra răng màu vàng của anh như một hàng bia mộ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an advertisement listing the underwriters or firms associated with a new issue of securities.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082045_46ab2fded4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082045_f8747e79d0_o.png",
+      "id_image": "tombstone_1619362"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699684_15538f5332_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699684_a8127ce037_o.png",
+      "id_image": "tombstone_218331"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459333_dc0ac8ba52_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459333_322a7f824b_o.png",
+      "id_image": "tombstone_5965192"
+    }
+  ]
+}

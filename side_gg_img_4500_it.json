@@ -1,0 +1,96 @@
+{
+  "english": "side",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cạnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "góc cái hộp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ở bên cạnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ở bên nầy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sườn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a position to the left or right of an object, place, or central point.",
+      "definitions_ex_en": "a town on the other side of the river",
+      "definitions_ex_vn": "một thị trấn ở phía bên kia của dòng sông",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an upright or sloping surface of a structure or object that is not the top or bottom and generally not the front or back.",
+      "definitions_ex_en": "a car crashed into the side of the house",
+      "definitions_ex_vn": "Một chiếc xe đâm vào sườn nhà",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a part or region near the edge and away from the middle of something.",
+      "definitions_ex_en": "a minivan was parked at the side of the road",
+      "definitions_ex_vn": "Một minivan đã đậu ở bên đường",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person or group opposing another or others in a dispute, contest, or debate.",
+      "definitions_ex_en": "the two sides agreed to resume border trade",
+      "definitions_ex_vn": "Hai bên đồng ý tiếp tục thương mại biên giới",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a particular aspect of a situation or a person's character.",
+      "definitions_ex_en": "her ability to put up with his disagreeable side",
+      "definitions_ex_vn": "khả năng của cô ấy để đưa lên với khía cạnh không đồng ý của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "subsidiary to or less important than something.",
+      "definitions_ex_en": "a side dish of fresh vegetables",
+      "definitions_ex_vn": "Một món ăn phụ của rau tươi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "horizontal spinning motion given to a ball.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "support or oppose in a conflict, dispute, or debate.",
+      "definitions_ex_en": "he felt that Max had betrayed him by siding with Beatrice",
+      "definitions_ex_vn": "Anh cảm thấy rằng Max đã phản bội anh bằng cách đứng về phía Beatrice",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "provide with a side or sides; form the side of.",
+      "definitions_ex_en": "the hills that side a long valley",
+      "definitions_ex_vn": "Những ngọn đồi bên đó một thung lũng dài",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455263_a844ccc226_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455263_fac0d0dc7b_o.png",
+      "id_image": "sideboard_1691582"
+    }
+  ]
+}

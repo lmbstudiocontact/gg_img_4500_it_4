@@ -1,0 +1,65 @@
+{
+  "english": "swim",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bơi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xoay",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "choáng váng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lội",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "propel the body through water by using the limbs, or (in the case of a fish or other aquatic animal) by using fins, tail, or other bodily movement.",
+      "definitions_ex_en": "they swam ashore",
+      "definitions_ex_vn": "Họ bơi lên bờ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be immersed in or covered with liquid.",
+      "definitions_ex_en": "mashed potatoes swimming in gravy",
+      "definitions_ex_vn": "Khoai tây nghiền trong nước thịt",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "appear to reel or whirl before one's eyes.",
+      "definitions_ex_en": "Emily rubbed her eyes as the figures swam before her eyes",
+      "definitions_ex_vn": "Emily dụi mắt khi những con số bơi trước mắt cô",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act or period of swimming.",
+      "definitions_ex_en": "we went for a swim in the river",
+      "definitions_ex_vn": "Chúng tôi đã đi bơi trên sông",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a pool in a river that is a particularly good spot for fishing.",
+      "definitions_ex_en": "he landed two 5 lb chub from the same swim",
+      "definitions_ex_vn": "Anh ta hạ cánh hai chiếc Chub 5 lb từ cùng một lần bơi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687514_90f6eace99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687514_eb6b090a5f_o.png",
+      "id_image": "swim_1426372"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377337_fbb62e63c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377337_fb339a206d_o.png",
+      "id_image": "swim_495721"
+    }
+  ]
+}

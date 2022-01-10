@@ -1,0 +1,34 @@
+{
+  "english": "wool",
+  "list_translation_mean": [
+    {
+      "translate_mean": "len",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the fine, soft curly or wavy hair forming the coat of a sheep, goat, or similar animal, especially when shorn and prepared for use in making cloth or yarn.",
+      "definitions_ex_en": "Harris tweed is made from pure new wool",
+      "definitions_ex_vn": "Harris Tweed được làm từ len tinh khiết mới",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379332_3b2f957275_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379332_c5325503f8_o.png",
+      "id_image": "wool_1589241"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379437_7b6d0609e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379437_dcc914f7c8_o.png",
+      "id_image": "wool_387868"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449493_79f03e7fa1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449493_f3f5f3ae45_o.png",
+      "id_image": "wool_588416"
+    }
+  ]
+}

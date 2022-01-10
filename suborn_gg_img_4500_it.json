@@ -1,0 +1,28 @@
+{
+  "english": "suborn",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hối chúc chứng nhân",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mua chứng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "bribe or otherwise induce (someone) to commit an unlawful act such as perjury.",
+      "definitions_ex_en": "he was accused of conspiring to suborn witnesses",
+      "definitions_ex_vn": "Ông bị buộc tội âm mưu đến các nhân chứng Suborn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695459_01ca921e03_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695459_1e297d65f6_o.png",
+      "id_image": "suborn_1397100"
+    }
+  ]
+}

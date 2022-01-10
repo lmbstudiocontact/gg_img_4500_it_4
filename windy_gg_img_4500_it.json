@@ -1,0 +1,58 @@
+{
+  "english": "windy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bị gió cuốn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có nhiều gió",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "làm sôi bụng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhiều gió",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of weather, a period of time, or a place) marked by or exposed to strong winds.",
+      "definitions_ex_en": "a very windy day",
+      "definitions_ex_vn": "Một ngày rất gió",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "using or expressed in many words that sound impressive but mean little.",
+      "definitions_ex_en": "windy speeches",
+      "definitions_ex_vn": "Bài phát biểu Windy.",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a road or river) following a curving or twisting course.",
+      "definitions_ex_en": "the long windy path",
+      "definitions_ex_vn": "con đường dài gió dài",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373777_bafb60a5ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373777_ae6dc03b20_o.png",
+      "id_image": "windy_2358464"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373752_f5b69a8214_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373752_44bee2cfbf_o.png",
+      "id_image": "windy_3104631"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329001_61d590442b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329001_13aabff509_o.png",
+      "id_image": "windy_4861661"
+    }
+  ]
+}

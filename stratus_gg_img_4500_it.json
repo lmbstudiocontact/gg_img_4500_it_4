@@ -1,0 +1,24 @@
+{
+  "english": "stratus",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mây tằng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "cloud forming a continuous horizontal gray sheet, often with rain or snow.",
+      "definitions_ex_en": "the weather was lousy, with low stratus and poor visibility",
+      "definitions_ex_vn": "Thời tiết tệ hại, với tầng thấp và tầm nhìn kém",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081025_9aa93750bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081025_5f8c89181e_o.png",
+      "id_image": "stratus_1146818"
+    }
+  ]
+}

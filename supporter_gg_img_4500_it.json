@@ -1,0 +1,63 @@
+{
+  "english": "supporter",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người cấp dưỡng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người giúp đở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người ủng hộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật để chống đở",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who approves of and encourages someone or something (typically a public figure, a movement or party, or a policy).",
+      "definitions_ex_en": "Reagan supporters",
+      "definitions_ex_vn": "Người ủng hộ Reagan",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a representation of an animal or other figure, typically one of a pair, holding up or standing beside an escutcheon.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "another term for jockstrap.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336246_cdaa430c82_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336246_27e1ddac1a_o.png",
+      "id_image": "supporter_2333383"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336206_f634941070_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336206_7558bd6c84_o.png",
+      "id_image": "supporter_2688886"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381307_4e4d6aefdc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381307_322644f76c_o.png",
+      "id_image": "supporter_471470"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381262_033096b375_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381262_8f93c4a22c_o.png",
+      "id_image": "supporter_927324"
+    }
+  ]
+}

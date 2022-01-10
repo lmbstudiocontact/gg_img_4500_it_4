@@ -1,0 +1,62 @@
+{
+  "english": "snow",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tuyết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tuyết rơi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "atmospheric water vapor frozen into ice crystals and falling in light white flakes or lying on the ground as a white layer.",
+      "definitions_ex_en": "we were trudging through deep snow",
+      "definitions_ex_vn": "Chúng tôi đã trỗi dậy qua tuyết sâu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a mass of flickering white spots on a television or radar screen, caused by interference or a poor signal.",
+      "definitions_ex_en": "all that they could pick up on their screens was snow",
+      "definitions_ex_vn": "tất cả những gì họ có thể nhận trên màn hình của họ là tuyết",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a dessert or other dish resembling snow.",
+      "definitions_ex_en": "vanilla snow",
+      "definitions_ex_vn": "vani tuyết",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cocaine.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "snow falls.",
+      "definitions_ex_en": "it's not snowing so heavily now",
+      "definitions_ex_vn": "Bây giờ không có tuyết quá nhiều",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373712_783b129e70_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373712_ab300d1a93_o.png",
+      "id_image": "snow_2204374"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373697_59d1985529_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373697_9d4e00e124_o.png",
+      "id_image": "snow_4647927"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443863_4883a0d978_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443863_fb6e04fabd_o.png",
+      "id_image": "snow_4727668"
+    }
+  ]
+}

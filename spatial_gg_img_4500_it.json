@@ -1,0 +1,24 @@
+{
+  "english": "spatial",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về không gian",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to or occupying space.",
+      "definitions_ex_en": "the spatial distribution of population",
+      "definitions_ex_vn": "phân phối không gian của dân số",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369682_e4cc60a70f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369682_0f86e32331_o.png",
+      "id_image": "spatial_5105547"
+    }
+  ]
+}

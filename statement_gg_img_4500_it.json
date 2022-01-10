@@ -1,0 +1,50 @@
+{
+  "english": "statement",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bản báo cáo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bản tường trình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bày tỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phát biểu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xác nhận",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a definite or clear expression of something in speech or writing.",
+      "definitions_ex_en": "do you agree with this statement?",
+      "definitions_ex_vn": "Bạn có đồng ý với tường trình này không?",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348906_6056c39451_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348906_10bede6651_o.png",
+      "id_image": "statement_1556246"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086180_926483bdd4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086180_a8d900c9bb_o.png",
+      "id_image": "statement_4539935"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393687_5d69a1c582_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393687_0da7623cdb_o.png",
+      "id_image": "statement_6330711"
+    }
+  ]
+}

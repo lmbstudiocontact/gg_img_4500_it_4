@@ -1,0 +1,42 @@
+{
+  "english": "warmth",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hơi nóng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhiệt tâm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính hăng hái",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the quality, state, or sensation of being warm; moderate and comfortable heat.",
+      "definitions_ex_en": "the warmth of the sun on her skin",
+      "definitions_ex_vn": "sự ấm áp của mặt trời trên da cô",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337351_1870bdf2bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337351_0629f1da20_o.png",
+      "id_image": "warmth_2280462"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337316_002ebf0062_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337316_290545c773_o.png",
+      "id_image": "warmth_5783735"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074360_00f5df1300_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074360_09d83c7a60_o.png",
+      "id_image": "warmth_5783771"
+    }
+  ]
+}

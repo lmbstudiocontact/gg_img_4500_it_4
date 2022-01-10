@@ -1,0 +1,58 @@
+{
+  "english": "tamper",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người nện đất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm giả mạo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm lộn xộn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xúi người khai gian",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "interfere with (something) in order to cause damage or make unauthorized alterations.",
+      "definitions_ex_en": "someone tampered with the brakes on my car",
+      "definitions_ex_vn": "ai đó bị xáo trộn phanh trên xe của tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "exert a secret or corrupt influence upon (someone).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a person or thing that tamps something down, especially a machine or tool for tamping down earth or ballast.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442108_9e3764bbe5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442108_49673598fb_o.png",
+      "id_image": "tamper_2007973"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371722_ed304fd974_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371722_ec9a434a3f_o.png",
+      "id_image": "tamper_2954813"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682219_7fa17603b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682219_1354865e28_o.png",
+      "id_image": "tamper_3219336"
+    }
+  ]
+}

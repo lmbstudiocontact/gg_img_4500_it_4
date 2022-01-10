@@ -1,0 +1,82 @@
+{
+  "english": "station",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chổ canh gát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "địa vị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà ga",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trạm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a regular stopping place on a public transportation route, especially one on a railroad line with a platform and often one or more buildings.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a place or building where a specified activity or service is based.",
+      "definitions_ex_en": "a research station in the rainforest",
+      "definitions_ex_vn": "một trạm nghiên cứu trong rừng nhiệt đới",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a company involved in broadcasting of a specified kind.",
+      "definitions_ex_en": "a radio station",
+      "definitions_ex_vn": "một đài phát thanh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the place where someone or something stands or is placed on military or other duty.",
+      "definitions_ex_en": "the lookout resumed his station in the bow",
+      "definitions_ex_vn": "Lookout đã tiếp tục trạm của mình trong cung",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a site at which a particular species, especially an interesting or rare one, grows or is found.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for Stations of the Cross.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "put in or assign to a specified place for a particular purpose, especially a military one.",
+      "definitions_ex_en": "troops were stationed in the town",
+      "definitions_ex_vn": "quân đội đã đóng quân trong thị trấn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348821_17923c5239_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348821_494ce2d45c_o.png",
+      "id_image": "station_1023364"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086100_cb1d1ca605_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086100_4fd042097e_o.png",
+      "id_image": "station_3540110"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703499_8613773b98_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703499_d2324a4029_o.png",
+      "id_image": "station_4426573"
+    }
+  ]
+}

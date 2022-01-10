@@ -1,0 +1,56 @@
+{
+  "english": "swift",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhanh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "loại chim ăn sâu bọ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "căng thẳng ra",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "happening quickly or promptly.",
+      "definitions_ex_en": "a remarkably swift recovery",
+      "definitions_ex_vn": "một sự phục hồi nhanh chóng đáng kể",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "swiftly.",
+      "definitions_ex_en": "streams that ran swift and clear",
+      "definitions_ex_vn": "những dòng chảy chạy nhanh chóng và rõ ràng",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "a swift-flying insectivorous bird with long, slender wings and a superficial resemblance to a swallow, spending most of its life on the wing.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a moth, typically yellow-brown in color, with fast darting flight. The eggs are scattered in flight and the larvae live underground feeding on roots, where they can be a serious pest.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a light, adjustable reel for holding a skein of silk or wool.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687564_f7bb1913d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687564_ce82fdb705_o.png",
+      "id_image": "swift_2927923"
+    }
+  ]
+}

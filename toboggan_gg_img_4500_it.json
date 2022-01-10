@@ -1,0 +1,38 @@
+{
+  "english": "toboggan",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xe đi trên tuyết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đi trên tuyết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trợt trên tuyết",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a long narrow sled used for the sport of coasting downhill over snow or ice. It typically is made of a lightweight board that is curved upward and backward at the front.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "slide downhill over snow on a toboggan.",
+      "definitions_ex_en": "my kids love to go tobogganing in the park before Christmas dinner",
+      "definitions_ex_vn": "Những đứa trẻ của tôi thích đi đến Bookganing trong công viên trước bữa tối Giáng sinh",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345931_0f4891040c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345931_74e0a928a9_o.png",
+      "id_image": "toboggan_2430130"
+    }
+  ]
+}

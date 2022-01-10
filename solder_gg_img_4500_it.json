@@ -1,0 +1,56 @@
+{
+  "english": "solder",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ngưi hàn bằng chì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phép hàn chì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hàn bằng chì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hàn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hàn lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a low-melting alloy, especially one based on lead and tin or (for higher temperatures) on brass or silver, used for joining less fusible metals.",
+      "definitions_ex_en": "remove the fitting using a blowtorch to melt the solder",
+      "definitions_ex_vn": "Tháo phù hợp bằng cách sử dụng một ống thổi để làm tan chảy hàn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "join with solder.",
+      "definitions_ex_en": "the wires to this clip are soldered to the circuit board",
+      "definitions_ex_vn": "Các dây để clip này được hàn vào bảng mạch",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326611_9a05471a36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326611_2f3cea3e4c_o.png",
+      "id_image": "solder_2332876"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063475_43f54433ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063475_bd991b5ed0_o.png",
+      "id_image": "solder_2472930"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326636_7c7f605a70_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326636_d2659e1cf0_o.png",
+      "id_image": "solder_471759"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "english": "submission",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lời biện hộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự biện hộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đệ trình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự khuất phục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tùng phục",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or fact of accepting or yielding to a superior force or to the will or authority of another person.",
+      "definitions_ex_en": "they were forced into submission",
+      "definitions_ex_vn": "Họ bị buộc phải nộp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action of presenting a proposal, application, or other document for consideration or judgment.",
+      "definitions_ex_en": "reports should be prepared for submission at partners' meetings",
+      "definitions_ex_vn": "Báo cáo nên được chuẩn bị để nộp tại các cuộc họp của đối tác",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077580_db60bb28aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077580_1f922c6f88_o.png",
+      "id_image": "submission_2019393"
+    }
+  ]
+}

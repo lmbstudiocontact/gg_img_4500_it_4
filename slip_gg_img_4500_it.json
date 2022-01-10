@@ -1,0 +1,165 @@
+{
+  "english": "slip",
+  "list_translation_mean": [
+    {
+      "translate_mean": "áo gối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dây xích chó",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điều lầm lổi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sơ xuất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sụp đất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "váy trong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trợt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vô ý",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đẩy cửa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lầm lổi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lén",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tháo móc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thoát khỏi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhét vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trợt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dúi vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sụp đất",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a person or animal) slide unintentionally for a short distance, typically losing one's balance or footing.",
+      "definitions_ex_en": "I slipped on the ice",
+      "definitions_ex_vn": "Tôi trượt trên băng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "go or move quietly or quickly, without attracting notice.",
+      "definitions_ex_en": "we slipped out by a back door",
+      "definitions_ex_vn": "Chúng tôi trượt ra khỏi một cửa sau",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "pass or change to a lower, worse, or different condition, typically in a gradual or imperceptible way.",
+      "definitions_ex_en": "many people feel standards have slipped",
+      "definitions_ex_vn": "Nhiều người cảm thấy tiêu chuẩn đã trượt",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "escape or get loose from (a means of restraint).",
+      "definitions_ex_en": "the giant balloon slipped its moorings",
+      "definitions_ex_vn": "Balloon khổng lồ trượt neo của nó",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of sliding unintentionally for a short distance.",
+      "definitions_ex_en": "a single slip could send them plummeting down the mountainside",
+      "definitions_ex_vn": "một phiếu duy nhất có thể khiến họ lao dốc xuống sườn núi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a fall to a lower level or standard.",
+      "definitions_ex_en": "a continued slip in house prices",
+      "definitions_ex_vn": "Một cú trượt liên tục trong giá nhà",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a woman's loose-fitting, dress- or skirt-length undergarment, suspended by shoulder straps ( full slip ) or by an elasticized waistband ( half slip ).",
+      "definitions_ex_en": "a silk slip",
+      "definitions_ex_vn": "Một chiếc trượt lụa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a slope built leading into water, used for launching and landing boats and ships or for building and repairing them.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a leash which enables a dog to be released quickly.",
+      "definitions_ex_en": "Tommy bolted off like a greyhound released from the slips",
+      "definitions_ex_vn": "Tommy bắt vít như một con chó săn được giải phóng từ những cú trượt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for slip stitch.",
+      "definitions_ex_en": "one color at a time should be knitted in striped slip",
+      "definitions_ex_vn": "Một màu tại một thời điểm nên được dệt kim trong trượt sọc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small piece of paper, typically a form for writing on or one giving printed information.",
+      "definitions_ex_en": "his monthly salary slip",
+      "definitions_ex_vn": "tiền lương hàng tháng của anh ấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a cutting taken from a plant for grafting or planting; a scion.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a creamy mixture of clay, water, and typically a pigment, used especially for decorating earthenware.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332721_e43f21e662_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332721_8d62b55d5b_o.png",
+      "id_image": "slip_1971073"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687709_6c8986a9ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687709_4e6c3fa4ec_o.png",
+      "id_image": "slip_4482334"
+    }
+  ]
+}

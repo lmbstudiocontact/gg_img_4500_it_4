@@ -1,0 +1,90 @@
+{
+  "english": "skip",
+  "list_translation_mean": [
+    {
+      "translate_mean": "quên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhảy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhảy lớp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tẩu thoát",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trốn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhảy mất một đoạn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhảy nhót",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sự nhảy nhót",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "move along lightly, stepping from one foot to the other with a hop or bounce.",
+      "definitions_ex_en": "she began to skip down the path",
+      "definitions_ex_vn": "Cô bắt đầu bỏ qua con đường",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "act as skip of (a side).",
+      "definitions_ex_en": "they lost to another Stranraer team, skipped by Peter Wilson",
+      "definitions_ex_vn": "Họ thua một đội khác Stranraer, bị Peter Wilson bỏ qua",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a light, bouncing step; a skipping movement.",
+      "definitions_ex_en": "he moved with a strange, dancing skip",
+      "definitions_ex_vn": "Anh ấy di chuyển với một cuộc bỏ qua kỳ lạ, nhảy múa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the captain or director of a team in lawn bowling or curling.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335311_fac11040df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335311_f71764d3f0_o.png",
+      "id_image": "skip_1236502"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450278_e35c1a50d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450278_d3dc2daaf3_o.png",
+      "id_image": "skip_2368554"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690409_c780de9dcf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690409_f71afdeeda_o.png",
+      "id_image": "skip_2372117"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072145_76c73272bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072145_401951b8d1_o.png",
+      "id_image": "skip_4483469"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072120_e686bcfca1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072120_d472a504fd_o.png",
+      "id_image": "skip_4631777"
+    }
+  ]
+}

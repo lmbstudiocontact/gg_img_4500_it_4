@@ -1,0 +1,44 @@
+{
+  "english": "soundtrack",
+  "list_translation_mean": [
+    {
+      "translate_mean": "âm thanh của nhạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhạc âm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a recording of the musical accompaniment to a movie.",
+      "definitions_ex_en": "she has requested a collaboration for the soundtrack to her forthcoming movie",
+      "definitions_ex_vn": "Cô đã yêu cầu một sự hợp tác cho nhạc phim cho bộ phim sắp tới của cô",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "provide (a movie) with a soundtrack.",
+      "definitions_ex_en": "it is soundtracked by the great Ennio Morricone",
+      "definitions_ex_vn": "Nó được phản chiếu bởi các cuộc phạm vi tuyệt vời của Ennio",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325536_7136b136b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325536_898ba27271_o.png",
+      "id_image": "soundtrack_122877"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325506_ea9d8c033e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325506_a4300f797f_o.png",
+      "id_image": "soundtrack_2123953"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325501_2437762c5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325501_0d4b3ef5d3_o.png",
+      "id_image": "soundtrack_4133247"
+    }
+  ]
+}

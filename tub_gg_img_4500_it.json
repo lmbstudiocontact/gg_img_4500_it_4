@@ -1,0 +1,58 @@
+{
+  "english": "tub",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thùng đựng nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thùng gổ đựng quặng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tấm trong chậu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trồng trong thùng cây",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a wide, open, deep, typically round container with a flat bottom used for holding liquids, growing plants, etc.",
+      "definitions_ex_en": "hydrangeas in a patio tub",
+      "definitions_ex_vn": "Hydrangeas trong một bồn tắm hiên",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "plant in a tub.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "wash or bathe (someone or something) in or as in a tub or bath.",
+      "definitions_ex_en": "even your formal evening gown can be tubbed",
+      "definitions_ex_vn": "Ngay cả chiếc áo choàng dạ hội chính thức của bạn cũng có thể là ống",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445503_84e5b029c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445503_85b51b4e3b_o.png",
+      "id_image": "tub_3372619"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445478_119c6ed25e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445478_17c62b4a73_o.png",
+      "id_image": "tub_4312035"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445443_a8986295dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445443_cce9efd18b_o.png",
+      "id_image": "tub_5507892"
+    }
+  ]
+}

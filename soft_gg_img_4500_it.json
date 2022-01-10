@@ -1,0 +1,93 @@
+{
+  "english": "soft",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dẽo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khờ dại",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mềm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhu nhược",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ôn hòa",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "easy to mold, cut, compress, or fold; not hard or firm to the touch.",
+      "definitions_ex_en": "soft margarine",
+      "definitions_ex_vn": "Margarine mềm",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "having a pleasing quality involving a subtle effect or contrast rather than sharp definition.",
+      "definitions_ex_en": "the soft glow of the lamps",
+      "definitions_ex_vn": "ánh sáng mềm mại của đèn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "sympathetic, lenient, or compassionate, especially to a degree perceived as excessive; not strict or sufficiently strict.",
+      "definitions_ex_en": "the administration is not becoming soft on crime",
+      "definitions_ex_vn": "Chính quyền không trở nên mềm mại về tội phạm",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a drink) not alcoholic.",
+      "definitions_ex_en": "all they had was ginger ale and a few other soft drinks",
+      "definitions_ex_vn": "Tất cả những gì họ có là Ginger Ale và một vài loại nước ngọt khác",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a market, currency, or commodity) falling or likely to fall in value.",
+      "definitions_ex_en": "now a new factor looms: soft oil prices",
+      "definitions_ex_vn": "Bây giờ là một yếu tố mới hiện ra: Giá dầu mềm",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of water) containing relatively low concentrations of dissolved calcium and magnesium salts and therefore lathering easily with soap.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "foolish; silly.",
+      "definitions_ex_en": "he must be going soft in the head",
+      "definitions_ex_vn": "Anh ấy phải mềm mại trong đầu",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a consonant) pronounced as a fricative (as c in ice ).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "softly.",
+      "definitions_ex_en": "I can just speak soft and she'll hear me",
+      "definitions_ex_vn": "Tôi chỉ có thể nói mềm và cô ấy sẽ nghe tôi",
+      "definitions_type_word": "adverb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442133_86117a25e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442133_8eb7ccbfe8_o.png",
+      "id_image": "soft_2515161"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327031_00d024a97b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327031_880c5e08dc_o.png",
+      "id_image": "soft_5376707"
+    }
+  ]
+}

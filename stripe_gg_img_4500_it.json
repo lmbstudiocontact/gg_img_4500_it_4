@@ -1,0 +1,40 @@
+{
+  "english": "stripe",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đường sọc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vằn của lông thú",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a long narrow band or strip, typically of the same width throughout its length, differing in color or texture from the surface on either side of it.",
+      "definitions_ex_en": "a pair of blue shorts with pink stripes",
+      "definitions_ex_vn": "Một cặp quần short màu xanh với sọc hồng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a chevron sewn on to a uniform to denote military rank.",
+      "definitions_ex_en": "he was wearing his old uniform without its sergeant's stripes",
+      "definitions_ex_vn": "Anh ta đang mặc đồng phục cũ của mình mà không có sọc của trung sĩ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "mark with stripes.",
+      "definitions_ex_en": "her body was striped with bands of sunlight",
+      "definitions_ex_vn": "Cơ thể cô bị sọc với các dải ánh sáng mặt trời",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079550_29c45275f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079550_53a05af709_o.png",
+      "id_image": "stripe_6006695"
+    }
+  ]
+}

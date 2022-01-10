@@ -1,0 +1,46 @@
+{
+  "english": "stare",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái nhìn chăm chăm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái nhìn chòng chọc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mở to mắt ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhìn chăm chăm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhìn chòng chọc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "look fixedly or vacantly at someone or something with one's eyes wide open.",
+      "definitions_ex_en": "he stared at her in amazement",
+      "definitions_ex_vn": "anh ấy nhìn chằm chằm vào cô ấy một cách kinh ngạc",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a long fixed or vacant look.",
+      "definitions_ex_en": "she gave him a cold stare",
+      "definitions_ex_vn": "Cô ấy đã cho anh ta một cái nhìn lạnh lùng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464003_91f3067181_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464003_7615a8d394_o.png",
+      "id_image": "stare_2166030"
+    }
+  ]
+}

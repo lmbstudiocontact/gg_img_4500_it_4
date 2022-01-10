@@ -1,0 +1,34 @@
+{
+  "english": "snowfall",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tuyếy rơi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a fall of snow.",
+      "definitions_ex_en": "heavy snowfalls made travel absolutely impossible",
+      "definitions_ex_vn": "tuyết rơi dày thực hiện du lịch hoàn toàn không thể",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373567_02a6b642f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373567_a768015700_o.png",
+      "id_image": "snowfall_2439646"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328756_12a75bbd46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328756_a0dda9103e_o.png",
+      "id_image": "snowfall_3248538"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373487_ba0fba86af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373487_7f17d227ff_o.png",
+      "id_image": "snowfall_6400754"
+    }
+  ]
+}

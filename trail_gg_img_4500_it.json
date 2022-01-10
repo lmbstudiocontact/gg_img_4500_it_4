@@ -1,0 +1,141 @@
+{
+  "english": "trail",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tia",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dấu của thú đi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường của thú đi qua",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường mòn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vạch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "áo dài kéo lết dưới đất",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dắt ở sau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi chậm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi kéo lết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kéo theo sau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lùng bắt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tiến hành chậm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "truy nả",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đuổi theo dấu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a mark or a series of signs or objects left behind by the passage of someone or something.",
+      "definitions_ex_en": "a trail of blood on the grass",
+      "definitions_ex_vn": "một vệt máu trên cỏ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a long thin part or line stretching behind or hanging down from something.",
+      "definitions_ex_en": "smoke trails",
+      "definitions_ex_vn": "đường mòn khói",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a beaten path through rough country such as a forest or moor.",
+      "definitions_ex_en": "country parks with nature trails",
+      "definitions_ex_vn": "Công viên quốc gia với những con đường mòn thiên nhiên",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the rear end of a gun carriage, resting or sliding on the ground when the gun is unlimbered.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for trailer (sense 2 of the noun).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "draw or be drawn along the ground or other surface behind someone or something.",
+      "definitions_ex_en": "Alex trailed a hand through the clear water",
+      "definitions_ex_vn": "Alex kéo một tay qua nước sạch",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "walk or move slowly or wearily.",
+      "definitions_ex_en": "she trailed behind, whimpering at intervals",
+      "definitions_ex_vn": "Cô đi sau, thút thít trong khoảng thời gian",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "follow (a person or animal), typically by using marks, signs, or scent left behind.",
+      "definitions_ex_en": "Sam suspected they were trailing him",
+      "definitions_ex_vn": "Sam nghi ngờ họ đang theo dõi anh ta",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be losing to an opponent in a game or contest.",
+      "definitions_ex_en": "the Packers were trailing 10–6 at halftime",
+      "definitions_ex_vn": "Các nhà đóng gói đã kéo dài 10-6 vào giờ nghỉ giải lao",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "advertise (something, especially a film or program) in advance by broadcasting extracts or details.",
+      "definitions_ex_en": "the bank's plans have been extensively trailed",
+      "definitions_ex_vn": "Kế hoạch của Ngân hàng đã được kéo dài",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "apply (slip) through a nozzle or spout to decorate ceramic ware.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384982_26cc7aecdc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384982_dbd33172f5_o.png",
+      "id_image": "trail_3684380"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454948_8ff86d2bd5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454948_258f60efef_o.png",
+      "id_image": "trail_4559875"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "english": "stylist",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người tạo mẫu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người thiết kế kiểu mẫu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà nghệ thuật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà văn quá trau chuốt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a designer of fashionable styles of clothing.",
+      "definitions_ex_en": "a collection of 40s-inspired shapes from a leading stylist",
+      "definitions_ex_vn": "một bộ sưu tập các hình dạng lấy cảm hứng từ 40 từ một stylist hàng đầu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person whose job is to arrange and coordinate food, clothes, etc. in a stylish and attractive way in photographs or films.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a writer noted for taking great pains over their writing style.",
+      "definitions_ex_en": "the letter was written by a famous stylist",
+      "definitions_ex_vn": "Bức thư được viết bởi một stylist nổi tiếng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695979_848af7a819_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695979_413b9828b9_o.png",
+      "id_image": "stylist_3124960"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695949_30979db3d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695949_b1df27c91d_o.png",
+      "id_image": "stylist_4515789"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340621_b3aa922d01_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340621_e9bf7c0210_o.png",
+      "id_image": "stylist_4647502"
+    }
+  ]
+}

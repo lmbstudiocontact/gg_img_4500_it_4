@@ -1,0 +1,54 @@
+{
+  "english": "storage",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cất hàng vào kho",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chất hàng vô kho",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ để hàng hóa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khoảng để hàng hóa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kho tiền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chất hàng hóa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or method of storing something for future use.",
+      "definitions_ex_en": "the chair can be folded flat for easy storage",
+      "definitions_ex_vn": "Ghế có thể được gấp phẳng để dễ dàng lưu trữ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345126_6856a1ddac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345126_1229d61593_o.png",
+      "id_image": "storage_3944799"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459923_ac4df13b83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459923_5143425dd2_o.png",
+      "id_image": "storage_4899533"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390017_24f8c59171_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390017_1b8e5606f8_o.png",
+      "id_image": "storage_4944329"
+    }
+  ]
+}

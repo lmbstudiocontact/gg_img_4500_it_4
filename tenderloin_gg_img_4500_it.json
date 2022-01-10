@@ -1,0 +1,37 @@
+{
+  "english": "tenderloin",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thịt bò",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thịt thăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thịt heo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the tenderest part of a loin of beef, pork, etc., taken from under the short ribs in the hindquarters.",
+      "definitions_ex_en": "grilled pork tenderloin",
+      "definitions_ex_vn": "Thịt lợn nướng Tenderloin.",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466918_5115be5f6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466918_08d68e6123_o.png",
+      "id_image": "tenderloin_2403305"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706939_910bd16a3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706939_a70edd38af_o.png",
+      "id_image": "tenderloin_4802563"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "english": "treat",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bữa tiệc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mối vui thích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vui mừng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiệc lớn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "yến tiệc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đãi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "điều đình",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nghiên cứu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tiếp đải",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thương lượng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đối đải",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "luận giải",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "behave toward or deal with in a certain way.",
+      "definitions_ex_en": "she had been brutally treated",
+      "definitions_ex_vn": "Cô đã được đối xử tàn nhẫn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "give medical care or attention to; try to heal or cure.",
+      "definitions_ex_en": "the two were treated for cuts and bruises",
+      "definitions_ex_vn": "Hai người đã được điều trị cắt và vết bầm tím",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "apply a process or a substance to (something) to protect or preserve it or to give it particular properties.",
+      "definitions_ex_en": "linen creases badly unless it is treated with the appropriate finish",
+      "definitions_ex_vn": "Vải lanh nhăn mặt Trừ khi nó được điều trị bằng kết thúc thích hợp",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "provide someone with (food, drink, or entertainment) at one's own expense.",
+      "definitions_ex_en": "the old man had treated him to a drink or two",
+      "definitions_ex_vn": "ông già đã đối xử với anh ta một hoặc hai người uống",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "negotiate terms with someone, especially an opponent.",
+      "definitions_ex_en": "propagandists claimed that he was treating with the enemy",
+      "definitions_ex_vn": "Những người tuyên truyền tuyên bố rằng anh ta đang đối xử với kẻ thù",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an event or item that is out of the ordinary and gives great pleasure.",
+      "definitions_ex_en": "he wanted to take her to the movies as a treat",
+      "definitions_ex_vn": "Anh muốn đưa cô đến những bộ phim như một món ăn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335466_cf147c6dbc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335466_2ba986cd94_o.png",
+      "id_image": "treat_185452"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690564_e0781e438d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690564_e9f537b746_o.png",
+      "id_image": "treat_2467235"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380427_262bfc165b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380427_064d620fb1_o.png",
+      "id_image": "treat_3436491"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690609_31f6c9b676_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690609_891fafb1e7_o.png",
+      "id_image": "treat_373006"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380392_3e8db9bf21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380392_d701fca3a7_o.png",
+      "id_image": "treat_6401254"
+    }
+  ]
+}

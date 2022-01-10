@@ -1,0 +1,107 @@
+{
+  "english": "space",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không gian",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khoảng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miếng cách chữ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khoảng không",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khoảng thới gian",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khoảng trống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm cho cách nhau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phân chia hàng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a continuous area or expanse which is free, available, or unoccupied.",
+      "definitions_ex_en": "a table took up much of the space",
+      "definitions_ex_vn": "một cái bàn chiếm nhiều không gian",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the dimensions of height, depth, and width within which all things exist and move.",
+      "definitions_ex_en": "the work gives the sense of a journey in space and time",
+      "definitions_ex_vn": "Công việc mang lại cảm giác về một hành trình trong không gian và thời gian",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an interval of time (often used to suggest that the time is short considering what has happened or been achieved in it).",
+      "definitions_ex_en": "both their cars were stolen in the space of three days",
+      "definitions_ex_vn": "Cả hai chiếc xe của họ bị đánh cắp trong không gian ba ngày",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the portion of a text or document available or needed to write about a subject.",
+      "definitions_ex_en": "there is no space to give further details",
+      "definitions_ex_vn": "Không có không gian để cung cấp thêm chi tiết",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the freedom and scope to live, think, and develop in a way that suits one.",
+      "definitions_ex_en": "a teenager needing her own space",
+      "definitions_ex_vn": "Một thiếu niên cần không gian của riêng mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "one of two possible states of a signal in certain systems.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "position (two or more items) at a distance from one another.",
+      "definitions_ex_en": "the poles are spaced 3 feet apart",
+      "definitions_ex_vn": "Các cực được cách nhau 3 feet",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370067_a6a4bfed3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370067_e285becee5_o.png",
+      "id_image": "space_327430"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440168_aa231cf7db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440168_256c40c796_o.png",
+      "id_image": "space_501125"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680264_ebd7d92b7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680264_8d05dd312e_o.png",
+      "id_image": "space_5928391"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680294_3947bfc106_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680294_545bec1d1e_o.png",
+      "id_image": "space_749500"
+    }
+  ]
+}

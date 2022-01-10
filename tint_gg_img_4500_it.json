@@ -1,0 +1,71 @@
+{
+  "english": "tint",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đường gạch sọc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "màu sắc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhuộm màu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cho màu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gạch sọc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tô màu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a shade or variety of a color.",
+      "definitions_ex_en": "the sky was taking on an apricot tint",
+      "definitions_ex_vn": "bầu trời đã được tham gia vào một màu mơ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an artificial dye for coloring the hair.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "color (something) slightly; tinge.",
+      "definitions_ex_en": "her skin was tinted with delicate color",
+      "definitions_ex_vn": "làn da của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084300_94d6b2b6d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084300_60b88424a2_o.png",
+      "id_image": "tint_1941236"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391817_4b2617691e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391817_a86e8f84b1_o.png",
+      "id_image": "tint_3844786"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701829_6d27de85fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701829_4316573d03_o.png",
+      "id_image": "tint_438672"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391867_b4ed85f168_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391867_6766068527_o.png",
+      "id_image": "tint_438673"
+    }
+  ]
+}

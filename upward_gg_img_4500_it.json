@@ -1,0 +1,48 @@
+{
+  "english": "upward",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự bay lên lại",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ở trên cao",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "từ dưới lên trên",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "toward a higher place, point, or level.",
+      "definitions_ex_en": "she peered upward at the sky",
+      "definitions_ex_vn": "Cô nhìn lên trên bầu trời",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "moving, pointing, or leading to a higher place, point, or level.",
+      "definitions_ex_en": "an upward trend in sales",
+      "definitions_ex_vn": "một xu hướng tăng trong bán hàng",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396267_1c0b562aa4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396267_243cde8174_o.png",
+      "id_image": "upward_959113"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705994_e8bafe8ae8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705994_f48d9a3989_o.png",
+      "id_image": "upward_959148"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466043_6dce21d215_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466043_b35088e960_o.png",
+      "id_image": "upward_959149"
+    }
+  ]
+}

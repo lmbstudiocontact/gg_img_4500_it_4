@@ -1,0 +1,34 @@
+{
+  "english": "snowy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phủ tuyết",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "covered with snow.",
+      "definitions_ex_en": "snowy mountains",
+      "definitions_ex_vn": "núi tuyết",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065055_b81e830d88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065055_53cf3e5d74_o.png",
+      "id_image": "snowy_2055590"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328216_cb9224e51d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328216_8cea422dc8_o.png",
+      "id_image": "snowy_4648669"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683389_5a903f4c4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683389_4da91594a7_o.png",
+      "id_image": "snowy_661286"
+    }
+  ]
+}

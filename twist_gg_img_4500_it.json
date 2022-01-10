@@ -1,0 +1,138 @@
+{
+  "english": "twist",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chổ cong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dây xe lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ uống có pha",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường xoắn ốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cong oằn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sức xoáy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khuynh hướng về",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nhăn mặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự quấn lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thèm ăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cong quẹo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cuốn thành hình trôn ốc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm sai chữ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trẹo tay",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xoắn lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "form into a bent, curling, or distorted shape.",
+      "definitions_ex_en": "a strip of metal is twisted to form a hollow tube",
+      "definitions_ex_vn": "Một dải kim loại được xoắn để tạo thành một ống rỗng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cause to rotate around something that remains stationary; turn.",
+      "definitions_ex_en": "she twisted her ring around and around on her finger",
+      "definitions_ex_vn": "Cô vặn vòng và nhìn vào ngón tay của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "dance the twist.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of turning something so that it moves in relation to something that remains stationary.",
+      "definitions_ex_en": "the taps needed a single twist to turn them on",
+      "definitions_ex_vn": "Các vòi cần một vòng xoắn duy nhất để bật chúng lên",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing with a spiral shape.",
+      "definitions_ex_en": "a licorice twist",
+      "definitions_ex_vn": "một vòng xoắn cam thảo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a distorted shape.",
+      "definitions_ex_en": "he had a cruel twist to his mouth",
+      "definitions_ex_vn": "Anh ta có một sự vặn vệt tàn khốc vào miệng anh ta",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a point at which something turns or bends.",
+      "definitions_ex_en": "the car negotiated the twists and turns of the mountain road",
+      "definitions_ex_vn": "chiếc xe đã đàm phán các vòng xoắn và rẽ của con đường núi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a fine strong thread consisting of twisted strands of cotton or silk.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a carpet with a tightly curled pile.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810092210_e895e23a13_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810092210_522aaf9aeb_o.png",
+      "id_image": "twist_4601189"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809354821_965d5d761c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809354821_205de14d05_o.png",
+      "id_image": "twist_5376883"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809354786_3e8fdfab5e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809354786_40423e07e0_o.png",
+      "id_image": "twist_5776293"
+    }
+  ]
+}

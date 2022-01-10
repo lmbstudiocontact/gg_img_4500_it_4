@@ -1,0 +1,57 @@
+{
+  "english": "swamp",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đầm lầy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm nước tràn vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngập đồng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quá bận công việc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an area of low-lying, uncultivated ground where water collects; a bog or marsh.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "overwhelm or flood with water.",
+      "definitions_ex_en": "a huge wave swamped the canoes",
+      "definitions_ex_vn": "một làn sóng lớn tràn ngập ca nô",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449368_e68ba6844f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449368_fe2fdc647f_o.png",
+      "id_image": "swamp_3038918"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449303_0a04792e48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449303_8ec34e2c30_o.png",
+      "id_image": "swamp_3075129"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379127_9ede752dee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379127_50978fe189_o.png",
+      "id_image": "swamp_3195866"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071215_4a39cae00f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071215_9d8eb1e3f5_o.png",
+      "id_image": "swamp_4104401"
+    }
+  ]
+}

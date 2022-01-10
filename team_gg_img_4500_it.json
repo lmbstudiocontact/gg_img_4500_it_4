@@ -1,0 +1,63 @@
+{
+  "english": "team",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ban",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đoàn thể thao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đội",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đội bóng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "buộc súc vật vào xe",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a group of players forming one side in a competitive game or sport.",
+      "definitions_ex_en": "his team played well",
+      "definitions_ex_vn": "Đội của anh ấy chơi tốt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "come together as a team to achieve a common goal.",
+      "definitions_ex_en": "he teamed up with the band to produce the album",
+      "definitions_ex_vn": "anh ấy đã hợp tác với ban nhạc để sản xuất album",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "match or coordinate a garment with (another).",
+      "definitions_ex_en": "a pinstripe suit teamed with a crisp white shirt",
+      "definitions_ex_vn": "Một bộ đồ Pinstripe hợp tác với một chiếc áo sơ mi trắng giòn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "harness (animals, especially horses) together to pull a vehicle.",
+      "definitions_ex_en": "the horses are teamed in pairs",
+      "definitions_ex_vn": "Những con ngựa được hợp tác theo cặp",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809708224_6b573952ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809708224_ac33445625_o.png",
+      "id_image": "team_228369"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808398442_791d5feee9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808398442_6a29594518_o.png",
+      "id_image": "team_470235"
+    }
+  ]
+}

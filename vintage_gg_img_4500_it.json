@@ -1,0 +1,58 @@
+{
+  "english": "vintage",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuộc hái nho",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mùa hái nho",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nho hái được",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the year or place in which wine, especially wine of high quality, was produced.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "relating to or denoting wine of high quality.",
+      "definitions_ex_en": "vintage claret",
+      "definitions_ex_vn": "Claret cổ điển.",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080795_9336d5ba53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080795_ebc5e6f1d2_o.png",
+      "id_image": "vintage_2454188"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388257_e4640bdf8f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388257_5e11663371_o.png",
+      "id_image": "vintage_2569980"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698504_8b51a362a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698504_da60d282d5_o.png",
+      "id_image": "vintage_2818433"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080890_7160f6935b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080890_5529716dab_o.png",
+      "id_image": "vintage_948501"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458083_94d08ee4cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458083_9ec254627a_o.png",
+      "id_image": "vintage_964029"
+    }
+  ]
+}

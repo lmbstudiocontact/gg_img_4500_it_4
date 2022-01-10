@@ -1,0 +1,33 @@
+{
+  "english": "stomachache",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đau bao tử",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đau bụng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a pain in a person's belly.",
+      "definitions_ex_en": "most childhood stomachaches aren't serious",
+      "definitions_ex_vn": "đau bụng ứa nhất không nghiêm trọng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345611_123a731c8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345611_f5b52c96f1_o.png",
+      "id_image": "stomachache_4444881"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700709_972ba01d24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700709_8d36fbbda2_o.png",
+      "id_image": "stomachache_5730153"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "english": "translate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "biến dạng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dịch",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phiên dịch",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thông dịch",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "express the sense of (words or text) in another language.",
+      "definitions_ex_en": "the German original has been translated into English",
+      "definitions_ex_vn": "Bản gốc của Đức đã được dịch sang tiếng Anh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "move from one place or condition to another.",
+      "definitions_ex_en": "she had been translated from familiar surroundings to a foreign court",
+      "definitions_ex_vn": "Cô đã được dịch từ môi trường xung quanh quen thuộc đến một tòa án nước ngoài",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cause (a body) to move so that all its parts travel in the same direction, without rotation or change of shape.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692969_ff86b87f1f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692969_86e276e085_o.png",
+      "id_image": "translate_4196433"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452448_f4d43190cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452448_a38bf1c1e9_o.png",
+      "id_image": "translate_5146529"
+    }
+  ]
+}

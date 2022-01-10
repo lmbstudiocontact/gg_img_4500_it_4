@@ -1,0 +1,44 @@
+{
+  "english": "speech",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lời nói",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngôn ngữ của một dân tộc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the expression of or the ability to express thoughts and feelings by articulate sounds.",
+      "definitions_ex_en": "he was born deaf and without the power of speech",
+      "definitions_ex_vn": "Ông được sinh ra điếc và không có sức mạnh của lời nói",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a formal address or discourse delivered to an audience.",
+      "definitions_ex_en": "the headmistress made a speech about how much they would miss her",
+      "definitions_ex_vn": "The Headgistress phát biểu về việc họ sẽ nhớ cô ấy bao nhiêu",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369272_b71e041547_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369272_edf673ea3b_o.png",
+      "id_image": "speech_1312516"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439418_e3f77d1bd5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439418_a5b88f2383_o.png",
+      "id_image": "speech_1902220"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679574_2a9d2c4a02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679574_6fb348c22d_o.png",
+      "id_image": "speech_696395"
+    }
+  ]
+}

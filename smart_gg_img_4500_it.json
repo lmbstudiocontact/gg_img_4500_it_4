@@ -1,0 +1,99 @@
+{
+  "english": "smart",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lẹ làng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lịch sự",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mau lẹ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nổi đau đớn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nổi thống khổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đau đớn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nhức nhối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đau khổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đau lòng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm đau đớn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm nhức nhối",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "having or showing a quick-witted intelligence.",
+      "definitions_ex_en": "if he was that smart he would never have been tricked",
+      "definitions_ex_vn": "Nếu anh ta thông minh thì anh ta sẽ không bao giờ bị lừa",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a device) programmed so as to be capable of some independent action.",
+      "definitions_ex_en": "hi-tech smart weapons",
+      "definitions_ex_vn": "Vũ khí thông minh công nghệ cao",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "quick; brisk.",
+      "definitions_ex_en": "I gave him a smart salute",
+      "definitions_ex_vn": "Tôi đã cho anh ấy một lời chào thông minh",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a wound or part of the body) feel or cause a sharp stinging pain.",
+      "definitions_ex_en": "her legs were scratched and smarting",
+      "definitions_ex_vn": "Chân cô bị trầy xước và thông minh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "sharp stinging pain.",
+      "definitions_ex_en": "the smart of the recent blood-raw cuts",
+      "definitions_ex_vn": "thông minh của những vết cắt máu gần đây",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "in a quick or brisk manner.",
+      "definitions_ex_en": "it is better for tenants to be compelled to pay up smart",
+      "definitions_ex_vn": "Nó là tốt hơn cho người thuê nhà được buộc phải trả tiền thông minh",
+      "definitions_type_word": "adverb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376447_c80e9e6017_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376447_274baa4de2_o.png",
+      "id_image": "smart_2118746"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376387_fb89fa073f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376387_d1a6a1f3b1_o.png",
+      "id_image": "smart_4865945"
+    }
+  ]
+}

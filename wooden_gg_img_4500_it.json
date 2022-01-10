@@ -1,0 +1,49 @@
+{
+  "english": "wooden",
+  "list_translation_mean": [
+    {
+      "translate_mean": "làm bằng cây",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vụng về",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "made of wood.",
+      "definitions_ex_en": "a wooden spoon",
+      "definitions_ex_vn": "một cái muỗng gỗ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "like or characteristic of wood.",
+      "definitions_ex_en": "a kind of dull wooden sound",
+      "definitions_ex_vn": "một loại âm thanh gỗ buồn tẻ",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379912_b030060558_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379912_1801881a49_o.png",
+      "id_image": "wooden_1580242"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449988_b4c57cc26c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449988_830bbcbddb_o.png",
+      "id_image": "wooden_1951235"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071850_57dc5f558f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071850_41714d6cd9_o.png",
+      "id_image": "wooden_2858877"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379822_1a785a63f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379822_08ee2cfa02_o.png",
+      "id_image": "wooden_6006256"
+    }
+  ]
+}

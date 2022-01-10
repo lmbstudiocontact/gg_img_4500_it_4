@@ -1,0 +1,28 @@
+{
+  "english": "translucent",
+  "list_translation_mean": [
+    {
+      "translate_mean": "để ánh sáng qua lờ mờ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trong suốt",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a substance) allowing light, but not detailed shapes, to pass through; semitransparent.",
+      "definitions_ex_en": "fry until the onions become translucent",
+      "definitions_ex_vn": "Chiên cho đến khi hành tây trở nên mờ",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337311_d9a9167d2d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337311_fe315d8a70_o.png",
+      "id_image": "translucent_5830716"
+    }
+  ]
+}

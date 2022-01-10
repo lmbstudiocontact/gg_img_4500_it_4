@@ -1,0 +1,43 @@
+{
+  "english": "torch",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây đuốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đèn pin",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đuốc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a portable means of illumination such as a piece of wood or cloth soaked in tallow or an oil lamp on a pole, sometimes carried ceremonially.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "set fire to.",
+      "definitions_ex_en": "the shops had been looted and torched",
+      "definitions_ex_vn": "Các cửa hàng đã bị cướp phá và bị bỏ rơi",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698469_c249b40382_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698469_6fc4797b7f_o.png",
+      "id_image": "torch_5613782"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388132_e6c0fc7735_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388132_d30f18e010_o.png",
+      "id_image": "torch_6193968"
+    }
+  ]
+}

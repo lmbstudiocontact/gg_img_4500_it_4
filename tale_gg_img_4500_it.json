@@ -1,0 +1,44 @@
+{
+  "english": "tale",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chuyện nhãm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "truyện",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a fictitious or true narrative or story, especially one that is imaginatively recounted.",
+      "definitions_ex_en": "a delightful children's tale",
+      "definitions_ex_vn": "Một câu chuyện thiếu nhi thú vị",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a number or total.",
+      "definitions_ex_en": "an exact tale of the dead bodies",
+      "definitions_ex_vn": "một câu chuyện chính xác của các xác chết",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064280_839304214c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064280_a276fea15b_o.png",
+      "id_image": "tale_1702339"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327531_b9550aa866_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327531_7677a70650_o.png",
+      "id_image": "tale_1747585"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442528_d3864fb2bb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442528_fbafcc2fac_o.png",
+      "id_image": "tale_1864009"
+    }
+  ]
+}

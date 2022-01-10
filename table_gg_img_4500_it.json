@@ -1,0 +1,69 @@
+{
+  "english": "table",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bàn ăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lòng bàn tay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mặt bằng của hột ngọc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bản mục lục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh bài trên bàn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đặc trên bàn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lấp mộng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a piece of furniture with a flat top and one or more legs, providing a level surface on which objects may be placed, and that can be used for such purposes as eating, writing, working, or playing games.",
+      "definitions_ex_en": "she put the plate on the table",
+      "definitions_ex_vn": "Cô đặt đĩa lên bàn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a set of facts or figures systematically displayed, especially in columns.",
+      "definitions_ex_en": "the population has grown, as shown in table 1",
+      "definitions_ex_vn": "Dân số đã phát triển, như trong Bảng 1",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a flat, typically rectangular, vertical surface.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374077_db2085eb92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374077_5163a98f25_o.png",
+      "id_image": "table_170934"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684344_5e0cfd8725_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684344_f2200f38bb_o.png",
+      "id_image": "table_638214"
+    }
+  ]
+}

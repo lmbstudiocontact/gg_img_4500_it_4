@@ -1,0 +1,24 @@
+{
+  "english": "taxable",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có thể đánh thuế",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "liable to be taxed; subject to tax.",
+      "definitions_ex_en": "taxable income",
+      "definitions_ex_vn": "thu nhập chịu thuế",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810091360_a6b69e017e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810091360_89baf36040_o.png",
+      "id_image": "taxable_2170995"
+    }
+  ]
+}

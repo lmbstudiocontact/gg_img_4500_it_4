@@ -1,0 +1,75 @@
+{
+  "english": "skate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cá đuối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giày trượt băng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trượt trên băng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trượt trên nước đá",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an ice skate or roller skate.",
+      "definitions_ex_en": "everyone was on skates",
+      "definitions_ex_vn": "Mọi người đều đi giày trượt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a typically large marine fish of the ray family with a cartilaginous skeleton and a flattened diamond-shaped body.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "move on ice skates or roller skates in a gliding fashion.",
+      "definitions_ex_en": "the boys were skating on the ice",
+      "definitions_ex_vn": "Các chàng trai đang trượt băng trên băng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "pass over or refer only fleetingly to (a subject or problem).",
+      "definitions_ex_en": "she seemed to skate over the next part of her story",
+      "definitions_ex_vn": "Cô ấy dường như trượt băng qua phần tiếp theo của câu chuyện của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make quick and easy progress through.",
+      "definitions_ex_en": "he admits he had expected to skate through the system",
+      "definitions_ex_vn": "Anh thừa nhận anh dự kiến sẽ trượt qua hệ thống",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073240_1d78511500_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073240_72bbe44291_o.png",
+      "id_image": "skate_1044359"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451193_e29d3d5f77_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451193_2d19453b4b_o.png",
+      "id_image": "skate_3751132"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691589_7ab766b15f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691589_33a1f50f28_o.png",
+      "id_image": "skate_3900032"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381337_f515490d34_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381337_99c7f25cee_o.png",
+      "id_image": "skate_984285"
+    }
+  ]
+}

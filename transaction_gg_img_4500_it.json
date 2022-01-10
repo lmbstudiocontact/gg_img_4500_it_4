@@ -1,0 +1,55 @@
+{
+  "english": "transaction",
+  "list_translation_mean": [
+    {
+      "translate_mean": "công việc mua bán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự điều đình công việc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giao dịch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thượng lượng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thương mại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an instance of buying or selling something; a business deal.",
+      "definitions_ex_en": "in an ordinary commercial transaction a delivery date is essential",
+      "definitions_ex_vn": "Trong một giao dịch thương mại thông thường, ngày giao hàng là rất cần thiết",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338966_842cb8f43a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338966_2c1842273f_o.png",
+      "id_image": "transaction_1685703"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383847_b57680ff7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383847_f70ae2d4d3_o.png",
+      "id_image": "transaction_1728990"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383982_273c0fd435_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383982_6269b680e2_o.png",
+      "id_image": "transaction_762227"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339021_fb58fb1b4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339021_22e1f73e93_o.png",
+      "id_image": "transaction_894145"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "english": "tile",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gạch vuông lót nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nón",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngói lợp nhà",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thin rectangular slab of baked clay, concrete, or other material, used in overlapping rows for covering roofs.",
+      "definitions_ex_en": "trees shook violently and tiles were dislodged from rooftops",
+      "definitions_ex_vn": "Cây cối run rẩy dữ dội và gạch đã bị đánh bật khỏi mái nhà",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cover (something) with tiles.",
+      "definitions_ex_en": "the lobby was tiled in blue",
+      "definitions_ex_vn": "Sảnh được lát gạch màu xanh lam",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392577_8bc027c7cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392577_e7487f0bb6_o.png",
+      "id_image": "tile_5480446"
+    }
+  ]
+}

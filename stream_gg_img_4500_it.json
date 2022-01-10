@@ -1,0 +1,81 @@
+{
+  "english": "stream",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giòng nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "suối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chảy nhiều",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vô số",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chảy ào ào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phất phơ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rửa cho sạch đất bùn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small, narrow river.",
+      "definitions_ex_en": "a perfect trout stream",
+      "definitions_ex_vn": "một luồng cá hồi hoàn hảo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a continuous flow of liquid, air, or gas.",
+      "definitions_ex_en": "Frank blew out a stream of smoke",
+      "definitions_ex_vn": "Frank thổi ra một dòng khói",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a continuous flow of data or instructions, typically one having a constant or predictable rate.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of liquid) run or flow in a continuous current in a specified direction.",
+      "definitions_ex_en": "she sat with tears streaming down her face",
+      "definitions_ex_vn": "Cô ngồi với nước mắt chảy xuống mặt",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "transmit or receive (data, especially video and audio material) over the internet as a steady, continuous flow.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698484_a49951be68_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698484_7f3c5050fd_o.png",
+      "id_image": "stream_2368356"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080715_0e2e949c2a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080715_23af018a44_o.png",
+      "id_image": "stream_390116"
+    }
+  ]
+}

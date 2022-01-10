@@ -1,0 +1,47 @@
+{
+  "english": "spleen",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bịnh ưu uất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hờn giận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tức giận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tỳ tạng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an abdominal organ involved in the production and removal of blood cells in most vertebrates and forming part of the immune system.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "bad temper; spite.",
+      "definitions_ex_en": "he could vent his spleen on the institutions that had duped him",
+      "definitions_ex_vn": "anh ta có thể trút lách của mình vào các tổ chức đã lừa anh ta",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468193_1d885b7739_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468193_b87ea6dcc6_o.png",
+      "id_image": "spleen_2864334"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468178_386f85fc20_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468178_224e0bee0f_o.png",
+      "id_image": "spleen_6147908"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "english": "slow",
+  "list_translation_mean": [
+    {
+      "translate_mean": "buồn chán",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chậm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chậm chạp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chậm rải",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không lanh trí",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thong thả",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chậm",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "đi chậm lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "moving or operating, or designed to do so, only at a low speed; not quick or fast.",
+      "definitions_ex_en": "a time when diesel cars were slow and noisy",
+      "definitions_ex_vn": "một thời điểm khi xe diesel chậm và ồn ào",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a clock or watch) showing a time earlier than the correct time.",
+      "definitions_ex_en": "the clock was five minutes slow",
+      "definitions_ex_vn": "Đồng hồ chậm năm phút chậm",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "not prompt to understand, think, or learn.",
+      "definitions_ex_en": "he's so slow, so unimaginative",
+      "definitions_ex_vn": "Anh ấy chậm quá, vì vậy không thể tưởng tượng được",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "uneventful and rather dull.",
+      "definitions_ex_en": "a slow and mostly aimless narrative",
+      "definitions_ex_vn": "một câu chuyện chậm và chủ yếu là vô mục đích",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a film) needing long exposure.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a fire or oven) burning or giving off heat gently.",
+      "definitions_ex_en": "bake the dish in a preheated slow oven",
+      "definitions_ex_vn": "Nướng món ăn trong lò chậm được làm nóng trước",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "at a slow pace; slowly.",
+      "definitions_ex_en": "the train went slower and slower",
+      "definitions_ex_vn": "Tàu chậm hơn và chậm hơn",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "reduce one's speed or the speed of a vehicle or process.",
+      "definitions_ex_en": "the train slowed to a halt",
+      "definitions_ex_vn": "Tàu chậm lại dừng lại",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068885_461523b9de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068885_8b6a6d333c_o.png",
+      "id_image": "slow_1455342"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447123_0a6be9a4a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447123_e1907de091_o.png",
+      "id_image": "slow_2674453"
+    }
+  ]
+}

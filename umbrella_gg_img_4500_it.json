@@ -1,0 +1,54 @@
+{
+  "english": "umbrella",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ô",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái ô",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây dù",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dù che mưa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a device consisting of a circular canopy of cloth on a folding metal frame supported by a central rod, used as protection against rain or sometimes sun.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a protecting force or influence.",
+      "definitions_ex_en": "the American nuclear umbrella over the West",
+      "definitions_ex_vn": "chiếc ô hạt nhân Mỹ ở phía tây",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing that includes or contains many different elements or parts.",
+      "definitions_ex_en": "an umbrella organization",
+      "definitions_ex_vn": "một tổ chức ô",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the gelatinous disk of a jellyfish, which it contracts and expands to move through the water.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468963_788fcbdc5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468963_6e1fdf1555_o.png",
+      "id_image": "umbrella_679819"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "english": "suspicion",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự nghi ngờ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ngờ vực",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a feeling or thought that something is possible, likely, or true.",
+      "definitions_ex_en": "she had a sneaking suspicion that he was laughing at her",
+      "definitions_ex_vn": "Cô ấy có một sự nghi ngờ lén lút rằng anh ấy đang cười với cô ấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cautious distrust.",
+      "definitions_ex_en": "her activities were regarded with suspicion by the headmistress",
+      "definitions_ex_vn": "Các hoạt động của cô đã được coi là sự nghi ngờ của Hiệu trưởng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a very slight trace.",
+      "definitions_ex_en": "a suspicion of a smile",
+      "definitions_ex_vn": "một sự nghi ngờ của một nụ cười",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071800_0a480ac78b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071800_3ddff9d248_o.png",
+      "id_image": "suspicion_6001237"
+    }
+  ]
+}

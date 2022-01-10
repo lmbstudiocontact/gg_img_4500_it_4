@@ -1,0 +1,34 @@
+{
+  "english": "talcum",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phấn hoạt thạch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thoa phấn hoạt thạch",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a cosmetic or toilet preparation consisting of the mineral talc in powdered form, typically perfumed.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "powder (something) with talcum powder.",
+      "definitions_ex_en": "the baby's talcumed skin",
+      "definitions_ex_vn": "Da Talcumed của em bé",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064315_e3e97a5dea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064315_96c8b23336_o.png",
+      "id_image": "talcum_1580468"
+    }
+  ]
+}

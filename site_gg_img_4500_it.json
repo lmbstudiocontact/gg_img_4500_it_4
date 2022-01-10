@@ -1,0 +1,58 @@
+{
+  "english": "site",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ để xây đắp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đặt vị trí",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "định vị trí",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an area of ground on which a town, building, or monument is constructed.",
+      "definitions_ex_en": "the proposed site of a hydroelectric dam",
+      "definitions_ex_vn": "Các trang web được đề xuất của một đập thủy điện",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a website.",
+      "definitions_ex_en": "the site has no ads and is not being promoted with banners",
+      "definitions_ex_vn": "Trang web không có quảng cáo và không được thăng cấp với các biểu ngữ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "fix or build (something) in a particular place.",
+      "definitions_ex_en": "the rectory is sited behind the church",
+      "definitions_ex_vn": "Hiệu trưởng được đặt phía sau nhà thờ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451598_f7c962e696_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451598_72050bd3da_o.png",
+      "id_image": "site_1548764"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073775_ec0a1842d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073775_79f097ca49_o.png",
+      "id_image": "site_821635"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073735_95f2ce0be9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073735_1d25fa13c0_o.png",
+      "id_image": "site_821639"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "english": "traffic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lưu lượng dữ liệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự buôn bán bất chánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đi lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giao thông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự mậu dịch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nghẻn tắc vì xe cộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xe cộ lưu thông",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "vehicles moving on a road or public highway.",
+      "definitions_ex_en": "a stream of heavy traffic",
+      "definitions_ex_vn": "một dòng lưu lượng lớn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the messages or signals transmitted through a communications system.",
+      "definitions_ex_en": "data traffic between remote workstations",
+      "definitions_ex_vn": "Lưu lượng dữ liệu giữa các máy trạm từ xa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action of dealing or trading in something illegal.",
+      "definitions_ex_en": "the traffic in stolen cattle",
+      "definitions_ex_vn": "giao thông trong gia súc bị đánh cắp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "dealings or communication between people.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "deal or trade in something illegal.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695624_227667966c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695624_8c1a2b1b96_o.png",
+      "id_image": "traffic_1178841"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385217_28cd0063ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385217_c67e5d394a_o.png",
+      "id_image": "traffic_1373173"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077500_eea01f256e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077500_2d8d96dda4_o.png",
+      "id_image": "traffic_1558411"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077465_c5507a10b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077465_21f22be026_o.png",
+      "id_image": "traffic_2598079"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077430_c3b783f270_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077430_8cbdfb9906_o.png",
+      "id_image": "traffic_2720861"
+    }
+  ]
+}

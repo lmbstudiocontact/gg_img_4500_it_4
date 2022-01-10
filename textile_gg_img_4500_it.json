@@ -1,0 +1,56 @@
+{
+  "english": "textile",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có thể dệt được",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về sự dệt",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a type of cloth or woven fabric.",
+      "definitions_ex_en": "a fascinating range of pottery, jewelry, and textiles",
+      "definitions_ex_vn": "Một loạt các đồ gốm, trang sức và dệt may hấp dẫn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "used by nudists to describe someone wearing clothes, especially on a beach.",
+      "definitions_ex_en": "nudists to the left, textiles to the right",
+      "definitions_ex_vn": "những người khỏa thân ở bên trái, dệt may sang phải",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "relating to fabric or weaving.",
+      "definitions_ex_en": "the textile industry",
+      "definitions_ex_vn": "ngành dệt may",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "used by nudists to describe something relating to or restricted to people wearing clothes.",
+      "definitions_ex_en": "textile beaches",
+      "definitions_ex_vn": "Dệt may",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465473_af1b1b77e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465473_cdb9f90dca_o.png",
+      "id_image": "textile_1466542"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395627_e06b21ca27_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395627_0fe991b4f6_o.png",
+      "id_image": "textile_2818430"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350906_42fdbf9a23_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350906_c1b8497218_o.png",
+      "id_image": "textile_5231955"
+    }
+  ]
+}

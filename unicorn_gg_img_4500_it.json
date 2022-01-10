@@ -1,0 +1,45 @@
+{
+  "english": "unicorn",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chỉ có một sừng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kỳ lân",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a mythical animal typically represented as a horse with a single straight horn projecting from its forehead.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "something that is highly desirable but difficult to find or obtain.",
+      "definitions_ex_en": "an album like this is something of a unicorn",
+      "definitions_ex_vn": "Một album như thế này là một cái gì đó của một con kỳ lân",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a carriage drawn by three horses, two abreast and one leader.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809353026_37c9509e84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809353026_0af4e4e423_o.png",
+      "id_image": "unicorn_1014678"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809353051_3abdefc4fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809353051_e36c0c49fa_o.png",
+      "id_image": "unicorn_616628"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "english": "stopover",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự ngừng hẳn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a break in a journey.",
+      "definitions_ex_en": "the one-day stopover in Honolulu",
+      "definitions_ex_vn": "điểm dừng chân trong một ngày ở Honolulu",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390162_d367dc67d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390162_9baf1382f5_o.png",
+      "id_image": "stopover_2118974"
+    }
+  ]
+}

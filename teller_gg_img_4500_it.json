@@ -1,0 +1,52 @@
+{
+  "english": "teller",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người kể chuyện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người kiểm phiết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người tự thuật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhân viên ngân hàng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who tells something.",
+      "definitions_ex_en": "a foul-mouthed teller of lies",
+      "definitions_ex_vn": "một giao dịch viên hôi miệng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person appointed to count votes, especially in a legislature.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467403_71fe8981eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467403_29ddded60a_o.png",
+      "id_image": "teller_2834818"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397502_607ff23d55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397502_54220d1a04_o.png",
+      "id_image": "teller_2834881"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467348_00416a6bca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467348_f14586a784_o.png",
+      "id_image": "teller_6185300"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "english": "stigma",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dấu đóng bằng sắt nung",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dấu sĩ nhục",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a mark of disgrace associated with a particular circumstance, quality, or person.",
+      "definitions_ex_en": "the stigma of having gone to prison will always be with me",
+      "definitions_ex_vn": "sự kỳ thị của việc đi tù sẽ luôn ở bên tôi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in Christian tradition) marks corresponding to those left on Jesus’ body by the Crucifixion, said to have been impressed by divine favor on the bodies of St. Francis of Assisi and others.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a visible sign or characteristic of a disease.",
+      "definitions_ex_en": "knee deformities or other stigmata of childhood rickets",
+      "definitions_ex_vn": "dị tật đầu gối hoặc stigmata khác của bệnh còi xương nhỏ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in a flower) the part of a pistil that receives the pollen during pollination.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701384_cf8382a1b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701384_7181fb4db6_o.png",
+      "id_image": "stigma_4207391"
+    }
+  ]
+}

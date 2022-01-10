@@ -1,0 +1,44 @@
+{
+  "english": "souvenir",
+  "list_translation_mean": [
+    {
+      "translate_mean": "món quà lưu niệm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật kỷ niệm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thing that is kept as a reminder of a person, place, or event.",
+      "definitions_ex_en": "the recording provides a souvenir of a great production",
+      "definitions_ex_vn": "Bản ghi âm cung cấp một món quà lưu niệm của một sản phẩm tuyệt vời",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "take as a memento.",
+      "definitions_ex_en": "many parts of the aircraft have been souvenired",
+      "definitions_ex_vn": "Nhiều phần của máy bay đã được lưu ý",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440353_81a651512a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440353_7a61c76049_o.png",
+      "id_image": "souvenir_2424645"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370207_ae95109fda_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370207_b30d53a790_o.png",
+      "id_image": "souvenir_2664652"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440368_7fa8317873_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440368_4eeb22a9da_o.png",
+      "id_image": "souvenir_614716"
+    }
+  ]
+}

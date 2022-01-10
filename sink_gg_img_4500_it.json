@@ -1,0 +1,124 @@
+{
+  "english": "sink",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bồn rửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chậu rửa chén",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cục chì buộc ở lưỡi câu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rảnh nước dơ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chậu rửa mặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bải bỏ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chìm dưới đáy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hạ xuống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "in sâu vào trí nhớ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rớt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sập xuống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lún xuống",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "go down below the surface of something, especially of a liquid; become submerged.",
+      "definitions_ex_en": "he saw the coffin sink below the surface of the waves",
+      "definitions_ex_vn": "Anh nhìn thấy quan tài dưới bề mặt sóng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "descend; drop.",
+      "definitions_ex_en": "you can relax on the veranda as the sun sinks",
+      "definitions_ex_vn": "Bạn có thể thư giãn trên veranda khi mặt trời chìm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "gradually decrease or decline in value, amount, quality, or intensity.",
+      "definitions_ex_en": "their output sank to a third of the prewar figure",
+      "definitions_ex_vn": "đầu ra của họ chìm xuống một phần ba của con số trước đây",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "insert beneath a surface by digging or hollowing out.",
+      "definitions_ex_en": "rails attached with screws sunk below the surface of the wood",
+      "definitions_ex_vn": "Rails gắn với ốc vít chìm dưới bề mặt gỗ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a fixed basin with a water supply and a drain.",
+      "definitions_ex_en": "I stood at the kitchen sink",
+      "definitions_ex_vn": "Tôi đứng ở bồn rửa nhà bếp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a pool or marsh in which a river's water disappears by evaporation or percolation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for sinkhole.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a place of vice or corruption.",
+      "definitions_ex_en": "a sink of unnatural vice, pride, and luxury",
+      "definitions_ex_vn": "một bồn rửa của phó, tự hào và sang trọng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452268_83d03e83c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452268_e99bf750c9_o.png",
+      "id_image": "sink_194427"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692714_798df41e0d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692714_49d004b591_o.png",
+      "id_image": "sink_231929"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382382_5e68981f35_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382382_99e4fc9e7c_o.png",
+      "id_image": "sink_780818"
+    }
+  ]
+}

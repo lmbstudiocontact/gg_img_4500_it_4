@@ -1,0 +1,61 @@
+{
+  "english": "variable",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bất định",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có thể sửa theo ý muốn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hay biến đổi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hay thay đổi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "biến số",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gió hay thay đổi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "not consistent or having a fixed pattern; liable to change.",
+      "definitions_ex_en": "the quality of hospital food is highly variable",
+      "definitions_ex_vn": "Chất lượng thức ăn bệnh viện rất khác nhau",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "able to be changed or adapted.",
+      "definitions_ex_en": "the drill has variable speed",
+      "definitions_ex_vn": "Máy khoan có tốc độ thay đổi",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "an element, feature, or factor that is liable to vary or change.",
+      "definitions_ex_en": "there are too many variables involved to make any meaningful predictions",
+      "definitions_ex_vn": "Có quá nhiều biến liên quan để đưa ra bất kỳ dự đoán có ý nghĩa nào",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393262_65100419f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393262_d978723028_o.png",
+      "id_image": "variable_1900284"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393217_70774fc1d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393217_ffeb547b76_o.png",
+      "id_image": "variable_2620328"
+    }
+  ]
+}

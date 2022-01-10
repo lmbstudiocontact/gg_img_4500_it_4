@@ -1,0 +1,118 @@
+{
+  "english": "still",
+  "list_translation_mean": [
+    {
+      "translate_mean": "yên tâm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho dịu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho êm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm vững dạ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho yên lòng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "song le",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "còn",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "tuy vậy",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "êm lặng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không động đậy",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "làm thinh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nín lặng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "yên lặng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không nhúc nhích",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "not moving or making a sound.",
+      "definitions_ex_en": "the still body of the young man",
+      "definitions_ex_vn": "cơ thể vẫn còn của chàng trai trẻ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "deep silence and calm; stillness.",
+      "definitions_ex_en": "the still of the night",
+      "definitions_ex_vn": "Vẫn còn trong đêm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an ordinary static photograph as opposed to a motion picture, especially a single shot from a movie.",
+      "definitions_ex_en": "film stills",
+      "definitions_ex_vn": "phim ảnh tĩnh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an apparatus for distilling alcoholic drinks such as whiskey.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "up to and including the present or the time mentioned; even now (or then) as formerly.",
+      "definitions_ex_en": "he still lives with his mother",
+      "definitions_ex_vn": "Anh vẫn sống với mẹ",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "nevertheless; all the same.",
+      "definitions_ex_en": "I'm afraid he's crazy. Still, he's harmless",
+      "definitions_ex_vn": "Tôi sợ anh ấy điên.",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "even (used with comparatives for emphasis).",
+      "definitions_ex_en": "write, or better still, type, captions for the pictures",
+      "definitions_ex_vn": "Viết, hoặc tốt hơn yên, loại, chú thích cho hình ảnh",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "make or become still; quieten.",
+      "definitions_ex_en": "she raised her hand, stilling Erica's protests",
+      "definitions_ex_vn": "Cô ấy giơ tay, yên tranh về các cuộc biểu tình của Erica",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461258_51b8e8c35d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461258_6fc5d356f5_o.png",
+      "id_image": "still_1484373"
+    }
+  ]
+}

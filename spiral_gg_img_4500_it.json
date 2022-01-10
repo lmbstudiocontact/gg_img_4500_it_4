@@ -1,0 +1,68 @@
+{
+  "english": "spiral",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đường xoắn ốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vòng xoắn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "winding in a continuous and gradually widening (or tightening) curve, either around a central point on a flat plane or about an axis so as to form a cone.",
+      "definitions_ex_en": "a spiral pattern",
+      "definitions_ex_vn": "một mô hình",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a spiral curve, shape, or pattern.",
+      "definitions_ex_en": "he spotted a spiral of smoke",
+      "definitions_ex_vn": "Anh phát hiện ra một hình xoắn ốc của khói",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a progressive rise or fall of prices, wages, etc., each responding to an upward or downward stimulus provided by a previous one.",
+      "definitions_ex_en": "an inflationary spiral",
+      "definitions_ex_vn": "một xoắn ốc lạm phát.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a pass or kick that moves smoothly through the air while spinning on its long axis.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "move in a spiral course.",
+      "definitions_ex_en": "a wisp of smoke spiraled up from the trees",
+      "definitions_ex_vn": "một wisp khói xoắn lên từ cây",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "show a continuous and dramatic increase.",
+      "definitions_ex_en": "inflation continued to spiral",
+      "definitions_ex_vn": "lạm phát",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809353746_b57ff8d9e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809353746_54dcd6589a_o.png",
+      "id_image": "spiral_1754068"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809353721_1043e0cfd6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809353721_db25d49bc9_o.png",
+      "id_image": "spiral_6092108"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468498_09e0ebc115_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468498_53b719bdab_o.png",
+      "id_image": "spiral_6365773"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "english": "withdrawal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "rút lại lời hứa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lấy lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lấy ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự rút đơn kiện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự rút lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự rút lui",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự rút ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "triệt thối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "truất ra một số tiền",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of withdrawing something.",
+      "definitions_ex_en": "the withdrawal of legal aid",
+      "definitions_ex_vn": "Việc rút tiền trợ giúp pháp lý",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690854_788610fcd9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690854_62bef02c9e_o.png",
+      "id_image": "withdrawal_1349720"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "english": "virtual",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có thật",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thật sự",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thật ra",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "almost or nearly as described, but not completely or according to strict definition.",
+      "definitions_ex_en": "the virtual absence of border controls",
+      "definitions_ex_vn": "sự vắng mặt ảo của các điều khiển biên giới",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457593_1dea4f39aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457593_7c5c347f90_o.png",
+      "id_image": "virtual_2598494"
+    }
+  ]
+}

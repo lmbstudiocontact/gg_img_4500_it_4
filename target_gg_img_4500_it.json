@@ -1,0 +1,50 @@
+{
+  "english": "target",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bia để bắn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đích làm trò cười",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person, object, or place selected as the aim of an attack.",
+      "definitions_ex_en": "the airport terminal was the target of a bomb",
+      "definitions_ex_vn": "Nhà ga sân bay là mục tiêu của một quả bom",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small round shield or buckler.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "select as an object of attention or attack.",
+      "definitions_ex_en": "two men were targeted by the attackers",
+      "definitions_ex_vn": "Hai người đàn ông đã bị kẻ tấn công nhắm đến",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808399512_46fda12866_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808399512_f234151bb9_o.png",
+      "id_image": "target_167866"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810092005_05b4f12247_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810092005_93a99ac9a2_o.png",
+      "id_image": "target_287522"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808399467_2c13271d42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808399467_08fca769f4_o.png",
+      "id_image": "target_377144"
+    }
+  ]
+}

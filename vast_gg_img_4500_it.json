@@ -1,0 +1,46 @@
+{
+  "english": "vast",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bao la",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "quảng đại",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rộng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rộng lớn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "to lớn",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of very great extent or quantity; immense.",
+      "definitions_ex_en": "a vast plain of buffalo grass",
+      "definitions_ex_vn": "một đồng bằng rộng lớn của cỏ trâu",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "an immense space.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462763_f52543970d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462763_3faa52accb_o.png",
+      "id_image": "vast_2472369"
+    }
+  ]
+}

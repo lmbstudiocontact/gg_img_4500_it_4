@@ -1,0 +1,48 @@
+{
+  "english": "slime",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đất bùn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước nhớt của cá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phủ đầy bùn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a moist, soft, and slippery substance, typically regarded as repulsive.",
+      "definitions_ex_en": "the cold stone was wet with slime",
+      "definitions_ex_vn": "Đá lạnh bị ướt với chất nhờn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cover with slime.",
+      "definitions_ex_en": "what grass remained was slimed over with pale brown mud",
+      "definitions_ex_vn": "Cỏ nào vẫn còn bị gãy với bùn nâu nhạt",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687979_b45d50da50_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687979_1700004ca6_o.png",
+      "id_image": "slime_2213618"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332946_6b75089e14_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332946_703128acfe_o.png",
+      "id_image": "slime_5507660"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447978_23b474dc19_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447978_0ea0ff1b2d_o.png",
+      "id_image": "slime_5507730"
+    }
+  ]
+}

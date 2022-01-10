@@ -1,0 +1,79 @@
+{
+  "english": "vision",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ảo tưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sức trông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nhìn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thị giác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thị lực",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the faculty or state of being able to see.",
+      "definitions_ex_en": "she had defective vision",
+      "definitions_ex_vn": "cô ấy đã có tầm nhìn lỗi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the ability to think about or plan the future with imagination or wisdom.",
+      "definitions_ex_en": "the organization had lost its vision and direction",
+      "definitions_ex_vn": "Tổ chức đã mất tầm nhìn và hướng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an experience of seeing someone or something in a dream or trance, or as a supernatural apparition.",
+      "definitions_ex_en": "the idea came to him in a vision",
+      "definitions_ex_vn": "Ý tưởng đã đến với anh ta trong một tầm nhìn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person or sight of unusual beauty.",
+      "definitions_ex_en": "madame was a vision in black velvet",
+      "definitions_ex_vn": "Madame là một tầm nhìn trong nhung đen",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "imagine.",
+      "definitions_ex_en": "we visioned a small lawn surrounded with a perfect tangle of trees",
+      "definitions_ex_vn": "Chúng tôi nhìn thấy một bãi cỏ nhỏ được bao quanh với một mớ cây hoàn hảo của cây",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457213_5fa48b83f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457213_b55a8105b0_o.png",
+      "id_image": "vision_1286107"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079780_f3938f6ee5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079780_a1f9359b9d_o.png",
+      "id_image": "vision_1640971"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079940_5c5504a1d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079940_f4024a8262_o.png",
+      "id_image": "vision_562539"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342386_720d78dd62_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342386_000808d894_o.png",
+      "id_image": "vision_997259"
+    }
+  ]
+}

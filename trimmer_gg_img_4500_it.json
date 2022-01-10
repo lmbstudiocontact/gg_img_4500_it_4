@@ -1,0 +1,75 @@
+{
+  "english": "trimmer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người dọn dẹp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người tỉa cây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người tỉa tóc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người xếp hàng hóa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thợ trang hoàng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an implement used for trimming off the unwanted or untidy parts of something.",
+      "definitions_ex_en": "a hedge trimmer",
+      "definitions_ex_vn": "một tông đơ hàng rào.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who adapts their views to the prevailing political trends for personal advancement.",
+      "definitions_ex_en": "he is a clever trimmer, a closet federalist unchanged at heart",
+      "definitions_ex_vn": "anh ta là một tông đơ thông minh, một closeet liên bang không thay đổi ở trái tim",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who decorates something.",
+      "definitions_ex_en": "window trimmers",
+      "definitions_ex_vn": "Tông đơ cửa sổ.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a crosspiece fixed between full-length joists (and often across the end of truncated joists) to form part of the frame of an opening in a floor or roof.",
+      "definitions_ex_en": "trimmer joists",
+      "definitions_ex_vn": "Tông đơ Joists.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person responsible for trimming the sails of a yacht.",
+      "definitions_ex_en": "the spinnaker trimmer",
+      "definitions_ex_vn": "Tông đơ Spinnaker.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small capacitor or other component used to tune a circuit such as a radio set.",
+      "definitions_ex_en": "trimmer capacitors",
+      "definitions_ex_vn": "tụ điện tông đơ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448353_ff155034e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448353_4bb3daafc3_o.png",
+      "id_image": "trimmer_2681521"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070100_d110245735_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070100_609125ae38_o.png",
+      "id_image": "trimmer_3461768"
+    }
+  ]
+}

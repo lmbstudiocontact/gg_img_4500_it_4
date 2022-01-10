@@ -1,0 +1,109 @@
+{
+  "english": "state",
+  "list_translation_mean": [
+    {
+      "translate_mean": "địa vị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiểu bang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình trạng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trạng thái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vẻ lộng lẩy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "định ngày",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phát biểu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tuyên bố",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ra một bài toán",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the particular condition that someone or something is in at a specific time.",
+      "definitions_ex_en": "the state of the company's finances",
+      "definitions_ex_vn": "Nhà nước tài chính của công ty",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a nation or territory considered as an organized political community under one government.",
+      "definitions_ex_en": "Germany, Italy, and other European states",
+      "definitions_ex_vn": "Đức, Ý và các quốc gia châu Âu khác",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the civil government of a country.",
+      "definitions_ex_en": "services provided by the state",
+      "definitions_ex_vn": "Dịch vụ được cung cấp bởi Nhà nước",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "pomp and ceremony associated with monarchy or high levels of government.",
+      "definitions_ex_en": "he was buried in state",
+      "definitions_ex_vn": "ông đã bị chôn vùi ở bang",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an impression taken from an etched or engraved plate at a particular stage.",
+      "definitions_ex_en": "an oblong plate, dry point, first state of eight",
+      "definitions_ex_vn": "một tấm thuôn, điểm khô, trạng thái đầu tiên của tám",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "of, provided by, or concerned with the civil government of a country.",
+      "definitions_ex_en": "the future of state education",
+      "definitions_ex_vn": "Tương lai của giáo dục nhà nước",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "used or done on ceremonial occasions; involving the ceremony associated with a head of state.",
+      "definitions_ex_en": "a state visit to Hungary by Queen Elizabeth",
+      "definitions_ex_vn": "một chuyến thăm nhà nước đến Hungary của Nữ hoàng Elizabeth",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "express something definitely or clearly in speech or writing.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "present or introduce (a theme or melody) in a composition.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086265_73610470e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086265_6274c27b26_o.png",
+      "id_image": "state_1354751"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703719_1876708a12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703719_2c1822ce02_o.png",
+      "id_image": "state_1605303"
+    }
+  ]
+}

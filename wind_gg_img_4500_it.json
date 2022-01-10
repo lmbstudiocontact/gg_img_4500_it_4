@@ -1,0 +1,138 @@
+{
+  "english": "wind",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gió",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mùi do gió đưa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thổi đi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hơi thở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hơi trong bao tử",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hơi trong ruột",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuốn chỉ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xoay tròn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm thở hổn hển",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thổi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chó đánh hơi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the perceptible natural movement of the air, especially in the form of a current of air blowing from a particular direction.",
+      "definitions_ex_en": "the wind howled about the building",
+      "definitions_ex_vn": "Gió hú lên tòa nhà",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "breath as needed in physical exertion or in speech.",
+      "definitions_ex_en": "he waited while Jez got his wind back",
+      "definitions_ex_vn": "Anh đợi trong khi Jez trở lại gió",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "wind instruments, or specifically woodwind instruments, forming a band or a section of an orchestra.",
+      "definitions_ex_en": "these passages are most suitable for wind alone",
+      "definitions_ex_vn": "Những đoạn này phù hợp nhất cho gió một mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a twist or turn in a course.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a single turn made when winding.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cause (someone) to have difficulty breathing because of exertion or a blow to the stomach.",
+      "definitions_ex_en": "the fall nearly winded him",
+      "definitions_ex_vn": "mùa thu gần như cuộn anh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "detect the presence of (a person or animal) by scent.",
+      "definitions_ex_en": "the birds could not have seen us or winded us",
+      "definitions_ex_vn": "Những con chim không thể nhìn thấy chúng ta hoặc uốn lượn chúng ta",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "sound (a bugle or call) by blowing.",
+      "definitions_ex_en": "but scarce again his horn he wound",
+      "definitions_ex_vn": "nhưng khan hiếm một lần nữa sừng anh ta bị thương",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "move in or take a twisting or spiral course.",
+      "definitions_ex_en": "the path wound among olive trees",
+      "definitions_ex_vn": "Con đường bị thương giữa những cây ô liu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "pass (something) around a thing or person so as to encircle or enfold.",
+      "definitions_ex_en": "he wound a towel around his midriff",
+      "definitions_ex_vn": "anh ta quấn một chiếc khăn quanh midriff của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make (a clock or other device, typically one operated by clockwork) operate by turning a key or handle.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329286_15d07ea4ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329286_822e0f89c2_o.png",
+      "id_image": "wind_1207566"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066025_beb61aa641_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066025_34262e4c33_o.png",
+      "id_image": "wind_1327631"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444248_d72710a62b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444248_b7bf0a4c31_o.png",
+      "id_image": "wind_207740"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "english": "small",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bé",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhỏ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vụn vặt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chử nhỏ",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "từng miếng nhỏ",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of a size that is less than normal or usual.",
+      "definitions_ex_en": "the room was small and quiet",
+      "definitions_ex_vn": "Căn phòng nhỏ và yên tĩnh",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "insignificant; unimportant.",
+      "definitions_ex_en": "these are small points",
+      "definitions_ex_vn": "Đây là những điểm nhỏ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "into small pieces.",
+      "definitions_ex_en": "cut the okra up small",
+      "definitions_ex_vn": "Cắt đậm lên nhỏ",
+      "definitions_type_word": "adverb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376607_c3fe561376_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376607_8c41636c52_o.png",
+      "id_image": "small_2210698"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686824_f0f90a16e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686824_8a529f7ed9_o.png",
+      "id_image": "small_2210703"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446803_1bdf6c57b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446803_bbc568cb65_o.png",
+      "id_image": "small_2844495"
+    }
+  ]
+}

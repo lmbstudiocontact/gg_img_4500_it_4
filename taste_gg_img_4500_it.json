@@ -1,0 +1,67 @@
+{
+  "english": "taste",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mùi vị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thị hiếu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vị giác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nếm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhận được mùi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thưởng thức",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the sensation of flavor perceived in the mouth and throat on contact with a substance.",
+      "definitions_ex_en": "the wine had a fruity taste",
+      "definitions_ex_vn": "Rượu có một hương vị trái cây",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person's liking for particular flavors.",
+      "definitions_ex_en": "this pudding is too sweet for my taste",
+      "definitions_ex_vn": "Bánh pudding này quá ngọt ngào cho hương vị của tôi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the ability to discern what is of good quality or of a high aesthetic standard.",
+      "definitions_ex_en": "she has awful taste in literature",
+      "definitions_ex_vn": "Cô ấy có hương vị khủng khiếp trong văn học",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "perceive or experience the flavor of.",
+      "definitions_ex_en": "she had never tasted ice cream before",
+      "definitions_ex_vn": "Cô chưa bao giờ nếm kem trước đây",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809354291_10426f513c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809354291_c1e56b648b_o.png",
+      "id_image": "taste_4785966"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468973_4dd7945551_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468973_4edb6855d4_o.png",
+      "id_image": "taste_4799086"
+    }
+  ]
+}

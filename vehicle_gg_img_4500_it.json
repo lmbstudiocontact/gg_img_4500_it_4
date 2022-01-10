@@ -1,0 +1,63 @@
+{
+  "english": "vehicle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chất lỏng trong nước sơn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chuyên chở bằng xe cộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước dẫn thuốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xe cộ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thing used for transporting people or goods, especially on land, such as a car, truck, or cart.",
+      "definitions_ex_en": "the vehicle was sent skidding across the road",
+      "definitions_ex_vn": "Chiếc xe đã được gửi trượt qua đường",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing used to express, embody, or fulfill something.",
+      "definitions_ex_en": "I use paint as a vehicle for my ideas",
+      "definitions_ex_vn": "Tôi sử dụng sơn như một phương tiện cho ý tưởng của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a movie, television program, song, etc., that is intended to display the leading performer to the best advantage.",
+      "definitions_ex_en": "a vehicle for a star who was one of Hollywood's hottest properties",
+      "definitions_ex_vn": "một chiếc xe cho một ngôi sao là một trong những tài sản nóng bỏng nhất của Hollywood",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702069_ae9aa55103_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702069_fc312b1959_o.png",
+      "id_image": "vehicle_3211882"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702039_4ac5848345_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702039_82fba9f498_o.png",
+      "id_image": "vehicle_3211885"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702014_f62c503dc5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702014_f91bae768e_o.png",
+      "id_image": "vehicle_4967279"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084660_6322338c07_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084660_12b75e475d_o.png",
+      "id_image": "vehicle_550907"
+    }
+  ]
+}

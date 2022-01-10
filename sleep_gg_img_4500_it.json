@@ -1,0 +1,60 @@
+{
+  "english": "sleep",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giấc ngũ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ngũ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngũ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a condition of body and mind that typically recurs for several hours every night, in which the nervous system is relatively inactive, the eyes closed, the postural muscles relaxed, and consciousness practically suspended.",
+      "definitions_ex_en": "I was on the verge of sleep",
+      "definitions_ex_vn": "Tôi đang trên bờ vực ngủ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a gummy or gritty secretion found in the corners of the eyes after sleep.",
+      "definitions_ex_en": "she sat up, rubbing the sleep from her eyes",
+      "definitions_ex_vn": "Cô ngồi dậy, dụi giấc ngủ từ mắt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "be in a state of sleep; be asleep.",
+      "definitions_ex_en": "she slept for half an hour",
+      "definitions_ex_vn": "Cô ngủ trong nửa giờ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "provide (a specified number of people) with beds, rooms, or places to stay the night.",
+      "definitions_ex_en": "studios sleeping two people cost $70 a night",
+      "definitions_ex_vn": "studio ngủ hai người có giá 70 đô la một đêm",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378912_dc7331dfc8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378912_b1b26f4770_o.png",
+      "id_image": "sleep_1552312"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071035_8b9563227d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071035_9dde1d8741_o.png",
+      "id_image": "sleep_2843712"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689154_a38528a202_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689154_2430be910c_o.png",
+      "id_image": "sleep_392786"
+    }
+  ]
+}

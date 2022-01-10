@@ -1,0 +1,29 @@
+{
+  "english": "tasty",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ngon",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of food) having a pleasant, distinct flavor.",
+      "definitions_ex_en": "a tasty snack",
+      "definitions_ex_vn": "một món ăn nhẹ ngon miệng",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809354231_97d1611006_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809354231_2d3f13fe7d_o.png",
+      "id_image": "tasty_1612477"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468893_842cbd8eb1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468893_3e4c22cc41_o.png",
+      "id_image": "tasty_3508656"
+    }
+  ]
+}

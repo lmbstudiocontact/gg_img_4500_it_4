@@ -1,0 +1,24 @@
+{
+  "english": "vivisection",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuật giải phẩu sinh thể",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the practice of performing operations on live animals for the purpose of experimentation or scientific research (used only by people who are opposed to such work).",
+      "definitions_ex_en": "the abolition of vivisection",
+      "definitions_ex_vn": "Việc bãi bỏ Vivisection",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079030_3b9a824a8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079030_f128326bd6_o.png",
+      "id_image": "vivisection_308819"
+    }
+  ]
+}

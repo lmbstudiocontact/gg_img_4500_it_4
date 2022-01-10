@@ -1,0 +1,56 @@
+{
+  "english": "sigh",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hơi thở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng thở dài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng thở ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thở dài",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thở ra",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "emit a long, deep, audible breath expressing sadness, relief, tiredness, or a similar feeling.",
+      "definitions_ex_en": "Harry sank into a chair and sighed with relief",
+      "definitions_ex_vn": "Harry chìm vào một chiếc ghế và thở dài với sự nhẹ nhõm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a long, deep, audible exhalation expressing sadness, relief, tiredness, or a similar feeling.",
+      "definitions_ex_en": "she let out a long sigh of despair",
+      "definitions_ex_vn": "Cô thở dài tuyệt vọng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340056_70bc135264_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340056_5e34379d23_o.png",
+      "id_image": "sigh_2977990"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384912_bb45b3a063_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384912_e7e089f97a_o.png",
+      "id_image": "sigh_3911320"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454868_7ce628e21c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454868_b1b00935ae_o.png",
+      "id_image": "sigh_4138789"
+    }
+  ]
+}

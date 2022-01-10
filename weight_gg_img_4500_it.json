@@ -1,0 +1,95 @@
+{
+  "english": "weight",
+  "list_translation_mean": [
+    {
+      "translate_mean": "điều trọng yếu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sức chịu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sức nặng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trái cân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trọng lượng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "việc quan trọng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cột vật nặng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a body's relative mass or the quantity of matter contained by it, giving rise to a downward force; the heaviness of a person or thing.",
+      "definitions_ex_en": "he was at least 175 pounds in weight",
+      "definitions_ex_vn": "anh ta nặng ít nhất 175 pounds",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a piece of metal known to weigh a definite amount and used on scales to determine how heavy an object or quantity of a substance is.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the ability of someone or something to influence decisions or actions.",
+      "definitions_ex_en": "a recommendation by the committee will carry great weight",
+      "definitions_ex_vn": "một khuyến nghị của ủy ban sẽ mang trọng lượng lớn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the surface density of cloth, used as a measure of its quality.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "hold (something) down by placing a heavy object on top of it.",
+      "definitions_ex_en": "a mug half filled with coffee weighted down a stack of papers",
+      "definitions_ex_vn": "một nửa cốc chứa đầy cà phê trọng lượng xuống một đống giấy tờ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "attach importance or value to.",
+      "definitions_ex_en": "speaking, reading, and writing should be weighted equally in the assessment",
+      "definitions_ex_vn": "Nói, đọc và viết nên được cân bằng trong đánh giá",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "assign a handicap weight to (a horse).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "treat (a fabric) with a substance to make it seem thicker and heavier.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687839_54b6837cb1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687839_989f150e93_o.png",
+      "id_image": "weight_1201859"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377722_75257cacff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377722_bc6451abc0_o.png",
+      "id_image": "weight_523819"
+    }
+  ]
+}

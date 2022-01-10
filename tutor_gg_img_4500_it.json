@@ -1,0 +1,56 @@
+{
+  "english": "tutor",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người giám hộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người thủ hộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thầy dạy tư",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dạy người nào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dạy riêng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a private teacher, typically one who teaches a single student or a very small group.",
+      "definitions_ex_en": "a voluntary tutor in adult literacy",
+      "definitions_ex_vn": "một gia sư tự nguyện trong biết chữ người lớn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "act as a tutor to (a single student or a very small group).",
+      "definitions_ex_en": "his children were privately tutored",
+      "definitions_ex_vn": "Con cái anh được dạy kèm riêng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443038_4c85ba041f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443038_908a831be5_o.png",
+      "id_image": "tutor_4016173"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064670_b4e919cf55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064670_73e9de7e5f_o.png",
+      "id_image": "tutor_4079292"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682999_a43d262268_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682999_ffbec86e0b_o.png",
+      "id_image": "tutor_4419295"
+    }
+  ]
+}

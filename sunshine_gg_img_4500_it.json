@@ -1,0 +1,41 @@
+{
+  "english": "sunshine",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ánh sáng mặt trời",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hớn hở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lạc quan",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vui tươi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "direct sunlight unbroken by cloud, especially over a comparatively large area.",
+      "definitions_ex_en": "we walked in the warm sunshine",
+      "definitions_ex_vn": "chúng tôi đi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452143_9e8950601e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452143_8dfc3ca7a8_o.png",
+      "id_image": "sunshine_327432"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452133_c420842598_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452133_e30c2f3b9d_o.png",
+      "id_image": "sunshine_3989615"
+    }
+  ]
+}

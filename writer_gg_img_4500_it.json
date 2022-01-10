@@ -1,0 +1,29 @@
+{
+  "english": "writer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người viết văn kiện",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who has written a particular text.",
+      "definitions_ex_en": "the writer of the letter",
+      "definitions_ex_vn": "Nhà văn của bức thư",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068635_dba6886539_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068635_03dc6a2962_o.png",
+      "id_image": "writer_1983427"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686939_45ce0813ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686939_1bf3c5d990_o.png",
+      "id_image": "writer_2653927"
+    }
+  ]
+}

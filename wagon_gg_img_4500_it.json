@@ -1,0 +1,55 @@
+{
+  "english": "wagon",
+  "list_translation_mean": [
+    {
+      "translate_mean": "toa xe không mui",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "toa xe lửa không có mui",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xe chở đồ trong hầm mỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xe chở hàng hóa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xe chở lương thực",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a vehicle used for transporting goods or another specified purpose.",
+      "definitions_ex_en": "a coal wagon",
+      "definitions_ex_vn": "một toa xe than.",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454318_1c7d5c0646_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454318_407c778a49_o.png",
+      "id_image": "wagon_1987431"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384262_40242fc016_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384262_2440e51a18_o.png",
+      "id_image": "wagon_2893062"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694434_a8d09dbb9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694434_b1daa9aaf4_o.png",
+      "id_image": "wagon_3745910"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076450_a061b04abe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076450_ef78ae1482_o.png",
+      "id_image": "wagon_5895733"
+    }
+  ]
+}

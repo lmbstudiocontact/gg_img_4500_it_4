@@ -1,0 +1,33 @@
+{
+  "english": "sleeve",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tay áo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật che lại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the part of a garment that wholly or partly covers a person's arm.",
+      "definitions_ex_en": "a shirt with the sleeves rolled up",
+      "definitions_ex_vn": "Một chiếc áo có tay áo cuộn lên",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070570_203bcd847d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070570_d73b80323d_o.png",
+      "id_image": "sleeve_2473063"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448778_35db12dba5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448778_a6e22d0e89_o.png",
+      "id_image": "sleeve_580550"
+    }
+  ]
+}

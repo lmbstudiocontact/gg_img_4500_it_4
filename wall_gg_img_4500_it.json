@@ -1,0 +1,48 @@
+{
+  "english": "wall",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hông của xe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vách",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a continuous vertical brick or stone structure that encloses or divides an area of land.",
+      "definitions_ex_en": "a garden wall",
+      "definitions_ex_vn": "một bức tường vườn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "enclose (an area) within walls, especially to protect it or lend it some privacy.",
+      "definitions_ex_en": "housing areas that are walled off from the indigenous population",
+      "definitions_ex_vn": "các khu vực nhà ở bị vách ngăn từ dân số bản địa",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075620_0494564c83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075620_634de6df90_o.png",
+      "id_image": "wall_270067"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075585_b17db248a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075585_218e0fd35f_o.png",
+      "id_image": "wall_3417087"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383417_d466cf3b62_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383417_1d5d28d638_o.png",
+      "id_image": "wall_5234284"
+    }
+  ]
+}

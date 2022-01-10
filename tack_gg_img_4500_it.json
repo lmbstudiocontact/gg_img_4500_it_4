@@ -1,0 +1,122 @@
+{
+  "english": "tack",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đất cho mướn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đinh nhỏ đầu đóng thãm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ ăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường chỉ may lượt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khế ước cho mướn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đóng vật gì bằng đinh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "may lượt quần áo",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small, sharp broad-headed nail.",
+      "definitions_ex_en": "tacks held the remaining rags of carpet to the floor",
+      "definitions_ex_vn": "Tacks giữ giẻ khô còn lại của thảm xuống sàn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a long stitch used to fasten fabrics together temporarily, prior to permanent sewing.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a method of dealing with a situation or problem; a course of action or policy.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of changing course by turning a vessel's head into and through the wind, so as to bring the wind on the opposite side.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a rope for securing the weather clew of a course.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the quality of being sticky.",
+      "definitions_ex_en": "cooking the sugar to caramel gives tack to the texture",
+      "definitions_ex_vn": "Nấu đường đến caramel cho tack đến kết cấu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "equipment used in horseback riding, including the saddle and bridle.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cheap, shoddy, or tasteless material.",
+      "definitions_ex_en": "this pop will never trivialize itself and be described as cheap tack",
+      "definitions_ex_vn": "Pop này sẽ không bao giờ tầm thường hóa và được mô tả là tack giá rẻ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "fasten or fix in place with tacks.",
+      "definitions_ex_en": "he used the tool to tack down sheets of fiberboard",
+      "definitions_ex_vn": "Ông đã sử dụng công cụ để giải quyết các tấm ván sợi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "change course by turning a boat's head into and through the wind.",
+      "definitions_ex_en": "their boat was now downwind and they had to tack",
+      "definitions_ex_vn": "thuyền của họ bây giờ là gió ngược và họ phải giải quyết",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443613_164273db21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443613_562b673365_o.png",
+      "id_image": "tack_1014667"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443563_f9afa03439_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443563_6dc9bb9d9e_o.png",
+      "id_image": "tack_1180290"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328546_bec9107e1b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328546_1305d55719_o.png",
+      "id_image": "tack_2052642"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443473_8b88b274fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443473_d4c7fe4f56_o.png",
+      "id_image": "tack_3391752"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683714_77bca1f8fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683714_0993063d35_o.png",
+      "id_image": "tack_732408"
+    }
+  ]
+}

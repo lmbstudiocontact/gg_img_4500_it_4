@@ -1,0 +1,42 @@
+{
+  "english": "suction",
+  "list_translation_mean": [
+    {
+      "translate_mean": "máy hút",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hút",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hút bằng vòi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự dùng miệng để hút",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the production of a partial vacuum by the removal of air in order to force fluid into a vacant space or procure adhesion.",
+      "definitions_ex_en": "constant suction was applied to both tubes",
+      "definitions_ex_vn": "hút liên tục được áp dụng cho cả hai ống",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "remove (something) using suction.",
+      "definitions_ex_en": "physicians used a tube to suction out the gallstones",
+      "definitions_ex_vn": "Các bác sĩ đã sử dụng một ống để hút các sỏi mật",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454093_64303fe81a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454093_c83fd8d75b_o.png",
+      "id_image": "suction_1471823"
+    }
+  ]
+}

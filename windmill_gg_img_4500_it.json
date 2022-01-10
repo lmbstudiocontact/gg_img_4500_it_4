@@ -1,0 +1,40 @@
+{
+  "english": "windmill",
+  "list_translation_mean": [
+    {
+      "translate_mean": "máy xay gió",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a building with sails or vanes that turn in the wind and generate power to grind grain into flour.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(with reference to a person's arms) move or be moved around in a circle in a manner suggestive of the rotating sails or vanes of a windmill.",
+      "definitions_ex_en": "Penny slipped, windmilled her arms, and somehow kept her balance",
+      "definitions_ex_vn": "Penny trượt, cánh tay của cô, và bằng cách nào đó giữ thăng bằng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684194_e227e88ddf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684194_449dc1c791_o.png",
+      "id_image": "windmill_124386"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444118_dc4dd2837d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444118_195f55bafe_o.png",
+      "id_image": "windmill_804330"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065950_677e88fe48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065950_6f72427b54_o.png",
+      "id_image": "windmill_804543"
+    }
+  ]
+}

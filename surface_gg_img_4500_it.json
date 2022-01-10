@@ -1,0 +1,66 @@
+{
+  "english": "surface",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mặt ngoài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm láng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the outside part or uppermost layer of something (often used when describing its texture, form, or extent).",
+      "definitions_ex_en": "the earth's surface",
+      "definitions_ex_vn": "bề mặt của Trái Đất",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a continuous set of points that has length and breadth but no thickness.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "relating to or occurring on the upper or outer part of something.",
+      "definitions_ex_en": "surface workers at the copper mines",
+      "definitions_ex_vn": "Công nhân bề mặt tại các mỏ đồng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "rise or come up to the surface of the water or the ground.",
+      "definitions_ex_en": "he surfaced from his dive",
+      "definitions_ex_vn": "anh ta nổi lên từ lặn của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "provide (something, especially a road) with a particular upper or outer layer.",
+      "definitions_ex_en": "a small path surfaced with terra-cotta tiles",
+      "definitions_ex_vn": "Một con đường nhỏ nổi lên với gạch terra-cotta",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072925_7c856e602d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072925_ee663e8bf0_o.png",
+      "id_image": "surface_1808780"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381012_8f6da61f6e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381012_28ed1b3eb9_o.png",
+      "id_image": "surface_3182027"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450893_46d0463952_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450893_d932c335db_o.png",
+      "id_image": "surface_6257725"
+    }
+  ]
+}

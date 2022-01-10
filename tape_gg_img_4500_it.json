@@ -1,0 +1,59 @@
+{
+  "english": "tape",
+  "list_translation_mean": [
+    {
+      "translate_mean": "băng bằng vải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuốn băng nhạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "buộc bằng dây vải",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a narrow strip of material, typically used to hold or fasten something.",
+      "definitions_ex_en": "a roll of tape",
+      "definitions_ex_vn": "một cuộn băng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "record (sound or pictures) on audio or videotape.",
+      "definitions_ex_en": "it is not known who taped the conversation",
+      "definitions_ex_vn": "Người ta không biết ai đã ghi âm cuộc trò chuyện",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "fasten or attach (something) with adhesive tape.",
+      "definitions_ex_en": "a note taped to the fridge",
+      "definitions_ex_vn": "Một ghi chú được dán vào tủ lạnh",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441733_aed57a65f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441733_5ae183de2d_o.png",
+      "id_image": "tape_1974730"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326731_82ef427f3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326731_0e44633e99_o.png",
+      "id_image": "tape_2438466"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326706_b95616aa53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326706_09828d5e0b_o.png",
+      "id_image": "tape_4284216"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681729_4d20ef030c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681729_9da30c40a6_o.png",
+      "id_image": "tape_5827572"
+    }
+  ]
+}

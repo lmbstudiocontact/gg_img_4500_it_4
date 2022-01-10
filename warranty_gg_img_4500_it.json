@@ -1,0 +1,48 @@
+{
+  "english": "warranty",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự bảo đảm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cho phép",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a written guarantee, issued to the purchaser of an article by its manufacturer, promising to repair or replace it if necessary within a specified period of time.",
+      "definitions_ex_en": "the car comes with a three-year warranty",
+      "definitions_ex_vn": "Chiếc xe đi kèm với bảo hành ba năm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382092_a41d32970f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382092_58695195ab_o.png",
+      "id_image": "warranty_2016318"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337021_e38e4baef2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337021_ae2024f2f8_o.png",
+      "id_image": "warranty_2037151"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336991_e15a18265d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336991_0f7eabd654_o.png",
+      "id_image": "warranty_2510933"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073985_2a59efc29c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073985_9ce781e6e1_o.png",
+      "id_image": "warranty_2519412"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381972_d1b185b70a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381972_c924162937_o.png",
+      "id_image": "warranty_2646504"
+    }
+  ]
+}

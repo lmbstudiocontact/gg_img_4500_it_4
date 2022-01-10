@@ -1,0 +1,54 @@
+{
+  "english": "terrace",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chổ đất đắp cao trước nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dãy nhà bằng giống nhau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đấp đất cho cao",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a level paved area or platform next to a building; a patio or veranda.",
+      "definitions_ex_en": "breakfast is served on the terrace",
+      "definitions_ex_vn": "Bữa sáng được phục vụ trên sân thượng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "each of a series of flat areas made on a slope, used for cultivation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make or form (sloping land) into a number of level flat areas resembling a series of steps.",
+      "definitions_ex_en": "the slope had to be terraced",
+      "definitions_ex_vn": "Độ dốc phải được bậc thang",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089070_1b1be4a672_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089070_f815c40c6b_o.png",
+      "id_image": "terrace_1940135"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396647_87a443fe8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396647_0db136474c_o.png",
+      "id_image": "terrace_240641"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466353_18ef9e7284_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466353_6f0e6d741e_o.png",
+      "id_image": "terrace_3722727"
+    }
+  ]
+}

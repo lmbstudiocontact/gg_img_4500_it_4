@@ -1,0 +1,164 @@
+{
+  "english": "turn",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xoay",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quây",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi vòng qua",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lật trang giấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngoảh đầu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quay tròn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quẹo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phiên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ cong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường xoay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khúc khuỷu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chênh lệch của giá cả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đi dạo một vòng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khuynh hướng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đổi hướng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trở của con nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vòng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "move in a circular direction wholly or partly around an axis or point.",
+      "definitions_ex_en": "the big wheel was turning",
+      "definitions_ex_vn": "Bánh xe lớn đang quay",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "move (something) so that it is in a different position in relation to its surroundings or its previous position.",
+      "definitions_ex_en": "turn the mould upside down",
+      "definitions_ex_vn": "Xoay khuôn lộn ngược",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "change in nature, state, form, or color; become.",
+      "definitions_ex_en": "Emmeline turned pale",
+      "definitions_ex_vn": "Emmeline trở nên nhạt",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "shape (something) on a lathe.",
+      "definitions_ex_en": "the faceplate is turned rather than cast",
+      "definitions_ex_vn": "tấm mặt được bật hơn là đúc",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make (a profit).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of moving something in a circular direction around an axis or point.",
+      "definitions_ex_en": "a safety lock requiring four turns of the key",
+      "definitions_ex_vn": "một khóa an toàn yêu cầu bốn lượt của chìa khóa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a change of direction when moving.",
+      "definitions_ex_en": "they made a left turn and picked up speed",
+      "definitions_ex_vn": "họ rẽ trái và tăng tốc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an opportunity or obligation to do something that comes successively to each of a number of people.",
+      "definitions_ex_en": "it was his turn to speak",
+      "definitions_ex_vn": "đến lượt anh ấy nói",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a short walk or ride.",
+      "definitions_ex_en": "why don't you take a turn around the garden?",
+      "definitions_ex_vn": "Tại sao bạn không quay vòng quanh khu vườn?",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a shock.",
+      "definitions_ex_en": "you gave us quite a turn!",
+      "definitions_ex_vn": "Bạn đã cho chúng tôi khá một lượt!",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the difference between the buying and selling price of stocks or other financial products.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a melodic ornament consisting of the principal note with those above and below it.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065215_19111839af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065215_ba274e307e_o.png",
+      "id_image": "turn_536739"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328321_4f301ed722_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328321_2d91eb4419_o.png",
+      "id_image": "turn_5776385"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683479_f2025298f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683479_d752ba877c_o.png",
+      "id_image": "turn_933091"
+    }
+  ]
+}

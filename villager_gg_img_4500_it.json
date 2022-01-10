@@ -1,0 +1,29 @@
+{
+  "english": "villager",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người ở làng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who lives in a village.",
+      "definitions_ex_en": "angry villagers have been forced to leave flooded areas",
+      "definitions_ex_vn": "Người dân Angry đã bị buộc phải rời khỏi các khu vực bị ngập lụt",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698994_394db1cbf6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698994_4932de3824_o.png",
+      "id_image": "villager_3943611"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458488_28e1a6c0c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458488_f48e637648_o.png",
+      "id_image": "villager_3943617"
+    }
+  ]
+}

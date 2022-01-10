@@ -1,0 +1,38 @@
+{
+  "english": "surgery",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khoa giải phẩu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khoa mổ xẻ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the branch of medical practice that treats injuries, diseases, and deformities by the physical removal, repair, or readjustment of organs and tissues, often involving cutting into the body.",
+      "definitions_ex_en": "cardiac surgery",
+      "definitions_ex_vn": "Phẫu thuật tim",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335686_4dd210d99f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335686_3674f3b17a_o.png",
+      "id_image": "surgery_5154786"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690909_9e8033c8f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690909_b5d1cdc008_o.png",
+      "id_image": "surgery_6093461"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380692_5e52239072_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380692_30fd899a19_o.png",
+      "id_image": "surgery_6093473"
+    }
+  ]
+}

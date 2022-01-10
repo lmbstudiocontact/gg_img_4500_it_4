@@ -1,0 +1,106 @@
+{
+  "english": "tender",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cẩn thận",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dể gảy",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mềm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người trông nom máy móc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bỏ thầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tàu cung cấp lương thực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắt người nào thề",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đề nghị",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "showing gentleness and concern or sympathy.",
+      "definitions_ex_en": "he was being so kind and tender",
+      "definitions_ex_vn": "anh ấy đã rất tốt bụng và dịu dàng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of food) easy to cut or chew; not tough.",
+      "definitions_ex_en": "tender green beans",
+      "definitions_ex_vn": "Đậu xanh dịu dàng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a part of the body) sensitive to pain.",
+      "definitions_ex_en": "the pale, tender skin of her forearm",
+      "definitions_ex_vn": "làn da nhợt nhạt, dịu dàng của cẳng tay của cô",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "young, immature, and vulnerable.",
+      "definitions_ex_en": "at the tender age of five",
+      "definitions_ex_vn": "Ở tuổi đấu thầu năm",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a ship) leaning or readily inclined to roll in response to the wind.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "offer or present (something) formally.",
+      "definitions_ex_en": "he tendered his resignation as leader",
+      "definitions_ex_vn": "Ông đấu thầu sự từ chức của mình là người lãnh đạo",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an offer to carry out work, supply goods, or buy land, shares, or another asset at a stated fixed price.",
+      "definitions_ex_en": "we invited tenders for up to three more frigates",
+      "definitions_ex_vn": "Chúng tôi đã mời đấu thầu lên đến ba phần rong",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a boat used to ferry people and supplies to and from a ship.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a railcar coupled to a steam locomotive to carry fuel and water.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who looks after someone else or a machine or place.",
+      "definitions_ex_en": "Alexei signaled to one of the engine tenders",
+      "definitions_ex_vn": "Alexei báo hiệu một trong những đấu thầu động cơ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706964_694f65f10c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706964_d014680332_o.png",
+      "id_image": "tender_2104152"
+    }
+  ]
+}

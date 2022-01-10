@@ -1,0 +1,47 @@
+{
+  "english": "whisky",
+  "list_translation_mean": [
+    {
+      "translate_mean": "whisky",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rượu mạnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rượu quít ky",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rượu whiskey",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a spirit distilled from malted grain, especially barley or rye.",
+      "definitions_ex_en": "a bottle of whiskey",
+      "definitions_ex_vn": "một chai rượu whisky",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a code word representing the letter W, used in radio communication.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330616_e1773cf006_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330616_231f02fd95_o.png",
+      "id_image": "whisky_1677351"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685644_f1d7750e78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685644_735123d251_o.png",
+      "id_image": "whisky_2405468"
+    }
+  ]
+}

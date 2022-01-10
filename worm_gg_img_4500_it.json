@@ -1,0 +1,95 @@
+{
+  "english": "worm",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sâu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đáng khinh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần xoáy trôn ốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sợi gân ở dưới lưỡi chó",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắt sâu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "any of a number of creeping or burrowing invertebrate animals with long, slender soft bodies and no limbs.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a helical device or component.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a self-replicating program able to propagate itself across a network, typically having a detrimental effect.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "move with difficulty by crawling or wriggling.",
+      "definitions_ex_en": "I wormed my way along the roadside ditch",
+      "definitions_ex_vn": "Tôi đã sâu theo cách của tôi dọc theo mương bên đường",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "insinuate one's way into.",
+      "definitions_ex_en": "the educated dealers may later worm their way into stockbroking",
+      "definitions_ex_vn": "Các đại lý có học thức có thể sau đó là con đường của họ vào khoBroking",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "treat (an animal) with a preparation designed to expel parasitic worms.",
+      "definitions_ex_en": "I wormed her over a course of three weeks",
+      "definitions_ex_vn": "Tôi đã phá hoại cô ấy trong một khóa học ba tuần",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make (a rope) smooth by winding small cordage between the strands.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "write-once read-many, denoting a type of computer memory device.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448538_7c4447aa7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448538_2277304dd7_o.png",
+      "id_image": "worm_2959415"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688509_d045f31463_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688509_af487034f7_o.png",
+      "id_image": "worm_350973"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "english": "stress",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chủ âm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đọc nhấn mạnh vần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bắt buộc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "động lực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dùng nhiều lần",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lâu ngày đến cong",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhấn mạnh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "oằn xuống",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "pressure or tension exerted on a material object.",
+      "definitions_ex_en": "the distribution of stress is uniform across the bar",
+      "definitions_ex_vn": "Phân phối căng thẳng là đồng nhất trên thanh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a state of mental or emotional strain or tension resulting from adverse or very demanding circumstances.",
+      "definitions_ex_en": "he's obviously under a lot of stress",
+      "definitions_ex_vn": "Anh ấy rõ ràng là rất nhiều căng thẳng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "physiological disturbance or damage caused to an organism by adverse circumstances.",
+      "definitions_ex_en": "in many areas irrigation is warranted to avoid plant stress",
+      "definitions_ex_vn": "Trong nhiều khu vực thủy lợi được bảo hành để tránh căng thẳng thực vật",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "particular emphasis or importance.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a computer programming language designed for use in solving civil engineering structural analysis problems.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "give particular emphasis or importance to (a point, statement, or idea) made in speech or writing.",
+      "definitions_ex_en": "they stressed the need for reform",
+      "definitions_ex_vn": "Họ nhấn mạnh sự cần thiết phải cải cách",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "subject to pressure or tension.",
+      "definitions_ex_en": "this type of workout does stress the shoulder and knee joints",
+      "definitions_ex_vn": "Loại bài tập luyện này làm căng thẳng các khớp vai và đầu gối",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cause mental or emotional strain or tension in.",
+      "definitions_ex_en": "I avoid many of the things that used to stress me before",
+      "definitions_ex_vn": "Tôi tránh nhiều thứ thường làm tôi căng thẳng trước đây",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342886_3f475680d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342886_874637acc2_o.png",
+      "id_image": "stress_1488190"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457648_3a81651d4c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457648_bb191b6950_o.png",
+      "id_image": "stress_2037388"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080275_4b7dc38b96_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080275_4ddb7f766f_o.png",
+      "id_image": "stress_3590386"
+    }
+  ]
+}

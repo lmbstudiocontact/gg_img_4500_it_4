@@ -1,0 +1,48 @@
+{
+  "english": "ventilation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự làm cho thông hơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự làm cho thông khí",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lọc máu bằng dưỡng khí",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the provision of fresh air to a room, building, etc.",
+      "definitions_ex_en": "ventilation of the mines had long been mechanized",
+      "definitions_ex_vn": "Thông gió của các mỏ đã được cơ giới từ lâu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "public discussion or examination of an opinion, issue, or complaint.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701554_700ced2c02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701554_f91aaebc07_o.png",
+      "id_image": "ventilation_406078"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391642_ef08521c16_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391642_66bf4d5fc9_o.png",
+      "id_image": "ventilation_422144"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391622_b843423eb7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391622_a89b7666b2_o.png",
+      "id_image": "ventilation_5650588"
+    }
+  ]
+}

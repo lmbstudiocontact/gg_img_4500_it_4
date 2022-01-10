@@ -1,0 +1,80 @@
+{
+  "english": "store",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cửa hàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ tích trữ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiệm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kho chứa hàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lương thực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự có nhiều",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự dồi dào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cất vào kho",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chứa được",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tích trữ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trau giồi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a quantity or supply of something kept for use as needed.",
+      "definitions_ex_en": "the squirrel has a store of food",
+      "definitions_ex_vn": "Squirrel có một cửa hàng thực phẩm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "keep or accumulate (something) for future use.",
+      "definitions_ex_en": "a small room used for storing furniture",
+      "definitions_ex_vn": "một căn phòng nhỏ được sử dụng để lưu trữ đồ nội thất",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459828_0755671c42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459828_eebf983a67_o.png",
+      "id_image": "store_217806"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389972_47ebe9a215_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389972_624357064b_o.png",
+      "id_image": "store_390717"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700129_5f6334d844_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700129_494d9250db_o.png",
+      "id_image": "store_407810"
+    }
+  ]
+}

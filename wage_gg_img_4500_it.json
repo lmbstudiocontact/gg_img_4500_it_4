@@ -1,0 +1,58 @@
+{
+  "english": "wage",
+  "list_translation_mean": [
+    {
+      "translate_mean": "được trả lương cao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền công",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền lương",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a fixed regular payment, typically paid on a daily or weekly basis, made by an employer to an employee, especially to a manual or unskilled worker.",
+      "definitions_ex_en": "we were struggling to get better wages",
+      "definitions_ex_vn": "Chúng tôi đã vật lộn để có tiền lương tốt hơn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "carry on (a war or campaign).",
+      "definitions_ex_en": "it is necessary to destroy their capacity to wage war",
+      "definitions_ex_vn": "Cần phải phá hủy khả năng của họ để chiến tranh tiền lương",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454458_117f8158b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454458_2f4a0d5af6_o.png",
+      "id_image": "wage_2419709"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339506_9dd79c2e24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339506_2656a7e727_o.png",
+      "id_image": "wage_3003270"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454393_1a8a715b5c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454393_7dd6200c87_o.png",
+      "id_image": "wage_5308010"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694649_d98045efd5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694649_edb8964ea3_o.png",
+      "id_image": "wage_5796984"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694594_da064d4bea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694594_56002ace0c_o.png",
+      "id_image": "wage_6213869"
+    }
+  ]
+}

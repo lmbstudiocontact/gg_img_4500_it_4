@@ -1,0 +1,34 @@
+{
+  "english": "technology",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kỷ thuật học",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the application of scientific knowledge for practical purposes, especially in industry.",
+      "definitions_ex_en": "advances in computer technology",
+      "definitions_ex_vn": "Những tiến bộ trong công nghệ máy tính",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467868_963b7b7430_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467868_cce6cf25fc_o.png",
+      "id_image": "technology_1610456"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467843_9d7f7c24fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467843_8fdac96da8_o.png",
+      "id_image": "technology_3382619"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810090540_897419d9fa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810090540_9575513dff_o.png",
+      "id_image": "technology_752613"
+    }
+  ]
+}

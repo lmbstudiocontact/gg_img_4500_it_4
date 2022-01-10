@@ -1,0 +1,54 @@
+{
+  "english": "subscribe",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ký tên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quyên góp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "viết tên ở dưới",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "arrange to receive something regularly, typically a publication, by paying in advance.",
+      "definitions_ex_en": "subscribe to the magazine for twelve months and receive a free T-shirt",
+      "definitions_ex_vn": "Đăng ký Tạp chí Mười hai tháng và nhận được áo phông miễn phí",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "express or feel agreement with (an idea or proposal).",
+      "definitions_ex_en": "we prefer to subscribe to an alternative explanation",
+      "definitions_ex_vn": "Chúng tôi muốn đăng ký một lời giải thích thay thế",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "sign (a will, contract, or other document).",
+      "definitions_ex_en": "he subscribed the will as a witness",
+      "definitions_ex_vn": "Ông đã đăng ký sẽ là một nhân chứng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077360_5351540c27_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077360_f0676bc91c_o.png",
+      "id_image": "subscribe_2033254"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454963_64b35333cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454963_31232b6155_o.png",
+      "id_image": "subscribe_4659043"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695319_852a21fff8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695319_9a6947aaca_o.png",
+      "id_image": "subscribe_5638277"
+    }
+  ]
+}

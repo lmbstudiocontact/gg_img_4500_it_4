@@ -1,0 +1,55 @@
+{
+  "english": "snack",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bữa ăn qua loa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small amount of food eaten between meals.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sexually attractive person.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "eat a snack.",
+      "definitions_ex_en": "she likes to snack on yogurt",
+      "definitions_ex_vn": "Cô ấy thích ăn nhẹ vào sữa chua",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067245_877270b811_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067245_d93b40a0ae_o.png",
+      "id_image": "snack_2575818"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067220_2a03d46bdc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067220_5160f34fd1_o.png",
+      "id_image": "snack_3076094"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330381_baae4862ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330381_a443bd2936_o.png",
+      "id_image": "snack_439517"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067195_736ac76fc2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067195_c31a4e8b53_o.png",
+      "id_image": "snack_6347236"
+    }
+  ]
+}

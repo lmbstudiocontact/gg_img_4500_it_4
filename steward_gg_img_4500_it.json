@@ -1,0 +1,77 @@
+{
+  "english": "steward",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bồi dưới tàu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người quản lý",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người quản gia",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếp đải viên trên phi cơ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who looks after the passengers on a ship, aircraft, or train and brings them meals.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person responsible for supplies of food to a college, club, or other institution.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an official appointed to supervise arrangements or keep order at a large public event, for example a sporting event.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for shop steward.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person employed to manage another's property, especially a large house or estate.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of an official) supervise arrangements or keep order at (a large public event).",
+      "definitions_ex_en": "the event was organized and stewarded properly",
+      "definitions_ex_vn": "sự kiện đã được tổ chức và quản lý đúng đắn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "manage or look after (another's property).",
+      "definitions_ex_en": "security is found in reparticipating in community and stewarding nature",
+      "definitions_ex_vn": "An ninh được tìm thấy trong việc tham gia vào cộng đồng và tự nhiên quản lý",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461783_b38efb2c30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461783_f19c580c40_o.png",
+      "id_image": "steward_4079277"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461723_60e124ddd7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461723_15d4f70e70_o.png",
+      "id_image": "steward_4695774"
+    }
+  ]
+}

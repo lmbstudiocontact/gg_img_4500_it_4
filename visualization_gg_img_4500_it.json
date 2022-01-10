@@ -1,0 +1,44 @@
+{
+  "english": "visualization",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự gợi lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nhắc lại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the representation of an object, situation, or set of information as a chart or other image.",
+      "definitions_ex_en": "video systems allow visualization of the entire gastrointestinal tract",
+      "definitions_ex_vn": "Hệ thống video cho phép trực quan hóa toàn bộ đường tiêu hóa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the formation of a mental image of something.",
+      "definitions_ex_en": "the story uses descriptive language to aid visualization",
+      "definitions_ex_vn": "Câu chuyện sử dụng ngôn ngữ mô tả để hỗ trợ trực quan hóa",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386922_e8045c112a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386922_d7a88baf38_o.png",
+      "id_image": "visualization_2620706"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079295_4bc6527029_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079295_b52cde940b_o.png",
+      "id_image": "visualization_3308869"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079350_8314649f67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079350_000a8e539f_o.png",
+      "id_image": "visualization_538084"
+    }
+  ]
+}

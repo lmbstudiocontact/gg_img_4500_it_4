@@ -1,0 +1,32 @@
+{
+  "english": "wealthy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giàu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "giàu có",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "giàu sang",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "having a great deal of money, resources, or assets; rich.",
+      "definitions_ex_en": "the wealthy nations of the world",
+      "definitions_ex_vn": "các quốc gia giàu có của thế giới",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689529_224235b765_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689529_81b739e436_o.png",
+      "id_image": "wealthy_3776230"
+    }
+  ]
+}

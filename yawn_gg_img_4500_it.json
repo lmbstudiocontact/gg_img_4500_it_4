@@ -1,0 +1,54 @@
+{
+  "english": "yawn",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự ngáp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hé ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngáp",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "involuntarily open one's mouth wide and inhale deeply due to tiredness or boredom.",
+      "definitions_ex_en": "he began yawning and looking at his watch",
+      "definitions_ex_vn": "Anh bắt đầu ngáp và nhìn đồng hồ của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of an opening or space) be very large and wide.",
+      "definitions_ex_en": "she started inching back from the abyss that yawned before her",
+      "definitions_ex_vn": "Cô bắt đầu ló nhích trở lại từ vực thẳm ngáp trước cô",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a reflex act of opening one's mouth wide and inhaling deeply due to tiredness or boredom.",
+      "definitions_ex_en": "he stretches and stifles a yawn",
+      "definitions_ex_vn": "anh ta trải dài và kìm hãm một cái ngáp",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446223_3b6453653b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446223_71558d0bfd_o.png",
+      "id_image": "yawn_1128905"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686234_b1b02020e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686234_ee161247ab_o.png",
+      "id_image": "yawn_1128961"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686189_c342a944f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686189_6f63606c98_o.png",
+      "id_image": "yawn_5509051"
+    }
+  ]
+}

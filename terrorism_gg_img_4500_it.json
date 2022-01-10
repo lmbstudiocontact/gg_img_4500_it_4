@@ -1,0 +1,24 @@
+{
+  "english": "terrorism",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chánh sách khũng bố",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the unlawful use of violence and intimidation, especially against civilians, in the pursuit of political aims.",
+      "definitions_ex_en": "the fight against terrorism",
+      "definitions_ex_vn": "cuộc chiến chống khủng bố",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396402_50e92a928e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396402_79e7eeea40_o.png",
+      "id_image": "terrorism_2302747"
+    }
+  ]
+}

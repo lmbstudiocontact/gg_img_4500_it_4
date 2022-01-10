@@ -1,0 +1,34 @@
+{
+  "english": "topography",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phép họa đồ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the arrangement of the natural and artificial physical features of an area.",
+      "definitions_ex_en": "the topography of the island",
+      "definitions_ex_vn": "địa hình",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388277_063c1148d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388277_105af744f3_o.png",
+      "id_image": "topography_2568881"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388252_47621af133_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388252_8ea80a89f5_o.png",
+      "id_image": "topography_4370246"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388337_8a9673da20_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388337_8a0b2ae520_o.png",
+      "id_image": "topography_992288"
+    }
+  ]
+}

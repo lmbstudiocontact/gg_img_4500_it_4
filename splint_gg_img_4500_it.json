@@ -1,0 +1,56 @@
+{
+  "english": "splint",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bướu xương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bó miếng gổ vào xương gãy",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a strip of rigid material used for supporting and immobilizing a broken bone when it has been set.",
+      "definitions_ex_en": "she had to wear splints on her legs",
+      "definitions_ex_vn": "Cô phải mặc nẹp trên chân",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a long, thin strip of wood used to light a fire.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a bony enlargement on the inside of a horse's leg, on the splint bone.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "secure (a broken limb) with a splint or splints.",
+      "definitions_ex_en": "his leg was splinted",
+      "definitions_ex_vn": "chân anh được nẹp",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468148_51be96558e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468148_6b79275ff1_o.png",
+      "id_image": "splint_2209843"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468123_29ec16e7fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468123_b66f69cebf_o.png",
+      "id_image": "splint_3974932"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809353331_b76ab16a4c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809353331_28c530b6b5_o.png",
+      "id_image": "splint_6408760"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "english": "underground",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dưới đất",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ở dưới hầm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bí mật",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "kín",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "ở dưới đất",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "ở dưới hầm",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "khoảng ở dưới mặt đất",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "beneath the surface of the ground.",
+      "definitions_ex_en": "miners working underground",
+      "definitions_ex_vn": "Người khai thác làm việc ngầm",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "situated beneath the surface of the ground.",
+      "definitions_ex_en": "underground parking garages",
+      "definitions_ex_vn": "Bãi đậu xe ngầm",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a group or movement organized secretly to work against an existing regime.",
+      "definitions_ex_en": "I got involved with the French underground",
+      "definitions_ex_vn": "Tôi đã tham gia vào lòng đất Pháp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a group or movement seeking to explore alternative forms of lifestyle or artistic expression.",
+      "definitions_ex_en": "the late-sixties underground",
+      "definitions_ex_vn": "những năm sáu mươi tuổi dưới lòng đất",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809353976_1ccdd706de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809353976_4656c65f8a_o.png",
+      "id_image": "underground_1138100"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809353946_9e9d25e06d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809353946_79162ccb9b_o.png",
+      "id_image": "underground_2278424"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809353916_1d66c39ff4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809353916_5bc5de0198_o.png",
+      "id_image": "underground_6092365"
+    }
+  ]
+}

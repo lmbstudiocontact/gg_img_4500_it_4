@@ -1,0 +1,60 @@
+{
+  "english": "symbol",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ký hiệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật tượng trưng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a mark or character used as a conventional representation of an object, function, or process, e.g. the letter or letters standing for a chemical element or a character in musical notation.",
+      "definitions_ex_en": "the symbol r in Figure 5 represents a gene which is ineffective",
+      "definitions_ex_vn": "Biểu tượng R trong Hình 5 đại diện cho một gen không hiệu quả",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing that represents or stands for something else, especially a material object representing something abstract.",
+      "definitions_ex_en": "the limousine was another symbol of his wealth and authority",
+      "definitions_ex_vn": "chiếc limousine là một biểu tượng khác của sự giàu có và chính quyền của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "symbolize.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686164_cfba4e6ce3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686164_99da1df1b4_o.png",
+      "id_image": "symbol_1299385"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446048_9d57c6e252_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446048_59280e6b21_o.png",
+      "id_image": "symbol_2733303"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686099_b0de581ceb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686099_1ab2b53000_o.png",
+      "id_image": "symbol_4744308"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445988_2a4ff204e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445988_4817af6890_o.png",
+      "id_image": "symbol_4744330"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375857_8530fa98f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375857_0ac8ac6a74_o.png",
+      "id_image": "symbol_688030"
+    }
+  ]
+}

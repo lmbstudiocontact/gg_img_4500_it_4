@@ -1,0 +1,24 @@
+{
+  "english": "soprano",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giọng cao nhứt của đàn bà",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the highest of the four standard singing voices.",
+      "definitions_ex_en": "a piece composed for soprano, flute, and continuo",
+      "definitions_ex_vn": "một mảnh sáng tác cho soprano, sáo và continuo",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370697_b8a0a5678d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370697_7f4c1fdd65_o.png",
+      "id_image": "soprano_320488"
+    }
+  ]
+}

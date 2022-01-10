@@ -1,0 +1,44 @@
+{
+  "english": "summit",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chóp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đỉnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "độ tối cao",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the highest point of a hill or mountain.",
+      "definitions_ex_en": "she climbed back up the path toward the summit",
+      "definitions_ex_vn": "Cô trèo lên con đường về phía đỉnh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a meeting between heads of government.",
+      "definitions_ex_en": "a summit conference",
+      "definitions_ex_vn": "một cuộc họp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "reach the summit of (a mountain or hill).",
+      "definitions_ex_en": "in 2013, 658 climbers summited Everest",
+      "definitions_ex_vn": "Năm 2013, 658 người leo núi kỷ niệm Everest",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074940_d51104f6d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074940_5fd29498b0_o.png",
+      "id_image": "summit_2282493"
+    }
+  ]
+}

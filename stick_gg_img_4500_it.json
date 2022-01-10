@@ -1,0 +1,95 @@
+{
+  "english": "stick",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cán dù",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gậy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khúc củi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người không hăng hái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dán dính",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đâm người nào bằng dao gâm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gắn trên vật gì nhọn đầu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thin piece of wood that has fallen or been cut from a tree.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a long, thin piece of something.",
+      "definitions_ex_en": "a stick of dynamite",
+      "definitions_ex_vn": "một thanh nổ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a threat of punishment or unwelcome measures (often contrasted with the offer of reward as a means of persuasion).",
+      "definitions_ex_en": "training that relies more on the carrot than on the stick",
+      "definitions_ex_vn": "đào tạo phụ thuộc nhiều hơn trên củ cà rốt hơn trên cây gậy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person of a specified kind.",
+      "definitions_ex_en": "Janet's not such a bad old stick sometimes",
+      "definitions_ex_vn": "Đôi khi Janet không phải là một cây gậy cũ tồi tệ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "push a sharp or pointed object into or through (something).",
+      "definitions_ex_en": "he stuck his fork into the sausage",
+      "definitions_ex_vn": "Anh ta lấy nĩa vào xúc xích",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "insert, thrust, or push.",
+      "definitions_ex_en": "a youth with a cigarette stuck behind one ear",
+      "definitions_ex_vn": "một thanh niên với một điếu thuốc bị mắc kẹt đằng sau một tai",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "adhere or cling to something.",
+      "definitions_ex_en": "the plastic seats stuck to my skin",
+      "definitions_ex_vn": "Ghế nhựa bị mắc kẹt với làn da của tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be fixed in a particular position or unable to move or be moved.",
+      "definitions_ex_en": "Sara tried to open the window but it was stuck",
+      "definitions_ex_vn": "Sara cố gắng mở cửa sổ nhưng nó bị mắc kẹt",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084170_00bbfc2000_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084170_2aff594df3_o.png",
+      "id_image": "stick_3441385"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084200_e5ab064369_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084200_08c6f3f7e6_o.png",
+      "id_image": "stick_939445"
+    }
+  ]
+}

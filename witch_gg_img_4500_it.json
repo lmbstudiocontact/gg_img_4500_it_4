@@ -1,0 +1,51 @@
+{
+  "english": "witch",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bà phù thủy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dùng tà thuật mê hoặc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a woman thought to have magic powers, especially evil ones, popularly depicted as wearing a black cloak and pointed hat and flying on a broomstick.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a woman who is bewitchingly attractive.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an edible North Atlantic flatfish that is of some commercial value.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cast an evil spell on.",
+      "definitions_ex_en": "Mrs. Mucharski had somehow witched the house",
+      "definitions_ex_vn": "Bà Rausarski đã bằng cách nào đó phù thủy",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072715_25f23c4acc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072715_1abec9aa7b_o.png",
+      "id_image": "witch_3957321"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335746_9522d709b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335746_ffeba20a35_o.png",
+      "id_image": "witch_5345521"
+    }
+  ]
+}

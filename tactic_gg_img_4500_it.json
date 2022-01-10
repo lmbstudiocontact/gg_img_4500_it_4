@@ -1,0 +1,34 @@
+{
+  "english": "tactic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "binh pháp",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an action or strategy carefully planned to achieve a specific end.",
+      "definitions_ex_en": "the minority attempted to control the Council by a delaying tactic",
+      "definitions_ex_vn": "thiểu số đã cố gắng kiểm soát hội đồng bằng chiến thuật trì hoãn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065280_a91a2557a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065280_2baaf05ce8_o.png",
+      "id_image": "tactic_2721537"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373147_94e1bc17ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373147_c2b0e453e4_o.png",
+      "id_image": "tactic_4443643"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683464_524c2d02f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683464_52dbdb0d6d_o.png",
+      "id_image": "tactic_4695194"
+    }
+  ]
+}

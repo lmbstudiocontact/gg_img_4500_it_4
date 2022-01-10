@@ -1,0 +1,30 @@
+{
+  "english": "turner",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thợ tiện",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who is skilled in turning wood on a lathe.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an implement that can be used to turn or flip something over.",
+      "definitions_ex_en": "a pancake turner",
+      "definitions_ex_vn": "một bánh pancake",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328281_d246e232fa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328281_46c7a190ab_o.png",
+      "id_image": "turner_1041616"
+    }
+  ]
+}

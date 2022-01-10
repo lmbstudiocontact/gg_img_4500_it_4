@@ -1,0 +1,48 @@
+{
+  "english": "surveillance",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự kiểm soát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trông nom",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "close observation, especially of a suspected spy or criminal.",
+      "definitions_ex_en": "he found himself put under surveillance by military intelligence",
+      "definitions_ex_vn": "anh ta thấy mình được giám sát bởi trí thông minh quân sự",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450343_86a5c6fe76_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450343_afbc405c86_o.png",
+      "id_image": "surveillance_2419699"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072240_045d32d80c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072240_9b19f282e2_o.png",
+      "id_image": "surveillance_2472909"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690439_10672aae1f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690439_0cf60d6b80_o.png",
+      "id_image": "surveillance_2857741"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380442_11cef51a22_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380442_d1d2e71864_o.png",
+      "id_image": "surveillance_381261"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690404_bdb4407d59_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690404_4f212a899a_o.png",
+      "id_image": "surveillance_5612782"
+    }
+  ]
+}

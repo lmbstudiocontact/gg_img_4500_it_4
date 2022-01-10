@@ -1,0 +1,56 @@
+{
+  "english": "story",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cách sắp đặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "câu chuyện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lới nói láo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiểu sử",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "truyện",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an account of imaginary or real people and events told for entertainment.",
+      "definitions_ex_en": "an adventure story",
+      "definitions_ex_vn": "một câu chuyện phiêu lưu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an account of past events in someone's life or in the evolution of something.",
+      "definitions_ex_en": "the story of modern farming",
+      "definitions_ex_vn": "Câu chuyện về nông nghiệp hiện đại",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459288_4485129be7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459288_a1d0f8bd7e_o.png",
+      "id_image": "story_1547253"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081930_1c20179bf4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081930_47eca1b835_o.png",
+      "id_image": "story_2433350"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389457_24a2d6c155_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389457_7495226272_o.png",
+      "id_image": "story_306127"
+    }
+  ]
+}

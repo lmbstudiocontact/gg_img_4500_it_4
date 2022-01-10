@@ -1,0 +1,34 @@
+{
+  "english": "signboard",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nơi ký tên",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a board displaying the name or logo of a business or product.",
+      "definitions_ex_en": "a shop with its name painted on a signboard over the door",
+      "definitions_ex_vn": "một cửa hàng với tên của nó được vẽ trên một bảng hiệu trên cửa",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384227_9f9510f6f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384227_010c15b37a_o.png",
+      "id_image": "signboard_290960"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384217_8f3c78497f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384217_56b22b5e73_o.png",
+      "id_image": "signboard_699676"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076380_b9d374b85f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076380_2ce9a55e70_o.png",
+      "id_image": "signboard_958900"
+    }
+  ]
+}

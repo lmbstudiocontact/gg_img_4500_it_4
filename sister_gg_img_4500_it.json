@@ -1,0 +1,46 @@
+{
+  "english": "sister",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "em gái",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a woman or girl in relation to other daughters and sons of her parents.",
+      "definitions_ex_en": "I had nine brothers and sisters",
+      "definitions_ex_vn": "Tôi đã có chín anh chị em",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a close female friend or associate, especially a female fellow member of a labor union or other organization.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a member of a religious order or congregation of women.",
+      "definitions_ex_en": "the sisters announced that there would be a special rosary every morning",
+      "definitions_ex_vn": "Các chị em tuyên bố sẽ có một chuỗi tràng hạt đặc biệt mỗi sáng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "denoting an organization or place that bears a relationship to another of common origin or allegiance or mutual association.",
+      "definitions_ex_en": "a sister ship",
+      "definitions_ex_vn": "một chị gái",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073910_e0d3782b17_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073910_3697e32e0f_o.png",
+      "id_image": "sister_4842391"
+    }
+  ]
+}

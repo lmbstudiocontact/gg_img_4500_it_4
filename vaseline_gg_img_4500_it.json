@@ -1,0 +1,30 @@
+{
+  "english": "vaseline",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sáp mỡ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a type of petroleum jelly used as an ointment and lubricant.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cover or smear with Vaseline.",
+      "definitions_ex_en": "the doors glide open as if their rails have been vaselined",
+      "definitions_ex_vn": "Các cánh cửa lướt mở như thể đường ray của chúng đã bị vaselined",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347971_14422c0802_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347971_fdd5fe8548_o.png",
+      "id_image": "vaseline_4532393"
+    }
+  ]
+}

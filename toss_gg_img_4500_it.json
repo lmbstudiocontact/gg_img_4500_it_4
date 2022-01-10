@@ -1,0 +1,60 @@
+{
+  "english": "toss",
+  "list_translation_mean": [
+    {
+      "translate_mean": "quăng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lăn lộn trên giường",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "liệng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ném",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sự liệng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự quăng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự té ngựa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "throw (something) somewhere lightly, easily, or casually.",
+      "definitions_ex_en": "Suzy tossed her bag onto the sofa",
+      "definitions_ex_vn": "Suzy ném túi lên ghế sofa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "move or cause to move from side to side or back and forth.",
+      "definitions_ex_en": "the trees tossed in the wind",
+      "definitions_ex_vn": "Những cái cây quăng trong gió",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an action or instance of tossing something.",
+      "definitions_ex_en": "a defiant toss of her head",
+      "definitions_ex_vn": "một sự thách thức ném đầu của cô ấy",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080215_94dbe6de8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080215_d9d086599d_o.png",
+      "id_image": "toss_5488509"
+    }
+  ]
+}

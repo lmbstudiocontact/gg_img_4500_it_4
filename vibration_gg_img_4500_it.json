@@ -1,0 +1,33 @@
+{
+  "english": "vibration",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự lung lay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự rung",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an instance of vibrating.",
+      "definitions_ex_en": "powerful vibrations from an earthquake",
+      "definitions_ex_vn": "rung động",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390137_94bdee9e52_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390137_0476361ed3_o.png",
+      "id_image": "vibration_2646891"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345151_27b7d706d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345151_aa5837453d_o.png",
+      "id_image": "vibration_6254024"
+    }
+  ]
+}

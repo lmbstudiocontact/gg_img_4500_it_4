@@ -1,0 +1,34 @@
+{
+  "english": "sterile",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khô khan",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không sanh sản",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "not able to produce children or young.",
+      "definitions_ex_en": "the disease had made him sterile",
+      "definitions_ex_vn": "Bệnh đã khiến anh ta vô trùng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "free from bacteria or other living microorganisms; totally clean.",
+      "definitions_ex_en": "a sterile needle and syringes",
+      "definitions_ex_vn": "một kim và ống tiêm vô trùng",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084585_14db9f04bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084585_2974268150_o.png",
+      "id_image": "sterile_5903994"
+    }
+  ]
+}

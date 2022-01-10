@@ -1,0 +1,44 @@
+{
+  "english": "upgrade",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dốc lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trèo lên",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "raise (something) to a higher standard, in particular improve (equipment or machinery) by adding or replacing components.",
+      "definitions_ex_en": "the cost of upgrading each workstation is around $300",
+      "definitions_ex_vn": "Chi phí nâng cấp mỗi máy trạm là khoảng $ 300",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of upgrading something.",
+      "definitions_ex_en": "a room upgrade from a twin to a duplex suite",
+      "definitions_ex_vn": "một căn phòng nâng cấp từ một đôi đến một bộ song công",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466388_d062bf6208_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466388_7531bbd1a1_o.png",
+      "id_image": "upgrade_2790406"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809351916_7631b5dbb2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809351916_b13cd0e491_o.png",
+      "id_image": "upgrade_3231374"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089045_821b6f1d9e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089045_181dd6d613_o.png",
+      "id_image": "upgrade_5956427"
+    }
+  ]
+}

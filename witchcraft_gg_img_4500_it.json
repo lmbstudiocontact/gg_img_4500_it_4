@@ -1,0 +1,28 @@
+{
+  "english": "witchcraft",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ma thuật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sức quyến rủ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the practice of magic, especially black magic; the use of spells.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380757_cdac62861e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380757_ddc682c170_o.png",
+      "id_image": "witchcraft_5471752"
+    }
+  ]
+}

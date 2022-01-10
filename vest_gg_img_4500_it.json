@@ -1,0 +1,56 @@
+{
+  "english": "vest",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phong cho",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ban cho",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giao cho",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "áo gi lê",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "áo không tay không cổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "áo lá",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a garment worn on the upper part of the body for a particular purpose or activity.",
+      "definitions_ex_en": "a running vest",
+      "definitions_ex_vn": "một vest chạy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "confer or bestow (power, authority, property, etc.) on someone.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a chorister or member of the clergy) put on vestments.",
+      "definitions_ex_en": "he approaches the altar to vest for Mass",
+      "definitions_ex_vn": "Anh tiếp cận bàn thờ để vest cho hàng loạt",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460318_7d1be00582_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460318_9b0b254e89_o.png",
+      "id_image": "vest_1373396"
+    }
+  ]
+}

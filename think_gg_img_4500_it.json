@@ -1,0 +1,67 @@
+{
+  "english": "think",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nghĩ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nghĩ ngợi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "suy nghĩ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tưởng tượng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ý định",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "have a particular opinion, belief, or idea about someone or something.",
+      "definitions_ex_en": "she thought that nothing would be the same again",
+      "definitions_ex_vn": "Cô nghĩ rằng không có gì sẽ giống nhau một lần nữa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "direct one's mind toward someone or something; use one's mind actively to form connected ideas.",
+      "definitions_ex_en": "he was thinking about Colin",
+      "definitions_ex_vn": "Anh đang nghĩ về Colin",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of thinking.",
+      "definitions_ex_en": "I went for a walk to have a think",
+      "definitions_ex_vn": "Tôi đã đi dạo để có một suy nghĩ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086800_8fb787490a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086800_395111e844_o.png",
+      "id_image": "think_1285375"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464263_a69db36371_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464263_b7fd34bb8c_o.png",
+      "id_image": "think_2244730"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704219_f764dea4b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704219_17380f1375_o.png",
+      "id_image": "think_3636168"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464218_913dae466c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464218_daa5d69109_o.png",
+      "id_image": "think_4576351"
+    }
+  ]
+}

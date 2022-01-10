@@ -1,0 +1,103 @@
+{
+  "english": "stop",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thôi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bịt lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dừng lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đình chỉ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngăn cản",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngừng lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chổ ngừng lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dấu chấm câu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dừng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đìêm dừng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ngưng lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tạm nghĩ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of an event, action, or process) come to an end; cease to happen.",
+      "definitions_ex_en": "his laughter stopped as quickly as it had begun",
+      "definitions_ex_vn": "Tiếng cười của anh dừng lại nhanh như nó đã bắt đầu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cause (an action, process, or event) to come to an end.",
+      "definitions_ex_en": "this harassment has got to be stopped",
+      "definitions_ex_vn": "Sự quấy rối này đã được dừng lại",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "block or close up (a hole or leak).",
+      "definitions_ex_en": "he tried to stop the hole with the heel of his boot",
+      "definitions_ex_vn": "Anh ta đã cố gắng ngăn chặn lỗ với gót chân của anh ấy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a cessation of movement or operation.",
+      "definitions_ex_en": "all business came to a stop",
+      "definitions_ex_vn": "Tất cả các doanh nghiệp dừng lại",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a set of organ pipes of a particular tone and range of pitch.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the effective diameter of a lens.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345256_89cb93d300_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345256_e238c32741_o.png",
+      "id_image": "stop_1178811"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390202_015fef04d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390202_420c9e9043_o.png",
+      "id_image": "stop_2767760"
+    }
+  ]
+}

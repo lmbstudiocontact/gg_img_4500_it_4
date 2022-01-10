@@ -1,0 +1,28 @@
+{
+  "english": "venom",
+  "list_translation_mean": [
+    {
+      "translate_mean": "độc ác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nọc độc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a poisonous substance secreted by animals such as snakes, spiders, and scorpions and typically injected into prey or aggressors by biting or stinging.",
+      "definitions_ex_en": "snake venoms have different effects",
+      "definitions_ex_vn": "Venom rắn có tác dụng khác nhau",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391722_bc3f4c337b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391722_5bdaba079b_o.png",
+      "id_image": "venom_5671603"
+    }
+  ]
+}

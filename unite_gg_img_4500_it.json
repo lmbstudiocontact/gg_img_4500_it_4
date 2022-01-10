@@ -1,0 +1,46 @@
+{
+  "english": "unite",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đoàn kết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hợp làm một",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kết hợp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nối làm một",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "come or bring together for a common purpose or action.",
+      "definitions_ex_en": "he called on the party to unite",
+      "definitions_ex_vn": "Ông kêu gọi tiệc tùng để đoàn kết",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809707419_5ffe539df0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809707419_072e26a491_o.png",
+      "id_image": "unite_232954"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809707384_aaf6089474_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809707384_25b15ee093_o.png",
+      "id_image": "unite_2844578"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809707364_3a47224953_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809707364_c6a43300c2_o.png",
+      "id_image": "unite_5376888"
+    }
+  ]
+}

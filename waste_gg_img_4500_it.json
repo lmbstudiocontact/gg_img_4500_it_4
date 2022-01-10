@@ -1,0 +1,141 @@
+{
+  "english": "waste",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bị tàn phá",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không dùng nữa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vô giá trị",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đất bỏ hoang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồng hoang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hao mòn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xài phí",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hoang địa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "không trồng trọt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm hao mòn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phá hoại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tàn phá",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phung phí",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "use or expend carelessly, extravagantly, or to no purpose.",
+      "definitions_ex_en": "we can't afford to waste electricity",
+      "definitions_ex_vn": "Chúng ta không thể đủ khả năng để lãng phí điện",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a person or a part of the body) become progressively weaker and more emaciated.",
+      "definitions_ex_en": "she was visibly wasting away",
+      "definitions_ex_vn": "cô ấy đã lãng phí rõ ràng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "devastate or ruin (a place).",
+      "definitions_ex_en": "he seized their cattle and wasted their country",
+      "definitions_ex_vn": "anh ta nắm lấy gia súc của họ và lãng phí đất nước của họ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of time) pass away; be spent.",
+      "definitions_ex_en": "the years were wasting",
+      "definitions_ex_vn": "những năm đã lãng phí",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a material, substance, or byproduct) eliminated or discarded as no longer useful or required after the completion of a process.",
+      "definitions_ex_en": "ensure that waste materials are disposed of responsibly",
+      "definitions_ex_vn": "đảm bảo rằng vật liệu thải được xử lý có trách nhiệm",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of an area of land, typically in a city or town) not used, cultivated, or built on.",
+      "definitions_ex_en": "a patch of waste ground",
+      "definitions_ex_vn": "một miếng đất thải",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "an act or instance of using or expending something carelessly, extravagantly, or to no purpose.",
+      "definitions_ex_en": "it's a waste of time trying to argue with him",
+      "definitions_ex_vn": "Thật lãng phí thời gian cố gắng tranh luận với anh ta",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "material that is not wanted; the unusable remains or byproducts of something.",
+      "definitions_ex_en": "bodily waste",
+      "definitions_ex_vn": "chất thải cơ thể",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a large area of barren, typically uninhabited land.",
+      "definitions_ex_en": "the icy wastes of the Antarctic",
+      "definitions_ex_vn": "chất thải băng giá của Nam Cực",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "damage to an estate caused by an act or by neglect, especially by a life-tenant.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336111_1c338629f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336111_e4c87977e4_o.png",
+      "id_image": "waste_2372112"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336161_f7a68d2d21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336161_a4d2055862_o.png",
+      "id_image": "waste_315286"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691469_91f26bdab4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691469_13e28c962d_o.png",
+      "id_image": "waste_416237"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691364_c22242b939_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691364_9a131301ee_o.png",
+      "id_image": "waste_4465658"
+    }
+  ]
+}

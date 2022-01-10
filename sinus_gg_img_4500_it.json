@@ -1,0 +1,34 @@
+{
+  "english": "sinus",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bị ty xoang viêm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chứng xưng xoang mũi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a cavity within a bone or other tissue, especially one in the bones of the face or skull connecting with the nasal cavities.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "relating to or denoting the sinoatrial node of the heart or its function as a pacemaker.",
+      "definitions_ex_en": "sinus rhythm",
+      "definitions_ex_vn": "nhịp xoang",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337131_1bd92facc2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337131_7752fc1ea3_o.png",
+      "id_image": "sinus_2332814"
+    }
+  ]
+}

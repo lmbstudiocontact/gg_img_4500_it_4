@@ -1,0 +1,33 @@
+{
+  "english": "sunrise",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lúc mặt trời mọc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mặt trời mọc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the time in the morning when the sun appears or full daylight arrives.",
+      "definitions_ex_en": "an hour before sunrise",
+      "definitions_ex_vn": "một giờ trước khi mặt trời mọc",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074500_6ce52fcb48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074500_db22e9130d_o.png",
+      "id_image": "sunrise_286614"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337416_21c90ca738_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337416_bd61956d2a_o.png",
+      "id_image": "sunrise_5493270"
+    }
+  ]
+}

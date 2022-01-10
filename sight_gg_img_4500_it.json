@@ -1,0 +1,102 @@
+{
+  "english": "sight",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đường nhắm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hiện ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quang cảnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sức trông thấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhản lực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thắng cảnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thị giác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thị lực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhắm mục tiêu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quan sát",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trắc nghiệm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trông thấy",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the faculty or power of seeing.",
+      "definitions_ex_en": "Joseph lost his sight as a baby",
+      "definitions_ex_vn": "Joseph mất tầm nhìn như một đứa bé",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing that one sees or that can be seen.",
+      "definitions_ex_en": "John was a familiar sight in the bar for many years",
+      "definitions_ex_vn": "John là một cảnh tượng quen thuộc trong quán bar trong nhiều năm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a device on a gun or optical instrument used for assisting a person's precise aim or observation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "manage to see or observe (someone or something); catch an initial glimpse of.",
+      "definitions_ex_en": "tell me when you sight London Bridge",
+      "definitions_ex_vn": "Nói cho tôi biết khi bạn nhìn thấy cầu London",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "take aim by looking through the sights of a gun.",
+      "definitions_ex_en": "she sighted down the barrel",
+      "definitions_ex_vn": "Cô nhìn xuống thùng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077210_9fbbe3cd36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077210_b0b3248284_o.png",
+      "id_image": "sight_4751525"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339951_df8726f4cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339951_83661a8a0b_o.png",
+      "id_image": "sight_4893340"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077125_11b46557b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077125_9a30a3b141_o.png",
+      "id_image": "sight_5940029"
+    }
+  ]
+}

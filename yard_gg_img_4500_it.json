@@ -1,0 +1,48 @@
+{
+  "english": "yard",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sân có rào chung quanh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thước anh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trục buồm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a unit of linear measure equal to 3 feet (0.9144 meter).",
+      "definitions_ex_en": "a full skirt that took twenty yards of cloth",
+      "definitions_ex_vn": "một chiếc váy đầy đủ gấp hai mươi mét vải",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a cylindrical spar, tapering to each end, slung across a ship's mast for a sail to hang from.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331406_826e2953f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331406_3baca8f6ca_o.png",
+      "id_image": "yard_306705"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068095_6d074aa152_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068095_9dd976dcb4_o.png",
+      "id_image": "yard_5234304"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446303_39ecba16fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446303_6853096c98_o.png",
+      "id_image": "yard_5776764"
+    }
+  ]
+}

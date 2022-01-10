@@ -1,0 +1,39 @@
+{
+  "english": "woodwork",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nghề làm đồ gỗ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the wooden parts of a room or building, such as window frames or doors.",
+      "definitions_ex_en": "the woodwork was painted blue",
+      "definitions_ex_vn": "Đồ gỗ được sơn màu xanh",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449613_1864221e0f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449613_45cbdf8aef_o.png",
+      "id_image": "woodwork_2332941"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689704_845fd5b3b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689704_4c68e74cc4_o.png",
+      "id_image": "woodwork_2472982"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689669_ec0b4dc88f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689669_9ba117fdf9_o.png",
+      "id_image": "woodwork_2472984"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689639_3af6481a6f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689639_4ab225447e_o.png",
+      "id_image": "woodwork_2472995"
+    }
+  ]
+}

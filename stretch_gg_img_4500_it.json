@@ -1,0 +1,128 @@
+{
+  "english": "stretch",
+  "list_translation_mean": [
+    {
+      "translate_mean": "căng ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "duổi tay chân ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kéo ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nằm dài ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nới rộng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "diện tích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khoảng rộng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nghĩa rộng của một chữ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kéo dài ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự dơ ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự duổi ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vươn ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính giản ra rút lại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of something soft or elastic) be made or be capable of being made longer or wider without tearing or breaking.",
+      "definitions_ex_en": "my sweater stretched in the wash",
+      "definitions_ex_vn": "áo len của tôi kéo dài trong rửa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "straighten or extend one's body or a part of one's body to its full length, typically so as to tighten one's muscles or in order to reach something.",
+      "definitions_ex_en": "the cat yawned and stretched",
+      "definitions_ex_vn": "Con mèo ngáp và kéo dài",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "extend or spread over an area or period of time.",
+      "definitions_ex_en": "the beach stretches for over four miles",
+      "definitions_ex_vn": "bãi biển trải dài cho hơn bốn dặm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make great demands on the capacity or resources of.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of stretching one's limbs or body.",
+      "definitions_ex_en": "I got up and had a stretch",
+      "definitions_ex_vn": "Tôi đứng dậy và bị căng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a continuous area or expanse of land or water.",
+      "definitions_ex_en": "a treacherous stretch of road",
+      "definitions_ex_vn": "một dải đường nguy hiểm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a stretch limo.",
+      "definitions_ex_en": "a chauffeur-driven stretch",
+      "definitions_ex_vn": "một sự căng thẳng theo chuau",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342656_428649be3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342656_5f407fce8c_o.png",
+      "id_image": "stretch_1140864"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080120_efa1605a0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080120_57b348c20c_o.png",
+      "id_image": "stretch_4601186"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080085_56eac5c4f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080085_524f92ea0c_o.png",
+      "id_image": "stretch_4760683"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387557_ba4a3b0476_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387557_7d2de21f29_o.png",
+      "id_image": "stretch_5375386"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342481_b0c5c412b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342481_0933741401_o.png",
+      "id_image": "stretch_5830739"
+    }
+  ]
+}

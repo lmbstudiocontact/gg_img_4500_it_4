@@ -1,0 +1,48 @@
+{
+  "english": "vegetarian",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chay",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người chủ trương ăn chay",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người ăn chay",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who does not eat meat, and sometimes other animal products, especially for moral, religious, or health reasons.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "relating to the exclusion of meat or other animal products from the diet.",
+      "definitions_ex_en": "a vegetarian restaurant",
+      "definitions_ex_vn": "một nhà hàng chay",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702229_d6447735cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702229_77f1c2a917_o.png",
+      "id_image": "vegetarian_2117277"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462148_a493ef44ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462148_4dd2b48464_o.png",
+      "id_image": "vegetarian_2689436"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462113_70432171ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462113_1c5f7c57fb_o.png",
+      "id_image": "vegetarian_5635512"
+    }
+  ]
+}

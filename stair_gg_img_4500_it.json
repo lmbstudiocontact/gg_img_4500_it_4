@@ -1,0 +1,38 @@
+{
+  "english": "stair",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cấp thang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nấc thang",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a set of steps leading from one floor of a building to another, typically inside the building.",
+      "definitions_ex_en": "he came up the stairs",
+      "definitions_ex_vn": "Anh đến cầu thang",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350421_81066abcc6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350421_7c14352131_o.png",
+      "id_image": "stair_1533284"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704939_4f351c4c91_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704939_94b1113c17_o.png",
+      "id_image": "stair_5798480"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087555_9d632d00ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087555_3bb40c5560_o.png",
+      "id_image": "stair_6342781"
+    }
+  ]
+}

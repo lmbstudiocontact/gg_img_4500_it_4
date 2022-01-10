@@ -1,0 +1,117 @@
+{
+  "english": "train",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đoàn người đi sau hầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đoàn tùy tùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xe lửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xe trượt tuyết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đoàn xe lửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đuôi quét đất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đào luyện",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi xe lửa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "huấn luyện",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho cây leo lên",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "teach (a person or animal) a particular skill or type of behavior through practice and instruction over a period of time.",
+      "definitions_ex_en": "the plan trains people for promotion",
+      "definitions_ex_vn": "Kế hoạch đào tạo người để khuyến mãi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "point or aim something, typically a gun or camera, at.",
+      "definitions_ex_en": "the detective trained his gun on the side door",
+      "definitions_ex_vn": "Thám tử huấn luyện súng của mình ở cửa bên",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "go by train.",
+      "definitions_ex_en": "Charles trained to Chicago with Emily",
+      "definitions_ex_vn": "Charles được đào tạo đến Chicago với Emily",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "entice (someone) by offering pleasure or a reward.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a series of railroad cars moved as a unit by a locomotive or by integral motors.",
+      "definitions_ex_en": "a freight train",
+      "definitions_ex_vn": "một chuyến tàu chở hàng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a succession of vehicles or pack animals traveling in the same direction.",
+      "definitions_ex_en": "a camel train",
+      "definitions_ex_vn": "một chuyến tàu lạc đà",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a long piece of material attached to the back of a formal dress or robe that trails along the ground.",
+      "definitions_ex_en": "the bride wore a cream silk dress with a train",
+      "definitions_ex_vn": "Cô dâu mặc một chiếc váy lụa kem với một chuyến tàu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a trail of gunpowder for firing an explosive charge.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339891_6066407a0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339891_c1110cf051_o.png",
+      "id_image": "train_613864"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695034_c9ea55f46b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695034_e09b02e55a_o.png",
+      "id_image": "train_619160"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454723_8d48322a20_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454723_c5fe98c072_o.png",
+      "id_image": "train_870120"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076945_8674bc6fe7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076945_29c6335be4_o.png",
+      "id_image": "train_952356"
+    }
+  ]
+}

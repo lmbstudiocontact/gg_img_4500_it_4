@@ -1,0 +1,29 @@
+{
+  "english": "stormy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về bảo tố",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of weather) characterized by strong winds and usually rain, thunder, lightning, or snow.",
+      "definitions_ex_en": "a dark and stormy night",
+      "definitions_ex_vn": "Một đêm tối và bão tố",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699689_410e6d34a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699689_7e2b1544d6_o.png",
+      "id_image": "stormy_3217139"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389492_57958b83a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389492_7f99bf5b68_o.png",
+      "id_image": "stormy_3217141"
+    }
+  ]
+}

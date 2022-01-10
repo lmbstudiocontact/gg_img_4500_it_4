@@ -1,0 +1,35 @@
+{
+  "english": "zoo",
+  "list_translation_mean": [
+    {
+      "translate_mean": "vườn bách thú",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an establishment which maintains a collection of wild animals, typically in a park or gardens, for study, conservation, or display to the public.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "of animals; relating to animal life.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "combining form"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445028_11d3d18f2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445028_24d750a167_o.png",
+      "id_image": "zoo_831506"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684944_c3afbb4c84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684944_a4ab4922fd_o.png",
+      "id_image": "zoo_848571"
+    }
+  ]
+}

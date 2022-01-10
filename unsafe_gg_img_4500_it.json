@@ -1,0 +1,37 @@
+{
+  "english": "unsafe",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cột không chắc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không chắn chắc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nguy hiểm",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "not safe; dangerous.",
+      "definitions_ex_en": "drinking water in some areas may be unsafe",
+      "definitions_ex_vn": "Nước uống ở một số khu vực có thể không an toàn",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089360_8c13ed0a6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089360_b9b4d353f7_o.png",
+      "id_image": "unsafe_3380405"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706589_5a0ddbf028_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706589_e9a44efdb5_o.png",
+      "id_image": "unsafe_4628151"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "english": "terminal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuối cùng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cuối trạm ga",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ở cuối",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sau cùng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vạch địa giới",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "định giới hạn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ga cuối cùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà ga phi trường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần sau chót",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trạm cuối cùng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of, forming, or situated at the end or extremity of something.",
+      "definitions_ex_en": "a terminal date",
+      "definitions_ex_vn": "một ngày đầu cuối",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a disease) predicted to lead to death, especially slowly; incurable.",
+      "definitions_ex_en": "terminal cancer",
+      "definitions_ex_vn": "Ung thư thiết bị đầu cuối",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "the end of a railroad or other transport route, or a station at such a point.",
+      "definitions_ex_en": "a freight terminal",
+      "definitions_ex_vn": "một nhà ga vận chuyển hàng hóa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a point of connection for closing an electric circuit.",
+      "definitions_ex_en": "battery terminals",
+      "definitions_ex_vn": "pin yếu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a device at which a user enters data or commands for a computer system and which displays the received output.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "another term for terminus (sense 3 of the noun).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089240_4d174aa193_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089240_b28b5ca3e8_o.png",
+      "id_image": "terminal_1546645"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706479_61d15a2ccf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706479_38a7e6e124_o.png",
+      "id_image": "terminal_2540838"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089180_f0872e2ab3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089180_970a19dcb8_o.png",
+      "id_image": "terminal_4248495"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089145_0a530c1356_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089145_9d9b600062_o.png",
+      "id_image": "terminal_6395227"
+    }
+  ]
+}

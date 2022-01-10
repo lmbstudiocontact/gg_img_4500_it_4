@@ -1,0 +1,158 @@
+{
+  "english": "trip",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bước nhẹ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chuyến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hụt chân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ngoéo chân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chuyến đi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trợt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc đi chơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc du lãm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc du ngoạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đi bước nhẹ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hụt chân",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vấp ngã",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lầm lổi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quèo chân người nào",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "catch one's foot on something and stumble or fall.",
+      "definitions_ex_en": "he tripped over his cat",
+      "definitions_ex_vn": "Anh vấp con mèo của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "walk, run, or dance with quick light steps.",
+      "definitions_ex_en": "they tripped up the terrace steps",
+      "definitions_ex_vn": "Họ vấp phải các bước sân thượng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "activate (a mechanism), especially by contact with a switch, catch, or other electrical device.",
+      "definitions_ex_en": "an intruder trips the alarm",
+      "definitions_ex_vn": "Một kẻ xâm nhập đã đưa ra báo động",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "release and raise (an anchor) from the seabed by means of a buoyed line attached to the anchor's crown.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "experience hallucinations induced by taking a psychedelic drug, especially LSD.",
+      "definitions_ex_en": "they prance around tripping out on their hallucinogens",
+      "definitions_ex_vn": "Họ vạn năng xung quanh vấp ngã trên ảo giác của họ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "go on a short journey.",
+      "definitions_ex_en": "when tripping through the Yukon take some time to explore our museums",
+      "definitions_ex_vn": "Khi vấp ngã qua Yukon dành thời gian để khám phá các bảo tàng của chúng tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of going to a place and returning; a journey or excursion, especially for pleasure.",
+      "definitions_ex_en": "Sally's gone on a school trip",
+      "definitions_ex_vn": "Sally đã đi trong một chuyến đi học",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a stumble or fall due to catching one's foot on something.",
+      "definitions_ex_en": "trips and falls cause nearly half of all accidents",
+      "definitions_ex_vn": "Các chuyến đi và thác gây ra gần một nửa số vụ tai nạn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a hallucinatory experience caused by taking a psychedelic drug, especially LSD.",
+      "definitions_ex_en": "acid trips",
+      "definitions_ex_vn": "TRIP ACID",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a device that activates or disconnects a mechanism, circuit, etc.",
+      "definitions_ex_en": "a trip mechanism",
+      "definitions_ex_vn": "một cơ chế chuyến đi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a light, lively movement of a person's feet.",
+      "definitions_ex_en": "yonder comes Dalinda; I know her by her trip",
+      "definitions_ex_vn": "đằng kia đến Dalinda ; Tôi biết cô ấy bởi chuyến đi của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a flock or group of goats, sheep, or other animals.",
+      "definitions_ex_en": "she exchanged her cows for a trip of goats",
+      "definitions_ex_vn": "Cô trao đổi những con bò của mình cho một chuyến đi của những con dê",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small flock of wildfowl.",
+      "definitions_ex_en": "a small trip of dotterel alighted on the cricket field",
+      "definitions_ex_vn": "Một chuyến đi nhỏ của Dotterel bị gạt trên cánh đồng cricket",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688119_de4a3e3e2c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688119_45c9161164_o.png",
+      "id_image": "trip_2073199"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069925_7973132b6f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069925_71e90253f6_o.png",
+      "id_image": "trip_3899191"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333146_0bd09d5b78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333146_1f177aae35_o.png",
+      "id_image": "trip_980771"
+    }
+  ]
+}

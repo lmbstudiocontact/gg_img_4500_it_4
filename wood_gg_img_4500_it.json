@@ -1,0 +1,47 @@
+{
+  "english": "wood",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây cối trong rừng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gỗ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rừng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thùng đựng rượu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the hard fibrous material that forms the main substance of the trunk or branches of a tree or shrub, used for fuel or timber.",
+      "definitions_ex_en": "a block of wood",
+      "definitions_ex_vn": "một khối gỗ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an area of land, smaller than a forest, that is covered with growing trees.",
+      "definitions_ex_en": "a thick hedge divided the wood from the field",
+      "definitions_ex_vn": "một hàng rào dày chia gỗ từ cánh đồng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071930_02e9b48e5f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071930_0b6c8bc605_o.png",
+      "id_image": "wood_2153138"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450053_2d2b012539_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450053_1046686522_o.png",
+      "id_image": "wood_878460"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "english": "worship",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sùng bái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tôn kính",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tôn sùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tôn trọng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the feeling or expression of reverence and adoration for a deity.",
+      "definitions_ex_en": "the worship of God",
+      "definitions_ex_vn": "sự thờ phượng của Thiên Chúa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "show reverence and adoration for (a deity); honor with religious rites.",
+      "definitions_ex_en": "the Maya built jungle pyramids to worship their gods",
+      "definitions_ex_vn": "Maya xây dựng kim tự tháp rừng để tôn thờ các vị thần của họ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688349_2e966f427e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688349_66e2b6c2ba_o.png",
+      "id_image": "worship_4334595"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688324_cd631d8076_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688324_679c013f58_o.png",
+      "id_image": "worship_4839287"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333296_dfbb8793ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333296_6517fff810_o.png",
+      "id_image": "worship_594728"
+    }
+  ]
+}

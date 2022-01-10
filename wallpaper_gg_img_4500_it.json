@@ -1,0 +1,35 @@
+{
+  "english": "wallpaper",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dán giấy trên tường",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "paper that is pasted in vertical strips over the walls of a room to provide a decorative or textured surface.",
+      "definitions_ex_en": "a roll of wallpaper",
+      "definitions_ex_vn": "một cuộn giấy dán tường",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "apply wallpaper to (a wall or room).",
+      "definitions_ex_en": "we were wallpapering a wall",
+      "definitions_ex_vn": "Chúng tôi đã dán tường một bức tường",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383287_09bb02509e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383287_f7e3b1fb6d_o.png",
+      "id_image": "wallpaper_1347832"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693544_06ce34a3a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693544_c077237529_o.png",
+      "id_image": "wallpaper_5776728"
+    }
+  ]
+}

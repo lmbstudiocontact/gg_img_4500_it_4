@@ -1,0 +1,52 @@
+{
+  "english": "verification",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có thể kiểm tra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kiểm tra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tra xét",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the process of establishing the truth, accuracy, or validity of something.",
+      "definitions_ex_en": "the verification of official documents",
+      "definitions_ex_vn": "Việc xác minh các tài liệu chính thức",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461103_1e5727d1c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461103_731c67ee15_o.png",
+      "id_image": "verification_1163415"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701224_c79e428807_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701224_6c09a016f5_o.png",
+      "id_image": "verification_1907742"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461003_497bdd48e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461003_4111b022da_o.png",
+      "id_image": "verification_2463795"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701279_857817696d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701279_dd9ca7f2a0_o.png",
+      "id_image": "verification_326874"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460983_00d9274503_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460983_a9643becb5_o.png",
+      "id_image": "verification_4542010"
+    }
+  ]
+}

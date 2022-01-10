@@ -1,0 +1,24 @@
+{
+  "english": "sniper",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người núp bắn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who shoots from a hiding place, especially accurately and at long range.",
+      "definitions_ex_en": "he was killed by a sniper's bullet in the Great War",
+      "definitions_ex_vn": "anh ta bị giết bởi một viên đạn bắn tỉa trong cuộc chiến vĩ đại",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684444_3c2694e38a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684444_494b79f4f6_o.png",
+      "id_image": "sniper_3856849"
+    }
+  ]
+}

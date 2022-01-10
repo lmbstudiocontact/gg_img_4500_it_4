@@ -1,0 +1,40 @@
+{
+  "english": "tissue",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tổ chức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vải mỏng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "any of the distinct types of material of which animals or plants are made, consisting of specialized cells and their products.",
+      "definitions_ex_en": "inflammation is a reaction of living tissue to infection or injury",
+      "definitions_ex_vn": "viêm là một phản ứng của mô sống để nhiễm trùng hoặc chấn thương",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "tissue paper.",
+      "definitions_ex_en": "a slim package wrapped in blue tissue",
+      "definitions_ex_vn": "Một gói mỏng được bọc trong mô màu xanh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an intricate structure or network made from a number of connected items.",
+      "definitions_ex_en": "such scandalous stories are a tissue of lies",
+      "definitions_ex_vn": "Những câu chuyện vụ bê bối như vậy là một mô dối trá",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461268_6d588dd802_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461268_1845cf86dd_o.png",
+      "id_image": "tissue_843871"
+    }
+  ]
+}

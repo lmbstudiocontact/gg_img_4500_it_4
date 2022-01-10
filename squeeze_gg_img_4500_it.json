@@ -1,0 +1,89 @@
+{
+  "english": "squeeze",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đám đông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đè",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ép",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đè",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ép",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vắt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ôm chặt vào lòng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "firmly press (something soft or yielding), typically with one's fingers.",
+      "definitions_ex_en": "Kate squeezed his hand affectionately",
+      "definitions_ex_vn": "Kate siết chặt tay anh một cách trìu mến",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "manage to get into or through a narrow or restricted space.",
+      "definitions_ex_en": "Sarah squeezed in beside her",
+      "definitions_ex_vn": "Sarah siết chặt bên cạnh cô ấy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "obtain (something) from someone with difficulty.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of pressing something with one's fingers.",
+      "definitions_ex_en": "a gentle squeeze of the trigger",
+      "definitions_ex_vn": "một vắt nhẹ nhàng của cò súng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a strong financial demand or pressure, typically a restriction on borrowing, spending, or investment in a financial crisis.",
+      "definitions_ex_en": "industry faced higher costs and a squeeze on profits",
+      "definitions_ex_vn": "công nghiệp phải đối mặt với chi phí cao hơn và siết chặt lợi nhuận",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a molding or cast of an object, or an impression or copy of a design, obtained by pressing a pliable substance around or over it.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of bunting a ball in order to enable a runner on third base to start for home as soon as the ball is pitched.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088525_a19ec6e6cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088525_e0955beed0_o.png",
+      "id_image": "squeeze_4636812"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809351491_7c9017943e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809351491_d5286d0c70_o.png",
+      "id_image": "squeeze_525798"
+    }
+  ]
+}

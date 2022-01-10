@@ -1,0 +1,35 @@
+{
+  "english": "specialist",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhà chuyên môn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who concentrates primarily on a particular subject or activity; a person highly skilled in a specific and restricted field.",
+      "definitions_ex_en": "he is a specialist in psychometric testing",
+      "definitions_ex_vn": "Ông là một chuyên gia trong thử nghiệm tâm lý học",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "possessing or involving detailed knowledge or study of a restricted topic.",
+      "definitions_ex_en": "the project may involve people with specialist knowledge",
+      "definitions_ex_vn": "Dự án có thể liên quan đến những người có kiến thức chuyên môn",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439648_11ba02d901_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439648_f59a4548ea_o.png",
+      "id_image": "specialist_2835802"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061500_eedbcc5c20_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061500_792929c7cc_o.png",
+      "id_image": "specialist_5029176"
+    }
+  ]
+}

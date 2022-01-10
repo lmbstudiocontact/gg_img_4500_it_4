@@ -1,0 +1,52 @@
+{
+  "english": "slippery",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trơn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không vững",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trợt",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a surface or object) difficult to hold firmly or stand on because it is smooth, wet, or slimy.",
+      "definitions_ex_en": "slippery ice",
+      "definitions_ex_vn": "băng hà",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687559_ea59cb9e34_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687559_8bbd3a5261_o.png",
+      "id_image": "slippery_1970782"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447578_d3129ccf53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447578_bff8fd9804_o.png",
+      "id_image": "slippery_1971094"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377287_5a0b9e9ddb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377287_48aa331b0e_o.png",
+      "id_image": "slippery_2557011"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447498_650da6de2f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447498_260f5edf57_o.png",
+      "id_image": "slippery_2598165"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069190_852ba88787_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069190_01ce5148a7_o.png",
+      "id_image": "slippery_4745351"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "english": "weak",
+  "list_translation_mean": [
+    {
+      "translate_mean": "yếu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "yếu ớt",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "lacking the power to perform physically demanding tasks; lacking physical strength and energy.",
+      "definitions_ex_en": "she was recovering from the flu and was very weak",
+      "definitions_ex_vn": "Cô đã hồi phục sau cúm và rất yếu",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "liable to break or give way under pressure; easily damaged.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "lacking intensity or brightness.",
+      "definitions_ex_en": "a weak light from a single street lamp",
+      "definitions_ex_vn": "một ánh sáng yếu từ một đèn đường",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "denoting a class of verbs in Germanic languages that form the past tense and past participle by addition of a suffix (in English, typically -ed ).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to or denoting the weakest of the known kinds of force between particles, which acts only at distances less than about 10−15 cm, is very much weaker than the electromagnetic and the strong interactions, and conserves neither strangeness, parity, nor isospin.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449823_13f9c3cfe3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449823_6420ff34d3_o.png",
+      "id_image": "weak_1616468"
+    }
+  ]
+}

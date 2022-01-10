@@ -1,0 +1,76 @@
+{
+  "english": "spike",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bông lúa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đầu nhọn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mũi nhọn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "viện tế bần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đóng đinh",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thin, pointed piece of metal, wood, or another rigid material.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sharp increase in the magnitude or concentration of something.",
+      "definitions_ex_en": "the oil price spike",
+      "definitions_ex_vn": "Giá dầu tăng đột biến",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a flower cluster formed of many flower heads attached directly to a long stem.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "impale on or pierce with a sharp point.",
+      "definitions_ex_en": "she spiked another oyster",
+      "definitions_ex_vn": "Cô ấy đã tăng vọt một con hàu khác",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "form into or cover with sharp points.",
+      "definitions_ex_en": "his hair was matted and spiked with blood",
+      "definitions_ex_vn": "Tóc anh ta mờ và mọc lên bằng máu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "add alcohol or a drug to contaminate (drink or food) surreptitiously.",
+      "definitions_ex_en": "she bought me an orange juice and spiked it with vodka",
+      "definitions_ex_vn": "Cô ấy đã mua cho tôi một nước cam và tăng vệt với vodka",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(in volleyball) hit (the ball) forcefully from a position near the net so that it moves downward into the opposite court.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809354021_4372ab68fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809354021_a9ed64ba33_o.png",
+      "id_image": "spike_5029618"
+    }
+  ]
+}

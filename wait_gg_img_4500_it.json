@@ -1,0 +1,72 @@
+{
+  "english": "wait",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phục kích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chờ đợi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ngừng lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự rình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trông mong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đợi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "stay where one is or delay action until a particular time or until something else happens.",
+      "definitions_ex_en": "I rang the bell and waited",
+      "definitions_ex_vn": "Tôi reo chuông và chờ đợi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "used to indicate that one is eagerly impatient to do something or for something to happen.",
+      "definitions_ex_en": "I can't wait for tomorrow",
+      "definitions_ex_vn": "Tôi không thể đợi vào ngày mai",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a period of waiting.",
+      "definitions_ex_en": "we had a long wait",
+      "definitions_ex_vn": "Chúng tôi đã có một sự chờ đợi lâu dài",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "street singers of Christmas carols.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339171_e23ff2d660_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339171_b7cf2532d2_o.png",
+      "id_image": "wait_1686925"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694234_a50347ec61_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694234_53c5aebd77_o.png",
+      "id_image": "wait_1687059"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384042_cbb21df0d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384042_1ca097a9c0_o.png",
+      "id_image": "wait_4401450"
+    }
+  ]
+}

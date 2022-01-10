@@ -1,0 +1,38 @@
+{
+  "english": "today",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hôm nay",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "hiện giờ",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "ngày nay",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "on or in the course of this present day.",
+      "definitions_ex_en": "she's thirty today",
+      "definitions_ex_vn": "Cô ấy ba mươi hôm nay",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "this present day.",
+      "definitions_ex_en": "today is a day of rest",
+      "definitions_ex_vn": "Hôm nay là một ngày nghỉ ngơi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083400_1edb78372a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083400_7cc7a6b7a2_o.png",
+      "id_image": "today_5849533"
+    }
+  ]
+}

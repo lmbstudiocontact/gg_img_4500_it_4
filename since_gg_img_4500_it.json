@@ -1,0 +1,77 @@
+{
+  "english": "since",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lâu rồi",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "từ đó",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "từ lâu",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "từ khi",
+      "type_word": "conjunction"
+    },
+    {
+      "translate_mean": "từ",
+      "type_word": "preposition"
+    },
+    {
+      "translate_mean": "từ đó",
+      "type_word": "preposition"
+    },
+    {
+      "translate_mean": "từ khi",
+      "type_word": "preposition"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "in the intervening period between (the time mentioned) and the time under consideration, typically the present.",
+      "definitions_ex_en": "she hasn't spoken to him since last year",
+      "definitions_ex_vn": "Cô đã không nói chuyện với anh kể từ năm ngoái",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "from a time in the past until the time under consideration, typically the present.",
+      "definitions_ex_en": "I've felt better since I've been here",
+      "definitions_ex_vn": "Tôi đã cảm thấy tốt hơn kể từ khi tôi ở đây",
+      "definitions_type_word": "conjunction"
+    },
+    {
+      "definitions_word_en": "for the reason that; because.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "conjunction"
+    },
+    {
+      "definitions_word_en": "between then and now.",
+      "definitions_ex_en": "she ran away on Friday and we haven't seen her since",
+      "definitions_ex_vn": "Cô chạy đi vào thứ Sáu và chúng tôi đã không nhìn thấy cô ấy kể từ đó",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "ago.",
+      "definitions_ex_en": "the settlement had vanished long since",
+      "definitions_ex_vn": "việc giải quyết đã biến mất từ lâu",
+      "definitions_type_word": "adverb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452943_983be7ee20_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452943_4deb60284b_o.png",
+      "id_image": "since_5277664"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075020_2a9e7f4c6c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075020_0288efdf66_o.png",
+      "id_image": "since_5361023"
+    }
+  ]
+}

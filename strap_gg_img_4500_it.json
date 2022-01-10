@@ -1,0 +1,58 @@
+{
+  "english": "strap",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đai da",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "băng vải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái tia lá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "buộc vật gì bằng đai da",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a strip of leather, cloth, or other flexible material, often with a buckle, used to fasten, secure, or carry something or to hold onto something.",
+      "definitions_ex_en": "her bra strap",
+      "definitions_ex_vn": "Dây đeo áo ngực của cô",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "fasten or secure in a specified place or position with a strap or seat belt.",
+      "definitions_ex_en": "I had to strap the bag to my bicycle",
+      "definitions_ex_vn": "Tôi phải buộc túi vào xe đạp của tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "beat (someone) with a strip of leather.",
+      "definitions_ex_en": "I expected when my dad walked in that he'd strap him",
+      "definitions_ex_vn": "Tôi mong đợi khi cha tôi bước vào đó anh ta sẽ buộc anh ta",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458658_3c5435f3ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458658_1d13936f31_o.png",
+      "id_image": "strap_2044023"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388862_07c06398d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388862_19e9a6ff00_o.png",
+      "id_image": "strap_372583"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388772_4aa2682153_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388772_b342ceb1a7_o.png",
+      "id_image": "strap_4656913"
+    }
+  ]
+}

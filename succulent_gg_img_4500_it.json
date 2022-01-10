@@ -1,0 +1,43 @@
+{
+  "english": "succulent",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ngon",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đầy nhựa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ý tứ dồi dào",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of food) tender, juicy, and tasty.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a succulent plant.",
+      "definitions_ex_en": "a book on cacti and succulents",
+      "definitions_ex_vn": "một cuốn sách về xương rồng và mọng nước",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339276_1a7b67f2d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339276_ee2ee5147a_o.png",
+      "id_image": "succulent_1889042"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694359_fc967696d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694359_1043f06c64_o.png",
+      "id_image": "succulent_3968272"
+    }
+  ]
+}

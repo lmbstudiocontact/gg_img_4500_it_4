@@ -1,0 +1,56 @@
+{
+  "english": "tangle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đống lộn xộn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giống rong biển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự làm rối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự rối trí",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bối rối",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm rối beng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "twist together into a confused mass.",
+      "definitions_ex_en": "the broom somehow got tangled up in my long skirt",
+      "definitions_ex_vn": "cây chổi bằng cách nào đó đã bị rối trong chiếc váy dài của tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a confused mass of something twisted together.",
+      "definitions_ex_en": "a tangle of golden hair",
+      "definitions_ex_vn": "một mớ tóc vàng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "any of a number of brown seaweeds, especially oarweed.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326951_471fe2f774_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326951_70329d0bb3_o.png",
+      "id_image": "tangle_5376775"
+    }
+  ]
+}

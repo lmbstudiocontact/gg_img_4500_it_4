@@ -1,0 +1,40 @@
+{
+  "english": "sterilization",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự sát trùng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the process of making something free from bacteria or other living microorganisms.",
+      "definitions_ex_en": "disinfection and sterilization of surgical equipment",
+      "definitions_ex_vn": "Khử trùng và khử trùng thiết bị phẫu thuật",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "surgery to make a person or animal unable to produce offspring.",
+      "definitions_ex_en": "she had three children and had undergone sterilization",
+      "definitions_ex_vn": "Cô có ba đứa con và đã trải qua khử trùng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392077_dde6ebb4de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392077_4725b1bf2c_o.png",
+      "id_image": "sterilization_1607327"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084465_af21e6423d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084465_14f397b470_o.png",
+      "id_image": "sterilization_3095430"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084430_5ccee48272_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084430_d0f059c3ce_o.png",
+      "id_image": "sterilization_4097587"
+    }
+  ]
+}

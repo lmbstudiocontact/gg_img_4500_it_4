@@ -1,0 +1,95 @@
+{
+  "english": "stroke",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chứng trúng phong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cú đánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máu xâm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nét chữ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người chèo lái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vuốt ve",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chèo lái xuồng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an act of hitting or striking someone or something; a blow.",
+      "definitions_ex_en": "he received three strokes of the cane",
+      "definitions_ex_vn": "anh ấy đã nhận được ba nét của cây gậy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a mark made by drawing a pen, pencil, or paintbrush in one direction across paper or canvas.",
+      "definitions_ex_en": "the paint had been applied in careful, regular strokes",
+      "definitions_ex_vn": "Sơn đã được áp dụng một cách cẩn thận, đột quỵ thường xuyên",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of moving one's hand across a surface with gentle pressure.",
+      "definitions_ex_en": "massage the cream into your skin using light upward strokes",
+      "definitions_ex_vn": "Massage kem vào da của bạn bằng cách sử dụng các nét hướng lên ánh sáng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a movement, especially one of a series, in which something moves out of its position and back into it; a beat.",
+      "definitions_ex_en": "the ray swam with effortless strokes of its huge wings",
+      "definitions_ex_vn": "tia sáng với những nét dễ dàng của đôi cánh lớn của nó",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sudden disabling attack or loss of consciousness caused by an interruption in the flow of blood to the brain, especially through thrombosis.",
+      "definitions_ex_en": "he was left disabled by a stroke",
+      "definitions_ex_vn": "Anh ta bị tàn tật bởi một cơn đột quỵ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "move one's hand with gentle pressure over (a surface, especially hair, fur, or skin), typically repeatedly; caress.",
+      "definitions_ex_en": "he put his hand on her hair and stroked it",
+      "definitions_ex_vn": "Anh đặt tay lên tóc và vuốt ve nó",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "act as the stroke of (a boat or crew).",
+      "definitions_ex_en": "he stroked Penn's rowing eight to victory",
+      "definitions_ex_vn": "Anh vuốt ve chèo thuyền của Pennsi tám đến chiến thắng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "hit or kick (a ball) smoothly and deliberately.",
+      "definitions_ex_en": "Miller calmly stroked three-pointers throughout the tournament",
+      "definitions_ex_vn": "Miller bình tĩnh vuốt ve ba con trỏ trong suốt giải đấu",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342056_9fc75e91e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342056_087876a65d_o.png",
+      "id_image": "stroke_2451380"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697179_b93bd10f9e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697179_6280217635_o.png",
+      "id_image": "stroke_2844517"
+    }
+  ]
+}

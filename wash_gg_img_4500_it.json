@@ -1,0 +1,134 @@
+{
+  "english": "wash",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nước gội",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước rửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giặt quần áo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự rửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giặt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rửa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "clean with water and, typically, soap or detergent.",
+      "definitions_ex_en": "I stripped and washed myself all over",
+      "definitions_ex_vn": "Tôi lột và rửa mình khắp nơi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of flowing water) carry (someone or something) in a particular direction.",
+      "definitions_ex_en": "floods washed away the bridges",
+      "definitions_ex_vn": "Lũ lụt cuốn trôi những cây cầu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "brush with a thin coat of diluted paint or ink.",
+      "definitions_ex_en": "the walls were washed with shades of umber",
+      "definitions_ex_vn": "Các bức tường được rửa với sắc thái của umber",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "seem convincing or genuine.",
+      "definitions_ex_en": "charm won't wash with this crew",
+      "definitions_ex_vn": "Bùa chú sẽ không rửa với phi hành đoàn này",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of washing something or an instance of being washed.",
+      "definitions_ex_en": "her hair needs a wash",
+      "definitions_ex_vn": "Tóc cô cần rửa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the disturbed water or air behind a moving boat or aircraft or the sound made by this.",
+      "definitions_ex_en": "the wash of a motorboat",
+      "definitions_ex_vn": "Giặt của một chiếc thuyền máy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a medicinal or cleansing solution.",
+      "definitions_ex_en": "mouth wash",
+      "definitions_ex_vn": "Rửa miệng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a layer of paint or metal spread thinly on a surface.",
+      "definitions_ex_en": "the walls were covered with a pale lemon wash",
+      "definitions_ex_vn": "Các bức tường được bao phủ bởi một rửa chanh nhạt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "silt or gravel carried by a stream or river and deposited as sediment.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "kitchen slops and other food waste fed to pigs.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "malt fermenting in preparation for distillation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "Washington.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451558_b95eb32cdc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451558_c390386828_o.png",
+      "id_image": "wash_1221535"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073620_b447ec2433_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073620_ea3dcfbaed_o.png",
+      "id_image": "wash_1415756"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336561_d8be23fe63_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336561_0b19d9d212_o.png",
+      "id_image": "wash_2780644"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451458_1210d2b27b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451458_6c69feff87_o.png",
+      "id_image": "wash_3690111"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381687_20ae98da26_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381687_3f34bda1f1_o.png",
+      "id_image": "wash_392763"
+    }
+  ]
+}

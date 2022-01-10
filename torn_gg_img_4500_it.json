@@ -1,0 +1,45 @@
+{
+  "english": "torn",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giựt vật gì",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xé rách",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "pull or rip (something) apart or to pieces with force.",
+      "definitions_ex_en": "I tore up the letter",
+      "definitions_ex_vn": "Tôi xé bức thư",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "move very quickly in a reckless or excited manner.",
+      "definitions_ex_en": "she tore along the footpath on her bike",
+      "definitions_ex_vn": "Cô xé đi lối đi bộ trên xe đạp của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be in a state of uncertainty between two conflicting options or parties.",
+      "definitions_ex_en": "he was torn between his duty and his better instincts",
+      "definitions_ex_vn": "anh ta bị giằng xé giữa nhiệm vụ của mình và bản năng tốt hơn của anh ấy",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343161_fb18644e3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343161_284eb8964d_o.png",
+      "id_image": "torn_2779335"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698339_911f16a4a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698339_87b6daf147_o.png",
+      "id_image": "torn_4560862"
+    }
+  ]
+}

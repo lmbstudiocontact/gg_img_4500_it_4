@@ -1,0 +1,58 @@
+{
+  "english": "thought",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ảo tượng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tư tưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ý định",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ý kiến",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an idea or opinion produced by thinking, or occurring suddenly in the mind.",
+      "definitions_ex_en": "Maggie had a sudden thought",
+      "definitions_ex_vn": "Maggie đã có một ý nghĩ bất ngờ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action or process of thinking.",
+      "definitions_ex_en": "Sophie sat deep in thought",
+      "definitions_ex_vn": "Sophie ngồi sâu trong suy nghĩ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "past and past participle of think.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086590_5fa83b0bb6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086590_ef3ff23d09_o.png",
+      "id_image": "thought_2733543"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394077_2d08cfd3a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394077_852a335fc7_o.png",
+      "id_image": "thought_4427500"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394057_92d6923edc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394057_b00dd7aa37_o.png",
+      "id_image": "thought_6000798"
+    }
+  ]
+}

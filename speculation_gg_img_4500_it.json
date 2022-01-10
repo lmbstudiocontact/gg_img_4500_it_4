@@ -1,0 +1,42 @@
+{
+  "english": "speculation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự đầu cơ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự quan sát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự suy cứu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự suy nghĩ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the forming of a theory or conjecture without firm evidence.",
+      "definitions_ex_en": "there has been widespread speculation that he plans to quit",
+      "definitions_ex_vn": "đã có suy đoán rộng rãi rằng anh ta có kế hoạch bỏ thuốc lá",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "investment in stocks, property, or other ventures in the hope of gain but with the risk of loss.",
+      "definitions_ex_en": "the company's move into property speculation",
+      "definitions_ex_vn": "Công ty di chuyển vào đầu cơ tài sản",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679614_6367e6f3b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679614_a96049f3f2_o.png",
+      "id_image": "speculation_5116030"
+    }
+  ]
+}

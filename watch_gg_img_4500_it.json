@@ -1,0 +1,109 @@
+{
+  "english": "watch",
+  "list_translation_mean": [
+    {
+      "translate_mean": "canh gác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "canh gác lúc đêm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồng hồ đeo tay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người canh gác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "canh phòng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người canh phòng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "canh phòng kỷ lưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phiên gác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rình người nào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự coi chừng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thức đêm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "coi chừng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "để mắt rình",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thức",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thức đêm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "look at or observe attentively over a period of time.",
+      "definitions_ex_en": "Lucy watched him go",
+      "definitions_ex_vn": "Lucy nhìn anh đi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "exercise care, caution, or restraint about.",
+      "definitions_ex_en": "most women watch their diet during pregnancy",
+      "definitions_ex_vn": "Hầu hết phụ nữ xem chế độ ăn uống của họ trong khi mang thai",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "remain awake for the purpose of religious observance.",
+      "definitions_ex_en": "she watched whole nights in the church",
+      "definitions_ex_vn": "Cô nhìn cả đêm trong nhà thờ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a small timepiece worn typically on a strap on one's wrist.",
+      "definitions_ex_en": "my watch had stopped",
+      "definitions_ex_vn": "đồng hồ của tôi đã dừng lại",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act or instance of carefully observing someone or something over a period of time.",
+      "definitions_ex_en": "the security forces have been keeping a close watch on our activities",
+      "definitions_ex_vn": "Các lực lượng an ninh đã theo dõi gần như theo dõi các hoạt động của chúng tôi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691284_b40623601f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691284_29f3ed874c_o.png",
+      "id_image": "watch_309467"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450923_04bd2d98ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450923_703bd431f0_o.png",
+      "id_image": "watch_332054"
+    }
+  ]
+}

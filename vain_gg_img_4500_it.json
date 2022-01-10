@@ -1,0 +1,38 @@
+{
+  "english": "vain",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hư không",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hảo huyền",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rỗng tuếch",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "having or showing an excessively high opinion of one's appearance, abilities, or worth.",
+      "definitions_ex_en": "their flattery made him vain",
+      "definitions_ex_vn": "sự nịnh hót của họ làm cho anh ta vô ích",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "producing no result; useless.",
+      "definitions_ex_en": "a vain attempt to tidy up the room",
+      "definitions_ex_vn": "Một nỗ lực vô ích để dọn dẹp căn phòng",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086795_fe4454c05e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086795_b50938624f_o.png",
+      "id_image": "vain_260230"
+    }
+  ]
+}

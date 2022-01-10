@@ -1,0 +1,39 @@
+{
+  "english": "sledgehammer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "búa của thợ đập đá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "búa lớn của thợ rèn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large, heavy hammer used for such jobs as breaking rocks and driving in fence posts.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "hit with a sledgehammer.",
+      "definitions_ex_en": "the jailhouse door was sledgehammered",
+      "definitions_ex_vn": "cánh cửa jailhouse là sledgehammered",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334166_f54aa45336_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334166_2cd6040f3f_o.png",
+      "id_image": "sledgehammer_2270946"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334136_37cae61891_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334136_a817998e09_o.png",
+      "id_image": "sledgehammer_3468408"
+    }
+  ]
+}

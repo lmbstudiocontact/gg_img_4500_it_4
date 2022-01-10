@@ -1,0 +1,52 @@
+{
+  "english": "tenant",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người chiếm nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người mướn nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người ở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người thuê nhà",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who occupies land or property rented from a landlord.",
+      "definitions_ex_en": "council-house tenants",
+      "definitions_ex_vn": "Người thuê nhà hội đồng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "occupy (property) as a tenant.",
+      "definitions_ex_en": "the house was tenanted by his cousin",
+      "definitions_ex_vn": "Ngôi nhà được yêu cầu bởi anh em họ của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467023_9cd21c8142_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467023_59543209ba_o.png",
+      "id_image": "tenant_1018651"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467013_9d6ed312e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467013_046a97ed12_o.png",
+      "id_image": "tenant_2558089"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706984_5acdb08306_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706984_370a55584a_o.png",
+      "id_image": "tenant_2590618"
+    }
+  ]
+}

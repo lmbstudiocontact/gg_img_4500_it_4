@@ -1,0 +1,47 @@
+{
+  "english": "volatility",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự bay hơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự dể bay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nhẹ dạ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vui vẻ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "liability to change rapidly and unpredictably, especially for the worse.",
+      "definitions_ex_en": "the succession of new rulers contributed to the volatility of the situation",
+      "definitions_ex_vn": "sự kế thừa của những người cai trị mới góp phần vào sự biến động của tình huống",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "tendency of a substance to evaporate at normal temperatures.",
+      "definitions_ex_en": "the volatility of chemicals in an indoor environment",
+      "definitions_ex_vn": "sự biến động của hóa chất trong môi trường trong nhà",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078615_f89cfb820f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078615_063773a9e2_o.png",
+      "id_image": "volatility_1753734"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456028_d58b67cf41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456028_bfbd8f0a22_o.png",
+      "id_image": "volatility_1809827"
+    }
+  ]
+}

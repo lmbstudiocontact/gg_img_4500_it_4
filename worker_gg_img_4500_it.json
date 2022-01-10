@@ -1,0 +1,45 @@
+{
+  "english": "worker",
+  "list_translation_mean": [
+    {
+      "translate_mean": "công nhân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người làm việc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who does a specified type of work or who works in a specified way.",
+      "definitions_ex_en": "a farm worker",
+      "definitions_ex_vn": "một nhân viên trang trại",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who produces or achieves a specified thing.",
+      "definitions_ex_en": "a worker of miracles",
+      "definitions_ex_vn": "một công nhân của phép lạ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in social insects such as bees, wasps, ants, and termites) a neuter or undeveloped female that is a member of what is usually the most numerous caste and does the basic work of the colony.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689359_22ae561cc3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689359_0051beb1b9_o.png",
+      "id_image": "worker_313100"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449283_590f855111_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449283_20f111f03f_o.png",
+      "id_image": "worker_562536"
+    }
+  ]
+}

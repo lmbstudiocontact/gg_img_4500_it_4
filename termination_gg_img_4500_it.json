@@ -1,0 +1,52 @@
+{
+  "english": "termination",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự đình chỉ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hủy bỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kết cuộc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kết liểu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vần cuối cùng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of bringing something or coming to an end.",
+      "definitions_ex_en": "the termination of a contract",
+      "definitions_ex_vn": "chấm dứt hợp đồng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the final letter or letters or syllable of a word, especially when constituting an element in inflection or derivation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an ending or result of a specified kind.",
+      "definitions_ex_en": "a good result and a happy termination",
+      "definitions_ex_vn": "một kết quả tốt và chấm dứt hạnh phúc",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466433_fdd15a6fae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466433_84fd5f89b7_o.png",
+      "id_image": "termination_5267804"
+    }
+  ]
+}

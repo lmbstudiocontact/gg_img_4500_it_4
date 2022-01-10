@@ -1,0 +1,79 @@
+{
+  "english": "travel",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự chạy tới chạy lui",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đi xa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự du lịch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đi du hàng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi du lịch",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "go from one place to another, typically over a distance of some length.",
+      "definitions_ex_en": "the vessel had been traveling from Libya to Ireland",
+      "definitions_ex_vn": "Tàu đã đi du lịch từ Libya đến Ireland",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of an object or radiation) move, typically in a constant or predictable way.",
+      "definitions_ex_en": "light travels faster than sound",
+      "definitions_ex_vn": "Ánh sáng đi nhanh hơn âm thanh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "take more than the allowed number of steps (typically two) while holding the ball without dribbling it.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "the action of traveling.",
+      "definitions_ex_en": "my job involves a lot of travel",
+      "definitions_ex_vn": "Công việc của tôi liên quan đến rất nhiều du lịch",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the range, rate, or mode of motion of a part of a machine.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073155_8417a20bcc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073155_c8904ae79b_o.png",
+      "id_image": "travel_1911866"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336231_b7dd3e0469_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336231_310ca2520a_o.png",
+      "id_image": "travel_2832064"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451218_9cefb8c953_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451218_5e597e88d0_o.png",
+      "id_image": "travel_661687"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381257_c34971bc5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381257_62e558dbd4_o.png",
+      "id_image": "travel_907346"
+    }
+  ]
+}

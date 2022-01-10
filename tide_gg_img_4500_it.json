@@ -1,0 +1,58 @@
+{
+  "english": "tide",
+  "list_translation_mean": [
+    {
+      "translate_mean": "con nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mùa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước triều",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thời",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the alternate rising and falling of the sea, usually twice in each lunar day at a particular place, due to the attraction of the moon and sun.",
+      "definitions_ex_en": "the changing patterns of the tides",
+      "definitions_ex_vn": "sự thay đổi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "drift with or as if with the tide.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "denoting a specified time or season.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "combining form"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347996_c22a2e0586_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347996_778bbf1eb8_o.png",
+      "id_image": "tide_1207570"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702684_28b730abf4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702684_d5d9ae112e_o.png",
+      "id_image": "tide_2628772"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462773_e38c4bf4b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462773_0a108bcec4_o.png",
+      "id_image": "tide_5903488"
+    }
+  ]
+}

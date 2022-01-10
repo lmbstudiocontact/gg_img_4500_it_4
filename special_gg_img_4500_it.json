@@ -1,0 +1,55 @@
+{
+  "english": "special",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đặc biệt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "riêng biệt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chuyến xe lửa đặc biệt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giá đặc biệt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tớ báo xuất bản đặc biệt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật nổi bật nhất",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "better, greater, or otherwise different from what is usual.",
+      "definitions_ex_en": "they always made a special effort at Christmas",
+      "definitions_ex_vn": "Họ luôn nỗ lực đặc biệt vào Giáng sinh",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a thing, such as an event, product, or broadcast, that is designed or organized for a particular occasion or purpose.",
+      "definitions_ex_en": "television's election night specials",
+      "definitions_ex_vn": "Đêm bầu cử của truyền hình",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369502_68469fdfe5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369502_b0710a46f7_o.png",
+      "id_image": "special_2302764"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061525_7e7bfc013b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061525_e420bd5c01_o.png",
+      "id_image": "special_3125061"
+    }
+  ]
+}

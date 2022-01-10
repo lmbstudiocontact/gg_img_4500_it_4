@@ -1,0 +1,39 @@
+{
+  "english": "user",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người hay dùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quyền hưởng dụng luôn luôn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who uses or operates something, especially a computer or other machine.",
+      "definitions_ex_en": "the user should press return and a message will be displayed",
+      "definitions_ex_vn": "Người dùng nên nhấn RETURN và một tin nhắn sẽ được hiển thị",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the continued use or enjoyment of a right.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705349_d8b0db539b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705349_1b7fc61e9d_o.png",
+      "id_image": "user_282133"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705314_b33982e5fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705314_5c10ff720f_o.png",
+      "id_image": "user_391102"
+    }
+  ]
+}

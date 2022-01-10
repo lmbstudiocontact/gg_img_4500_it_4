@@ -1,0 +1,42 @@
+{
+  "english": "trusty",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đáng tín nhiệm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thành thật",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trung thành",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chân thật",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "having served for a long time and regarded as reliable or faithful.",
+      "definitions_ex_en": "their trusty steeds",
+      "definitions_ex_vn": "Cận cảnh đáng tin cậy của họ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a prisoner who is given special privileges or responsibilities in return for good behavior.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445733_7f9d44d9de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445733_2a09e1fd6b_o.png",
+      "id_image": "trusty_6310372"
+    }
+  ]
+}

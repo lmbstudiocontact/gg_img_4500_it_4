@@ -1,0 +1,32 @@
+{
+  "english": "urgent",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cấp bách",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "gấp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khẩn cấp",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a state or situation) requiring immediate action or attention.",
+      "definitions_ex_en": "the situation is far more urgent than politicians are admitting",
+      "definitions_ex_vn": "Tình hình khẩn cấp hơn nhiều so với các chính trị gia đang thừa nhận",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809351281_b083e799d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809351281_942d77b5f9_o.png",
+      "id_image": "urgent_5705239"
+    }
+  ]
+}

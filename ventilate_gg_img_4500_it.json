@@ -1,0 +1,56 @@
+{
+  "english": "ventilate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bài tỏ ý kiến",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đem ra thảo luận",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho có gió vào chổ nào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm thoáng khí",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm thông hơi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm thông khí",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "cause air to enter and circulate freely in (a room, building, etc.).",
+      "definitions_ex_en": "ventilate the greenhouse well",
+      "definitions_ex_vn": "thông gió cho",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "discuss or examine (an opinion, issue, or complaint) in public.",
+      "definitions_ex_en": "he used the club to ventilate an ongoing complaint",
+      "definitions_ex_vn": "Ông đã sử dụng câu lạc bộ để thông gió một khiếu nại đang diễn ra",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "subject to artificial respiration.",
+      "definitions_ex_en": "the patient was sedated and ventilated",
+      "definitions_ex_vn": "bệnh nhân",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701574_d3b2dd0c8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701574_969f8a5b24_o.png",
+      "id_image": "ventilate_2726370"
+    }
+  ]
+}

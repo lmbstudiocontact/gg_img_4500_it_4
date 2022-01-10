@@ -1,0 +1,42 @@
+{
+  "english": "watercolor",
+  "list_translation_mean": [
+    {
+      "translate_mean": "màu nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sơn vẻ bằng màu nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuốc màu pha với nước",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "artists' paint made with a water-soluble binder such as gum arabic, and thinned with water rather than oil, giving a transparent color.",
+      "definitions_ex_en": "a self-portrait in watercolor",
+      "definitions_ex_vn": "một bức chân dung tự họa trong màu nước",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380687_1de33685b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380687_d4ab1f2776_o.png",
+      "id_image": "watercolor_2142940"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380657_3b7134008b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380657_99bfbf3b09_o.png",
+      "id_image": "watercolor_2249544"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690914_c5f43ec967_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690914_ed6fe85752_o.png",
+      "id_image": "watercolor_420267"
+    }
+  ]
+}

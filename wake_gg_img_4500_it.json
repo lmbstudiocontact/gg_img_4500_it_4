@@ -1,0 +1,66 @@
+{
+  "english": "wake",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lể cung hiến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thức canh người chết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đi theo dấu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đường tàu chạy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thức",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thức đêm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm om sòm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "emerge or cause to emerge from a state of sleep; stop sleeping.",
+      "definitions_ex_en": "she woke up feeling better",
+      "definitions_ex_vn": "Cô tỉnh dậy cảm thấy tốt hơn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a watch or vigil held beside the body of someone who has died, sometimes accompanied by ritual observances including eating and drinking.",
+      "definitions_ex_en": "he was attending a friend's wake",
+      "definitions_ex_vn": "anh ấy đang tham dự Wake của một người bạn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in some parts of the UK) a festival and holiday held annually in a rural parish, originally on the feast day of the patron saint of the church.",
+      "definitions_ex_en": "his workers absented themselves for the local wakes",
+      "definitions_ex_vn": "những người lao động của ông đã cho mình những người tỉnh táo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a trail of disturbed water or air left by the passage of a ship or aircraft.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693969_e4cd062c79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693969_ff5fdf35f8_o.png",
+      "id_image": "wake_5284836"
+    }
+  ]
+}

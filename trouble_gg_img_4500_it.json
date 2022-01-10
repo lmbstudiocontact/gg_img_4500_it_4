@@ -1,0 +1,103 @@
+{
+  "english": "trouble",
+  "list_translation_mean": [
+    {
+      "translate_mean": "điều lo lắng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nổi âu sầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bất trắc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bất hòa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự khó nhọc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phiền phức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trở ngại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trạng thái bất an",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm cho buồn rầu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm đau đớn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phiền muộn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quấy rối",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trở ngại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm đục nước",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "difficulty or problems.",
+      "definitions_ex_en": "I had trouble finding somewhere to park",
+      "definitions_ex_vn": "Tôi gặp khó khăn trong việc tìm kiếm một nơi nào đó để đậu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "public unrest or disorder.",
+      "definitions_ex_en": "the cops are preparing for trouble by bringing in tear gas",
+      "definitions_ex_vn": "Cảnh sát đang chuẩn bị cho rắc rối bằng cách đưa khí xé",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cause distress or anxiety to.",
+      "definitions_ex_en": "he was not troubled by doubts",
+      "definitions_ex_vn": "anh ta không gặp rắc rối bởi những nghi ngờ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376972_6f974fbafa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376972_1f62175363_o.png",
+      "id_image": "trouble_1288949"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447228_70b35161a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447228_11954a8d9b_o.png",
+      "id_image": "trouble_5747201"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687174_293984b5e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687174_24f60df18c_o.png",
+      "id_image": "trouble_6370657"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332116_230ff3b4a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332116_00174925da_o.png",
+      "id_image": "trouble_6370717"
+    }
+  ]
+}

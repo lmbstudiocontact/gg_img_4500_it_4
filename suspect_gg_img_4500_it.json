@@ -1,0 +1,60 @@
+{
+  "english": "suspect",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đáng ngờ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khả nghi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nghi ngờ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "have an idea or impression of the existence, presence, or truth of (something) without certain proof.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "doubt the genuineness or truth of.",
+      "definitions_ex_en": "a broker whose honesty he had no reason to suspect",
+      "definitions_ex_vn": "một nhà môi giới có sự trung thực mà anh ta không có lý do để nghi ngờ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a person thought to be guilty of a crime or offense.",
+      "definitions_ex_en": "the police have arrested a suspect",
+      "definitions_ex_vn": "Cảnh sát đã bắt giữ một nghi phạm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "not to be relied on or trusted; possibly dangerous or false.",
+      "definitions_ex_en": "a suspect package was found on the platform",
+      "definitions_ex_vn": "Một gói nghi ngờ đã được tìm thấy trên nền tảng",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335086_9d4dd0c19b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335086_ee0df0f519_o.png",
+      "id_image": "suspect_1781247"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335051_76045b24e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335051_64b4fc92ae_o.png",
+      "id_image": "suspect_1865686"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380042_6d0f0ce4a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380042_6da39e6b0d_o.png",
+      "id_image": "suspect_2621952"
+    }
+  ]
+}

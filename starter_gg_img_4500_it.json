@@ -1,0 +1,58 @@
+{
+  "english": "starter",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bộ khởi động",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái đề ma rưa xe hơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người ra lịnh khởi hành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người dự cuộc đua",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or thing that starts in a specified way.",
+      "definitions_ex_en": "I'm just a slow starter",
+      "definitions_ex_vn": "Tôi chỉ là một người bắt đầu chậm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an automatic device for starting a machine, especially the engine of a vehicle.",
+      "definitions_ex_en": "the starter motor",
+      "definitions_ex_vn": "động cơ khởi động",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a bacterial culture used to initiate souring in making yogurt, cheese, or butter.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086405_92c1d9ab0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086405_5d51fe39c6_o.png",
+      "id_image": "starter_1793327"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463818_4d187a6418_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463818_9143c12480_o.png",
+      "id_image": "starter_1965393"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349146_42c38910ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349146_68fb0390c5_o.png",
+      "id_image": "starter_246932"
+    }
+  ]
+}

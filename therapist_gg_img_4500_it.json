@@ -1,0 +1,29 @@
+{
+  "english": "therapist",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người trị liệu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person skilled in a particular kind of therapy.",
+      "definitions_ex_en": "a certified massage therapist",
+      "definitions_ex_vn": "một nhà trị liệu massage được chứng nhận",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394962_1f9bfb5a7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394962_a0bc16305e_o.png",
+      "id_image": "therapist_3378754"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350176_3b02194467_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350176_3e0de477d4_o.png",
+      "id_image": "therapist_3467877"
+    }
+  ]
+}

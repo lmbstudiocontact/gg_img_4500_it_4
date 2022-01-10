@@ -1,0 +1,29 @@
+{
+  "english": "strategy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chiến lược",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a plan of action or policy designed to achieve a major or overall aim.",
+      "definitions_ex_en": "time to develop a coherent economic strategy",
+      "definitions_ex_vn": "Thời gian để phát triển một chiến lược kinh tế mạch lạc",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698879_81e04451e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698879_4671d51b56_o.png",
+      "id_image": "strategy_471461"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343651_f005c100e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343651_48d92b3f42_o.png",
+      "id_image": "strategy_875306"
+    }
+  ]
+}

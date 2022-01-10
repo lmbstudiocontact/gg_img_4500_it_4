@@ -1,0 +1,32 @@
+{
+  "english": "stimulation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự khích thíck",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự khuyến khích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự quyến rũ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "encouragement of something to make it develop or become more active.",
+      "definitions_ex_en": "the stimulation of a revolution in intelligence affairs",
+      "definitions_ex_vn": "sự kích thích của một cuộc cách mạng trong các vấn đề tình báo",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461148_1bb68e65f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461148_de33ddf938_o.png",
+      "id_image": "stimulation_6370553"
+    }
+  ]
+}

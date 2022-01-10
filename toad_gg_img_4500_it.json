@@ -1,0 +1,40 @@
+{
+  "english": "toad",
+  "list_translation_mean": [
+    {
+      "translate_mean": "con cóc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a tailless amphibian with a short stout body and short legs, typically having dry warty skin that can exude poison.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a contemptible or detestable person (used as a general term of abuse).",
+      "definitions_ex_en": "you're an arrogant little toad",
+      "definitions_ex_vn": "Bạn là một con cóc nhỏ kiêu ngạo",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346221_205d4e429a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346221_9c7e5a1c28_o.png",
+      "id_image": "toad_1571906"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391237_402db8ea78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391237_0c3893b637_o.png",
+      "id_image": "toad_218308"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701184_b0b894ee09_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701184_ea44e0cafe_o.png",
+      "id_image": "toad_371963"
+    }
+  ]
+}

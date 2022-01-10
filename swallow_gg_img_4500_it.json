@@ -1,0 +1,56 @@
+{
+  "english": "swallow",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuống họng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ ăn nuốt vào một lần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nuốt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nuốt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nuốt đồ ăn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nuốt lời",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "cause or allow (something, especially food or drink) to pass down the throat.",
+      "definitions_ex_en": "she swallowed a mouthful slowly",
+      "definitions_ex_vn": "Cô nuốt một ngụm từ từ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of swallowing something, especially food or drink.",
+      "definitions_ex_en": "he downed his drink in one swallow",
+      "definitions_ex_vn": "Anh ta xuống đồ uống của mình trong một lần nuốt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a migratory swift-flying songbird with a forked tail and long pointed wings, feeding on insects in flight.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334421_d1e1d4c5b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334421_5988ced0c1_o.png",
+      "id_image": "swallow_448286"
+    }
+  ]
+}

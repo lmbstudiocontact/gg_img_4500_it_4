@@ -1,0 +1,98 @@
+{
+  "english": "web",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tay quay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuốn giấy lớn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đầu chìa khóa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ dệt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lưỡi cưa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "màng da chân vịt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vải",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a network of fine threads constructed by a spider from fluid secreted by its spinnerets, used to catch its prey.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a complex system of interconnected elements.",
+      "definitions_ex_en": "he found himself caught up in a web of bureaucracy",
+      "definitions_ex_vn": "Anh thấy mình bị cuốn vào một mạng lưới quan liêu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a membrane between the toes of a swimming bird or other aquatic animal.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a roll of paper used in a continuous printing process.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a piece of woven fabric.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cover with or as though with a web.",
+      "definitions_ex_en": "she noticed his tanned skin, webbed with fine creases",
+      "definitions_ex_vn": "Cô nhận thấy làn da rám nắng của mình, webbed với các nếp nhăn tốt",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070525_0e05725b88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070525_cd45f33ab3_o.png",
+      "id_image": "web_1138464"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688739_543a6105a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688739_3ab18a9d50_o.png",
+      "id_image": "web_169137"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070485_acde68565d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070485_b775951892_o.png",
+      "id_image": "web_2419365"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688629_2b1c84cd72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688629_482524d06e_o.png",
+      "id_image": "web_2570137"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070410_279a963189_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070410_9867326854_o.png",
+      "id_image": "web_5767738"
+    }
+  ]
+}

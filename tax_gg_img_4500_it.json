@@ -1,0 +1,68 @@
+{
+  "english": "tax",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh thuế",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a compulsory contribution to state revenue, levied by the government on workers' income and business profits, or added to the cost of some goods, services, and transactions.",
+      "definitions_ex_en": "higher taxes will dampen consumer spending",
+      "definitions_ex_vn": "Thuế cao hơn sẽ làm giảm chi tiêu của người tiêu dùng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a strain or heavy demand.",
+      "definitions_ex_en": "a heavy tax on the reader's attention",
+      "definitions_ex_vn": "một loại thuế nặng nề cho sự chú ý của người đọc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "impose a tax on (someone or something).",
+      "definitions_ex_en": "hardware and software is taxed at 7.5 percent",
+      "definitions_ex_vn": "Phần cứng và phần mềm bị đánh thuế ở mức 7,5%",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make heavy demands on (someone's powers or resources).",
+      "definitions_ex_en": "she knew that the ordeal to come would tax all her strength",
+      "definitions_ex_vn": "Cô biết rằng thử thách sẽ đến sẽ đánh thuế toàn bộ sức mạnh của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "confront (someone) with a fault or wrongdoing.",
+      "definitions_ex_en": "why are you taxing me with these preposterous allegations?",
+      "definitions_ex_vn": "Tại sao bạn đánh thuế tôi với những cáo buộc vô lý này?",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "examine and assess (the costs of a case).",
+      "definitions_ex_en": "an officer taxing a bill of costs",
+      "definitions_ex_vn": "một sĩ quan đánh thuế một hóa đơn chi phí",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468813_7ed8f50611_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468813_8d66c252fb_o.png",
+      "id_image": "tax_4539932"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809354076_68bb227993_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809354076_e07032157c_o.png",
+      "id_image": "tax_6135608"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809354046_7a5b6fa9cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809354046_012d1e04a5_o.png",
+      "id_image": "tax_6296593"
+    }
+  ]
+}

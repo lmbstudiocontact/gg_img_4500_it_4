@@ -1,0 +1,72 @@
+{
+  "english": "tart",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chua cay",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có vị chua",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bánh bao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bánh nhưn mứt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "con gái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bánh tart",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an open pastry case containing a filling.",
+      "definitions_ex_en": "an apple tart",
+      "definitions_ex_vn": "một tart táo.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "dress or make oneself up in order to look attractive.",
+      "definitions_ex_en": "I tarted myself up for the night",
+      "definitions_ex_vn": "Tôi tứ mình vào ban đêm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "behave in a provocative or flamboyant way (typically used of a woman).",
+      "definitions_ex_en": "she tarted around the room in one of Georgie's dresses",
+      "definitions_ex_vn": "Cô bắt đầu quanh phòng ở một trong những chiếc váy Georgie",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "sharp or acid in taste.",
+      "definitions_ex_en": "a tart apple",
+      "definitions_ex_vn": "một quả táo tart",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810091815_eceb13b7d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810091815_8bcb70d893_o.png",
+      "id_image": "tart_1686736"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809354446_b72e9e321e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809354446_166427f67e_o.png",
+      "id_image": "tart_1999903"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809709004_eb4300f545_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809709004_f5a9d6172e_o.png",
+      "id_image": "tart_2258350"
+    }
+  ]
+}

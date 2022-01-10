@@ -1,0 +1,35 @@
+{
+  "english": "sweeper",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người dọn dẹp",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or device that cleans a floor or road by sweeping.",
+      "definitions_ex_en": "a street sweeper",
+      "definitions_ex_vn": "một người quét đường",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small nocturnal shoaling fish of reefs and coastal waters, occurring chiefly in the tropical Indo-Pacific.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688244_f1f020285b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688244_103aa95455_o.png",
+      "id_image": "sweeper_3959148"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688194_440c6c0dc2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688194_19e567c155_o.png",
+      "id_image": "sweeper_6317180"
+    }
+  ]
+}

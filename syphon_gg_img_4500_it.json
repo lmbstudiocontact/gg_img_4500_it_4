@@ -1,0 +1,40 @@
+{
+  "english": "syphon",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ống chuyền nước",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a tube used to convey liquid upwards from a reservoir and then down to a lower level of its own accord. Once the liquid has been forced into the tube, typically by suction or immersion, flow continues unaided.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "draw off or convey (liquid) by means of a siphon.",
+      "definitions_ex_en": "a gravel cleaner that removes detritus without siphoning off water",
+      "definitions_ex_vn": "một chất tẩy rửa sỏi loại bỏ mảnh vụn mà không cần hút nước",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329971_fb4e70db30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329971_639232bfd3_o.png",
+      "id_image": "syphon_2302594"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374607_8e2d7bc63f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374607_080b41e954_o.png",
+      "id_image": "syphon_5181530"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444883_7e8e41fe53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444883_ed644876da_o.png",
+      "id_image": "syphon_6316634"
+    }
+  ]
+}

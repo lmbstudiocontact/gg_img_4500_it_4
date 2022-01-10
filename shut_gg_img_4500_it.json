@@ -1,0 +1,47 @@
+{
+  "english": "shut",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đóng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khép lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "không muốn nghe",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngậm miệng lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "move (something) into position so as to block an opening; close.",
+      "definitions_ex_en": "shut the window, please",
+      "definitions_ex_vn": "Đóng cửa sổ, xin vui lòng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make (something) unavailable for business or service, either permanently or until due to be open again.",
+      "definitions_ex_en": "we shut the shop for lunch",
+      "definitions_ex_vn": "Chúng tôi đóng cửa hàng cho bữa trưa",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078380_cb48178bdd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078380_9226af8d76_o.png",
+      "id_image": "shut_1933079"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455843_1c51f4bddf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455843_31806c5921_o.png",
+      "id_image": "shut_214235"
+    }
+  ]
+}

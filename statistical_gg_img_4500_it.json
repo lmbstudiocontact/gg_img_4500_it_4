@@ -1,0 +1,24 @@
+{
+  "english": "statistical",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thống kê",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to the use of statistics.",
+      "definitions_ex_en": "a statistical comparison",
+      "definitions_ex_vn": "một so sánh thống kê",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348496_2da0bb9bc9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348496_cf5ea7f80f_o.png",
+      "id_image": "statistical_2503778"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "english": "swap",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự giao hoán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đổi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đổi chác",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "take part in an exchange of.",
+      "definitions_ex_en": "we swapped phone numbers",
+      "definitions_ex_vn": "Chúng tôi hoán đổi số điện thoại",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of exchanging one thing for another.",
+      "definitions_ex_en": "let's do a swap",
+      "definitions_ex_vn": "Hãy làm một trao đổi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449158_960206f3c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449158_813b0f3fb0_o.png",
+      "id_image": "swap_1158449"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449133_6a742c78fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449133_959ebc605d_o.png",
+      "id_image": "swap_2142465"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334096_f3665e23ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334096_2e66cced84_o.png",
+      "id_image": "swap_2911181"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "english": "simulator",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người giả đò",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người giả vờ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người làm bộ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a machine with a similar set of controls designed to provide a realistic imitation of the operation of a vehicle, aircraft, or other complex system, used for training purposes.",
+      "definitions_ex_en": "a driving simulator",
+      "definitions_ex_vn": "một mô phỏng lái xe",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075140_ea4c6a3c5f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075140_b2dc9a0103_o.png",
+      "id_image": "simulator_1754016"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452998_4221be6388_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452998_0fd71bc97d_o.png",
+      "id_image": "simulator_3245486"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075235_831864b954_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075235_1d66888420_o.png",
+      "id_image": "simulator_825002"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693404_796e76b1f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693404_6e3d7d7899_o.png",
+      "id_image": "simulator_950700"
+    }
+  ]
+}

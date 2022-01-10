@@ -1,0 +1,50 @@
+{
+  "english": "sum",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bài toán đố",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tổng số",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cộng lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a particular amount of money.",
+      "definitions_ex_en": "they could not afford such a sum",
+      "definitions_ex_vn": "họ không thể đủ khả năng một khoản tiền như vậy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the total amount resulting from the addition of two or more numbers, amounts, or items.",
+      "definitions_ex_en": "the sum of two prime numbers",
+      "definitions_ex_vn": "tổng của hai số nguyên tố",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an arithmetical problem, especially at an elementary level.",
+      "definitions_ex_en": "do your sums, then the shock will not be too great",
+      "definitions_ex_vn": "Làm tổng của bạn, sau đó sốc sẽ không quá lớn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "find the sum of (two or more amounts).",
+      "definitions_ex_en": "if we sum these equations we obtain X",
+      "definitions_ex_vn": "Nếu chúng tôi tổng hợp các phương trình này, chúng tôi sẽ có X",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383127_4d1d561f0b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383127_8a68c030c7_o.png",
+      "id_image": "sum_2000494"
+    }
+  ]
+}

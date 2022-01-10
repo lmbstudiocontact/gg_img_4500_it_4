@@ -1,0 +1,30 @@
+{
+  "english": "sir",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ngài",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "used as a polite or respectful way of addressing a man, especially one in a position of authority.",
+      "definitions_ex_en": "excuse me, sir",
+      "definitions_ex_vn": "xin lỗi, thưa ngài",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in biblical references) Sirach (in the Apocrypha).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451863_0d3422fa8e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451863_ee326d179f_o.png",
+      "id_image": "sir_1464047"
+    }
+  ]
+}

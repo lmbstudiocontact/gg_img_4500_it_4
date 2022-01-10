@@ -1,0 +1,75 @@
+{
+  "english": "toll",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tiếng chuông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuế qua cầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuế qua trạm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh rung chuông",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a charge payable for permission to use a particular bridge or road.",
+      "definitions_ex_en": "turnpike tolls",
+      "definitions_ex_vn": "Tolls Tolls.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the number of deaths, casualties, or injuries arising from particular circumstances, such as a natural disaster, conflict, or accident.",
+      "definitions_ex_en": "the toll of dead and injured mounted",
+      "definitions_ex_vn": "Toll của người chết và bị thương gắn kết",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a single ring of a bell.",
+      "definitions_ex_en": "she heard the Cambridge School bell utter a single toll",
+      "definitions_ex_vn": "Cô nghe thấy tiếng chuông trường Cambridge thốt ra một số phí",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "charge a toll for the use of (a bridge or road).",
+      "definitions_ex_en": "the transport minister opposes tolling existing roads",
+      "definitions_ex_vn": "Bộ trưởng Giao thông vận tải phản đối những con đường hiện có",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(with reference to a bell) sound or cause to sound with a slow, uniform succession of strokes, as a signal or announcement.",
+      "definitions_ex_en": "the bells of the cathedral began to toll for evening service",
+      "definitions_ex_vn": "Chuông của Nhà thờ bắt đầu thu phí cho dịch vụ buổi tối",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082365_5117ec3789_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082365_8c18f5d317_o.png",
+      "id_image": "toll_1666273"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459683_1812b3bd08_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459683_9925f5c283_o.png",
+      "id_image": "toll_2554888"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344846_6687aa06b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344846_628ba9e83c_o.png",
+      "id_image": "toll_4092025"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699924_7345225624_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699924_825f9d27c2_o.png",
+      "id_image": "toll_6158062"
+    }
+  ]
+}

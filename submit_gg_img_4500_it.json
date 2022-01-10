@@ -1,0 +1,53 @@
+{
+  "english": "submit",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đệ trình",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khuất phục",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quy phục",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trình tự",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "accept or yield to a superior force or to the authority or will of another person.",
+      "definitions_ex_en": "the original settlers were forced to submit to Bulgarian rule",
+      "definitions_ex_vn": "Những người định cư ban đầu đã buộc phải nộp cho quy tắc Bulgaria",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "subject to a particular process, treatment, or condition.",
+      "definitions_ex_en": "samples submitted to low pressure",
+      "definitions_ex_vn": "Các mẫu nộp cho áp suất thấp",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "present (a proposal, application, or other document) to a person or body for consideration or judgment.",
+      "definitions_ex_en": "the panel's report was submitted to a parliamentary committee",
+      "definitions_ex_vn": "Báo cáo của Hội đồng đã được nộp cho một ủy ban quốc hội",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385227_edb7e038d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385227_ea87471407_o.png",
+      "id_image": "submit_2680985"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340226_dd4a2fe7af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340226_9cfbd5b1f5_o.png",
+      "id_image": "submit_4047156"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "english": "vascular",
+  "list_translation_mean": [
+    {
+      "translate_mean": "huyết quản",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về mạch",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to, affecting, or consisting of a vessel or vessels, especially those which carry blood.",
+      "definitions_ex_en": "vascular disease",
+      "definitions_ex_vn": "Bệnh đường máu",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393057_c2cc159d07_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393057_2de854abd8_o.png",
+      "id_image": "vascular_4785662"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085445_1c8855d019_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085445_4a34484c2c_o.png",
+      "id_image": "vascular_4785711"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085380_5b75598a4a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085380_b6a4ccd325_o.png",
+      "id_image": "vascular_4799045"
+    }
+  ]
+}

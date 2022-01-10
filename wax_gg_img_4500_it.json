@@ -1,0 +1,72 @@
+{
+  "english": "wax",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chất giống sáp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sáp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sáp ong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bôi sáp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh bóng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh sáp",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a sticky yellowish moldable substance secreted by honeybees as the material of honeycomb; beeswax.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cover or treat (something) with wax or a similar substance, typically to polish or protect it.",
+      "definitions_ex_en": "I washed and waxed the floor",
+      "definitions_ex_vn": "Tôi rửa và sáp lên sàn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make a recording of.",
+      "definitions_ex_en": "he waxed a series of tracks that emphasized his lead guitar work",
+      "definitions_ex_vn": "anh ta đã tẩy lông một loạt các bài hát nhấn mạnh công việc guitar chì của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of the moon between new and full) have a progressively larger part of its visible surface illuminated, increasing its apparent size.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690304_ecfbfc3866_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690304_b2f9efa4df_o.png",
+      "id_image": "wax_1965931"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450138_d7db508874_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450138_3b22a8cb25_o.png",
+      "id_image": "wax_2928324"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072050_6854f3f8c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072050_4f5a9a214b_o.png",
+      "id_image": "wax_3460304"
+    }
+  ]
+}

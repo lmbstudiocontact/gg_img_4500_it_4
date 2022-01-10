@@ -1,0 +1,40 @@
+{
+  "english": "stunt",
+  "list_translation_mean": [
+    {
+      "translate_mean": "còi đi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bay nhào lộn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "prevent from growing or developing properly.",
+      "definitions_ex_en": "some weeds produce chemicals that stunt the plant's growth",
+      "definitions_ex_vn": "Một số cỏ dại sản xuất hóa chất đóng thế sự tăng trưởng của cây",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "perform stunts, especially aerobatics.",
+      "definitions_ex_en": "agile terns are stunting over the water",
+      "definitions_ex_vn": "Terns nhanh nhẹn đang lơ lửng trên mặt nước",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an action displaying spectacular skill and daring.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340831_698ba33fdc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340831_56e205c476_o.png",
+      "id_image": "stunt_6246642"
+    }
+  ]
+}

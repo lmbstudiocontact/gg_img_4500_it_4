@@ -1,0 +1,39 @@
+{
+  "english": "vanity",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tính cách hư ảo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính cách hư không",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "excessive pride in or admiration of one's own appearance or achievements.",
+      "definitions_ex_en": "it flattered his vanity to think I was in love with him",
+      "definitions_ex_vn": "Nó tâng bốc sự phù phiếm của mình để nghĩ rằng tôi đã yêu anh ấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the quality of being worthless or futile.",
+      "definitions_ex_en": "the vanity of human wishes",
+      "definitions_ex_vn": "sự phù phiếm của mong muốn con người",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463233_baff81ff24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463233_8f565574ef_o.png",
+      "id_image": "vanity_699303"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393297_f4ac21e8c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393297_57aac041f7_o.png",
+      "id_image": "vanity_699304"
+    }
+  ]
+}

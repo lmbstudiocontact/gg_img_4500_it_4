@@ -1,0 +1,59 @@
+{
+  "english": "turf",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bải cỏ xanh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "than bùn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tống cổ người nào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trồng cỏ xanh",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "grass and the surface layer of earth held together by its roots.",
+      "definitions_ex_en": "they walked across the springy turf",
+      "definitions_ex_vn": "Họ đi bộ qua sân cỏ mùa xuân",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "horse racing or racecourses generally.",
+      "definitions_ex_en": "he spent his money gambling on the turf",
+      "definitions_ex_vn": "Anh ấy đã dành tiền bạc trên sân cỏ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an area regarded as someone's personal territory; one's home ground.",
+      "definitions_ex_en": "the team will play Canada on their home turf this summer",
+      "definitions_ex_vn": "Đội sẽ chơi Canada trên sân nhà mùa hè này",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cover (a patch of ground) with turf.",
+      "definitions_ex_en": "the plot of land has been turfed",
+      "definitions_ex_vn": "Cốt truyện của đất đã bị trám nắng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443713_2819b9b1b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443713_513fe917b1_o.png",
+      "id_image": "turf_2296441"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373447_7656099519_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373447_5c51cb4a4b_o.png",
+      "id_image": "turf_4977795"
+    }
+  ]
+}

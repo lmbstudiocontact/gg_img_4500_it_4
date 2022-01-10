@@ -1,0 +1,109 @@
+{
+  "english": "strip",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miếng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hái hết trái cây",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lấy hết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mình trần",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mòn hết răng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lấy hết đồ đạc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lột trần truồng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lột vỏ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "remove all coverings from.",
+      "definitions_ex_en": "they stripped the bed",
+      "definitions_ex_vn": "Họ lột giường",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "leave bare of accessories or fittings.",
+      "definitions_ex_en": "thieves stripped the room of luggage",
+      "definitions_ex_vn": "Kẻ trộm lột phòng hành lý",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "deprive someone of (rank, power, or property).",
+      "definitions_ex_en": "the lieutenant was stripped of his rank",
+      "definitions_ex_vn": "Trung úy bị tước bỏ thứ hạng của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "sell off (the assets of a company) for profit.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "tear the thread or teeth from (a screw, gearwheel, etc.).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a bullet) be fired from a rifled gun without spin owing to a loss of surface.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of undressing, especially in a striptease.",
+      "definitions_ex_en": "she got drunk and did a strip on top of the piano",
+      "definitions_ex_vn": "Cô say rượu và làm một dải trên đỉnh của đàn piano",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a long, narrow piece of cloth, paper, plastic, or some other material.",
+      "definitions_ex_en": "a strip of linen",
+      "definitions_ex_vn": "một dải vải lanh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a comic strip.",
+      "definitions_ex_en": "a strip cartoon",
+      "definitions_ex_vn": "một phim hoạt hình dải.",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387157_bff7165a29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387157_43a772686b_o.png",
+      "id_image": "strip_2748770"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342221_2ce883c4cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342221_3ab109705b_o.png",
+      "id_image": "strip_508742"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "english": "unknown",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không biết",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "not known or familiar.",
+      "definitions_ex_en": "exploration into unknown territory",
+      "definitions_ex_vn": "Thăm dò vào lãnh thổ không xác định",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "an unknown person or thing.",
+      "definitions_ex_en": "she is a relative unknown",
+      "definitions_ex_vn": "cô ấy là một người thân",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809707149_2966e85fe6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809707149_c0e14a1732_o.png",
+      "id_image": "unknown_1207583"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397242_03cc28be68_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397242_30a56de0fc_o.png",
+      "id_image": "unknown_2748784"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467043_c4f31d6e90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467043_e404df1150_o.png",
+      "id_image": "unknown_5059613"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "english": "violet",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây đồng thảo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây hoa tím",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a herbaceous plant of temperate regions, typically having purple, blue, or white five-petaled flowers, one of which forms a landing pad for pollinating insects.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a bluish-purple color seen at the end of the spectrum opposite red.",
+      "definitions_ex_en": "a beautiful blue with a tinge of violet",
+      "definitions_ex_vn": "một màu xanh tuyệt đẹp với một màu tím",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "of a purplish-blue color.",
+      "definitions_ex_en": "her almost violet eyes were a bit startling",
+      "definitions_ex_vn": "đôi mắt gần như tím của cô ấy hơi giật mình",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698324_cbeed806f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698324_3bea01308d_o.png",
+      "id_image": "violet_6080680"
+    }
+  ]
+}

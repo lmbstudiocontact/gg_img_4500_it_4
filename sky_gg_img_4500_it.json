@@ -1,0 +1,44 @@
+{
+  "english": "sky",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bầu trời",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khí hậu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the region of the atmosphere and outer space seen from the earth.",
+      "definitions_ex_en": "hundreds of stars shining in the sky",
+      "definitions_ex_vn": "Hàng trăm ngôi sao tỏa sáng trên bầu trời",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "hit (a ball) high into the air.",
+      "definitions_ex_en": "he skied his tee shot",
+      "definitions_ex_vn": "Anh trượt tee bắn tee",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380062_1bc552feb6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380062_9be4904257_o.png",
+      "id_image": "sky_390702"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450028_309178e2ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450028_d0df9f6283_o.png",
+      "id_image": "sky_3982016"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071975_5a25f62696_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071975_93ac7acd47_o.png",
+      "id_image": "sky_673897"
+    }
+  ]
+}

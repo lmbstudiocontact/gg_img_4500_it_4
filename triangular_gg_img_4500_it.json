@@ -1,0 +1,52 @@
+{
+  "english": "triangular",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có ba cạnh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có ba góc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hình tam giác",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "shaped like a triangle; having three sides and three corners.",
+      "definitions_ex_en": "dainty triangular sandwiches",
+      "definitions_ex_vn": "bánh sandwich hình tam giác tuyệt vời",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689164_e72013851c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689164_dc2c930181_o.png",
+      "id_image": "triangular_280067"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689129_98d097a8d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689129_22e5d058e8_o.png",
+      "id_image": "triangular_344030"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071045_687df5e956_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071045_241d0e291d_o.png",
+      "id_image": "triangular_6181216"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071000_96b58d2b8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071000_9b9f25af14_o.png",
+      "id_image": "triangular_6181306"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070965_040a282370_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070965_981d659722_o.png",
+      "id_image": "triangular_6181728"
+    }
+  ]
+}

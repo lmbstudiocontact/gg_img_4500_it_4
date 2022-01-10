@@ -1,0 +1,50 @@
+{
+  "english": "stink",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mùi hôi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mùi thúi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bay mùi hôi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "have a strong unpleasant smell.",
+      "definitions_ex_en": "the place stank like a sewer",
+      "definitions_ex_vn": "Nơi cất như một cống thoát nước",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be very unpleasant, contemptible, or scandalous.",
+      "definitions_ex_en": "the industry's reputation stinks",
+      "definitions_ex_vn": "danh tiếng của ngành hiện ngành bốc mùi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a strong unpleasant smell; a stench.",
+      "definitions_ex_en": "the stink of the place hit me as I went in",
+      "definitions_ex_vn": "mùi hôi thối của nơi đánh tôi khi tôi đi vào",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a commotion or fuss.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346361_c75ced6132_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346361_ed2440517f_o.png",
+      "id_image": "stink_4694798"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "english": "teamwork",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lối chơi toàn đội",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "việc làm của toàn đội",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the combined action of a group of people, especially when effective and efficient.",
+      "definitions_ex_en": "my group has a good sense of teamwork",
+      "definitions_ex_vn": "Nhóm của tôi có một ý thức tốt về tinh thần đồng đội",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810090860_72bd4a7a78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810090860_9559c7c5aa_o.png",
+      "id_image": "teamwork_166920"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809708179_a62fb60ddc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809708179_7342b438d3_o.png",
+      "id_image": "teamwork_470236"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809353456_8a15a2ebd5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809353456_f96f28b3f4_o.png",
+      "id_image": "teamwork_567533"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809708129_b11793b280_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809708129_e0e20d203e_o.png",
+      "id_image": "teamwork_751801"
+    }
+  ]
+}

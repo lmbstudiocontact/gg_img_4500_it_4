@@ -1,0 +1,37 @@
+{
+  "english": "uneven",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gồ ghề",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không bằng phẳng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tánh không chừng",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "not level or smooth.",
+      "definitions_ex_en": "the floors are cracked and uneven",
+      "definitions_ex_vn": "Các tầng bị nứt và không đồng đều",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810090630_a1d45a7acf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810090630_e03771bae0_o.png",
+      "id_image": "uneven_4344909"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810090610_4bba83aa1b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810090610_7276c3232c_o.png",
+      "id_image": "uneven_6254177"
+    }
+  ]
+}

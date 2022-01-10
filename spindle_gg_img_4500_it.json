@@ -1,0 +1,44 @@
+{
+  "english": "spindle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "con quay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái mũi quay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây trục quay",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a slender rounded rod with tapered ends used in hand spinning to twist and wind thread from a mass of wool or flax held on a distaff.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a rod or pin serving as an axis that revolves or on which something revolves.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "impale (a piece of paper) on a metal spindle for temporary filing purposes.",
+      "definitions_ex_en": "do not fold, spindle, or mutilate",
+      "definitions_ex_vn": "Không gấp, trục chính hoặc cắt xén",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468588_5ec265c53a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468588_e30a6b8b19_o.png",
+      "id_image": "spindle_2614687"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "english": "splinter",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đập bể ra từng mảnh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm bể",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vở ra từng mảnh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mảnh xương gãy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xương vụn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small, thin, sharp piece of wood, glass, or similar material broken off from a larger piece.",
+      "definitions_ex_en": "a splinter of ice",
+      "definitions_ex_vn": "một mảnh vỡ của băng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "break or cause to break into small sharp fragments.",
+      "definitions_ex_en": "the soap box splintered",
+      "definitions_ex_vn": "Hộp xà phòng được tách",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810090680_3621fdea03_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810090680_5431324045_o.png",
+      "id_image": "splinter_1507235"
+    }
+  ]
+}

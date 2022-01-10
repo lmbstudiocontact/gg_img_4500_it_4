@@ -1,0 +1,90 @@
+{
+  "english": "support",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người nhờ cậy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giúp đở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ủng hộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chịu đựng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chống đở",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ủng hộ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "bear all or part of the weight of; hold up.",
+      "definitions_ex_en": "the dome was supported by a hundred white columns",
+      "definitions_ex_vn": "Mái vòm được hỗ trợ bởi một trăm cột trắng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "give assistance to, especially financially; enable to function or act.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "suggest the truth of; corroborate.",
+      "definitions_ex_en": "the studies support our findings",
+      "definitions_ex_vn": "Các nghiên cứu hỗ trợ những phát hiện của chúng tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a computer or operating system) allow the use or operation of (a program, language, or device).",
+      "definitions_ex_en": "the new versions do not support the graphical user interface standard",
+      "definitions_ex_vn": "Các phiên bản mới không hỗ trợ tiêu chuẩn giao diện người dùng đồ họa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "endure; tolerate.",
+      "definitions_ex_en": "at work during the day I could support the grief",
+      "definitions_ex_vn": "tại nơi làm việc vào ban ngày tôi có thể hỗ trợ nỗi đau",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a thing that bears the weight of something or keeps it upright.",
+      "definitions_ex_en": "the best support for a camera is a tripod",
+      "definitions_ex_vn": "Hỗ trợ tốt nhất cho máy ảnh là một chân máy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "material assistance.",
+      "definitions_ex_en": "he urged that military support be sent to protect humanitarian convoys",
+      "definitions_ex_vn": "Ông thúc giục rằng hỗ trợ quân sự được gửi để bảo vệ các đoàn xe nhân đạo",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381387_ac2c6bdfb0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381387_645634cdc3_o.png",
+      "id_image": "support_307954"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691679_38738b5d97_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691679_d79ba905d2_o.png",
+      "id_image": "support_706209"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073270_b0eeba90a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073270_f36a89d9fa_o.png",
+      "id_image": "support_943648"
+    }
+  ]
+}

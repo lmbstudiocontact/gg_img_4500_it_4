@@ -1,0 +1,40 @@
+{
+  "english": "weathercock",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người hay thay đổi ý kiến",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a weathervane in the form of a rooster.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a boat or aircraft) tend to turn its head into the wind; gripe.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378777_5213dc5b54_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378777_befcfa5e94_o.png",
+      "id_image": "weathercock_1146847"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070860_c785ff512d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070860_6cb4a2d4f4_o.png",
+      "id_image": "weathercock_3104626"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333886_4363833e2f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333886_ae637c5e87_o.png",
+      "id_image": "weathercock_550913"
+    }
+  ]
+}

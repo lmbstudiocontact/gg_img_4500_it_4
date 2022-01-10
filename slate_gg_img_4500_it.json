@@ -1,0 +1,44 @@
+{
+  "english": "slate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bảng đá của học trò",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chỉ trích nghiêm khắc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lợp bằng đá đen",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a fine-grained gray, green, or bluish metamorphic rock easily split into smooth, flat pieces.",
+      "definitions_ex_en": "slate quarries",
+      "definitions_ex_vn": "mỏ đá phiến",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a flat piece of slate used for writing on, typically framed in wood, formerly used in schools.",
+      "definitions_ex_en": "the teacher was demonstrating, the children copying onto slates",
+      "definitions_ex_vn": "Giáo viên đã chứng minh, những đứa trẻ sao chép trên các trò chơi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cover (something, especially a roof) with slates.",
+      "definitions_ex_en": "he was working for his father slating a new roof",
+      "definitions_ex_vn": "anh ấy đã làm việc cho cha anh ấy đã cắt một mái nhà mới",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071575_337ab2a871_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071575_fc31f9557f_o.png",
+      "id_image": "slate_2473171"
+    }
+  ]
+}

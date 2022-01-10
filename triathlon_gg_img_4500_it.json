@@ -1,0 +1,52 @@
+{
+  "english": "triathlon",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ma cô",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người làm mai bất chánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người làm mối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm mai",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "gratify or indulge (an immoral or distasteful desire, need, or habit or a person with such a desire, etc.).",
+      "definitions_ex_en": "newspapers are pandering to people's baser instincts",
+      "definitions_ex_vn": "Báo chí đang phao đến Bản năng Baser Peoper",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a pimp.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070930_ff44412c31_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070930_af500cd16e_o.png",
+      "id_image": "triathlon_2262965"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448918_62bdf59ecb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448918_725e7085e9_o.png",
+      "id_image": "triathlon_3124473"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333841_4de62b6b17_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333841_7029be7397_o.png",
+      "id_image": "triathlon_3967611"
+    }
+  ]
+}

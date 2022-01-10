@@ -1,0 +1,67 @@
+{
+  "english": "supply",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự cung cấp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tiếp tế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thế tạm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cung cấp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thêm vào",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make (something needed or wanted) available to someone; provide.",
+      "definitions_ex_en": "the farm supplies apples to cider makers",
+      "definitions_ex_vn": "Trang trại cung cấp táo cho các nhà sản xuất Cider",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a stock of a resource from which a person or place can be provided with the necessary amount of that resource.",
+      "definitions_ex_en": "there were fears that the drought would limit the exhibition's water supply",
+      "definitions_ex_vn": "Có những nỗi sợ hãi rằng hạn hán sẽ hạn chế cấp nước của triển lãm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "variant spelling of supplely (see supple).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adverb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381527_476659eeb1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381527_0b12c4e32d_o.png",
+      "id_image": "supply_1115501"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381492_e1e3662a65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381492_633707508d_o.png",
+      "id_image": "supply_3310767"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451373_a6681121a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451373_ab48fab7f3_o.png",
+      "id_image": "supply_4745668"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073390_a4e0b71b67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073390_be0567662a_o.png",
+      "id_image": "supply_5605988"
+    }
+  ]
+}

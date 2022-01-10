@@ -1,0 +1,33 @@
+{
+  "english": "symmetry",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tính cân đối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính cân xứng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the quality of being made up of exactly similar parts facing each other or around an axis.",
+      "definitions_ex_en": "this series has a line of symmetry through its center",
+      "definitions_ex_vn": "Sê-ri này có một dòng đối xứng thông qua trung tâm của nó",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067665_f0aacf40ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067665_3222138d49_o.png",
+      "id_image": "symmetry_2662939"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067635_1eea78002d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067635_45e5d355a6_o.png",
+      "id_image": "symmetry_4327724"
+    }
+  ]
+}

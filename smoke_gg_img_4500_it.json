@@ -1,0 +1,84 @@
+{
+  "english": "smoke",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khói",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hút thuốc lá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật để hút",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đỏ mặt lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hút thuốc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lên khói",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a visible suspension of carbon or other particles in air, typically one emitted from a burning substance.",
+      "definitions_ex_en": "bonfire smoke",
+      "definitions_ex_vn": "khói lửa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of smoking tobacco.",
+      "definitions_ex_en": "I'm dying for a smoke",
+      "definitions_ex_vn": "Tôi đang chết vì một làn khói",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "emit smoke or visible vapor.",
+      "definitions_ex_en": "heat the oil until it just smokes",
+      "definitions_ex_vn": "Đun nóng dầu cho đến khi nó chỉ hút thuốc",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "suck on the end of a lit cigarette, cigar, pipe, etc. so as to inhale and exhale the smoke produced by the burning tobacco into the mouth.",
+      "definitions_ex_en": "she was sitting at the kitchen table smoking",
+      "definitions_ex_vn": "Cô đang ngồi ở bàn bếp hút thuốc",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "treat, fumigate, or cleanse by exposure to smoke.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make fun of (someone).",
+      "definitions_ex_en": "we baited her and smoked her",
+      "definitions_ex_vn": "Chúng tôi mồi cho cô ấy và hút cô ấy",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445973_c40a5df446_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445973_3f71118f5e_o.png",
+      "id_image": "smoke_1679102"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375652_b73d94659f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375652_4be5b615dd_o.png",
+      "id_image": "smoke_2451374"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445898_83fb03647e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445898_3d7f70d1b6_o.png",
+      "id_image": "smoke_2544490"
+    }
+  ]
+}

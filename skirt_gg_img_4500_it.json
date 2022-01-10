@@ -1,0 +1,85 @@
+{
+  "english": "skirt",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người đàn bà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vạt áo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "váy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "váy mặc của đàn bà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh bóng hột xoàn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi vòng quanh",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a garment fastened around the waist and hanging down around the legs, worn by women and girls.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a surface that conceals or protects the wheels or underside of a vehicle or aircraft.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an animal's diaphragm and other membranes as food.",
+      "definitions_ex_en": "bits of beef skirt",
+      "definitions_ex_vn": "Bits váy thịt bò",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "women regarded as objects of sexual desire.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small flap on a saddle, covering the bar from which the stirrup leather hangs.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "go round or past the edge of.",
+      "definitions_ex_en": "he did not go through the city but skirted it",
+      "definitions_ex_vn": "anh ấy đã không đi qua thành phố nhưng mặc nó",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "attempt to ignore; avoid dealing with.",
+      "definitions_ex_en": "they are both skirting the issue",
+      "definitions_ex_vn": "cả hai đều bị bỏ qua vấn đề",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072085_7a51326436_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072085_a546f89238_o.png",
+      "id_image": "skirt_215242"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690269_35ceeafa10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690269_7e2f933235_o.png",
+      "id_image": "skirt_407323"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "english": "videotape",
+  "list_translation_mean": [
+    {
+      "translate_mean": "băng video",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộn băng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "magnetic tape for recording and reproducing visual images and sound.",
+      "definitions_ex_en": "film can be copied onto videotape",
+      "definitions_ex_vn": "phim có thể được sao chép vào băng video",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make a video recording of (an event or broadcast).",
+      "definitions_ex_en": "his arrest was videotaped",
+      "definitions_ex_vn": "Bắt giữ của anh ấy đã được quay video",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344651_171cf6daf5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344651_1996001784_o.png",
+      "id_image": "videotape_2621279"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459418_595671d0d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459418_affab0d1dc_o.png",
+      "id_image": "videotape_3172558"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699679_e530fbd12e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699679_c75bed08ab_o.png",
+      "id_image": "videotape_4028458"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459353_f63a1e624c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459353_9ea112659a_o.png",
+      "id_image": "videotape_4321497"
+    }
+  ]
+}

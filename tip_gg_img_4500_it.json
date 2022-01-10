@@ -1,0 +1,118 @@
+{
+  "english": "tip",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chót cây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ đổ rác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đầu ngọn cần câu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đỉnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền thưởng thêm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trạng thái nghiêng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật gắn ở đầu như gậy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bịt đầu bằng sắt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cho tiền thưởng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the pointed or rounded end or extremity of something slender or tapering.",
+      "definitions_ex_en": "George pressed the tips of his fingers together",
+      "definitions_ex_vn": "George ép các đầu ngón tay của mình với nhau",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a pitched ball that is slightly deflected by the bat.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sum of money given to someone as a reward for their services.",
+      "definitions_ex_en": "he never leaves a tip",
+      "definitions_ex_vn": "Anh ấy không bao giờ rời khỏi một mẹo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small but useful piece of practical advice.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "attach to or cover the end or extremity of.",
+      "definitions_ex_en": "the peaks of the mountains were tipped with snow",
+      "definitions_ex_vn": "Các đỉnh núi được tip với tuyết",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(in bookbinding) paste a single page, typically an illustration, to the neighboring page of a book by a thin line of paste down its inner margin.",
+      "definitions_ex_en": "tipped in here is a clipping from a magazine",
+      "definitions_ex_vn": "nghiêng về đây là một đoạn trích từ một tạp chí",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "overbalance or cause to overbalance so as to fall or turn over.",
+      "definitions_ex_en": "the hay caught fire when the candle tipped over",
+      "definitions_ex_vn": "cỏ khô bắt lửa khi ngọn nến nghiêng về",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "strike or touch lightly.",
+      "definitions_ex_en": "I tipped his hoof with the handle of a knife",
+      "definitions_ex_vn": "Tôi nghiêng móng guốc bằng tay cầm của một con dao",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "give (someone) a sum of money as a way of rewarding them for their services.",
+      "definitions_ex_en": "I tipped her five dollars",
+      "definitions_ex_vn": "Tôi đặt năm đô la của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461618_e082856338_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461618_936eac4b9f_o.png",
+      "id_image": "tip_1900292"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461593_66b0d78dbf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461593_64bbd1a212_o.png",
+      "id_image": "tip_2132655"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391792_05cd1e5b1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391792_5926216293_o.png",
+      "id_image": "tip_705108"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "english": "straighten",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đập cho ngay",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đứng dậy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đứng thẳng lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho ngay",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sắp đặt có thứ tự",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trở nên ngay lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make or become straight.",
+      "definitions_ex_en": "she helped him straighten his tie",
+      "definitions_ex_vn": "Cô ấy giúp anh ấy duỗi thẳng cà vạt của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081555_d52f5a5bdc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081555_1870d573db_o.png",
+      "id_image": "straighten_1658252"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389122_68a8f3f19b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389122_b1c4d37ef0_o.png",
+      "id_image": "straighten_410430"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389042_9c00271710_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389042_274749ee5c_o.png",
+      "id_image": "straighten_4215440"
+    }
+  ]
+}

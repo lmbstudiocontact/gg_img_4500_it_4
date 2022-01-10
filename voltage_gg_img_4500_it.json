@@ -1,0 +1,38 @@
+{
+  "english": "voltage",
+  "list_translation_mean": [
+    {
+      "translate_mean": "điện áp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điện thế",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an electromotive force or potential difference expressed in volts.",
+      "definitions_ex_en": "the ratio of two voltages",
+      "definitions_ex_vn": "tỷ lệ của hai điện áp",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696119_25236753e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696119_d8b2cc9fb8_o.png",
+      "id_image": "voltage_4152051"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696089_91c2ce232f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696089_d6ce645161_o.png",
+      "id_image": "voltage_4276377"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385827_4174181b8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385827_121a6e8309_o.png",
+      "id_image": "voltage_916066"
+    }
+  ]
+}

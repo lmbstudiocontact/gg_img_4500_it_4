@@ -1,0 +1,36 @@
+{
+  "english": "widow",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người đàn bà góa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a woman who has lost her spouse by death and has not remarried.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a last word or short last line of a paragraph falling at the top of a page or column and considered undesirable.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "become a widow or widower; lose one's spouse through death.",
+      "definitions_ex_en": "he was recently widowed",
+      "definitions_ex_vn": "anh ấy gần đây đã góa vợ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374207_262dace78a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374207_a43cd1a317_o.png",
+      "id_image": "widow_1855470"
+    }
+  ]
+}

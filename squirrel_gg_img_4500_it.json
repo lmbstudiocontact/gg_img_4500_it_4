@@ -1,0 +1,40 @@
+{
+  "english": "squirrel",
+  "list_translation_mean": [
+    {
+      "translate_mean": "con sóc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an agile tree-dwelling rodent with a bushy tail, typically feeding on nuts and seeds.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "move in an inquisitive and restless manner.",
+      "definitions_ex_en": "they were squirreling around in the woods in search of something",
+      "definitions_ex_vn": "họ đang nhìn xung quanh trong rừng để tìm kiếm một cái gì đó",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465738_1b10eb4eec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465738_424de29af8_o.png",
+      "id_image": "squirrel_1588876"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809351236_6af95d7943_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809351236_bc6de23390_o.png",
+      "id_image": "squirrel_5483649"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705764_20cba56c57_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705764_13925c6fa3_o.png",
+      "id_image": "squirrel_789464"
+    }
+  ]
+}

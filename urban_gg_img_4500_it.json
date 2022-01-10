@@ -1,0 +1,35 @@
+{
+  "english": "urban",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về thành phố",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "in, relating to, or characteristic of a town or city.",
+      "definitions_ex_en": "the urban population",
+      "definitions_ex_vn": "Dân số đô thị",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "denoting or relating to popular dance music associated with black performers.",
+      "definitions_ex_en": "a party that features the best in urban music",
+      "definitions_ex_vn": "một bữa tiệc có tính năng tốt nhất trong âm nhạc đô thị",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809351546_53fc756d25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809351546_af86539141_o.png",
+      "id_image": "urban_505776"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088560_2de5a97301_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088560_e758e89554_o.png",
+      "id_image": "urban_505779"
+    }
+  ]
+}

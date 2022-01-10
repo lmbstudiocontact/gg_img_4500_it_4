@@ -1,0 +1,45 @@
+{
+  "english": "testament",
+  "list_translation_mean": [
+    {
+      "translate_mean": "di chúc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thánh kinh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person's will, especially the part relating to personal property.",
+      "definitions_ex_en": "father's will and testament",
+      "definitions_ex_vn": "ý chí và di chúc của cha",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "something that serves as a sign or evidence of a specified fact, event, or quality.",
+      "definitions_ex_en": "growing attendance figures are a testament to the event's popularity",
+      "definitions_ex_vn": "Số liệu tham dự ngày càng tăng là một minh chứng cho sự phổ biến của sự kiện",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in biblical use) a covenant or dispensation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809351616_30f71dd26d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809351616_d4d90832e2_o.png",
+      "id_image": "testament_1450753"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396167_79f31a42d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396167_55f59d28ea_o.png",
+      "id_image": "testament_6000808"
+    }
+  ]
+}

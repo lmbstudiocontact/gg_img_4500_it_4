@@ -1,0 +1,50 @@
+{
+  "english": "starch",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bộ điệu không tự nhiên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bột",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tinh bột",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an odorless, tasteless white substance occurring widely in plant tissue and obtained chiefly from cereals and potatoes. It is a polysaccharide which functions as a carbohydrate store and is an important constituent of the human diet.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "powder or spray made from starch and used before ironing to stiffen fabric or clothing.",
+      "definitions_ex_en": "crisp linen, stiff with starch",
+      "definitions_ex_vn": "vải lanh giòn, cứng với tinh bột",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "stiffness of manner or character.",
+      "definitions_ex_en": "the starch in her voice",
+      "definitions_ex_vn": "tinh bột trong giọng nói của cô",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "stiffen (fabric or clothing) with starch.",
+      "definitions_ex_en": "starch your collar to keep it straight and stiff",
+      "definitions_ex_vn": "tinh bột cổ áo của bạn để giữ thẳng và cứng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394152_7ebb7cd893_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394152_fb86701315_o.png",
+      "id_image": "starch_3274068"
+    }
+  ]
+}

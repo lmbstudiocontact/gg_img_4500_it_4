@@ -1,0 +1,62 @@
+{
+  "english": "substance",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đại ý",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nội dung",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tài sản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính bền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thể chất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật chất",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a particular kind of matter with uniform properties.",
+      "definitions_ex_en": "a steel tube coated with a waxy substance",
+      "definitions_ex_vn": "một ống thép được phủ một chất sáp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the real physical matter of which a person or thing consists and which has a tangible, solid presence.",
+      "definitions_ex_en": "proteins compose much of the actual substance of the body",
+      "definitions_ex_vn": "Protein sáng tác nhiều chất thực tế của cơ thể",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the quality of being important, valid, or significant.",
+      "definitions_ex_en": "he had yet to accomplish anything of substance",
+      "definitions_ex_vn": "anh ta vẫn chưa hoàn thành bất cứ điều gì về chất",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the essential nature underlying phenomena, which is subject to changes and accidents.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384717_2635f5d5a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384717_9ab4109987_o.png",
+      "id_image": "substance_4172766"
+    }
+  ]
+}

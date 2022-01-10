@@ -1,0 +1,24 @@
+{
+  "english": "thrombosis",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chứng huyết xuyên",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "local coagulation or clotting of the blood in a part of the circulatory system.",
+      "definitions_ex_en": "increased risk of thrombosis",
+      "definitions_ex_vn": "tăng nguy cơ huyết khối",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703659_72785296ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703659_97ce77e6eb_o.png",
+      "id_image": "thrombosis_3071418"
+    }
+  ]
+}

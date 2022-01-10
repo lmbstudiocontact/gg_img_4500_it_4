@@ -1,0 +1,34 @@
+{
+  "english": "thirst",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự khát nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khát nước",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a feeling of needing or wanting to drink something.",
+      "definitions_ex_en": "they quenched their thirst with spring water",
+      "definitions_ex_vn": "họ dập tắt cơn khát của họ với nước suối",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a person or animal) feel a need to drink something.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394167_cd53e9a0c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394167_02a7c19c42_o.png",
+      "id_image": "thirst_5935626"
+    }
+  ]
+}

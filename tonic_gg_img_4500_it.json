@@ -1,0 +1,72 @@
+{
+  "english": "tonic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tonic",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chủ âm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuốc bổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm sung sức",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a medicinal substance taken to give a feeling of vigor or well-being.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for tonic water.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the first note in a scale which, in conventional harmony, provides the keynote of a piece of music.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "giving a feeling of vigor or well-being; invigorating.",
+      "definitions_ex_en": "a tonic body shampoo",
+      "definitions_ex_vn": "một loại dầu gội",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to or denoting the first degree of a scale.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "denoting or relating to the syllable within a tone group that has greatest prominence, because it carries the main change of pitch.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to or restoring normal tone to muscles or other organs.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389222_bfc5c8df9b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389222_c778021ca2_o.png",
+      "id_image": "tonic_2405489"
+    }
+  ]
+}

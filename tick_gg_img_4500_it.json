@@ -1,0 +1,94 @@
+{
+  "english": "tick",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chút lát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm dấu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một lát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng đập của tim",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng nhảy của tim",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vết đốm của thú",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vết lốm đốm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh dấu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kêu tíc tắc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm dấu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a regular short, sharp sound, especially that made by a clock or watch.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the smallest recognized amount by which a price of a security or future may fluctuate.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a parasitic arachnid that attaches itself to the skin of a terrestrial vertebrate from which it sucks blood, leaving the host when sated. Some species transmit diseases, including tularemia and Lyme disease.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a fabric case stuffed with feathers or other material to form a mattress or pillow.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a clock or other mechanical device) make regular short sharp sounds, typically one for every second of time that passes.",
+      "definitions_ex_en": "I could hear the clock ticking",
+      "definitions_ex_vn": "Tôi có thể nghe đồng hồ tích tắc",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463133_f8ca454dfc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463133_67b22c0e3d_o.png",
+      "id_image": "tick_2570144"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702989_05573b9ce8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702989_061d7c7bf2_o.png",
+      "id_image": "tick_3390910"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393127_979822b0f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393127_693861576f_o.png",
+      "id_image": "tick_5387661"
+    }
+  ]
+}

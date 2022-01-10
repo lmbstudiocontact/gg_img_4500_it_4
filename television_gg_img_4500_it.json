@@ -1,0 +1,34 @@
+{
+  "english": "television",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tivi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phép vô tuyến truyền hình",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a system for transmitting visual images and sound that are reproduced on screens, chiefly used to broadcast programs for entertainment, information, and education.",
+      "definitions_ex_en": "the days before television",
+      "definitions_ex_vn": "những ngày trước khi truyền hình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a device that receives television signals and reproduces them on a screen.",
+      "definitions_ex_en": "a color television",
+      "definitions_ex_vn": "Một truyền hình màu",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397577_048b8432c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397577_dd443c2104_o.png",
+      "id_image": "television_170972"
+    }
+  ]
+}

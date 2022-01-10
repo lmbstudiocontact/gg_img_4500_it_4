@@ -1,0 +1,48 @@
+{
+  "english": "success",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kết quả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thành công",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thắng lợi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the accomplishment of an aim or purpose.",
+      "definitions_ex_en": "there is a thin line between success and failure",
+      "definitions_ex_vn": "Có một đường mỏng giữa thành công và thất bại",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the good or bad outcome of an undertaking.",
+      "definitions_ex_en": "the good or ill success of their maritime enterprises",
+      "definitions_ex_vn": "thành công tốt hoặc xấu của các doanh nghiệp hàng hải của họ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076625_4a48ce8fbe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076625_803c4a72d2_o.png",
+      "id_image": "success_174685"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694554_2fdc050b74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694554_e6260ba1f6_o.png",
+      "id_image": "success_2065190"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694609_4fc82a511f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694609_d728acff7b_o.png",
+      "id_image": "success_913930"
+    }
+  ]
+}

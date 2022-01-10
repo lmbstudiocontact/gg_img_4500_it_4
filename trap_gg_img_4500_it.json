@@ -1,0 +1,123 @@
+{
+  "english": "trap",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bẩy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cạm bẩy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cửa sập",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lính cảnh sát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một thứ xe bò",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mưu kế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bẩy bắt thú",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chận banh bằng bàn chân",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a device or enclosure designed to catch and retain animals, typically by allowing entry but not exit or by catching hold of a part of the body.",
+      "definitions_ex_en": "the squirrels ravaged the saplings, despite the baited traps",
+      "definitions_ex_vn": "Những con sóc tàn phá những cây giống, bất chấp những cái bẫy mồi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a situation in which people lie in wait to make a surprise attack.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a container or device used to collect a specified thing.",
+      "definitions_ex_en": "one fuel filter and water trap are sufficient on the fuel system",
+      "definitions_ex_vn": "Một bộ lọc nhiên liệu và bẫy nước là đủ trên hệ thống nhiên liệu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a light, two-wheeled carriage pulled by a horse or pony.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a device for hurling an object such as a clay pigeon into the air to be shot at.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for trapdoor.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person's mouth (used in expressions to do with speaking).",
+      "definitions_ex_en": "keep your trap shut!",
+      "definitions_ex_vn": "Giữ bẫy của bạn đóng cửa!",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(among jazz musicians) drums or percussion instruments.",
+      "definitions_ex_en": "I played the traps a little myself once",
+      "definitions_ex_vn": "Tôi đã chơi bẫy một chút một mình một lần",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a type of hip-hop music typically characterized by a dark tone and rhythms involving low-pitched kick drums and a very fast hi-hat.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of trapping the ball.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "catch (an animal) in a trap.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "put trappings on (a horse).",
+      "definitions_ex_en": "the horses were trapped with black velvet",
+      "definitions_ex_vn": "Những con ngựa bị mắc kẹt với nhung đen",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073490_2738b88d45_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073490_1f951b4168_o.png",
+      "id_image": "trap_4293743"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381512_2f7a6f6afc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381512_6131fda25b_o.png",
+      "id_image": "trap_4293848"
+    }
+  ]
+}

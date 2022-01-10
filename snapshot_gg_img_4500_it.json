@@ -1,0 +1,39 @@
+{
+  "english": "snapshot",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ảnh chụp lẹ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phát súng bắn không nhắm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an informal photograph taken quickly, typically with a small handheld camera.",
+      "definitions_ex_en": "a collection of family snapshots",
+      "definitions_ex_vn": "Một bộ sưu tập ảnh chụp nhanh gia đình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a shot taken quickly by a hunter.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374592_5f15fae40f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374592_5339d4d81a_o.png",
+      "id_image": "snapshot_2350817"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444948_2d58d6ba4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444948_aa77db91a3_o.png",
+      "id_image": "snapshot_502338"
+    }
+  ]
+}

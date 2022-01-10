@@ -1,0 +1,51 @@
+{
+  "english": "snare",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lưới",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gày bẩy",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a trap for catching birds or animals, typically one having a noose of wire or cord.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a length of wire, gut, or hide stretched across a drumhead to produce a rattling sound.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a wire loop for severing polyps or other growths.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "catch (a bird or mammal) in a snare.",
+      "definitions_ex_en": "the foxes were humanely snared",
+      "definitions_ex_vn": "những con cáo bị dấu tiếng động",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329921_21b6628a0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329921_87f29221ed_o.png",
+      "id_image": "snare_1403882"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329896_aa5175e2cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329896_ec4686ba05_o.png",
+      "id_image": "snare_5439987"
+    }
+  ]
+}

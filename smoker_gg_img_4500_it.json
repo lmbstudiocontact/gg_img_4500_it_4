@@ -1,0 +1,50 @@
+{
+  "english": "smoker",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người ghiền thuốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người hút thuốc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who smokes tobacco regularly.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person or device that smokes fish or meat.",
+      "definitions_ex_en": "when the fish is ready, put it in the warm smoker",
+      "definitions_ex_vn": "Khi cá đã sẵn sàng, hãy đặt nó trong người hút thuốc ấm áp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a device which emits smoke for subduing bees in a hive.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330876_34763c73b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330876_9e56b25d3f_o.png",
+      "id_image": "smoker_261772"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375502_14581d87b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375502_8edcc11b17_o.png",
+      "id_image": "smoker_2934322"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375452_90e9d452c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375452_e67d0379de_o.png",
+      "id_image": "smoker_4728075"
+    }
+  ]
+}

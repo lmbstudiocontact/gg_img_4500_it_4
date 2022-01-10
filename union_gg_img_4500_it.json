@@ -1,0 +1,82 @@
+{
+  "english": "union",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hợp nhứt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "liên hiệp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nghiệp đoàn công nhân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thống nhứt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or fact of joining or being joined, especially in a political context.",
+      "definitions_ex_en": "he was opposed to closer political or economic union with Europe",
+      "definitions_ex_vn": "Ông đã phản đối sự kết hợp chính trị hoặc kinh tế gần hơn với châu Âu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a club, society, or association formed by people with a common interest or purpose.",
+      "definitions_ex_en": "members of the Students' Union",
+      "definitions_ex_vn": "Thành viên của Hội sinh viên",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a political unit consisting of a number of states or provinces with the same central government.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the set that comprises all the elements (and no others) contained in any of two or more given sets.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a pipe coupling.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a part of a flag with an emblem symbolizing national union, typically occupying the upper corner next to the staff.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a fabric made of two or more different yarns, typically cotton and linen or silk.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467733_e793048934_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467733_793072efcd_o.png",
+      "id_image": "union_1070250"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467708_95e66626d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467708_5ccdc698a1_o.png",
+      "id_image": "union_2694549"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809707624_905b310085_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809707624_a2d8e16339_o.png",
+      "id_image": "union_4960752"
+    }
+  ]
+}

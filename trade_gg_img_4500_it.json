@@ -1,0 +1,74 @@
+{
+  "english": "trade",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nghề nghiệp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự buôn bán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giao dịch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thương mãi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "buôn bán",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of buying and selling goods and services.",
+      "definitions_ex_en": "a move to ban all trade in ivory",
+      "definitions_ex_vn": "một động thái để cấm tất cả thương mại trong ngà",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a skilled job, typically one requiring manual skills and special training.",
+      "definitions_ex_en": "the fundamentals of the construction trade",
+      "definitions_ex_vn": "các nguyên tắc cơ bản của thương mại xây dựng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a trade wind.",
+      "definitions_ex_en": "the north-east trades",
+      "definitions_ex_vn": "giao dịch đông bắc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "buy and sell goods and services.",
+      "definitions_ex_en": "middlemen trading in luxury goods",
+      "definitions_ex_vn": "Middlemen giao dịch hàng hóa sang trọng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "exchange (something) for something else, typically as a commercial transaction.",
+      "definitions_ex_en": "they trade mud-shark livers for fish oil",
+      "definitions_ex_vn": "Họ thương mại xe cá mập bùn cho dầu cá",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078120_abd17e341b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078120_5a6b1f62a0_o.png",
+      "id_image": "trade_1987423"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340756_7952a344c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340756_c8ce180d1d_o.png",
+      "id_image": "trade_2289570"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455593_c3f833d08a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455593_bff2e9d5a5_o.png",
+      "id_image": "trade_6203363"
+    }
+  ]
+}

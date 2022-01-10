@@ -1,0 +1,49 @@
+{
+  "english": "strawberry",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dâu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây dâu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trái dâu tây",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a sweet soft red fruit with a seed-studded surface.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the low-growing plant which produces the strawberry, having white flowers, lobed leaves, and runners, and found throughout north temperate regions.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a deep pinkish-red color.",
+      "definitions_ex_en": "she thought she would wear the strawberry crushed velvet",
+      "definitions_ex_vn": "Cô nghĩ cô sẽ mặc nhung nghiền dâu tây",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343371_daea56b432_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343371_253aa15566_o.png",
+      "id_image": "strawberry_183992"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698569_e8cca5c223_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698569_b8401bac78_o.png",
+      "id_image": "strawberry_529279"
+    }
+  ]
+}

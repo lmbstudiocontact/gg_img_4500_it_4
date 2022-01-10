@@ -1,0 +1,56 @@
+{
+  "english": "version",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dịch ra tiếng ngoại quốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phiên dịch",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a particular form of something differing in certain respects from an earlier form or other forms of the same type of thing.",
+      "definitions_ex_en": "a revised version of the paper was produced for a later meeting",
+      "definitions_ex_vn": "Một phiên bản sửa đổi của bài báo đã được sản xuất cho một cuộc họp sau này",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an account of a matter from a particular person's point of view.",
+      "definitions_ex_en": "he told her his version of events",
+      "definitions_ex_vn": "Anh ấy nói với cô ấy phiên bản sự kiện của anh ấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the manual turning of a fetus in the uterus to make delivery easier.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "create a new version of.",
+      "definitions_ex_en": "it's the software for you if you need versioning and group editing",
+      "definitions_ex_vn": "Đó là phần mềm dành cho bạn nếu bạn cần chỉnh sửa phiên bản và nhóm",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083470_fd00e5e827_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083470_5e9d0d6cdd_o.png",
+      "id_image": "version_2620555"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083450_abd57ed791_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083450_4d277b921a_o.png",
+      "id_image": "version_2620998"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460723_5b03faf39c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460723_d0da089ff2_o.png",
+      "id_image": "version_3098184"
+    }
+  ]
+}

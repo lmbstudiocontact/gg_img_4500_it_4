@@ -1,0 +1,94 @@
+{
+  "english": "type",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khuôn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chữ in",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kiểu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mẫu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a category of people or things having common characteristics.",
+      "definitions_ex_en": "this type of heather grows better in a drier habitat",
+      "definitions_ex_vn": "Loại Heather này phát triển tốt hơn trong một môi trường sống khô hơn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person or thing symbolizing or exemplifying the ideal or defining characteristics of something.",
+      "definitions_ex_en": "she characterized his witty sayings as the type of modern wisdom",
+      "definitions_ex_vn": "Cô đặc trưng những câu nói dí dỏm của mình là kiểu Trí tuệ hiện đại",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "printed characters or letters.",
+      "definitions_ex_en": "bold or italic type",
+      "definitions_ex_vn": "loại in đậm hoặc nghiêng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a design on either side of a medal or coin.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an abstract category or class of linguistic item or unit, as distinct from actual occurrences in speech or writing.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "write (something) on a typewriter or computer by pressing the keys.",
+      "definitions_ex_en": "he typed out the second draft",
+      "definitions_ex_vn": "Ông gõ dự thảo thứ hai",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "determine the type to which (a person or their blood or tissue) belongs.",
+      "definitions_ex_en": "the kidney was typed",
+      "definitions_ex_vn": "thận đã được gõ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "short for typecast.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(forming adjectives) resembling or having the characteristics of a specified thing.",
+      "definitions_ex_en": "the dish-type radio telescope",
+      "definitions_ex_vn": "Kính thiên văn radio kiểu bát đĩa",
+      "definitions_type_word": "suffix"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808399557_5d0d21033c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808399557_0514d820cf_o.png",
+      "id_image": "type_1440391"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810092060_b8362559e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810092060_4d5baa20e8_o.png",
+      "id_image": "type_2748894"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809709284_eaaeb4fd0d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809709284_bff0086412_o.png",
+      "id_image": "type_2844576"
+    }
+  ]
+}

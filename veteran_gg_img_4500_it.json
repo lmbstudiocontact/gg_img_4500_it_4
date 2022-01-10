@@ -1,0 +1,29 @@
+{
+  "english": "veteran",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cựu chiến binh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who has had long experience in a particular field.",
+      "definitions_ex_en": "a veteran of two world wars",
+      "definitions_ex_vn": "một cựu chiến binh của hai cuộc chiến tranh thế giới",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460238_6da0657f95_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460238_9937ffa1f4_o.png",
+      "id_image": "veteran_2142618"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700564_3133cd1038_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700564_462e28504b_o.png",
+      "id_image": "veteran_4850575"
+    }
+  ]
+}

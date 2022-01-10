@@ -1,0 +1,56 @@
+{
+  "english": "worry",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "điều làm phiền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lo âu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lo lắng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lo ngại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lo nghĩ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "give way to anxiety or unease; allow one's mind to dwell on difficulty or troubles.",
+      "definitions_ex_en": "he worried about his soldier sons in the war",
+      "definitions_ex_vn": "Ông lo lắng về những người lính Sones của mình trong cuộc chiến",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a dog or other carnivorous animal) tear at, gnaw on, or drag around with the teeth.",
+      "definitions_ex_en": "I found my dog contentedly worrying a bone",
+      "definitions_ex_vn": "Tôi thấy con chó của tôi làm hài lòng một xương",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a state of anxiety and uncertainty over actual or potential problems.",
+      "definitions_ex_en": "he's demented with worry",
+      "definitions_ex_vn": "Anh ấy đang đau lòng với lo lắng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070195_5d860244a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070195_26abb20348_o.png",
+      "id_image": "worry_2472934"
+    }
+  ]
+}

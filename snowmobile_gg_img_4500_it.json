@@ -1,0 +1,40 @@
+{
+  "english": "snowmobile",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xe chạt trên tuyết",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a motor vehicle, especially one with runners in the front and caterpillar tracks in the rear, for traveling over snow.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "travel by snowmobile.",
+      "definitions_ex_en": "Toby thought maybe he would snowmobile into town today",
+      "definitions_ex_vn": "Toby nghĩ có lẽ anh ta sẽ trượt tuyết vào thị trấn ngày nay",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065230_6f82c29a5b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065230_94a249cdb8_o.png",
+      "id_image": "snowmobile_6347783"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683584_84111007e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683584_92dab90d9b_o.png",
+      "id_image": "snowmobile_660973"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328436_fceb7d3c80_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328436_7aece1bf9d_o.png",
+      "id_image": "snowmobile_661937"
+    }
+  ]
+}

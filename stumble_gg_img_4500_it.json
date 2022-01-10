@@ -1,0 +1,38 @@
+{
+  "english": "stumble",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự trợt chân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vấp ngã",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sẩy chân",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "trip or momentarily lose one's balance; almost fall.",
+      "definitions_ex_en": "her foot caught a shoe and she stumbled",
+      "definitions_ex_vn": "Chân cô bắt được một chiếc giày và cô vấp ngã",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of stumbling.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696219_29feb060af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696219_fd6e7b8588_o.png",
+      "id_image": "stumble_2557007"
+    }
+  ]
+}

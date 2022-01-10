@@ -1,0 +1,47 @@
+{
+  "english": "veneer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kỹ thuật dán gỗ ép",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật liệu dùng bôi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dán gỗ ép",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dùng bề ngoài để che đậy",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thin decorative covering of fine wood applied to a coarser wood or other material.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cover (something) with a decorative layer of fine wood.",
+      "definitions_ex_en": "factories employed cabinetmakers to veneer looking glasses",
+      "definitions_ex_vn": "Các nhà máy làm việc tủ để kính nhìn veneer",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461648_33987af4e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461648_8007d61b6e_o.png",
+      "id_image": "veneer_3740082"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701639_f4701c906d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701639_3b684ba757_o.png",
+      "id_image": "veneer_5715066"
+    }
+  ]
+}

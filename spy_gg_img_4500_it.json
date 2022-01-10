@@ -1,0 +1,44 @@
+{
+  "english": "spy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dọ thám",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thấy",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who secretly collects and reports information on the activities, movements, and plans of an enemy or competitor.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "work for a government or other organization by secretly collecting information about enemies or competitors.",
+      "definitions_ex_en": "he agreed to spy for the West",
+      "definitions_ex_vn": "Ông đồng ý làm gián điệp về phía tây",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352036_74e415e600_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352036_1547530a12_o.png",
+      "id_image": "spy_194344"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706484_a35bc8a843_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706484_fbb2228f28_o.png",
+      "id_image": "spy_343171"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466493_acc9c93170_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466493_bb14eceb18_o.png",
+      "id_image": "spy_617033"
+    }
+  ]
+}

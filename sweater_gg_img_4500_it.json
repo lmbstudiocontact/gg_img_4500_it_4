@@ -1,0 +1,44 @@
+{
+  "english": "sweater",
+  "list_translation_mean": [
+    {
+      "translate_mean": "áo len dài tay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "áo nịt bằng len",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a knitted garment typically with long sleeves, worn over the upper body.",
+      "definitions_ex_en": "a close-knit wool sweater for icy weather",
+      "definitions_ex_vn": "Một chiếc áo len len dệt kim gần gũi cho thời tiết băng giá",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an employer who works employees hard in poor conditions for low pay.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070380_9a1dcb5910_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070380_ba20a0cc6b_o.png",
+      "id_image": "sweater_1175608"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448663_df4908cf05_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448663_a093197e47_o.png",
+      "id_image": "sweater_207736"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448633_e22d618217_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448633_3aa8836e0e_o.png",
+      "id_image": "sweater_262481"
+    }
+  ]
+}

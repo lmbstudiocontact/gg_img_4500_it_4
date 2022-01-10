@@ -1,0 +1,45 @@
+{
+  "english": "wedge",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái nêm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật giống hình cái nêm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a piece of wood, metal, or some other material having one thick end and tapering to a thin edge, that is driven between two objects or parts of an object to secure or separate them.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "fix in position using a wedge.",
+      "definitions_ex_en": "the door was wedged open",
+      "definitions_ex_vn": "cánh cửa được mở rộng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "force into a narrow space.",
+      "definitions_ex_en": "I wedged the bags into the back seat",
+      "definitions_ex_vn": "Tôi nêm túi vào ghế sau",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448233_0064e96002_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448233_d48f8bd056_o.png",
+      "id_image": "wedge_1811669"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378012_1d1fe729d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378012_9e17a4a3a8_o.png",
+      "id_image": "wedge_3390203"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "english": "step",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bệ để dựng cột buồm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cách đi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dáng đi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nấc thang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thăng chức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bước đi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bước đi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đếm bước đo đoạn đường",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an act or movement of putting one leg in front of the other in walking or running.",
+      "definitions_ex_en": "Ron took a step back",
+      "definitions_ex_vn": "Ron lùi lại một bước",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a flat surface, especially one in a series, on which to place one's foot when moving from one level to another.",
+      "definitions_ex_en": "the bottom step of the staircase",
+      "definitions_ex_vn": "Bước dưới cùng của cầu thang",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a measure or action, especially one of a series taken in order to deal with or achieve a particular thing.",
+      "definitions_ex_en": "a major step forward in the fight for justice",
+      "definitions_ex_vn": "một bước tiến lớn trong cuộc chiến cho công lý",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an abrupt change in the value of a quantity, especially voltage.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a block, typically fixed to the vessel's keel, on which the base of a mast is seated.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "lift and set down one's foot or one foot after the other in order to walk somewhere or move to a new position.",
+      "definitions_ex_en": "Claudia tried to step back",
+      "definitions_ex_vn": "Claudia cố gắng lùi lại",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "set up (a mast) in its step.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "denoting a relationship resulting from a remarriage.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "combining form"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084765_c915853d38_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084765_9119e2d504_o.png",
+      "id_image": "step_1177625"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702184_1ce0a8bc2f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702184_a9831d49de_o.png",
+      "id_image": "step_1330216"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702149_b5b4b93694_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702149_64ee4c1eda_o.png",
+      "id_image": "step_4158050"
+    }
+  ]
+}

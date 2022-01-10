@@ -1,0 +1,40 @@
+{
+  "english": "urchin",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tinh ranh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đứa bé láu cá",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a mischievous young child, especially one who is poorly or raggedly dressed.",
+      "definitions_ex_en": "he was surrounded by a dozen street urchins in rags",
+      "definitions_ex_vn": "anh ta được bao quanh bởi một tá nhím đường phố trong giẻ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for sea urchin.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a hedgehog.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705819_7b63d76301_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705819_fb800807ec_o.png",
+      "id_image": "urchin_5052606"
+    }
+  ]
+}

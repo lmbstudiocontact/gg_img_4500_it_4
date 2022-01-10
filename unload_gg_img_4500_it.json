@@ -1,0 +1,38 @@
+{
+  "english": "unload",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cất hàng hóa xuống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lấy đạn ở súng ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thả bom",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "remove goods from (a vehicle, ship, container, etc.).",
+      "definitions_ex_en": "she hadn't finished unloading the car",
+      "definitions_ex_vn": "Cô đã không dỡ xe xong",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "remove (ammunition) from a gun or (film) from a camera.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089660_201760274e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089660_68c376506e_o.png",
+      "id_image": "unload_4651153"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "english": "simplify",
+  "list_translation_mean": [
+    {
+      "translate_mean": "làm cho đơn giản",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make (something) simpler or easier to do or understand.",
+      "definitions_ex_en": "an overhaul of court procedure to simplify litigation",
+      "definitions_ex_vn": "một quá trình đại tu của thủ tục để đơn giản hóa kiện tụng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338346_8f8fd632e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338346_8576210151_o.png",
+      "id_image": "simplify_5184298"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453308_a3457341f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453308_0b0415c00c_o.png",
+      "id_image": "simplify_5398110"
+    }
+  ]
+}

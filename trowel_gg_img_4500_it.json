@@ -1,0 +1,50 @@
+{
+  "english": "trowel",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái bay của thợ hồ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tô hồ bằng tay",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small handheld tool with a flat, pointed blade, used to apply and spread mortar or plaster.",
+      "definitions_ex_en": "a pointing trowel",
+      "definitions_ex_vn": "một trowel trỏ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small handheld tool with a curved scoop for lifting plants or earth.",
+      "definitions_ex_en": "a garden trowel",
+      "definitions_ex_vn": "một trowel vườn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "apply or spread with or as if with a trowel.",
+      "definitions_ex_en": "trowel in enough soil to form a dome",
+      "definitions_ex_vn": "Trowel trong đất đủ để tạo thành một mái vòm",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331771_8f728e1e11_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331771_41ae5683dd_o.png",
+      "id_image": "trowel_252706"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446718_633e7afd68_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446718_834a164916_o.png",
+      "id_image": "trowel_252708"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686704_431cff809a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686704_2e0a85e5a4_o.png",
+      "id_image": "trowel_252709"
+    }
+  ]
+}

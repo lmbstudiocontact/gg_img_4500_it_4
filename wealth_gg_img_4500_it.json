@@ -1,0 +1,51 @@
+{
+  "english": "wealth",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cảnh sung sướng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giàu sang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hạnh phúc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giàu có",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an abundance of valuable possessions or money.",
+      "definitions_ex_en": "he used his wealth to bribe officials",
+      "definitions_ex_vn": "Ông đã sử dụng sự giàu có của mình để hối lộ các quan chức",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449618_14f9b60858_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449618_250a36d509_o.png",
+      "id_image": "wealth_2200880"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379522_dbed6cecc8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379522_788b3308ff_o.png",
+      "id_image": "wealth_3053803"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379492_982e190a46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379492_b0cdd37943_o.png",
+      "id_image": "wealth_4802417"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071475_5d889773ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071475_20a2e1439e_o.png",
+      "id_image": "wealth_6214082"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "english": "slug",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đạn nhỏ của súng hơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "loài ốc sên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người làm biếng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người lười biếng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắt loài ốc sên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh mạnh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi một cách nặng nề",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm lụng vất vả",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm việc cực nhọc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giết ốc sên",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a tough-skinned terrestrial mollusk which typically lacks a shell and secretes a film of mucus for protection. It can be a serious plant pest.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a slow, lazy person; a sluggard.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an amount of an alcoholic drink, typically liquor, that is gulped or poured.",
+      "definitions_ex_en": "he took a slug of whiskey",
+      "definitions_ex_vn": "Anh ta lấy một con sên của rượu whisky",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an elongated, typically rounded piece of metal.",
+      "definitions_ex_en": "the reactor uses embedded slugs of uranium",
+      "definitions_ex_vn": "Lò phản ứng sử dụng Slugs nhúng của uranium",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a line of type in Linotype printing.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a part of a URL which identifies a particular page on a website in a form readable by users.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "drink (something, typically alcohol) in a large draft; swig.",
+      "definitions_ex_en": "she picked up her drink and slugged it straight back",
+      "definitions_ex_vn": "Cô nhặt đồ uống của mình và trượt thẳng lại",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068770_7babf1a6d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068770_805c99bb3f_o.png",
+      "id_image": "slug_2036640"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447058_47aa5e5f70_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447058_117c0ecee5_o.png",
+      "id_image": "slug_2162041"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332016_6b6a1c93ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332016_5f52571e15_o.png",
+      "id_image": "slug_3751492"
+    }
+  ]
+}

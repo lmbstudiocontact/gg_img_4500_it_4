@@ -1,0 +1,69 @@
+{
+  "english": "tear",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chổ rách của quần áo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giống như giọt nước mắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước mắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giựt vật gì",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xé rách",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "pull or rip (something) apart or to pieces with force.",
+      "definitions_ex_en": "I tore up the letter",
+      "definitions_ex_vn": "Tôi xé bức thư",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "move very quickly in a reckless or excited manner.",
+      "definitions_ex_en": "she tore along the footpath on her bike",
+      "definitions_ex_vn": "Cô xé đi lối đi bộ trên xe đạp của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be in a state of uncertainty between two conflicting options or parties.",
+      "definitions_ex_en": "he was torn between his duty and his better instincts",
+      "definitions_ex_vn": "anh ta bị giằng xé giữa nhiệm vụ của mình và bản năng tốt hơn của anh ấy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a hole or split in something caused by it having been pulled apart forcefully.",
+      "definitions_ex_en": "there was a tear in her dress",
+      "definitions_ex_vn": "Có một giọt nước mắt trong chiếc váy của cô ấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a drop of clear salty liquid secreted from glands in a person's eye when they cry or when the eye is irritated.",
+      "definitions_ex_en": "a tear rolled down her cheek",
+      "definitions_ex_vn": "Một giọt nước mắt lăn xuống má cô",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808398367_7a2c8a8a3b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808398367_75ff0e0f32_o.png",
+      "id_image": "tear_1650369"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810090740_896890a973_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810090740_d980ce9985_o.png",
+      "id_image": "tear_2911067"
+    }
+  ]
+}

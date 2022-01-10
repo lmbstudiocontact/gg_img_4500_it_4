@@ -1,0 +1,44 @@
+{
+  "english": "sleigh",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xe chở đồ chạy trên tuyết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xe trượt tuyết",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a sled drawn by horses or reindeer, especially one used for passengers.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "ride on a sleigh.",
+      "definitions_ex_en": "as children we sleighed on big drifts in the winter",
+      "definitions_ex_vn": "Khi còn nhỏ, chúng tôi đã đi trên những chiếc trôi lớn vào mùa đông",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448628_84a6ecdd7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448628_da289b5261_o.png",
+      "id_image": "sleigh_3684427"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070360_09bab90129_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070360_8bdb4e3c71_o.png",
+      "id_image": "sleigh_3714032"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333491_1b828d6a26_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333491_de89f16df7_o.png",
+      "id_image": "sleigh_6250013"
+    }
+  ]
+}

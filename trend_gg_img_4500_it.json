@@ -1,0 +1,70 @@
+{
+  "english": "trend",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chiều hướng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hướng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khuynh hướng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xoay về hướng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a general direction in which something is developing or changing.",
+      "definitions_ex_en": "an upward trend in sales and profit margins",
+      "definitions_ex_vn": "một xu hướng tăng trong bán hàng và lợi nhuận",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a fashion.",
+      "definitions_ex_en": "the latest trends in modern dance",
+      "definitions_ex_vn": "Những xu hướng mới nhất trong điệu nhảy hiện đại",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a topic that is the subject of many posts on a social media website within a short period of time.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "change or develop in a general direction.",
+      "definitions_ex_en": "unemployment has been trending upward",
+      "definitions_ex_vn": "Thất nghiệp đã đi lên trên",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a topic) be the subject of many posts on a social media website within a short period of time.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449758_fbc6308eac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449758_5480c08cec_o.png",
+      "id_image": "trend_2015802"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379622_a44c5c3f1a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379622_a8e5815501_o.png",
+      "id_image": "trend_2132635"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449783_3cea78178b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449783_ca7c6ceb47_o.png",
+      "id_image": "trend_992854"
+    }
+  ]
+}

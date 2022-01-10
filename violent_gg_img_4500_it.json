@@ -1,0 +1,32 @@
+{
+  "english": "violent",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dữ dội",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mạnh mẻ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dữ tợn",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "using or involving physical force intended to hurt, damage, or kill someone or something.",
+      "definitions_ex_en": "a violent confrontation with riot police",
+      "definitions_ex_vn": "một cuộc đối đầu dữ dội với cảnh sát bạo loạn",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698354_7333cb8509_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698354_ef0c32bdb5_o.png",
+      "id_image": "violent_6305773"
+    }
+  ]
+}

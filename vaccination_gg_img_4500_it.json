@@ -1,0 +1,33 @@
+{
+  "english": "vaccination",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự chủng đậu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trồng trái",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "treatment with a vaccine to produce immunity against a disease; inoculation.",
+      "definitions_ex_en": "vaccination against yellow fever is essential",
+      "definitions_ex_vn": "Tiêm vắc-xin chống sốt vàng là điều cần thiết",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087220_d2ed1897fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087220_e0aee165da_o.png",
+      "id_image": "vaccination_4745684"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087195_08645853ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087195_3fe6862a53_o.png",
+      "id_image": "vaccination_4745690"
+    }
+  ]
+}

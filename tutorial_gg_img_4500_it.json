@@ -1,0 +1,53 @@
+{
+  "english": "tutorial",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dạy riêng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về giám hộ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về sự thủ hộ",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to a tutor or a tutor's instruction.",
+      "definitions_ex_en": "tutorial sessions",
+      "definitions_ex_vn": "Các buổi hướng dẫn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a period of instruction given by a university or college tutor to an individual or very small group.",
+      "definitions_ex_en": "a tutorial on English poetry",
+      "definitions_ex_vn": "một hướng dẫn về thơ tiếng Anh",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064610_ec98651973_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064610_4a9bfe4205_o.png",
+      "id_image": "tutorial_1440999"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327926_4c97e4f572_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327926_321eb54eb2_o.png",
+      "id_image": "tutorial_1441000"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682959_2c838996d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682959_d83f71f351_o.png",
+      "id_image": "tutorial_2106659"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682939_caa9a4b172_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682939_75a0fb03f7_o.png",
+      "id_image": "tutorial_2329332"
+    }
+  ]
+}

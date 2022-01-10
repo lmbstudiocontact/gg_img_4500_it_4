@@ -1,0 +1,92 @@
+{
+  "english": "tongue",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái lưỡi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lưỡi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the fleshy muscular organ in the mouth of a mammal, used for tasting, licking, swallowing, and (in humans) articulating speech.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "used in reference to a person's style or manner of speaking.",
+      "definitions_ex_en": "he was a redoubtable debater with a caustic tongue",
+      "definitions_ex_vn": "anh ta là một cuộc tranh luận có thể chịu đựng được với một lưỡi ăn da",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a strip of leather or fabric under the laces in a shoe, attached only at the front end.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the free-swinging metal piece inside a bell which is made to strike the bell to produce the sound.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a long, low promontory of land.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a projecting strip on a wooden board fitting into a groove on another.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the vibrating reed of a musical instrument or organ pipe.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a jet of flame.",
+      "definitions_ex_en": "a tongue of flame flashes four feet from the gun",
+      "definitions_ex_vn": "Một lưỡi ngọn lửa lóe lên bốn feet từ súng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "sound (a note) distinctly on a wind instrument by interrupting the air flow with the tongue.",
+      "definitions_ex_en": "Eugene has worked out the correct tonguing",
+      "definitions_ex_vn": "Eugene đã làm việc đúng sự",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "lick or caress with the tongue.",
+      "definitions_ex_en": "the other horse tongued every part of the colt's mane",
+      "definitions_ex_vn": "Ngựa khác lưỡi mỗi phần của bờm của Colt",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459093_0a52bda712_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459093_161fda5496_o.png",
+      "id_image": "tongue_2688374"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344281_b3e15deb38_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344281_9e38519925_o.png",
+      "id_image": "tongue_3813083"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081755_523afe5988_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081755_d22bf238bf_o.png",
+      "id_image": "tongue_599518"
+    }
+  ]
+}

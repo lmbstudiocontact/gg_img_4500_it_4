@@ -1,0 +1,42 @@
+{
+  "english": "suitcase",
+  "list_translation_mean": [
+    {
+      "translate_mean": "va li",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hồ sơ kiện tụng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hồ sơ thưa kiện",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a case with a handle and a hinged lid, used for carrying clothes and other personal possessions.",
+      "definitions_ex_en": "three huge suitcases and a plethora of hand baggage",
+      "definitions_ex_vn": "Ba vali khổng lồ và rất nhiều hành lý xách tay",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338386_7fcef3264b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338386_2fafc0352a_o.png",
+      "id_image": "suitcase_289905"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383282_ea18ff3957_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383282_cfac4756f1_o.png",
+      "id_image": "suitcase_290332"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338296_7eab178601_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338296_6f865e3f2f_o.png",
+      "id_image": "suitcase_495994"
+    }
+  ]
+}

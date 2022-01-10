@@ -1,0 +1,33 @@
+{
+  "english": "tapestry",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tấm thãm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thảm thêu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a piece of thick textile fabric with pictures or designs formed by weaving colored weft threads or by embroidering on canvas, used as a wall hanging or furniture covering.",
+      "definitions_ex_en": "paneled walls hung with old tapestries",
+      "definitions_ex_vn": "Tường Paneled treo với tấm thảm cũ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681714_e4a02abbc1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681714_eaecf64cc8_o.png",
+      "id_image": "tapestry_2036217"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063530_ac86c20e18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063530_b675115812_o.png",
+      "id_image": "tapestry_5939143"
+    }
+  ]
+}

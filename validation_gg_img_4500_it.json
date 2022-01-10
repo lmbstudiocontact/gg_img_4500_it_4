@@ -1,0 +1,37 @@
+{
+  "english": "validation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự cho phép",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chuẩn nhận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự công nhận",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of checking or proving the validity or accuracy of something.",
+      "definitions_ex_en": "the technique requires validation in controlled trials",
+      "definitions_ex_vn": "Kỹ thuật yêu cầu xác nhận trong các thử nghiệm được kiểm soát",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349416_53f48e45fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349416_2a026cc885_o.png",
+      "id_image": "validation_3285909"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464038_ecea95b9a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464038_b96f4f9f30_o.png",
+      "id_image": "validation_4825235"
+    }
+  ]
+}

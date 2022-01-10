@@ -1,0 +1,43 @@
+{
+  "english": "voluntary",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tùy ý",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tự mình muốn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tự ý",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "done, given, or acting of one's own free will.",
+      "definitions_ex_en": "we are funded by voluntary contributions",
+      "definitions_ex_vn": "Chúng tôi được tài trợ bởi những đóng góp tự nguyện",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "an organ solo played before, during, or after a church service.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340651_015c22eb66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340651_df60999d83_o.png",
+      "id_image": "voluntary_1590696"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385582_0a7ffa051a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385582_eeb7c13d4d_o.png",
+      "id_image": "voluntary_1974645"
+    }
+  ]
+}

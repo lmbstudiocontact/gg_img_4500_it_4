@@ -1,0 +1,40 @@
+{
+  "english": "status",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhân quyền pháp",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the relative social, professional, or other standing of someone or something.",
+      "definitions_ex_en": "an improvement in the status of women",
+      "definitions_ex_vn": "một sự cải thiện về tình trạng của phụ nữ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the position of affairs at a particular time, especially in political or commercial contexts.",
+      "definitions_ex_en": "an update on the status of the bill",
+      "definitions_ex_vn": "một bản cập nhật về trạng thái của hóa đơn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703049_25061ba298_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703049_ae9d072a14_o.png",
+      "id_image": "status_1088935"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393177_8336ec5e27_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393177_4438617c2e_o.png",
+      "id_image": "status_2671385"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703009_04911fef5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703009_55aeff9a1a_o.png",
+      "id_image": "status_3053796"
+    }
+  ]
+}

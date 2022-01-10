@@ -1,0 +1,54 @@
+{
+  "english": "vacuum",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khoảng chân không",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khoảng trống không",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trống rổng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a space entirely devoid of matter.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a vacuum cleaner.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "clean with a vacuum cleaner.",
+      "definitions_ex_en": "the room needs to be vacuumed",
+      "definitions_ex_vn": "Phòng cần được hút bụi",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704294_7993e43d3f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704294_2cb88dea41_o.png",
+      "id_image": "vacuum_1288256"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349691_871e2d433d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349691_c614a050e3_o.png",
+      "id_image": "vacuum_452708"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464343_991d0b99e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464343_8df44f92f1_o.png",
+      "id_image": "vacuum_578001"
+    }
+  ]
+}

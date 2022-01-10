@@ -1,0 +1,42 @@
+{
+  "english": "zigzag",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hình đường chữ chi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a line or course having abrupt alternate right and left turns.",
+      "definitions_ex_en": "she traced a zigzag on the metal with her finger",
+      "definitions_ex_vn": "Cô truy tìm một zigzag trên kim loại bằng ngón tay",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "having the form of a zigzag; veering alternately to right and left.",
+      "definitions_ex_en": "when chased by a predator, some animals take a zigzag course",
+      "definitions_ex_vn": "Khi bị truy đuổi bởi một kẻ săn mồi, một số động vật lấy một khóa học ngoằn ngoèo",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "so as to move right and left alternately.",
+      "definitions_ex_en": "she drives zigzag across the city",
+      "definitions_ex_vn": "Cô ấy lái xe zigzag trên toàn thành phố",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "have or move along in a zigzag course.",
+      "definitions_ex_en": "the path zigzagged between dry rises in the land",
+      "definitions_ex_vn": "Con đường ngoằn ngoèo giữa khô rụng trong đất",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374852_33bf064804_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374852_b10fc1cd39_o.png",
+      "id_image": "zigzag_1655263"
+    }
+  ]
+}

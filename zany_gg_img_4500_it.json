@@ -1,0 +1,57 @@
+{
+  "english": "zany",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đần độn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khờ dại,",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người ngu ngốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thằng hề",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "amusingly unconventional and idiosyncratic.",
+      "definitions_ex_en": "zany humor",
+      "definitions_ex_vn": "Zany hài hước.",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "an erratic or eccentric person.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445223_64e2753b11_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445223_9a3d819d4f_o.png",
+      "id_image": "zany_1933795"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330241_c7cf7eb732_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330241_fa9ef9ee72_o.png",
+      "id_image": "zany_1933799"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685299_a5ebbd594e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685299_608fa2dece_o.png",
+      "id_image": "zany_3362076"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685274_6829454b21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685274_e7e891049f_o.png",
+      "id_image": "zany_3508752"
+    }
+  ]
+}

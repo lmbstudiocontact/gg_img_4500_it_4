@@ -1,0 +1,117 @@
+{
+  "english": "study",
+  "list_translation_mean": [
+    {
+      "translate_mean": "học hỏi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nghiên cứu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phòng làm việc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chăm chú",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chú ý",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự học",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chăm chú",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "học tập",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nghiên cứu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trắc nghiệm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the devotion of time and attention to acquiring knowledge on an academic subject, especially by means of books.",
+      "definitions_ex_en": "the study of English",
+      "definitions_ex_vn": "Nghiên cứu tiếng Anh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a detailed investigation and analysis of a subject or situation.",
+      "definitions_ex_en": "a study of a sample of 5,000 children",
+      "definitions_ex_vn": "một nghiên cứu về một mẫu 5.000 trẻ em",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a room used or designed for reading, writing, or academic work.",
+      "definitions_ex_en": "the third bedroom was used as a study",
+      "definitions_ex_vn": "Phòng ngủ thứ ba được sử dụng như một nghiên cứu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a piece of work, especially a drawing, done for practice or as an experiment.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing or person that is an embodiment or good example of something.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "devote time and attention to acquiring knowledge on (an academic subject), especially by means of books.",
+      "definitions_ex_en": "she studied biology and botany",
+      "definitions_ex_vn": "Cô học sinh và thực vật học",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "look at closely in order to observe or read.",
+      "definitions_ex_en": "she bent her head to study the plans",
+      "definitions_ex_vn": "Cô cúi đầu học kế hoạch",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make an effort to achieve (a result) or take into account (a person or their wishes).",
+      "definitions_ex_en": "with no husband to study, housekeeping is mere play",
+      "definitions_ex_vn": "không có chồng học, vệ sinh chỉ chơi",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341211_484d283cd9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341211_2997f446bb_o.png",
+      "id_image": "study_1225910"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455993_927c0aca4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455993_1fe3dc6456_o.png",
+      "id_image": "study_2598789"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386197_738d705539_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386197_8f6ce20e04_o.png",
+      "id_image": "study_392791"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696384_0e8ef7a2ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696384_0f420a1556_o.png",
+      "id_image": "study_4334817"
+    }
+  ]
+}

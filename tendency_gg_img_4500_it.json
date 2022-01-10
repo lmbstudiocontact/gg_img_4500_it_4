@@ -1,0 +1,32 @@
+{
+  "english": "tendency",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chiều hướng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khuynh hướng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xu hướng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an inclination toward a particular characteristic or type of behavior.",
+      "definitions_ex_en": "for students, there is a tendency to socialize in the evenings",
+      "definitions_ex_vn": "Dành cho sinh viên, có xu hướng xã hội hóa vào buổi tối",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706974_b413a426c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706974_246eb7a0bb_o.png",
+      "id_image": "tendency_5957010"
+    }
+  ]
+}

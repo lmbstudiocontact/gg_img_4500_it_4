@@ -1,0 +1,92 @@
+{
+  "english": "switch",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây roi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "công tắc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lọn tóc giả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "que gỗ mềm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "công tắc điện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bật mở điện",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh bằng roi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quay mau lẹ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a device for making and breaking the connection in an electric circuit.",
+      "definitions_ex_en": "the guard hit a switch and the gate swung open",
+      "definitions_ex_vn": "Người bảo vệ đâm vào một công tắc và cổng vung mở",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of adopting one policy or way of life, or choosing one type of item, in place of another; a change, especially a radical one.",
+      "definitions_ex_en": "his friends were surprised at his switch from newspaper owner to farmer",
+      "definitions_ex_vn": "Bạn bè của anh ấy đã rất ngạc nhiên khi chuyển đổi từ chủ sở hữu tờ báo sang nông dân",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a slender, flexible shoot cut from a tree.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a tress of false or detached hair tied at one end, used in hairdressing to supplement natural hair.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "change the position, direction, or focus of.",
+      "definitions_ex_en": "the company switched the boats to other routes",
+      "definitions_ex_vn": "Công ty đã chuyển các thuyền sang các tuyến khác",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "beat or flick with or as if with a switch.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446758_4b4aa88853_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446758_87671db541_o.png",
+      "id_image": "switch_2106054"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068405_8cdf8620f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068405_f5f01a4a26_o.png",
+      "id_image": "switch_2231274"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068475_b825e32591_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068475_c415511c10_o.png",
+      "id_image": "switch_527006"
+    }
+  ]
+}

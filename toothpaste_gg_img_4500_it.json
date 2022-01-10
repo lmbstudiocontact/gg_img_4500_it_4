@@ -1,0 +1,34 @@
+{
+  "english": "toothpaste",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kem đánh răng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a paste used on a toothbrush for cleaning the teeth.",
+      "definitions_ex_en": "a tube of toothpaste",
+      "definitions_ex_vn": "một ống kem đánh răng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458443_21170976fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458443_d779f5d8b8_o.png",
+      "id_image": "toothpaste_1152720"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081070_bced2c75b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081070_9a061d4593_o.png",
+      "id_image": "toothpaste_1903024"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698944_ac5f9009a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698944_8d47de367e_o.png",
+      "id_image": "toothpaste_223999"
+    }
+  ]
+}

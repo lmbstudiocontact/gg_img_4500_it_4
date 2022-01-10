@@ -1,0 +1,24 @@
+{
+  "english": "wife",
+  "list_translation_mean": [
+    {
+      "translate_mean": "vợ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a married woman considered in relation to her spouse.",
+      "definitions_ex_en": "he and his wife are keen gardeners",
+      "definitions_ex_vn": "Anh và vợ là những người làm vườn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374137_fc22df1f48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374137_d36ab35249_o.png",
+      "id_image": "wife_5526507"
+    }
+  ]
+}

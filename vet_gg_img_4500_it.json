@@ -1,0 +1,37 @@
+{
+  "english": "vet",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chữa bịnh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "điều trị",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khám bịnh",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make a careful and critical examination of (something).",
+      "definitions_ex_en": "proposals for vetting large takeover bids",
+      "definitions_ex_vn": "Đề xuất để kiểm tra giá thầu tiếp quản lớn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082935_a2579b2688_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082935_fa24ddfaf6_o.png",
+      "id_image": "vet_2934976"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345466_8804903168_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345466_c094732fea_o.png",
+      "id_image": "vet_2935039"
+    }
+  ]
+}

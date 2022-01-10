@@ -1,0 +1,29 @@
+{
+  "english": "valuation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự đánh giá",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an estimation of something's worth, especially one carried out by a professional appraiser.",
+      "definitions_ex_en": "it is wise to obtain an independent valuation",
+      "definitions_ex_vn": "Thật là khôn ngoan khi có được một định giá độc lập",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086480_71e56d97e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086480_bb446bbdee_o.png",
+      "id_image": "valuation_1289173"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086450_be446af915_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086450_96b4726bc7_o.png",
+      "id_image": "valuation_4593081"
+    }
+  ]
+}

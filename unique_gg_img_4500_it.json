@@ -1,0 +1,48 @@
+{
+  "english": "unique",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chỉ có một",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "độc nhất",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "duy nhứt",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "being the only one of its kind; unlike anything else.",
+      "definitions_ex_en": "original and unique designs",
+      "definitions_ex_vn": "Thiết kế nguyên bản và độc đáo",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a unique person or thing.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397832_a4590b1a98_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397832_87c5b412d3_o.png",
+      "id_image": "unique_2311711"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352851_71fab3a3e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352851_1f2334b684_o.png",
+      "id_image": "unique_3924726"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352836_93ab07be30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352836_4839926e78_o.png",
+      "id_image": "unique_5978387"
+    }
+  ]
+}

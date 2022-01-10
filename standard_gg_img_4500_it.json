@@ -1,0 +1,92 @@
+{
+  "english": "standard",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chân đèn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cờ hiệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lớp học",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiêu chuẩn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trình độ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a level of quality or attainment.",
+      "definitions_ex_en": "their restaurant offers a high standard of service",
+      "definitions_ex_vn": "nhà hàng của họ cung cấp một tiêu chuẩn dịch vụ cao",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an idea or thing used as a measure, norm, or model in comparative evaluations.",
+      "definitions_ex_en": "the wages are low by today's standards",
+      "definitions_ex_vn": "Tiền lương thấp theo tiêu chuẩn ngày nay",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a tune or song of established popularity.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a military or ceremonial flag carried on a pole or hoisted on a rope.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a tree or shrub that grows on an erect stem of full height.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an upright water or gas pipe.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "used or accepted as normal or average.",
+      "definitions_ex_en": "the standard rate of income tax",
+      "definitions_ex_vn": "Tỷ lệ thuế thu nhập tiêu chuẩn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a tree or shrub) growing on an erect stem of full height.",
+      "definitions_ex_en": "standard trees are useful for situations where immediate height is needed",
+      "definitions_ex_vn": "Cây tiêu chuẩn rất hữu ích cho các tình huống cần chiều cao ngay lập tức",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086910_02404a6131_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086910_8a26ca73aa_o.png",
+      "id_image": "standard_3342138"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349656_6b98cb049d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349656_c50ab42c72_o.png",
+      "id_image": "standard_5208254"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394402_0bb92c8a91_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394402_e9a60092e3_o.png",
+      "id_image": "standard_5572513"
+    }
+  ]
+}

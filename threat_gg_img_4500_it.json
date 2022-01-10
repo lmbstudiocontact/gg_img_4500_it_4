@@ -1,0 +1,40 @@
+{
+  "english": "threat",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự hăm dọa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a statement of an intention to inflict pain, injury, damage, or other hostile action on someone in retribution for something done or not done.",
+      "definitions_ex_en": "members of her family have received death threats",
+      "definitions_ex_vn": "các thành viên trong gia đình cô đã nhận được những mối đe dọa tử vong",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person or thing likely to cause damage or danger.",
+      "definitions_ex_en": "hurricane damage poses a major threat to many coastal communities",
+      "definitions_ex_vn": "Tổn thương bão gây ra mối đe dọa lớn đối với nhiều cộng đồng ven biển",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086400_f8c289bb90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086400_cac5989859_o.png",
+      "id_image": "threat_4736158"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086370_7ddc6f0741_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086370_e0aaec47c9_o.png",
+      "id_image": "threat_6305947"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703819_98d9d05154_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703819_934e3e4827_o.png",
+      "id_image": "threat_6339322"
+    }
+  ]
+}

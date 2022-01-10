@@ -1,0 +1,29 @@
+{
+  "english": "talisman",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bùa phù hộ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an object, typically an inscribed ring or stone, that is thought to have magic powers and to bring good luck.",
+      "definitions_ex_en": "those rings, so fresh and gleaming, were their talismans",
+      "definitions_ex_vn": "những chiếc nhẫn đó, rất tươi và lấp lánh, là tài năng của họ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372017_fb4ddc50ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372017_31b6c8b45e_o.png",
+      "id_image": "talisman_4331009"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682424_bfc1321b2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682424_043723bbeb_o.png",
+      "id_image": "talisman_5207260"
+    }
+  ]
+}

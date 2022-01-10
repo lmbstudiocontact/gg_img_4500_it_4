@@ -1,0 +1,69 @@
+{
+  "english": "smell",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khứu giác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mùi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tài đánh hơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mùi hôi thúi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cảm thấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh hơi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngửi mùi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hửi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the faculty or power of perceiving odors or scents by means of the organs in the nose.",
+      "definitions_ex_en": "a highly developed sense of smell",
+      "definitions_ex_vn": "một khứu giác phát triển cao",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "perceive or detect the odor or scent of (something).",
+      "definitions_ex_en": "I think I can smell something burning",
+      "definitions_ex_vn": "Tôi nghĩ rằng tôi có thể ngửi thấy một cái gì đó đang cháy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "emit an odor or scent of a specified kind.",
+      "definitions_ex_en": "it smelled like cough medicine",
+      "definitions_ex_vn": "Nó có mùi như ho thuốc",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068180_3f7577cfa0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068180_3b7582ec3f_o.png",
+      "id_image": "smell_5967062"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376177_00fc34bc72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376177_3286778287_o.png",
+      "id_image": "smell_5984035"
+    }
+  ]
+}

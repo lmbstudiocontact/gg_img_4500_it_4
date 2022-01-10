@@ -1,0 +1,84 @@
+{
+  "english": "troll",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bài hợp ca",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái ống dây ở cần câu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mồi để câu cá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "câu cá bằng cần câu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chuyền xung quanh bàn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hát tiếp nhau",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(in folklore) an ugly creature depicted as either a giant or a dwarf.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who makes a deliberately offensive or provocative online post.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a line or bait used in trolling for fish.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make a deliberately offensive or provocative online post with the aim of upsetting someone or eliciting an angry response from them.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "carefully and systematically search an area for something.",
+      "definitions_ex_en": "a group of companies trolling for partnership opportunities",
+      "definitions_ex_vn": "Một nhóm các công ty trolling cho các cơ hội hợp tác",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "sing (something) in a happy and carefree way.",
+      "definitions_ex_en": "troll the ancient Yuletide carol",
+      "definitions_ex_vn": "Troll the Yuletide Carol cổ đại",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332726_cd8b986486_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332726_9ecbefd093_o.png",
+      "id_image": "troll_3387231"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332701_3e7d00b9b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332701_9c2fcc94a7_o.png",
+      "id_image": "troll_5345540"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447808_f44623c81b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447808_6d65a23593_o.png",
+      "id_image": "troll_875329"
+    }
+  ]
+}

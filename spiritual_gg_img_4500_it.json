@@ -1,0 +1,54 @@
+{
+  "english": "spiritual",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về linh hồn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về tinh thần",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về vật thánh",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to or affecting the human spirit or soul as opposed to material or physical things.",
+      "definitions_ex_en": "I'm responsible for his spiritual welfare",
+      "definitions_ex_vn": "Tôi chịu trách nhiệm về phúc lợi tâm linh của mình",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to religion or religious belief.",
+      "definitions_ex_en": "the tribe's spiritual leader",
+      "definitions_ex_vn": "Nhà lãnh đạo tinh thần của bộ lạc",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a religious song of a kind associated with black Christians of the southern US, and thought to derive from the combination of European hymns and African musical elements by black slaves.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809708264_4e7c79bfa8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809708264_64bd5b7883_o.png",
+      "id_image": "spiritual_1900286"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809353531_2033aa101a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809353531_6d0cda2718_o.png",
+      "id_image": "spiritual_3700222"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810090940_f9c2dfc082_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810090940_804cc63870_o.png",
+      "id_image": "spiritual_5100568"
+    }
+  ]
+}

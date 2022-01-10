@@ -1,0 +1,37 @@
+{
+  "english": "validate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "làm cho có giá trị",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho có hiệu lực",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm đúng hạn định",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "check or prove the validity or accuracy of (something).",
+      "definitions_ex_en": "these estimates have been validated by periodic surveys",
+      "definitions_ex_vn": "Những ước tính này đã được xác nhận bởi các cuộc khảo sát định kỳ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349461_416a9afb72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349461_efd22fc31d_o.png",
+      "id_image": "validate_3285718"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464093_b8d764abb3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464093_f80ee38ae4_o.png",
+      "id_image": "validate_4079495"
+    }
+  ]
+}

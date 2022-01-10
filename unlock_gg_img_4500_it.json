@@ -1,0 +1,53 @@
+{
+  "english": "unlock",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mở khóa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tiết lậu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tiết lộ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "undo the lock of (something) by using a key.",
+      "definitions_ex_en": "he unlocked the door to his room",
+      "definitions_ex_vn": "Anh mở khóa cánh cửa phòng anh.",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "use a password or other form of authentication to access the full functionality or data of (a computer, mobile phone, file, etc.).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466978_93f1dcf37a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466978_b33895c99a_o.png",
+      "id_image": "unlock_144924"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397142_cae91cdd41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397142_c75355ec8c_o.png",
+      "id_image": "unlock_194355"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089575_452b819c4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089575_3af2c46df8_o.png",
+      "id_image": "unlock_2292226"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466888_d161b1858c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466888_bf2ea84627_o.png",
+      "id_image": "unlock_3858390"
+    }
+  ]
+}

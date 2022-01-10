@@ -1,0 +1,50 @@
+{
+  "english": "vault",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khung miệng lò",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khung vòm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a roof in the form of an arch or a series of arches, typical of churches and other large, formal buildings.",
+      "definitions_ex_en": "a Gothic ribbed vault",
+      "definitions_ex_vn": "một hầm gân gothic",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a large room or chamber used for storage, especially an underground one.",
+      "definitions_ex_en": "a wine vault",
+      "definitions_ex_vn": "một hầm rượu vang",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "leap or spring while supporting or propelling oneself with one or both hands or with the help of a pole.",
+      "definitions_ex_en": "he vaulted over the gate",
+      "definitions_ex_vn": "Anh vượn trên cổng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347861_3dbf27b57e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347861_4b58aea4d5_o.png",
+      "id_image": "vault_1088946"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702549_2538745d35_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702549_f235d5190f_o.png",
+      "id_image": "vault_2563006"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462643_2219596714_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462643_43b6192961_o.png",
+      "id_image": "vault_3898040"
+    }
+  ]
+}

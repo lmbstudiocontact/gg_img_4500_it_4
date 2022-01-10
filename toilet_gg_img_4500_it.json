@@ -1,0 +1,50 @@
+{
+  "english": "toilet",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhà vệ sinh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phòng vệ sinh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a fixed receptacle into which a person may urinate or defecate, typically consisting of a large bowl connected to a system for flushing away the waste into a sewer or septic tank.",
+      "definitions_ex_en": "Liz heard the toilet flush",
+      "definitions_ex_vn": "Liz nghe thấy nhà vệ sinh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the process of washing oneself, dressing, and attending to one's appearance.",
+      "definitions_ex_en": "her toilet completed, she finally went back downstairs",
+      "definitions_ex_vn": "Nhà vệ sinh của cô hoàn thành, cuối cùng cô đã trở lại xuống cầu thang",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "assist or supervise (someone, especially an infant or invalid) in using a toilet.",
+      "definitions_ex_en": "patients were fed and toileted every four hours",
+      "definitions_ex_vn": "Bệnh nhân được cho ăn và đi vệ sinh cứ sau bốn giờ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390262_3966319b7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390262_b4fd210e26_o.png",
+      "id_image": "toilet_194432"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345261_319fe636b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345261_0498e737cb_o.png",
+      "id_image": "toilet_456608"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460073_56afccedbe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460073_a7b8a8493b_o.png",
+      "id_image": "toilet_577986"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "english": "trance",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự thần trí hôn mê",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a half-conscious state characterized by an absence of response to external stimuli, typically as induced by hypnosis or entered by a medium.",
+      "definitions_ex_en": "she put him into a light trance",
+      "definitions_ex_vn": "Cô ấy đưa anh ta vào một dấu vết ánh sáng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "put into a trance.",
+      "definitions_ex_en": "she's been tranced and may need waking",
+      "definitions_ex_vn": "cô ấy đã bị xâm nhập và có thể cần thức dậy",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076295_1c22f09146_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076295_875e3618e5_o.png",
+      "id_image": "trance_3126463"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694244_df791c7572_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694244_f8c5a0514e_o.png",
+      "id_image": "trance_4382693"
+    }
+  ]
+}

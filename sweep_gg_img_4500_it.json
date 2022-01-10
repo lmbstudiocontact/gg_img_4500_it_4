@@ -1,0 +1,143 @@
+{
+  "english": "sweep",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cần dùng để múc giếng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây chèo dài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường cong của sông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người cạo ống khói",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự dọn dẹp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự quét",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cạo ống khói",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chạy dài",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi mau tới trước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quét",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vạch đường cong",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vét bùn hai bên đường",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vuốt vật gì",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "clean (an area) by brushing away dirt or litter.",
+      "definitions_ex_en": "I've swept the floor",
+      "definitions_ex_vn": "Tôi đã quét sàn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "move swiftly and smoothly.",
+      "definitions_ex_en": "a large black car swept past the open windows",
+      "definitions_ex_vn": "Một chiếc xe lớn màu đen quét qua các cửa sổ đang mở",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "search (an area) for something.",
+      "definitions_ex_en": "the detective swept the room for hair and fingerprints",
+      "definitions_ex_vn": "Thám tử quét phòng cho tóc và dấu vân tay",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of sweeping something with a brush.",
+      "definitions_ex_en": "I was giving the floor a quick sweep",
+      "definitions_ex_vn": "Tôi đã cho sàn quét nhanh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a long, swift curving movement.",
+      "definitions_ex_en": "a grandiose sweep of his hand",
+      "definitions_ex_vn": "một cú cuốn cây hùng vĩ của bàn tay của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a procedure for inducing labor in a pregnant woman, in which a medical practitioner moves a finger around within the opening of the cervix to detach the amniotic membranes.",
+      "definitions_ex_en": "I went in for a sweep at 41 weeks",
+      "definitions_ex_vn": "Tôi đã đi vào để quét lúc 41 tuần",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a comprehensive search or survey of a place or area.",
+      "definitions_ex_en": "the police finished their sweep through the woods",
+      "definitions_ex_vn": "Cảnh sát đã hoàn thành quét qua rừng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a long, typically curved stretch of road, river, or land.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sweepstake.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a long, heavy oar used to row a barge or other vessel.",
+      "definitions_ex_en": "a big, heavy sweep oar",
+      "definitions_ex_vn": "một mái chèo lớn, nặng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sail of a windmill.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a long pole mounted as a lever for raising buckets from a well.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070170_19725b3485_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070170_8775551a8c_o.png",
+      "id_image": "sweep_1286156"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070145_a98e3b5011_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070145_24ba59a3ab_o.png",
+      "id_image": "sweep_4371640"
+    }
+  ]
+}

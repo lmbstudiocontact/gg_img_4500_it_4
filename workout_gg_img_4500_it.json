@@ -1,0 +1,34 @@
+{
+  "english": "workout",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thi hành",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a session of vigorous physical exercise or training.",
+      "definitions_ex_en": "John does daily workouts in the gym",
+      "definitions_ex_vn": "John làm bài tập hàng ngày trong phòng tập thể dục",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689079_929836d0d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689079_be686b1c98_o.png",
+      "id_image": "workout_3043210"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378827_c5a984251f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378827_c9b2781c9f_o.png",
+      "id_image": "workout_3048420"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689009_3f53fa6952_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689009_a938b07b14_o.png",
+      "id_image": "workout_3476439"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "english": "toxic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "độc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chất độc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuốc độc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "poisonous.",
+      "definitions_ex_en": "the dumping of toxic waste",
+      "definitions_ex_vn": "Việc bán phá giá chất thải độc hại",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "very harmful or unpleasant in a pervasive or insidious way.",
+      "definitions_ex_en": "a toxic relationship",
+      "definitions_ex_vn": "một mối quan hệ độc hại",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "denoting or relating to debt that has a high risk of default.",
+      "definitions_ex_en": "toxic debts",
+      "definitions_ex_vn": "nợ độc hại",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "poisonous substances.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079120_fb4ba83773_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079120_a88c6b3a67_o.png",
+      "id_image": "toxic_4061417"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341636_32f478f2b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341636_b5a7fe52ae_o.png",
+      "id_image": "toxic_4643272"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696849_4b6cfc50cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696849_820e5e69d8_o.png",
+      "id_image": "toxic_4657983"
+    }
+  ]
+}

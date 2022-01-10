@@ -1,0 +1,47 @@
+{
+  "english": "toggle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái móc của dây đồng hồ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a short rod of wood or plastic sewn to one side of a coat or other garment, pushed through a hole or loop on the other side and twisted so as to act as a fastener.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a key or command that toggles between two modes, such as the caps lock key.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "switch from one effect, feature, or state to another by using a toggle.",
+      "definitions_ex_en": "the play/pause button toggles between those functions",
+      "definitions_ex_vn": "Nút phát / tạm dừng bật tắt giữa các hàm đó",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "provide or fasten with a toggle or toggles.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700529_882880a8aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700529_f17619a690_o.png",
+      "id_image": "toggle_1827878"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700489_68a24ec97c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700489_d0a4927599_o.png",
+      "id_image": "toggle_1891406"
+    }
+  ]
+}

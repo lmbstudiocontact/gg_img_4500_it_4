@@ -1,0 +1,24 @@
+{
+  "english": "uppercase",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hồ sơ ở trên",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "capital letters as opposed to small letters (lowercase).",
+      "definitions_ex_en": "the keywords must be in uppercase",
+      "definitions_ex_vn": "Các từ khóa phải được viết hoa",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706244_4e0613ee7f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706244_9df59dd616_o.png",
+      "id_image": "uppercase_1617771"
+    }
+  ]
+}

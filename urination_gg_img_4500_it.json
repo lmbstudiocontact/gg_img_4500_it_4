@@ -1,0 +1,29 @@
+{
+  "english": "urination",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự đái",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the discharge of urine from the body.",
+      "definitions_ex_en": "symptoms of frequent urination",
+      "definitions_ex_vn": "triệu chứng đi tiểu thường xuyên",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809351136_46fd388822_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809351136_c1176f8787_o.png",
+      "id_image": "urination_5935623"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465563_5775d86ffc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465563_45735959b0_o.png",
+      "id_image": "urination_5940105"
+    }
+  ]
+}

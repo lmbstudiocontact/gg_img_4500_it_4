@@ -1,0 +1,132 @@
+{
+  "english": "work",
+  "list_translation_mean": [
+    {
+      "translate_mean": "công việc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tác phẩm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "việc làm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắt người nào làm việc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hoạt động",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm việc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "activity involving mental or physical effort done in order to achieve a purpose or result.",
+      "definitions_ex_en": "he was tired after a day's work",
+      "definitions_ex_vn": "Anh mệt mỏi sau một ngày làm việc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a task or tasks to be undertaken; something a person or thing has to do.",
+      "definitions_ex_en": "they made sure the work was progressing smoothly",
+      "definitions_ex_vn": "họ chắc chắn rằng công việc đã tiến triển trơn tru",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "something done or made.",
+      "definitions_ex_en": "her work hangs in all the main American collections",
+      "definitions_ex_vn": "Công việc của cô bị treo trong tất cả các bộ sưu tập chính của Mỹ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the operative part of a clock or other machine.",
+      "definitions_ex_en": "she could almost hear the tick of its works",
+      "definitions_ex_vn": "Cô ấy gần như có thể nghe thấy sự đánh dấu của các tác phẩm của nó",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a defensive structure.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the exertion of force overcoming resistance or producing molecular change.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "everything needed, desired, or expected.",
+      "definitions_ex_en": "the heavens put on a show: sheet lightning, hailstones—the works",
+      "definitions_ex_vn": "Những thiên đàng đưa ra một chương trình: Tờ Lightning, Hailstones-the Works",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "be engaged in physical or mental activity in order to achieve a result; do work.",
+      "definitions_ex_en": "she has been working so hard",
+      "definitions_ex_vn": "Cô ấy đã làm việc rất nhiều",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a machine or system) operate or function, especially properly or effectively.",
+      "definitions_ex_en": "his cell phone doesn't work unless he goes to a high point",
+      "definitions_ex_vn": "Điện thoại di động của anh ấy không hoạt động trừ khi anh ấy đi đến một điểm cao",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a plan or method) have the desired result or effect.",
+      "definitions_ex_en": "the desperate ploy had worked",
+      "definitions_ex_vn": "Các mưu đồ tuyệt vọng đã làm việc",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "bring (a material or mixture) to a desired shape or consistency by hammering, kneading, or some other method.",
+      "definitions_ex_en": "work the mixture into a paste with your hands",
+      "definitions_ex_vn": "Làm việc hỗn hợp vào một miếng dán bằng tay của bạn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "move or cause to move gradually or with difficulty into another position, typically by means of constant movement or pressure.",
+      "definitions_ex_en": "comb from tip to root, working out the knots at the end",
+      "definitions_ex_vn": "lược từ đầu đến gốc, làm việc các nút thắt ở cuối",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "bring into a specified state, especially an emotional state.",
+      "definitions_ex_en": "Harold had worked himself into a minor rage",
+      "definitions_ex_vn": "Harold đã làm việc với một cơn thịnh nộ nhỏ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "denoting things or parts made of a specified material or with specified tools.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "combining form"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071355_c388c3b3e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071355_555767dfae_o.png",
+      "id_image": "work_5020969"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334391_d795f27806_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334391_31bbdd64ee_o.png",
+      "id_image": "work_5260134"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689399_c80f4588cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689399_b928840c66_o.png",
+      "id_image": "work_5966049"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "english": "tricycle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xe ba bánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xe đạp ba bánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xe loại ba bánh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a vehicle similar to a bicycle, but having three wheels, two at the back and one at the front.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "ride on a tricycle.",
+      "definitions_ex_en": "a small boy tricycled to the end of his driveway",
+      "definitions_ex_vn": "một cậu bé nhỏ bazơ đến cuối đường lái xe của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448598_7ffed0b56b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448598_7b8fa4aae6_o.png",
+      "id_image": "tricycle_1680842"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070400_ebf6e6bea0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070400_ecf5a9aab8_o.png",
+      "id_image": "tricycle_204671"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448563_a762f42159_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448563_b9126ea02e_o.png",
+      "id_image": "tricycle_2308038"
+    }
+  ]
+}

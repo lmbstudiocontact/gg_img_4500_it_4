@@ -1,0 +1,134 @@
+{
+  "english": "slack",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dùn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hửng hờ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không thẳng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lỏng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "muốn sút ra",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xẹp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mùa chết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quần của lính thủy thủ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sa sút buôn bán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "than vụn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thời gian buôn bán ế ẫm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm chậm lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "not taut or held tightly in position; loose.",
+      "definitions_ex_en": "a slack rope",
+      "definitions_ex_vn": "một sợi dây chùng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of business) characterized by a lack of work or activity; quiet.",
+      "definitions_ex_en": "business was rather slack",
+      "definitions_ex_vn": "Kinh doanh khá chậm chạp",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "having or showing laziness or negligence.",
+      "definitions_ex_en": "slack accounting procedures",
+      "definitions_ex_vn": "thủ tục kế toán chùng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a tide) neither ebbing nor flowing.",
+      "definitions_ex_en": "soon the water will become slack, and the tide will turn",
+      "definitions_ex_vn": "Sớm nước sẽ trở nên chậm chạp, và thủy triều sẽ biến",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "the part of a rope or line which is not held taut; the loose or unused part.",
+      "definitions_ex_en": "I picked up the rod and wound in the slack",
+      "definitions_ex_vn": "Tôi nhặt thanh và vết thương trong chùng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a spell of inactivity or laziness.",
+      "definitions_ex_en": "he slept deeply, refreshed by a little slack in the daily routine",
+      "definitions_ex_vn": "anh ta ngủ sâu, được làm mới bằng một chút chùng trong thói quen hàng ngày",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "casual trousers.",
+      "definitions_ex_en": "he put on a gray shirt and loose cotton slacks",
+      "definitions_ex_vn": "Anh mặc áo sơ mi màu xám và quần cotton lỏng lẻo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "coal dust or small pieces of coal.",
+      "definitions_ex_en": "the fire was stoked with a mixture of slack and cement",
+      "definitions_ex_vn": "ngọn lửa đã bị đánh cắp với một hỗn hợp của chùng và xi măng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "loosen (something, especially a rope).",
+      "definitions_ex_en": "slacking the outhaul allows you to adjust the sail",
+      "definitions_ex_vn": "Slacking Outhaul cho phép bạn điều chỉnh cánh buồm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "decrease or reduce in intensity, quantity, or speed.",
+      "definitions_ex_en": "the flow of blood slacked off",
+      "definitions_ex_vn": "dòng chảy của máu chậm lại",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "slake (lime).",
+      "definitions_ex_en": "150 sacks of lime were slacked by the inrushing water",
+      "definitions_ex_vn": "150 bao tải vôi đã bị chùng xuống bởi nước in",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "loosely.",
+      "definitions_ex_en": "their heads were hanging slack in attitudes of despair",
+      "definitions_ex_vn": "đầu của họ bị treo lơ lửng trong thái độ của sự tuyệt vọng",
+      "definitions_type_word": "adverb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379762_6981a2bfb5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379762_c233702afb_o.png",
+      "id_image": "slack_2111611"
+    }
+  ]
+}

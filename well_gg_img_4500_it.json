@@ -1,0 +1,122 @@
+{
+  "english": "well",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giỏi",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "buồng thang máy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giếng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hầm đựng cá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nguồn cảm hứng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nguồn nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nguồn hạnh phúc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "suối nước",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "in a good or satisfactory way.",
+      "definitions_ex_en": "the whole team played well",
+      "definitions_ex_vn": "Cả đội chơi tốt",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "in a thorough manner.",
+      "definitions_ex_en": "add the mustard and lemon juice and mix well",
+      "definitions_ex_vn": "Thêm nước cốt rích và nước chanh và trộn đều",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "very probably; in all likelihood.",
+      "definitions_ex_en": "being short of breath may well be the first sign of asthma",
+      "definitions_ex_vn": "khó thở có thể là dấu hiệu đầu tiên của bệnh hen suyễn",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "in good health; free or recovered from illness.",
+      "definitions_ex_en": "I don't feel very well",
+      "definitions_ex_vn": "Tôi không cảm thấy rất tốt",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "sensible; advisable.",
+      "definitions_ex_en": "it would be well to know just what this suggestion entails",
+      "definitions_ex_vn": "Nó sẽ là tốt để biết những gì đề nghị này đòi hỏi",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "used to express a range of emotions including surprise, anger, resignation, or relief.",
+      "definitions_ex_en": "Well, really! The manners of some people!",
+      "definitions_ex_vn": "Ồ thật chứ!",
+      "definitions_type_word": "exclamation"
+    },
+    {
+      "definitions_word_en": "a shaft sunk into the ground to obtain water, oil, or gas.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a plentiful source or supply.",
+      "definitions_ex_en": "she could feel a deep well of sympathy and compassion",
+      "definitions_ex_vn": "Cô có thể cảm thấy một sự hiểu biết sâu sắc về sự cảm thông và lòng trắc ẩn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an enclosed space in the middle of a building, giving room for stairs or an elevator, or to allow light or ventilation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a region of minimum potential.",
+      "definitions_ex_en": "a gravity well",
+      "definitions_ex_vn": "một trọng lực tốt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a liquid) rise to the surface and spill or be about to spill.",
+      "definitions_ex_en": "tears were beginning to well in her eyes",
+      "definitions_ex_vn": "Nước mắt đang bắt đầu tốt đẹp trong mắt cô ấy",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687159_5faa45700d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687159_5970d70f1a_o.png",
+      "id_image": "well_3319298"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068855_b0ac31e065_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068855_7236ddfe07_o.png",
+      "id_image": "well_5773179"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068725_fd0d7b8afc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068725_c2e49caa55_o.png",
+      "id_image": "well_5795304"
+    }
+  ]
+}

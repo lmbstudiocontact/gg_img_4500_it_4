@@ -1,0 +1,89 @@
+{
+  "english": "what",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái gì",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "điều gì",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "muốn gì",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vật gì",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "asking for information specifying something.",
+      "definitions_ex_en": "what is your name?",
+      "definitions_ex_vn": "tên của bạn là gì?",
+      "definitions_type_word": "pronoun"
+    },
+    {
+      "definitions_word_en": "the thing or things that (used in specifying something).",
+      "definitions_ex_en": "what we need is a commitment",
+      "definitions_ex_vn": "Những gì chúng ta cần là một cam kết",
+      "definitions_type_word": "pronoun"
+    },
+    {
+      "definitions_word_en": "(in exclamations) emphasizing something surprising or remarkable.",
+      "definitions_ex_en": "what some people do for attention!",
+      "definitions_ex_vn": "Những gì một số người làm cho sự chú ý!",
+      "definitions_type_word": "pronoun"
+    },
+    {
+      "definitions_word_en": "asking for information specifying something.",
+      "definitions_ex_en": "what time is it?",
+      "definitions_ex_vn": "mấy giờ rồi?",
+      "definitions_type_word": "article"
+    },
+    {
+      "definitions_word_en": "(referring to the whole of an amount) whatever.",
+      "definitions_ex_en": "he had been robbed of what little money he had",
+      "definitions_ex_vn": "anh ta đã bị cướp những ít tiền mà anh ta có",
+      "definitions_type_word": "article"
+    },
+    {
+      "definitions_word_en": "(in exclamations) how great or remarkable.",
+      "definitions_ex_en": "what luck!",
+      "definitions_ex_vn": "Thật may mắn!",
+      "definitions_type_word": "article"
+    },
+    {
+      "definitions_word_en": "to what extent?",
+      "definitions_ex_en": "what does it matter?",
+      "definitions_ex_vn": "Nó có vấn đề gì?",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "used to indicate an estimate or approximation.",
+      "definitions_ex_en": "see you, what, about four?",
+      "definitions_ex_vn": "Hẹn gặp lại, cái gì, khoảng bốn?",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "used for emphasis or to invite agreement.",
+      "definitions_ex_en": "pretty poor show, what?",
+      "definitions_ex_vn": "Chương trình khá nghèo, cái gì?",
+      "definitions_type_word": "adverb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331721_f94cb2df59_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331721_805aed9fcc_o.png",
+      "id_image": "what_4471136"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686664_8883159555_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686664_9a95879879_o.png",
+      "id_image": "what_5359837"
+    }
+  ]
+}

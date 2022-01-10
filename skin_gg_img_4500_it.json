@@ -1,0 +1,83 @@
+{
+  "english": "skin",
+  "list_translation_mean": [
+    {
+      "translate_mean": "da",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "da thú",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gọt vỏ trái cây",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lột da",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the thin layer of tissue forming the natural outer covering of the body of a person or animal.",
+      "definitions_ex_en": "I use body lotion to keep my skin soft",
+      "definitions_ex_vn": "Tôi sử dụng kem dưỡng da để giữ cho làn da mềm mại của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the peel or outer layer of certain fruits or vegetables.",
+      "definitions_ex_en": "potatoes roasted in their skins",
+      "definitions_ex_vn": "Khoai tây rang trong da của họ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a customized graphic user interface for an application or operating system.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(especially in jazz) a drum or drum head.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "relating to or denoting pornographic literature or films.",
+      "definitions_ex_en": "the skin trade",
+      "definitions_ex_vn": "buôn bán da",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "remove the skin from (an animal or a fruit or vegetable).",
+      "definitions_ex_en": "scald and skin the tomatoes",
+      "definitions_ex_vn": "bỏng và da cà chua",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "take money from or swindle (someone).",
+      "definitions_ex_en": "I ain't no dummy, and I know when I'm being skinned",
+      "definitions_ex_vn": "Tôi không phải là hình nộm, và tôi biết khi nào tôi bị da",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a wound) form new skin.",
+      "definitions_ex_en": "the hole in his skull skinned over",
+      "definitions_ex_vn": "cái lỗ trong hộp sọ của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450378_24326ea7c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450378_d2326b8c4a_o.png",
+      "id_image": "skin_2037378"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450363_016228d974_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450363_c96b7c5de6_o.png",
+      "id_image": "skin_2269004"
+    }
+  ]
+}

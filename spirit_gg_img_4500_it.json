@@ -1,0 +1,84 @@
+{
+  "english": "spirit",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lòng can đãm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lòng hăng hái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người cầm đầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rượu có mùi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thánh thần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thần linh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vong hồn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khuyến khích người nào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm người nào biến mất",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the nonphysical part of a person which is the seat of emotions and character; the soul.",
+      "definitions_ex_en": "we seek a harmony between body and spirit",
+      "definitions_ex_vn": "Chúng tôi tìm kiếm một sự hài hòa giữa cơ thể và tinh thần",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "those qualities regarded as forming the definitive or typical elements in the character of a person, nation, or group or in the thought and attitudes of a particular period.",
+      "definitions_ex_en": "the university is a symbol of the nation's egalitarian spirit",
+      "definitions_ex_vn": "Trường đại học là một biểu tượng của tinh thần egalitarian của quốc gia",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a highly refined substance or fluid thought to govern vital phenomena.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "convey rapidly and secretly.",
+      "definitions_ex_en": "stolen cows were spirited away some distance to prevent detection",
+      "definitions_ex_vn": "Những con bò bị đánh cắp đã tinh thần đi một khoảng cách để ngăn ngừa phát hiện",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810091075_e1dbac648a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810091075_08b1a0ed04_o.png",
+      "id_image": "spirit_1635969"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809353631_fbae4a0660_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809353631_ac46b56548_o.png",
+      "id_image": "spirit_2210185"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808398627_19729795af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808398627_f3f19d06d2_o.png",
+      "id_image": "spirit_861636"
+    }
+  ]
+}

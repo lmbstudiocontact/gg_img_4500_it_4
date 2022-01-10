@@ -1,0 +1,53 @@
+{
+  "english": "surprise",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự kinh ngạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ngạc nhiên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đột kích",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm kinh ngạc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an unexpected or astonishing event, fact, or thing.",
+      "definitions_ex_en": "the announcement was a complete surprise",
+      "definitions_ex_vn": "Thông báo là một bất ngờ hoàn toàn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "denoting a class of complex methods of change-ringing.",
+      "definitions_ex_en": "surprise major",
+      "definitions_ex_vn": "Bất ngờ lớn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of something unexpected) cause (someone) to feel mild astonishment or shock.",
+      "definitions_ex_en": "I was surprised at his statement",
+      "definitions_ex_vn": "Tôi đã ngạc nhiên về tuyên bố của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450553_4a6893cdfb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450553_1b95581d54_o.png",
+      "id_image": "surprise_5020357"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690739_dfa1f0744f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690739_c1a65e9ea1_o.png",
+      "id_image": "surprise_5020359"
+    }
+  ]
+}

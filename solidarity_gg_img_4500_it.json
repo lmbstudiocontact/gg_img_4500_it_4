@@ -1,0 +1,44 @@
+{
+  "english": "solidarity",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự liên đới",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trạng thái liên hệ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "unity or agreement of feeling or action, especially among individuals with a common interest; mutual support within a group.",
+      "definitions_ex_en": "factory workers voiced solidarity with the striking students",
+      "definitions_ex_vn": "Công nhân nhà máy lên tiếng Đoàn kết với các sinh viên nổi bật",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an independent trade union movement in Poland that developed into a mass campaign for political change and inspired popular opposition to communist regimes across eastern Europe during the 1980s.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326206_1e877e4ea6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326206_c02ebc6b05_o.png",
+      "id_image": "solidarity_1590670"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062985_25d2fa8312_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062985_119d480dbf_o.png",
+      "id_image": "solidarity_2871671"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326201_44f8b4c21d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326201_c630d41947_o.png",
+      "id_image": "solidarity_5208472"
+    }
+  ]
+}

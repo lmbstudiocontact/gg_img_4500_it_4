@@ -1,0 +1,115 @@
+{
+  "english": "smash",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bị phá sản",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "cái đánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái đập",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đập bể",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đụng nhau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh vở ra từng mảnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phá sản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thất bại hoàn toàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thoi mạnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đập banh mạnh xuống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đụng mạnh vào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm hỏng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm thất bại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phá hủy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phá tan",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "violently break (something) into pieces.",
+      "definitions_ex_en": "the thief smashed a window to get into the car",
+      "definitions_ex_vn": "Thief đập vỡ một cửa sổ để vào xe",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "move so as to hit or collide with something with great force and impact.",
+      "definitions_ex_en": "their plane smashed into a mountainside",
+      "definitions_ex_vn": "máy bay của họ đập vào một sườn núi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act or sound of something smashing.",
+      "definitions_ex_en": "he heard the smash of glass",
+      "definitions_ex_vn": "Anh nghe thấy sự đập vỡ của kính",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a very successful song, film, show, or performer.",
+      "definitions_ex_en": "a box-office smash",
+      "definitions_ex_vn": "một bức tranh trong văn phòng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a mixture of liquors (typically brandy) with flavored water and ice.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a bankruptcy or financial failure.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331631_7b7c944cd1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331631_b1738be772_o.png",
+      "id_image": "smash_2867437"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686619_22e51a3f69_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686619_3c711a336c_o.png",
+      "id_image": "smash_3295344"
+    }
+  ]
+}

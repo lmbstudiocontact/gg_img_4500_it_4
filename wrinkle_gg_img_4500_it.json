@@ -1,0 +1,62 @@
+{
+  "english": "wrinkle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gồ ghề",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lằn xếp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lồi lỏm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tin mách miệng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vết nhăn ở da",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a slight line or fold in something, especially fabric or the skin of the face.",
+      "definitions_ex_en": "she smoothed out the wrinkles from her skirt",
+      "definitions_ex_vn": "Cô làm phẳng các nếp nhăn từ váy của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a clever innovation, or useful piece of information or advice.",
+      "definitions_ex_en": "learning the wrinkles from someone more experienced saves time",
+      "definitions_ex_vn": "học các nếp nhăn từ một người có kinh nghiệm hơn tiết kiệm thời gian",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make or cause lines or folds in (something, especially fabric or the skin).",
+      "definitions_ex_en": "his hands and face were wrinkled by age",
+      "definitions_ex_vn": "Tay và khuôn mặt của anh ta bị nhăn theo tuổi",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377197_000d562e4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377197_56a5c1f264_o.png",
+      "id_image": "wrinkle_4236621"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687374_9aff2bd011_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687374_da45022707_o.png",
+      "id_image": "wrinkle_4675614"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332381_26f84efb09_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332381_0d3a6964f2_o.png",
+      "id_image": "wrinkle_5220715"
+    }
+  ]
+}

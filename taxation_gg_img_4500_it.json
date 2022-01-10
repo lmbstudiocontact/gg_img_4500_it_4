@@ -1,0 +1,42 @@
+{
+  "english": "taxation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự đánh thuế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền thuế thâu được",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuế",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the levying of tax.",
+      "definitions_ex_en": "the progressive nature of taxation",
+      "definitions_ex_vn": "Bản chất tiến bộ của thuế",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809708579_d796b2f3fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809708579_363fd53f1e_o.png",
+      "id_image": "taxation_3053801"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810091325_f45f319bf8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810091325_2563de1f1f_o.png",
+      "id_image": "taxation_3883073"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808398792_ec721212ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808398792_443323b785_o.png",
+      "id_image": "taxation_4496658"
+    }
+  ]
+}

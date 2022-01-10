@@ -1,0 +1,51 @@
+{
+  "english": "terrain",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chổ đóng quân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "địa thế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nơi đóng quân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vị trí",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a stretch of land, especially with regard to its physical features.",
+      "definitions_ex_en": "they were delayed by rough terrain",
+      "definitions_ex_vn": "Họ bị trì hoãn bởi địa hình gồ ghề",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089005_2d64cc0eac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089005_f785f2522a_o.png",
+      "id_image": "terrain_831739"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706274_2db9a02beb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706274_fbe6d88c9d_o.png",
+      "id_image": "terrain_831740"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088915_d1f088dfd0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088915_16ee72f009_o.png",
+      "id_image": "terrain_831792"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706214_d464195206_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706214_c591425acb_o.png",
+      "id_image": "terrain_992287"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "english": "timer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người ghi giờ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an automatic mechanism for activating a device at a preset time.",
+      "definitions_ex_en": "a video timer",
+      "definitions_ex_vn": "một bộ đếm thời gian video",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "used to indicate how many times someone has done something.",
+      "definitions_ex_en": "for most first-timers the success rate is 45 percent",
+      "definitions_ex_vn": "Đối với hầu hết các bộ đếm thời gian đầu tiên, tỷ lệ thành công là 45 phần trăm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084760_0fcd74822f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084760_464bd594e6_o.png",
+      "id_image": "timer_165056"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462163_2895da0c1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462163_b95971e196_o.png",
+      "id_image": "timer_601661"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "english": "why",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tại sao",
+      "type_word": "conjunction"
+    },
+    {
+      "translate_mean": "vì sao",
+      "type_word": "conjunction"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "for what reason or purpose.",
+      "definitions_ex_en": "why did he do it?",
+      "definitions_ex_vn": "Tại sao anh ấy làm điều đó?",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "(with reference to a reason) on account of which; for which.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "expressing surprise or indignation.",
+      "definitions_ex_en": "why, that's absurd!",
+      "definitions_ex_vn": "Tại sao, đó là vô lý!",
+      "definitions_type_word": "exclamation"
+    },
+    {
+      "definitions_word_en": "used to add emphasis to a response.",
+      "definitions_ex_en": "“You think so?” “Why, yes.”",
+      "definitions_ex_vn": "\"Bạn nghĩ vậy?\"",
+      "definitions_type_word": "exclamation"
+    },
+    {
+      "definitions_word_en": "a reason or explanation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066570_cbc656d45a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066570_19426d7b60_o.png",
+      "id_image": "why_6028753"
+    }
+  ]
+}

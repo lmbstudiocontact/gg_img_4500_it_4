@@ -1,0 +1,62 @@
+{
+  "english": "technical",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về công nghệ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về kỷ thuật",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to a particular subject, art, or craft, or its techniques.",
+      "definitions_ex_en": "technical terms",
+      "definitions_ex_vn": "Điều khoản kỹ thuật",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "of, involving, or concerned with applied and industrial sciences.",
+      "definitions_ex_en": "an important technical achievement",
+      "definitions_ex_vn": "một thành tựu kỹ thuật quan trọng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "resulting from mechanical failure.",
+      "definitions_ex_en": "a technical fault",
+      "definitions_ex_vn": "một lỗi kỹ thuật",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "according to a strict application or interpretation of the law or rules.",
+      "definitions_ex_en": "the arrest was a technical violation of the treaty",
+      "definitions_ex_vn": "Việc bắt giữ là một vi phạm kỹ thuật của Hiệp ước",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "short for technical foul.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809353256_e4a4d7439a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809353256_487566e67b_o.png",
+      "id_image": "technical_2303895"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468023_92064cfb76_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468023_c461f6752b_o.png",
+      "id_image": "technical_2544316"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808398162_25fc607233_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808398162_4ca0ef3f39_o.png",
+      "id_image": "technical_5848120"
+    }
+  ]
+}

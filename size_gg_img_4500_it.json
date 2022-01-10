@@ -1,0 +1,97 @@
+{
+  "english": "size",
+  "list_translation_mean": [
+    {
+      "translate_mean": "keo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cỡ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "độ lớn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hồ gạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kích thước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khuôn khổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dán hồ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phết hồ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the relative extent of something; a thing's overall dimensions or magnitude; how big something is.",
+      "definitions_ex_en": "the schools varied in size",
+      "definitions_ex_vn": "Các trường có kích thước khác nhau",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "each of the classes, typically numbered, into which garments or other articles are divided according to how large they are.",
+      "definitions_ex_en": "I can never find anything in my size",
+      "definitions_ex_vn": "Tôi không bao giờ có thể tìm thấy bất cứ điều gì trong kích thước của tôi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a gelatinous solution used in gilding paper, stiffening textiles, and preparing plastered walls for decoration.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "alter or sort in terms of size or according to size.",
+      "definitions_ex_en": "some drills are sized in millimeters",
+      "definitions_ex_vn": "Một số máy khoan có kích thước bằng milimét",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "treat with size to glaze or stiffen.",
+      "definitions_ex_en": "paper will adhere to sized walls better",
+      "definitions_ex_vn": "giấy sẽ tuân thủ các bức tường có kích thước tốt hơn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "having a specified size; sized.",
+      "definitions_ex_en": "marble-size chunks of hail",
+      "definitions_ex_vn": "Chunks cỡ đá cẩm thạch của mưa đá",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381497_7b4b99e89c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381497_d99da68b71_o.png",
+      "id_image": "size_1026512"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691754_55021f1ab2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691754_c0c536f9be_o.png",
+      "id_image": "size_4559381"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381417_4002272cc4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381417_3eba4c42b1_o.png",
+      "id_image": "size_4698533"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073365_d1810b1d7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073365_42b05ca6d7_o.png",
+      "id_image": "size_5458488"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "english": "understand",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hiểu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hiểu biết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hiểu ngầm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hiểu rỏ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "perceive the intended meaning of (words, a language, or a speaker).",
+      "definitions_ex_en": "he didn't understand a word I said",
+      "definitions_ex_vn": "Anh ấy không hiểu một lời tôi nói",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "interpret or view (something) in a particular way.",
+      "definitions_ex_en": "as the term is usually understood, legislation refers to regulations and directives",
+      "definitions_ex_vn": "Khi thuật ngữ này thường được hiểu, luật pháp đề cập đến các quy định và chỉ thị",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be sympathetically or knowledgeably aware of the character or nature of.",
+      "definitions_ex_en": "Picasso understood color",
+      "definitions_ex_vn": "Picasso hiểu màu sắc",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808398667_bf61266c29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808398667_3a7e3b51c5_o.png",
+      "id_image": "understand_2196303"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809353691_4f70ed0429_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809353691_5657b51fc1_o.png",
+      "id_image": "understand_5361244"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808398632_6f84fb2977_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808398632_f703396747_o.png",
+      "id_image": "understand_6159589"
+    }
+  ]
+}

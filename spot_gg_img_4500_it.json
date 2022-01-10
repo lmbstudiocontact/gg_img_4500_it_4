@@ -1,0 +1,97 @@
+{
+  "english": "spot",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chấm nhỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dấu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chốn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đốm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm chấm vật gì",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm có đốm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhận ra",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small round or roundish mark, differing in color or texture from the surface around it.",
+      "definitions_ex_en": "ladybugs have black spots on their red wing covers",
+      "definitions_ex_vn": "bọ rùa có đốm đen trên vỏ cánh đỏ của họ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a particular place or point.",
+      "definitions_ex_en": "a nice secluded spot",
+      "definitions_ex_vn": "một điểm kín đáo tốt đẹp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "denoting a system of trading in which commodities or currencies are delivered and paid for immediately after a sale.",
+      "definitions_ex_en": "trading in the spot markets",
+      "definitions_ex_vn": "Giao dịch tại thị trường giao ngay",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for spotlight.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "see, notice, or recognize (someone or something) that is difficult to detect or that one is searching for.",
+      "definitions_ex_en": "Andrew spotted the ad in the paper",
+      "definitions_ex_vn": "Andrew phát hiện quảng cáo trong bài báo",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "mark with spots.",
+      "definitions_ex_en": "the velvet was spotted with stains",
+      "definitions_ex_vn": "Velvet được phát hiện bằng vết bẩn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "place (a billiard ball or football) on its designated starting point.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467353_d1f7390aec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467353_4d75f6b410_o.png",
+      "id_image": "spot_316540"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352646_8fab5ed541_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352646_3640dee0f1_o.png",
+      "id_image": "spot_518982"
+    }
+  ]
+}

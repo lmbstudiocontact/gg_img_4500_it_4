@@ -1,0 +1,71 @@
+{
+  "english": "tent",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lều",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cắm trại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ở dưới liều",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a portable shelter made of cloth, supported by one or more poles and stretched tight by cords or loops attached to pegs driven into the ground.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a deep red sweet wine chiefly from Spain, used especially as sacramental wine.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a piece of absorbent material inserted into an opening to keep it open, or especially to widen it gradually as the material absorbs moisture.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cover with or as if with a tent.",
+      "definitions_ex_en": "the garden had been completely tented over for supper",
+      "definitions_ex_vn": "Khu vườn đã hoàn toàn bị trau dồi cho bữa ăn tối",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "live or stay for a while in a tent.",
+      "definitions_ex_en": "we tented with the kids on the shores of Lake Huron",
+      "definitions_ex_vn": "Chúng tôi đã tổ chức với những đứa trẻ trên bờ hồ Huron",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089380_de71185bbe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089380_b50a85fa60_o.png",
+      "id_image": "tent_1083263"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352236_0bffb922ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352236_cfc6a7ecf9_o.png",
+      "id_image": "tent_762498"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466713_b25c9599d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466713_fca2045144_o.png",
+      "id_image": "tent_907385"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352206_63aa1f2e85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352206_638f23ec3b_o.png",
+      "id_image": "tent_920416"
+    }
+  ]
+}

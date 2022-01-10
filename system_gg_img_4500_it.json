@@ -1,0 +1,52 @@
+{
+  "english": "system",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hệ thống",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a set of things working together as parts of a mechanism or an interconnecting network.",
+      "definitions_ex_en": "the state railroad system",
+      "definitions_ex_vn": "Hệ thống đường sắt nhà nước",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a set of principles or procedures according to which something is done; an organized framework or method.",
+      "definitions_ex_en": "the public school system",
+      "definitions_ex_vn": "hệ thống trường công",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the prevailing political or social order, especially when regarded as oppressive and intransigent.",
+      "definitions_ex_en": "don't try bucking the system",
+      "definitions_ex_vn": "Đừng thử bucking hệ thống",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a set of staves in a musical score joined by a brace.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444578_07979b2838_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444578_24e5c95578_o.png",
+      "id_image": "system_2825990"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066385_27d5c8fc33_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066385_589735d429_o.png",
+      "id_image": "system_4289987"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684624_86b5b5d188_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684624_1a6a9153f6_o.png",
+      "id_image": "system_992645"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "english": "transform",
+  "list_translation_mean": [
+    {
+      "translate_mean": "biến chất",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "biến đổi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "biến hóa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thay đổi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make a thorough or dramatic change in the form, appearance, or character of.",
+      "definitions_ex_en": "lasers have transformed cardiac surgery",
+      "definitions_ex_vn": "laser đã biến đổi phẫu thuật tim",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "the product of a transformation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453483_1c20058a62_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453483_fdd40fc870_o.png",
+      "id_image": "transform_232965"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693619_cc6f5ea66f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693619_5fa2258199_o.png",
+      "id_image": "transform_2587057"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075495_58a8c263b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075495_e29f4d5292_o.png",
+      "id_image": "transform_448110"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383337_b882de8cb3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383337_be6e1bd216_o.png",
+      "id_image": "transform_5266069"
+    }
+  ]
+}

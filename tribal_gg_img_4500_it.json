@@ -1,0 +1,39 @@
+{
+  "english": "tribal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ở thành bộ lạc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về bộ lạc",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of or characteristic of a tribe or tribes.",
+      "definitions_ex_en": "tribal people in Malaysia",
+      "definitions_ex_vn": "Người bộ lạc ở Malaysia",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "members of tribal communities, especially in South Asia.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070825_ed91806079_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070825_a80a7193ec_o.png",
+      "id_image": "tribal_1892759"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333771_13cc2eba2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333771_3187a15124_o.png",
+      "id_image": "tribal_2653962"
+    }
+  ]
+}

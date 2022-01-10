@@ -1,0 +1,55 @@
+{
+  "english": "speak",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chứng tỏ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "diển thuyết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nói",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "say something in order to convey information, an opinion, or a feeling.",
+      "definitions_ex_en": "in his agitation he was unable to speak",
+      "definitions_ex_vn": "Trong sự kích động của anh ấy, anh ấy không thể nói",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of behavior, an object, etc.) serve as evidence for something.",
+      "definitions_ex_en": "his frame spoke tiredness",
+      "definitions_ex_vn": "Khung của anh ấy nói mệt mỏi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a musical instrument or other object) make a sound when functioning.",
+      "definitions_ex_en": "the gun spoke again",
+      "definitions_ex_vn": "Súng nói lại",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "forming nouns denoting a manner of speaking, characteristic of a specified field or group.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "combining form"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324756_b905303e16_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324756_573034fe00_o.png",
+      "id_image": "speak_1442369"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679954_fc7c7e184a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679954_d173d78ca6_o.png",
+      "id_image": "speak_4462909"
+    }
+  ]
+}

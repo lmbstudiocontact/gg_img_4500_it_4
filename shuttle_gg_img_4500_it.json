@@ -1,0 +1,52 @@
+{
+  "english": "shuttle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái thoi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a form of transportation that travels regularly between two places.",
+      "definitions_ex_en": "the nine o'clock shuttle from Boston",
+      "definitions_ex_vn": "Đưa đón chín giờ từ Boston",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a wooden device with two pointed ends holding a bobbin, used for carrying the weft thread between the warp threads in weaving.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for shuttlecock.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "travel regularly between two or more places.",
+      "definitions_ex_en": "he shuttled between Manhattan and Silicon Valley",
+      "definitions_ex_vn": "Anh ta thoutled Giữa Manhattan và Thung lũng Silicon",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078145_bd308cc4a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078145_dc940a74a7_o.png",
+      "id_image": "shuttle_2290165"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455643_e75a5ebb38_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455643_fcf58f1089_o.png",
+      "id_image": "shuttle_4310395"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385692_d2f4939c4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385692_6e07f8f0dc_o.png",
+      "id_image": "shuttle_4524856"
+    }
+  ]
+}

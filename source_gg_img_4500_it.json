@@ -1,0 +1,39 @@
+{
+  "english": "source",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nguyên nhân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nguồn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a place, person, or thing from which something comes or can be obtained.",
+      "definitions_ex_en": "mackerel is a good source of fish oil",
+      "definitions_ex_vn": "Cá thu là một nguồn dầu cá tốt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "obtain from a particular source.",
+      "definitions_ex_en": "each type of coffee is sourced from one country",
+      "definitions_ex_vn": "Mỗi loại cà phê có nguồn gốc từ một quốc gia",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062180_20241866a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062180_d0e2c8ef08_o.png",
+      "id_image": "source_1838027"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440448_7c0e3bc6aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440448_f28a76b11a_o.png",
+      "id_image": "source_3966885"
+    }
+  ]
+}

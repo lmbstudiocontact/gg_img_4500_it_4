@@ -1,0 +1,28 @@
+{
+  "english": "washable",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có thể giặt được",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vải giặt được",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(especially of fabric or clothes) able to be washed without shrinkage or other damage.",
+      "definitions_ex_en": "washable curtains",
+      "definitions_ex_vn": "Rèm cửa có thể giặt được",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451423_ba9d0b85c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451423_cd31425d7d_o.png",
+      "id_image": "washable_5830436"
+    }
+  ]
+}

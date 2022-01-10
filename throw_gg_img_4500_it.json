@@ -1,0 +1,142 @@
+{
+  "english": "throw",
+  "list_translation_mean": [
+    {
+      "translate_mean": "quăng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "liệng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lột da",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trau đồ sành",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ném",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phóng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sanh đẻ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "độ xê dịch của lớp đất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự liệng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ném",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "propel (something) with force through the air by a movement of the arm and hand.",
+      "definitions_ex_en": "I threw a brick through the window",
+      "definitions_ex_vn": "Tôi đã ném một viên gạch qua cửa sổ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cause to enter suddenly a particular state or condition.",
+      "definitions_ex_en": "he threw all her emotions into turmoil",
+      "definitions_ex_vn": "Anh ta ném tất cả cảm xúc của mình vào sự hỗn loạn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "send (one's opponent) to the ground in wrestling, judo, or similar activity.",
+      "definitions_ex_en": "in the final Arnaud was too strong, and threw Hughes twice",
+      "definitions_ex_vn": "Trong Arnaud cuối cùng quá mạnh, và ném Hughes hai lần",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "form (ceramic ware) on a potter's wheel.",
+      "definitions_ex_en": "further on a potter was throwing pots",
+      "definitions_ex_vn": "Hơn nữa trên một thợ gốm đang ném chậu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "have (a fit or tantrum).",
+      "definitions_ex_en": "occasionally a small child will throw a tantrum when denied something",
+      "definitions_ex_vn": "Thỉnh thoảng một đứa trẻ nhỏ sẽ ném một cơn giận dữ khi bị từ chối một cái gì đó",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "give or hold (a party).",
+      "definitions_ex_en": "he threw a huge farewell party for them",
+      "definitions_ex_vn": "Anh ấy đã ném một bữa tiệc chia tay khổng lồ cho họ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "lose (a race or contest) intentionally, especially in return for a bribe.",
+      "definitions_ex_en": "the man who throws a race is a crook for life",
+      "definitions_ex_vn": "Người đàn ông ném một cuộc đua là một kẻ gian suốt đời",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of an animal) give birth to (young, especially of a specified kind).",
+      "definitions_ex_en": "sometimes a completely black calf is thrown",
+      "definitions_ex_vn": "Đôi khi một con bê hoàn toàn đen bị ném",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of throwing something.",
+      "definitions_ex_en": "Jeter's throw to first base was too late",
+      "definitions_ex_vn": "Căn cứ đầu tiên của Jeter đã quá muộn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a light cover for furniture.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "used to indicate how much a single item, turn, or attempt costs.",
+      "definitions_ex_en": "he was offering to draw on-the-spot portraits at $25 a throw",
+      "definitions_ex_vn": "anh ta đang cung cấp để vẽ chân dung tại chỗ ở mức 25 đô la một cú ném",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the extent of vertical displacement between the two sides of a fault.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action or motion, or the extent of such motion, of a slide valve, crank, eccentric wheel, or cam.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393577_dbca405dca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393577_72c2850869_o.png",
+      "id_image": "throw_1128888"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348756_f21660b147_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348756_974b977eee_o.png",
+      "id_image": "throw_5612843"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463583_762ea9fb3a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463583_9a1d688688_o.png",
+      "id_image": "throw_843900"
+    }
+  ]
+}

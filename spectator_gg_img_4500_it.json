@@ -1,0 +1,42 @@
+{
+  "english": "spectator",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khán giả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người coi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người xem",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who watches at a show, game, or other event.",
+      "definitions_ex_en": "around fifteen thousand spectators came to watch the thrills and spills",
+      "definitions_ex_vn": "Khoảng mười lăm ngàn khán giả đã đến để xem những mối quan hệ và sự cố tràn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324491_14f4221883_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324491_3168dae24c_o.png",
+      "id_image": "spectator_3967473"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439518_ea8f8489fa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439518_3933ba9860_o.png",
+      "id_image": "spectator_3967577"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369312_e5c0ee2a75_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369312_0223297071_o.png",
+      "id_image": "spectator_4016317"
+    }
+  ]
+}

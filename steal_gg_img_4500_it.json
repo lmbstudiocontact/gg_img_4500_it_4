@@ -1,0 +1,49 @@
+{
+  "english": "steal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ăn cắp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ăn trộm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dụ dổ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "take (another person's property) without permission or legal right and without intending to return it.",
+      "definitions_ex_en": "thieves stole her bicycle",
+      "definitions_ex_vn": "Thieves đã đánh cắp xe đạp của cô ấy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "move somewhere quietly or surreptitiously.",
+      "definitions_ex_en": "he stole down to the kitchen",
+      "definitions_ex_vn": "Anh lấy trộm xuống bếp",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a bargain.",
+      "definitions_ex_en": "for $5 it was a steal",
+      "definitions_ex_vn": "Với $ 5, đó là một đánh cắp",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702659_d2feef36ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702659_5b386aee38_o.png",
+      "id_image": "steal_4201580"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347941_253ed76ba2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347941_f8291f624a_o.png",
+      "id_image": "steal_4633945"
+    }
+  ]
+}

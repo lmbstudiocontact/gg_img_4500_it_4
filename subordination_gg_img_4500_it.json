@@ -1,0 +1,32 @@
+{
+  "english": "subordination",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mệnh đề phụ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần phụ thuộc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phụ thuộc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or state of subordinating or of being subordinate.",
+      "definitions_ex_en": "the subordination of medicine to political expediency",
+      "definitions_ex_vn": "sự phụ thuộc của y học đối với sự nhanh chóng chính trị",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695494_3659365956_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695494_2d7cd1d3e6_o.png",
+      "id_image": "subordination_1570262"
+    }
+  ]
+}

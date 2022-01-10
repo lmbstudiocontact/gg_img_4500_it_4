@@ -1,0 +1,46 @@
+{
+  "english": "skill",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kỳ xảo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự khéo léo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự khéo tay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tinh xảo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the ability to do something well; expertise.",
+      "definitions_ex_en": "difficult work, taking great skill",
+      "definitions_ex_vn": "Làm việc khó khăn, có kỹ năng tuyệt vời",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072510_78eb958628_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072510_555c77ccff_o.png",
+      "id_image": "skill_2117028"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072450_c01eb5a3bb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072450_da1e3b7581_o.png",
+      "id_image": "skill_4158022"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335521_0f289e27ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335521_5d4a1f1ce9_o.png",
+      "id_image": "skill_6214158"
+    }
+  ]
+}

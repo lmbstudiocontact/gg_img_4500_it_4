@@ -1,0 +1,50 @@
+{
+  "english": "transparent",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hiển nhiên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "minh bạch",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rỏ ràng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trong sạch",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trong suốt",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a material or article) allowing light to pass through so that objects behind can be distinctly seen.",
+      "definitions_ex_en": "transparent blue water",
+      "definitions_ex_vn": "nước trong suốt màu xanh",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692299_d3b52f0fbb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692299_2dc68a097d_o.png",
+      "id_image": "transparent_5261923"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336906_ced84f860a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336906_31744fe0b4_o.png",
+      "id_image": "transparent_5454022"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336871_14f5762457_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336871_b57d971298_o.png",
+      "id_image": "transparent_5518082"
+    }
+  ]
+}

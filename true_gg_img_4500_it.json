@@ -1,0 +1,89 @@
+{
+  "english": "true",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đúng sự thật",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ngay thật",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thành thật",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xác thật",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thật",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thật",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "không bằng phẳng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "in accordance with fact or reality.",
+      "definitions_ex_en": "a true story",
+      "definitions_ex_vn": "một câu chuyện có thật",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "accurate or exact.",
+      "definitions_ex_en": "it was a true depiction",
+      "definitions_ex_vn": "Đó là một mô tả thực sự",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "loyal or faithful.",
+      "definitions_ex_en": "he was a true friend",
+      "definitions_ex_vn": "Anh ấy là một người bạn thực sự",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "honest.",
+      "definitions_ex_en": "we appeal to all good men and true to rally to us",
+      "definitions_ex_vn": "Chúng tôi kêu gọi tất cả những người đàn ông tốt và đúng để tập hợp cho chúng ta",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "truly.",
+      "definitions_ex_en": "Hobson spoke truer than he knew",
+      "definitions_ex_vn": "Hobson nói chuyện trung thực hơn anh biết",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "accurately or without variation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "bring (an object, wheel, or other construction) into the exact shape, alignment, or position required.",
+      "definitions_ex_en": "the bench sander is ideal for truing up faces of timber",
+      "definitions_ex_vn": "Băng ghế trượt băng là lý tưởng để truing khuôn mặt gỗ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331466_3738d3a68c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331466_aa46cf819a_o.png",
+      "id_image": "true_5226408"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331396_cf46183e7a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331396_16184c9540_o.png",
+      "id_image": "true_5706248"
+    }
+  ]
+}

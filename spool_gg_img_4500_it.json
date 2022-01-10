@@ -1,0 +1,51 @@
+{
+  "english": "spool",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuốn chỉ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ống chỉ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a cylindrical device on which film, magnetic tape, thread, or other flexible materials can be wound; a reel.",
+      "definitions_ex_en": "spools of electrical cable",
+      "definitions_ex_vn": "Gián cáp điện",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "wind (magnetic tape, thread, etc.) on to a spool.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "send (data that is intended for printing or processing on a peripheral device) to an intermediate store.",
+      "definitions_ex_en": "users can set which folder they wish to spool files to",
+      "definitions_ex_vn": "Người dùng có thể đặt thư mục nào họ muốn tập tin spool thành",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of an engine) increase its speed of rotation, typically to that required for operation.",
+      "definitions_ex_en": "a jet engine can take up to six seconds to spool up",
+      "definitions_ex_vn": "Một động cơ phản lực có thể mất tới sáu giây để cuộn lên",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352886_ecd5ff3ec1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352886_b79c9ee0af_o.png",
+      "id_image": "spool_5032060"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397782_c83b6e0cfc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397782_38df8114c7_o.png",
+      "id_image": "spool_5330710"
+    }
+  ]
+}

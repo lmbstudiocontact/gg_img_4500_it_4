@@ -1,0 +1,35 @@
+{
+  "english": "thumb",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ngón tay cái",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the short, thick first digit of the human hand, set lower and apart from the other four and opposable to them.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "press, move, or touch (something) with one's thumb.",
+      "definitions_ex_en": "as soon as she thumbed the button, the door slid open",
+      "definitions_ex_vn": "Ngay khi cô ấy ngón tay cái, cửa trượt mở",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086015_2efd7d632c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086015_dcdc42ef63_o.png",
+      "id_image": "thumb_5387379"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703389_89528004b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703389_e3935ed31e_o.png",
+      "id_image": "thumb_5613267"
+    }
+  ]
+}

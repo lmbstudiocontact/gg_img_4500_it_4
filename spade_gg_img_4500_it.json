@@ -1,0 +1,54 @@
+{
+  "english": "spade",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái xuổng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dao mổ lấy mở cá ong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đào xới",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a tool with a sharp-edged, typically rectangular, metal blade and a long handle, used for digging or cutting earth, sand, turf, etc.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "one of the four suits in a conventional deck of playing cards, denoted by a black inverted heart-shaped figure with a short stalk.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "dig in (ground) with a spade.",
+      "definitions_ex_en": "while spading the soil, I think of the flowers",
+      "definitions_ex_vn": "Trong khi spading đất, tôi nghĩ về những bông hoa",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369967_25e49e28bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369967_5f53dbb6c8_o.png",
+      "id_image": "spade_2245037"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325066_05b6eb8ca1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325066_d9bbbd1114_o.png",
+      "id_image": "spade_2851823"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440103_e570192695_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440103_726182cd54_o.png",
+      "id_image": "spade_664114"
+    }
+  ]
+}

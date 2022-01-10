@@ -1,0 +1,51 @@
+{
+  "english": "vacancy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trạng thái trống không",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an unoccupied position or job.",
+      "definitions_ex_en": "a vacancy for a shorthand typist",
+      "definitions_ex_vn": "một vị trí tuyển dụng cho một người đánh máy tốc ký",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "empty space.",
+      "definitions_ex_en": "Cathy stared into vacancy, seeing nothing",
+      "definitions_ex_vn": "Cathy nhìn chằm chằm vào vị trí tuyển dụng, không thấy gì cả",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "lack of intelligence or understanding.",
+      "definitions_ex_en": "vacancy, vanity, and inane deception",
+      "definitions_ex_vn": "Vị trí tuyển dụng, Vanity và Decondtion",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350261_32573bb702_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350261_621db71cff_o.png",
+      "id_image": "vacancy_3645355"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087480_9cc72da3b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087480_7ce11c9963_o.png",
+      "id_image": "vacancy_3645372"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350211_b4ab54ce1e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350211_63806df8a7_o.png",
+      "id_image": "vacancy_3645456"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464793_75531388e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464793_52a5385dcd_o.png",
+      "id_image": "vacancy_5272947"
+    }
+  ]
+}

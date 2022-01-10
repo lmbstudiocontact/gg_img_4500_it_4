@@ -1,0 +1,49 @@
+{
+  "english": "stomach",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bao tử",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dạ dày",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bụng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the internal organ in which the major part of the digestion of food occurs, being (in humans and many mammals) a pear-shaped enlargement of the alimentary canal linking the esophagus to the small intestine.",
+      "definitions_ex_en": "severe stomach pains",
+      "definitions_ex_vn": "đau dạ dày nghiêm trọng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an appetite for food or drink.",
+      "definitions_ex_en": "she doesn't have the stomach to eat anything",
+      "definitions_ex_vn": "cô ấy không có dạ dày để ăn bất cứ thứ gì",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "consume (food or drink) without feeling or being sick.",
+      "definitions_ex_en": "if you cannot stomach orange juice, try apple juice",
+      "definitions_ex_vn": "Nếu bạn không thể chịu đựng nước cam, hãy thử nước táo",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390687_152855781a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390687_e8fb95fd41_o.png",
+      "id_image": "stomach_4892287"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390647_38b86d60ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390647_a3796a3117_o.png",
+      "id_image": "stomach_5180552"
+    }
+  ]
+}

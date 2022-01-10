@@ -1,0 +1,29 @@
+{
+  "english": "sunlight",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ánh sáng mặt trời",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "light from the sun.",
+      "definitions_ex_en": "a shaft of sunlight",
+      "definitions_ex_vn": "một trục ánh sáng mặt trời",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382597_46cd247725_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382597_d611fb053f_o.png",
+      "id_image": "sunlight_1347278"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382572_c85289b362_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382572_1125930aef_o.png",
+      "id_image": "sunlight_6041056"
+    }
+  ]
+}

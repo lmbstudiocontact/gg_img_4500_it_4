@@ -1,0 +1,32 @@
+{
+  "english": "tremor",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự lúc lắc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự run rẩy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rung chuyển",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an involuntary quivering movement.",
+      "definitions_ex_en": "a disorder that causes tremors and muscle rigidity",
+      "definitions_ex_vn": "một rối loạn gây ra run và độ cứng cơ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334746_d58d4ca6a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334746_ed6dc9bb58_o.png",
+      "id_image": "tremor_3997895"
+    }
+  ]
+}

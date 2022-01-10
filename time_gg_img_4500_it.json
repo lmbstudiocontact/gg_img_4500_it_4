@@ -1,0 +1,107 @@
+{
+  "english": "time",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hồi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lúc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thì giờ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thời đại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thời gian",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thời kỳ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chọn lúc để đánh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "định giờ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sừa đồng hồ cho đúng giờ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tính toán thời gian",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the indefinite continued progress of existence and events in the past, present, and future regarded as a whole.",
+      "definitions_ex_en": "travel through space and time",
+      "definitions_ex_vn": "đi qua không gian và thời gian",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a point of time as measured in hours and minutes past midnight or noon.",
+      "definitions_ex_en": "the time is 9:30",
+      "definitions_ex_vn": "Thời gian là 9:30",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "time as allotted, available, or used.",
+      "definitions_ex_en": "we need more time",
+      "definitions_ex_vn": "Chúng ta cần thêm thời gian",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an instance of something happening or being done; an occasion.",
+      "definitions_ex_en": "this is the first time I have gotten into debt",
+      "definitions_ex_vn": "Đây là lần đầu tiên tôi nhận được nợ nần",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(following a number) expressing multiplication.",
+      "definitions_ex_en": "five goes into fifteen three times",
+      "definitions_ex_vn": "năm đi vào mười lăm ba lần",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the rhythmic pattern of a piece of music, as expressed by a time signature.",
+      "definitions_ex_en": "tunes in waltz time",
+      "definitions_ex_vn": "giai điệu trong thời gian waltz",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "plan, schedule, or arrange when (something) should happen or be done.",
+      "definitions_ex_en": "the first track race is timed for 11:15",
+      "definitions_ex_vn": "Cuộc đua theo dõi đầu tiên được tính thời gian cho 11:15",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "measure the time taken by (a process or activity, or a person doing it).",
+      "definitions_ex_en": "we were timed and given certificates according to our speed",
+      "definitions_ex_vn": "Chúng tôi đã được chứng nhận hẹn giờ và nhất định theo tốc độ của chúng tôi",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347441_352c09fed3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347441_5109377c4c_o.png",
+      "id_image": "time_1211040"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392457_cb8e546ae3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392457_19fac67194_o.png",
+      "id_image": "time_868194"
+    }
+  ]
+}

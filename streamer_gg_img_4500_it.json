@@ -1,0 +1,29 @@
+{
+  "english": "streamer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lá cờ hiệu bay trước gió",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a long, narrow strip of material used as a decoration or symbol.",
+      "definitions_ex_en": "plastic party streamers",
+      "definitions_ex_vn": "Streamers bên nhựa",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080685_10c47c056a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080685_11a1d6f370_o.png",
+      "id_image": "streamer_2009726"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080650_0ff3c05b8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080650_018ffc41ae_o.png",
+      "id_image": "streamer_2201264"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "english": "tolerance",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lòng khoan dung",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lòng khoan thứ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chịu được hơi nóng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chịu được khí lạnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chịu được thuốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tha thứ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the ability or willingness to tolerate something, in particular the existence of opinions or behavior that one does not necessarily agree with.",
+      "definitions_ex_en": "the tolerance of corruption",
+      "definitions_ex_vn": "sự khoan dung của",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the capacity to endure continued subjection to something, especially a drug, transplant, antigen, or environmental conditions, without adverse reaction.",
+      "definitions_ex_en": "the desert camel shows the greatest tolerance to dehydration",
+      "definitions_ex_vn": "Con lạc đà sa mạc cho thấy khả năng chịu đựng lớn nhất đối với mất nước",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an allowable amount of variation of a specified quantity, especially in the dimensions of a machine or part.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389882_0d003fc492_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389882_e5186f2677_o.png",
+      "id_image": "tolerance_6032489"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459778_0a37e690de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459778_b88bb79a62_o.png",
+      "id_image": "tolerance_708655"
+    }
+  ]
+}

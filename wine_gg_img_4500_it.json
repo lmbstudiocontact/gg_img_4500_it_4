@@ -1,0 +1,44 @@
+{
+  "english": "wine",
+  "list_translation_mean": [
+    {
+      "translate_mean": "rượu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rượu nho",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an alcoholic drink made from fermented grape juice.",
+      "definitions_ex_en": "he opened a bottle of red wine",
+      "definitions_ex_vn": "Anh mở một chai rượu vang đỏ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "entertain someone by offering them drinks and a meal.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328996_cf6b3620cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328996_def3c3bb1a_o.png",
+      "id_image": "wine_2586743"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328976_6dbef2d1f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328976_9fb8c8a484_o.png",
+      "id_image": "wine_2601054"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683974_23f0621e9c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683974_746f07ae21_o.png",
+      "id_image": "wine_2707733"
+    }
+  ]
+}

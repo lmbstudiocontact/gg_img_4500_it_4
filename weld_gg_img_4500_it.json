@@ -1,0 +1,47 @@
+{
+  "english": "weld",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự hàn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "join together (metal pieces or parts) by heating the surfaces to the point of melting using a blowtorch, electric arc, or other means, and uniting them by pressing, hammering, etc.",
+      "definitions_ex_en": "the truck had spikes welded to the back",
+      "definitions_ex_vn": "Chiếc xe tải có gai được hàn vào lưng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cause to combine and form a harmonious or effective whole.",
+      "definitions_ex_en": "his efforts to weld together the religious parties ran into trouble",
+      "definitions_ex_vn": "những nỗ lực của ông để liên kết với nhau các bên tôn giáo gặp rắc rối",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a welded joint.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a widely distributed plant related to mignonette, yielding a yellow dye.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447418_c1091d5f99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447418_84fb354776_o.png",
+      "id_image": "weld_1839200"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447458_565cf9ee3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447458_dcf86dfc2d_o.png",
+      "id_image": "weld_827657"
+    }
+  ]
+}

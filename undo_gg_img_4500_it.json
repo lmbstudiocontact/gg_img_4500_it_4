@@ -1,0 +1,63 @@
+{
+  "english": "undo",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hủy bỏ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho suy bại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phá hủy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phá ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tháo ra",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "unfasten, untie, or loosen (something).",
+      "definitions_ex_en": "the knot was difficult to undo",
+      "definitions_ex_vn": "nút thắt khó hoàn tác",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cancel or reverse the effects or results of (a previous action or measure).",
+      "definitions_ex_en": "there wasn't any way Evelyn could undo the damage",
+      "definitions_ex_vn": "Không có cách nào Evelyn có thể hoàn tác thiệt hại",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cause the downfall or ruin of.",
+      "definitions_ex_en": "Iago's hatred of women undoes him",
+      "definitions_ex_vn": "Sự thù hận của Iago của phụ nữ hoàn tác anh ta",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a feature of a computer program that allows a user to cancel or reverse the last one or more commands executed.",
+      "definitions_ex_en": "the undo command",
+      "definitions_ex_vn": "lệnh hoàn tác",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810090775_39625003be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810090775_6174d3358d_o.png",
+      "id_image": "undo_4563937"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809708089_03088c37d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809708089_1b85c30e5d_o.png",
+      "id_image": "undo_6010152"
+    }
+  ]
+}

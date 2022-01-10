@@ -1,0 +1,35 @@
+{
+  "english": "submarine",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dây cáp dưới biển",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a warship with a streamlined hull designed to operate completely submerged in the sea for long periods, equipped with a periscope and typically armed with torpedoes or missiles.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "existing, occurring, or used under the surface of the sea.",
+      "definitions_ex_en": "submarine volcanic activity",
+      "definitions_ex_vn": "Hoạt động núi lửa tàu ngầm",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340366_0d2466952b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340366_8d6dc0b7b9_o.png",
+      "id_image": "submarine_6032458"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340331_72d79bcbf0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340331_a20cf89410_o.png",
+      "id_image": "submarine_6387622"
+    }
+  ]
+}

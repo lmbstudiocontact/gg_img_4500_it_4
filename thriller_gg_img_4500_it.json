@@ -1,0 +1,33 @@
+{
+  "english": "thriller",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chuyện cảm động",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người động lòng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a novel, play, or movie with an exciting plot, typically involving crime or espionage.",
+      "definitions_ex_en": "a tense thriller about a diamond heist that goes badly wrong",
+      "definitions_ex_vn": "một bộ phim kinh dị căng thẳng về một chú chó đáng yêu đã sai",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463763_dcdd79a9f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463763_2ec06426ec_o.png",
+      "id_image": "thriller_5776172"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348981_d545d4f3c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348981_d5c83800f7_o.png",
+      "id_image": "thriller_6348453"
+    }
+  ]
+}

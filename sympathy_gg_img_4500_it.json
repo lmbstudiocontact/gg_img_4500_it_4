@@ -1,0 +1,49 @@
+{
+  "english": "sympathy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lòng thương hại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lòng trắc ẩn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chia buồn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "feelings of pity and sorrow for someone else's misfortune.",
+      "definitions_ex_en": "they had great sympathy for the flood victims",
+      "definitions_ex_vn": "Họ có sự thông cảm lớn đối với các nạn nhân lũ lụt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "understanding between people; common feeling.",
+      "definitions_ex_en": "the special sympathy between the two boys was obvious to all",
+      "definitions_ex_vn": "Sự thông cảm đặc biệt giữa hai chàng trai là rõ ràng đối với tất cả",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the state or fact of responding in a way similar or corresponding to an action elsewhere.",
+      "definitions_ex_en": "the magnetic field oscillates in sympathy",
+      "definitions_ex_vn": "Các từ trường dao động trong sự cảm thông",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445693_c8f7023b0b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445693_c7a91aaffa_o.png",
+      "id_image": "sympathy_3220616"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685829_0f37e97a4c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685829_6ba78e5620_o.png",
+      "id_image": "sympathy_708687"
+    }
+  ]
+}

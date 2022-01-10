@@ -1,0 +1,78 @@
+{
+  "english": "squat",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người mập lùn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ngồi chồm hỗm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ngồi xổm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngồi chồm hổm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngồi xổm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thu mình sát xuống đất",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "crouch or sit with one's knees bent and one's heels close to or touching one's buttocks or the back of one's thighs.",
+      "definitions_ex_en": "I squatted down in front of him",
+      "definitions_ex_vn": "Tôi ngồi xổm xuống trước mặt anh ta",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "unlawfully occupy an uninhabited building or settle on a piece of land.",
+      "definitions_ex_en": "eight families are squatting in the house",
+      "definitions_ex_vn": "Tám gia đình đang ngồi xổm trong nhà",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "short and thickset; disproportionately broad or wide.",
+      "definitions_ex_en": "he was muscular and squat",
+      "definitions_ex_vn": "Anh ấy là cơ bắp và ngồi xổm",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a position in which one's knees are bent and one's heels are close to or touching one's buttocks or the back of one's thighs.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a building occupied by people living in it without the legal right to do so.",
+      "definitions_ex_en": "a basement room in a North London squat",
+      "definitions_ex_vn": "một căn phòng tầng hầm ở phía bắc london squat",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396272_651d43d53f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396272_5a77c03cd9_o.png",
+      "id_image": "squat_2307865"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088700_54d8c30dd4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088700_dd3ebdf4d4_o.png",
+      "id_image": "squat_3043290"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705974_7531fb29af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705974_efb5d6bdd4_o.png",
+      "id_image": "squat_3476385"
+    }
+  ]
+}

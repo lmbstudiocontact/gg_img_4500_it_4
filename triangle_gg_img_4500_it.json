@@ -1,0 +1,34 @@
+{
+  "english": "triangle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hình ba góc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a plane figure with three straight sides and three angles.",
+      "definitions_ex_en": "an equilateral triangle",
+      "definitions_ex_vn": "một tam giác đều",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071310_075e81c166_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071310_10681c8031_o.png",
+      "id_image": "triangle_1376915"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334386_e2424b1d79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334386_cb2d157cea_o.png",
+      "id_image": "triangle_232988"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379162_5ef8a6aba6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379162_d248ef8a99_o.png",
+      "id_image": "triangle_2844570"
+    }
+  ]
+}

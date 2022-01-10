@@ -1,0 +1,114 @@
+{
+  "english": "upset",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phiền lụy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lật úp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phá rối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trở ngại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình trạng hổn loạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đổ trúc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm hỏng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm khó chịu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phá rối",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make (someone) unhappy, disappointed, or worried.",
+      "definitions_ex_en": "the accusation upset her",
+      "definitions_ex_vn": "buộc tội làm cô ấy buồn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "knock (something) over.",
+      "definitions_ex_en": "he upset a tureen of soup",
+      "definitions_ex_vn": "Anh buồn bã một món súp",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cause disorder in (something); disrupt.",
+      "definitions_ex_en": "the dam will upset the ecological balance",
+      "definitions_ex_vn": "Con đập sẽ làm đảo lộn sự cân bằng sinh thái",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "shorten and thicken the end or edge of (a metal bar, wheel rim, or other object), especially by hammering or pressure when heated.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a state of being unhappy, disappointed, or worried.",
+      "definitions_ex_en": "domestic upsets",
+      "definitions_ex_vn": "đảo ngược trong nước",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an unexpected result or situation, especially in a sports competition.",
+      "definitions_ex_en": "they caused one of last season's biggest upsets by winning 27–15",
+      "definitions_ex_vn": "Họ đã gây ra một trong những hoạt động khó chịu lớn nhất của mùa giải trước bằng cách giành chiến thắng 27-15",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a disturbance of a person's digestive system.",
+      "definitions_ex_en": "a stomach upset",
+      "definitions_ex_vn": "Một dạ dày buồn bã",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "unhappy, disappointed, or worried.",
+      "definitions_ex_en": "she looked pale and upset",
+      "definitions_ex_vn": "Cô ấy trông nhợt nhạt và buồn bã",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a person's stomach) having disturbed digestion, especially because of something eaten.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396407_53a112bf4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396407_5d841bbd50_o.png",
+      "id_image": "upset_1972750"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706119_9190955904_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706119_a60a3513e4_o.png",
+      "id_image": "upset_3508646"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396332_dcf03a058f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396332_87a6ec59e9_o.png",
+      "id_image": "upset_4138862"
+    }
+  ]
+}

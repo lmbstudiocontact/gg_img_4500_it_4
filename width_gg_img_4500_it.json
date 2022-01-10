@@ -1,0 +1,46 @@
+{
+  "english": "width",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bề ngang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bề rộng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chiều rộng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính rộng rải",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the measurement or extent of something from side to side.",
+      "definitions_ex_en": "the yard was about seven feet in width",
+      "definitions_ex_vn": "sân rộng khoảng bảy feet",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374197_e07607fbb8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374197_af0b11be85_o.png",
+      "id_image": "width_3094422"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684494_450a8aafe2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684494_e0a20ec53c_o.png",
+      "id_image": "width_3393354"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444483_ee535ab3c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444483_6d60d1562c_o.png",
+      "id_image": "width_5558581"
+    }
+  ]
+}

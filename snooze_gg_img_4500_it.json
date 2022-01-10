@@ -1,0 +1,36 @@
+{
+  "english": "snooze",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giấc ngũ ngắn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "have a short, light sleep, especially during the day.",
+      "definitions_ex_en": "the children play beach games while the adults snooze in the sun",
+      "definitions_ex_vn": "Những đứa trẻ chơi các trò chơi bãi biển trong khi người trưởng thành báo lại dưới ánh mặt trời",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a short, light sleep, especially during the day.",
+      "definitions_ex_en": "he settled in the grass for a snooze",
+      "definitions_ex_vn": "Anh định cư trên cỏ để báo lại",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "something boring or tedious.",
+      "definitions_ex_en": "the actual listening experience is often something of a snooze",
+      "definitions_ex_vn": "trải nghiệm nghe thực tế thường là một cái gì đó của một người báo lại",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684259_8558fe567e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684259_516bcda150_o.png",
+      "id_image": "snooze_3602457"
+    }
+  ]
+}

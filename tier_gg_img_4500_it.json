@@ -1,0 +1,36 @@
+{
+  "english": "tier",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dãy ghế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hàng ghế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người cột lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người thắt lại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a row or level of a structure, typically one of a series of rows placed one above the other and successively receding or diminishing in size.",
+      "definitions_ex_en": "a tier of seats",
+      "definitions_ex_vn": "một tầng ghế",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392772_627a488e57_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392772_2e1d89188e_o.png",
+      "id_image": "tier_5966028"
+    }
+  ]
+}

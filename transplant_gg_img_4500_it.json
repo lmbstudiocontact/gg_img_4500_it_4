@@ -1,0 +1,47 @@
+{
+  "english": "transplant",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây bứng trồng nơi khác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bứng trồng nơi khác",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dời trồng nơi khác",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thay thế bộ phận trong cơ thể",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "move or transfer (something) to another place or situation, typically with some effort or upheaval.",
+      "definitions_ex_en": "his endeavor to transplant people from Russia to the Argentine",
+      "definitions_ex_vn": "nỗ lực cấy người từ Nga đến người Argentina",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an operation in which an organ or tissue is transplanted.",
+      "definitions_ex_en": "a heart transplant",
+      "definitions_ex_vn": "một tiếng cấy trái tim",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381922_294a154bac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381922_1996ebd37b_o.png",
+      "id_image": "transplant_2463907"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451708_0742bebd41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451708_31578750b7_o.png",
+      "id_image": "transplant_4815842"
+    }
+  ]
+}

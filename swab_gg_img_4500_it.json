@@ -1,0 +1,46 @@
+{
+  "english": "swab",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lau chùi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an absorbent pad or piece of material used in surgery and medicine for cleaning wounds, applying medication, or taking specimens.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a mop or other absorbent device for cleaning or mopping up a floor or other surface.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "clean (a wound or surface) with a swab.",
+      "definitions_ex_en": "swabbing down the decks",
+      "definitions_ex_vn": "Swabbing xuống sàn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689729_09b400b336_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689729_dd277b7548_o.png",
+      "id_image": "swab_2547806"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689689_d374db20a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689689_2a053b41ea_o.png",
+      "id_image": "swab_4068570"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689629_33b29c95cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689629_aaef078cb8_o.png",
+      "id_image": "swab_5806212"
+    }
+  ]
+}

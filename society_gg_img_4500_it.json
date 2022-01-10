@@ -1,0 +1,49 @@
+{
+  "english": "society",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự giao tế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giao thiệp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xã giao",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the aggregate of people living together in a more or less ordered community.",
+      "definitions_ex_en": "drugs, crime, and other dangers to society",
+      "definitions_ex_vn": "ma túy, tội phạm và những nguy hiểm khác đối với xã hội",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an organization or club formed for a particular purpose or activity.",
+      "definitions_ex_en": "the American Society for the Prevention of Cruelty to Animals",
+      "definitions_ex_vn": "Hiệp hội nước Mỹ phòng chống tàn ác đối với động vật",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the situation of being in the company of other people.",
+      "definitions_ex_en": "she shunned the society of others",
+      "definitions_ex_vn": "Cô ấy trốn tránh xã hội của người khác",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442668_2a8cb98f48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442668_ce43abe800_o.png",
+      "id_image": "society_5999480"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064285_3ff1d584c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064285_30b73bde8d_o.png",
+      "id_image": "society_6193871"
+    }
+  ]
+}

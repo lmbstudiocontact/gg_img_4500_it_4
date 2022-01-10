@@ -1,0 +1,54 @@
+{
+  "english": "sift",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nghiên cứu tỉ mỉ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sàng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xem xét kỷ càng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "put (a fine, loose, or powdery substance) through a sieve so as to remove lumps or large particles.",
+      "definitions_ex_en": "sift the flour into a large bowl",
+      "definitions_ex_vn": "Rây bột vào một cái bát lớn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "examine (something) thoroughly so as to isolate that which is most important or useful.",
+      "definitions_ex_en": "until we sift the evidence ourselves, we can't comment objectively",
+      "definitions_ex_vn": "Cho đến khi chúng ta sàng lọc bằng chứng bản thân, chúng ta không thể bình luận một cách khách quan",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of sifting something, especially so as to isolate that which is most important or useful.",
+      "definitions_ex_en": "a careful archaeological sift must be made through the debris",
+      "definitions_ex_vn": "một bản đồ khảo cổ cẩn thận phải được thực hiện thông qua các mảnh vỡ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077550_b0df889205_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077550_ab59c5b192_o.png",
+      "id_image": "sieve_1027108"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340231_04653ea4f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340231_ba3c9a7ef1_o.png",
+      "id_image": "sieve_3690118"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455103_87085047ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455103_fa3e330b88_o.png",
+      "id_image": "sieve_5900472"
+    }
+  ]
+}

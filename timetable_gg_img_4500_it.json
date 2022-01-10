@@ -1,0 +1,45 @@
+{
+  "english": "timetable",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thời khắc biểu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a chart showing the departure and arrival times of trains, buses, or planes.",
+      "definitions_ex_en": "these itineraries are subject to bus timetables",
+      "definitions_ex_vn": "Những hành trình này phải tuân theo thời gian biểu xe buýt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "schedule (something) to take place at a particular time.",
+      "definitions_ex_en": "German lessons were timetabled on Wednesday and Friday",
+      "definitions_ex_vn": "Bài học tiếng Đức đã được ghi màu vào thứ Tư và thứ Sáu",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392357_c764c66b64_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392357_e60fbe9fa9_o.png",
+      "id_image": "timetable_2105239"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462088_0ab15c0505_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462088_31e40702b8_o.png",
+      "id_image": "timetable_2134050"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462063_73f8c2c97e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462063_0c362b5c3a_o.png",
+      "id_image": "timetable_2855679"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347236_cae6fe7d51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347236_9db28d4658_o.png",
+      "id_image": "timetable_2855847"
+    }
+  ]
+}

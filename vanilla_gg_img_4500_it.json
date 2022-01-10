@@ -1,0 +1,58 @@
+{
+  "english": "vanilla",
+  "list_translation_mean": [
+    {
+      "translate_mean": "vanilla",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây va ni",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chất va ni",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trái va ni",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a substance obtained from vanilla beans or produced artificially and used to flavor sweet foods or to impart a fragrant scent to cosmetic preparations.",
+      "definitions_ex_en": "vanilla ice cream",
+      "definitions_ex_vn": "kem vani",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a tropical climbing orchid that has fragrant flowers and long podlike fruit.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "having no special or extra features; ordinary or standard.",
+      "definitions_ex_en": "choosing plain vanilla technology wherever you can will save you money",
+      "definitions_ex_vn": "Chọn công nghệ vani đơn giản bất cứ nơi nào bạn có thể cứu bạn",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085775_7c196b427b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085775_861de66f8c_o.png",
+      "id_image": "vanilla_1087465"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703184_d3e470dd22_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703184_cfea1390b0_o.png",
+      "id_image": "vanilla_2128679"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393337_2400ae043a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393337_4bded13c88_o.png",
+      "id_image": "vanilla_2218696"
+    }
+  ]
+}

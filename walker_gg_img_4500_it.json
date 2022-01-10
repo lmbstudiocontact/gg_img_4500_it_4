@@ -1,0 +1,48 @@
+{
+  "english": "walker",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khung tập đi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đi dạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đi bộ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who walks, especially for exercise or enjoyment.",
+      "definitions_ex_en": "he was a keen walker",
+      "definitions_ex_vn": "Anh ấy là một người đi bộ quan tâm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a device for helping a baby learn to walk, consisting of a harness set into a frame on wheels.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383687_332942a2d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383687_15014bfc03_o.png",
+      "id_image": "walker_2142623"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693884_870edf5fac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693884_28f63bc1f3_o.png",
+      "id_image": "walker_2142628"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693844_d0cc70fbea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693844_4cd0b8abce_o.png",
+      "id_image": "walker_5222961"
+    }
+  ]
+}

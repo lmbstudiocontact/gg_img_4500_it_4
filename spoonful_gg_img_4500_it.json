@@ -1,0 +1,24 @@
+{
+  "english": "spoonful",
+  "list_translation_mean": [
+    {
+      "translate_mean": "một muổng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "as much as can be contained in a spoon.",
+      "definitions_ex_en": "add a spoonful of honey to a glass of hot water",
+      "definitions_ex_vn": "Thêm một muỗng mật ong vào một ly nước nóng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397677_e12c900459_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397677_64cd45b273_o.png",
+      "id_image": "spoonful_1863686"
+    }
+  ]
+}

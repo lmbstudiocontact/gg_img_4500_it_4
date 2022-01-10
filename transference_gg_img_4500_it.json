@@ -1,0 +1,38 @@
+{
+  "english": "transference",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự chuyển nhượng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chuyển giao",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of transferring something or the process of being transferred.",
+      "definitions_ex_en": "education involves the transference of knowledge",
+      "definitions_ex_vn": "Giáo dục liên quan đến việc chuyển giao kiến thức",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693759_8f7b52a5a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693759_c791dbdfe3_o.png",
+      "id_image": "transference_144903"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075630_4f8be4c22e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075630_724a986e26_o.png",
+      "id_image": "transference_1674897"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453518_cb0fc8137a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453518_2528722993_o.png",
+      "id_image": "transference_1674920"
+    }
+  ]
+}

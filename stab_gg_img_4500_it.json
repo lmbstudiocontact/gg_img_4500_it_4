@@ -1,0 +1,53 @@
+{
+  "english": "stab",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dao gâm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái đâm bằng dao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đâm người bằng dao",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đục gạch trên tường",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a person) thrust a knife or other pointed weapon into (someone) so as to wound or kill.",
+      "definitions_ex_en": "he stabbed him in the stomach",
+      "definitions_ex_vn": "Anh đâm vào bụng anh.",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a thrust with a knife or other pointed weapon.",
+      "definitions_ex_en": "multiple stab wounds",
+      "definitions_ex_vn": "Nhiều vết thương đâm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an attempt to do (something).",
+      "definitions_ex_en": "Meredith made a feeble stab at joining in",
+      "definitions_ex_vn": "Meredith đã thực hiện một cú đâm yếu ớt khi tham gia",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395877_00383c290c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395877_39768e92c1_o.png",
+      "id_image": "stab_1256819"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395847_cf5efba31d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395847_e2b363e297_o.png",
+      "id_image": "stab_6084847"
+    }
+  ]
+}

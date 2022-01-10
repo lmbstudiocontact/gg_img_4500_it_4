@@ -1,0 +1,44 @@
+{
+  "english": "visual",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về thị giác",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về sự trông thấy",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to seeing or sight.",
+      "definitions_ex_en": "visual perception",
+      "definitions_ex_vn": "nhận thức trực quan",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a picture, piece of film, or display used to illustrate or accompany something.",
+      "definitions_ex_en": "the music should fit the visuals",
+      "definitions_ex_vn": "Âm nhạc nên phù hợp với hình ảnh",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341991_ee821a3947_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341991_dc4a2a3e7e_o.png",
+      "id_image": "visual_1296977"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386977_946250b423_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386977_0b20669bfb_o.png",
+      "id_image": "visual_1792028"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079360_9173820193_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079360_fa5a4491c6_o.png",
+      "id_image": "visual_6040780"
+    }
+  ]
+}

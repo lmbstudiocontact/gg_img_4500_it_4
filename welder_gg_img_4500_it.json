@@ -1,0 +1,33 @@
+{
+  "english": "welder",
+  "list_translation_mean": [
+    {
+      "translate_mean": "máy hàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thợ hàn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who welds metal.",
+      "definitions_ex_en": "he worked as a welder in a steel factory",
+      "definitions_ex_vn": "Ông làm thợ hàn trong một nhà máy thép",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377137_1a63da8c28_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377137_731a6f49c0_o.png",
+      "id_image": "welder_1899366"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377117_ac0a7375ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377117_cf1f0917bb_o.png",
+      "id_image": "welder_3461933"
+    }
+  ]
+}

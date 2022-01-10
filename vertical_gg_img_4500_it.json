@@ -1,0 +1,81 @@
+{
+  "english": "vertical",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đứng thẳng",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "at right angles to a horizontal plane; in a direction, or having an alignment, such that the top is directly above the bottom.",
+      "definitions_ex_en": "the vertical axis",
+      "definitions_ex_vn": "Trục dọc.",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "involving different levels of a hierarchy or progression.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to the crown of the head.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "denoting a point at the zenith or the highest point of something.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a vertical line or plane.",
+      "definitions_ex_en": "the columns incline several degrees away from the vertical",
+      "definitions_ex_vn": "Các cột nghiêng vài độ so với chiều dọc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an upright structure.",
+      "definitions_ex_en": "we remodeled the opening with a simple lintel and unadorned verticals",
+      "definitions_ex_vn": "Chúng tôi sửa sang lại lỗ mở với một đường dọc đơn giản và không được trang bị",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the distance between the highest and lowest points of a ski area.",
+      "definitions_ex_en": "the resort claims a vertical of 2,100 meters",
+      "definitions_ex_vn": "Khu nghỉ mát tuyên bố một chiều dọc là 2.100 mét",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for vertical tasting.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345726_37c97b3037_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345726_f303847cf9_o.png",
+      "id_image": "vertical_2280398"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700864_17dcf8e80a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700864_a291e4cd2f_o.png",
+      "id_image": "vertical_232875"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700834_09ba0289c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700834_3f01e6146e_o.png",
+      "id_image": "vertical_232877"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460478_997d3f8f2a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460478_c483cfb454_o.png",
+      "id_image": "vertical_3103209"
+    }
+  ]
+}

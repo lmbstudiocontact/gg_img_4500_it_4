@@ -1,0 +1,69 @@
+{
+  "english": "transmission",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bộ phậ truyền số",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bộ truyền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chuyển số của xe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chuyển giao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự truyền đạt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự truyền lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự truyền thanh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or process of transmitting something, or the state of being transmitted.",
+      "definitions_ex_en": "the transmission of the virus",
+      "definitions_ex_vn": "Việc truyền virut",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the mechanism by which power is transmitted from an engine to the wheels of a motor vehicle.",
+      "definitions_ex_en": "a three-speed automatic transmission",
+      "definitions_ex_vn": "một hộp số tự động ba tốc độ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074375_f11aaeb62c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074375_9965982551_o.png",
+      "id_image": "transmission_2080315"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452108_6a820c262a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452108_4168fdbe52_o.png",
+      "id_image": "transmission_2660127"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692549_4f1b83ae43_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692549_ccbdcb7271_o.png",
+      "id_image": "transmission_4171403"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337226_410194d545_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337226_b70e7db1a1_o.png",
+      "id_image": "transmission_4796100"
+    }
+  ]
+}

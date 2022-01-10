@@ -1,0 +1,47 @@
+{
+  "english": "tomorrow",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mai",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ngày mai",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngày mai",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "on the day after today.",
+      "definitions_ex_en": "I'll see you tomorrow",
+      "definitions_ex_vn": "Tôi sẽ gặp các bạn vào ngày mai",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "the day after today.",
+      "definitions_ex_en": "tomorrow is going to be a special day",
+      "definitions_ex_vn": "Ngày mai sẽ là một ngày đặc biệt",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081960_5bb4d5d4db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081960_0f43f78b12_o.png",
+      "id_image": "tomorrow_6357026"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699589_75169750f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699589_53a7525cff_o.png",
+      "id_image": "tomorrow_6381382"
+    }
+  ]
+}

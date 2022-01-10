@@ -1,0 +1,30 @@
+{
+  "english": "trendy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khuynh hướng",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "very fashionable or up to date.",
+      "definitions_ex_en": "I enjoyed being able to go out and buy trendy clothes",
+      "definitions_ex_vn": "Tôi rất thích có thể ra ngoài và mua quần áo hợp thời trang",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a person who is very fashionable or up to date.",
+      "definitions_ex_en": "Taiwan's well-heeled young trendies",
+      "definitions_ex_vn": "Hữu hôn trẻ cao gót tốt của Đài Loan",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689579_3deb82789b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689579_bde7973acb_o.png",
+      "id_image": "trendy_167850"
+    }
+  ]
+}

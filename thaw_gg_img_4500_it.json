@@ -1,0 +1,52 @@
+{
+  "english": "thaw",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tình trạng tan ra nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm cho tan",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm lỏng ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trở lại chất nước",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of ice, snow, or another frozen substance, such as food) become liquid or soft as a result of warming.",
+      "definitions_ex_en": "the river thawed and barges of food began to reach the capital",
+      "definitions_ex_vn": "dòng sông tan băng và xà lan của thức ăn bắt đầu đến thủ đô",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a period of warmer weather that thaws ice and snow.",
+      "definitions_ex_en": "the thaw came yesterday afternoon",
+      "definitions_ex_vn": "Cuộc tan băng đến chiều hôm qua",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087850_b8357afeee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087850_eb509c6204_o.png",
+      "id_image": "thaw_2067629"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705214_930b8d22a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705214_9be00ec9ae_o.png",
+      "id_image": "thaw_357295"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465218_2dc6c9e678_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465218_0e42ae2999_o.png",
+      "id_image": "thaw_3937391"
+    }
+  ]
+}

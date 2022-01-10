@@ -1,0 +1,84 @@
+{
+  "english": "suspension",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự đình bản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đình chỉ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đình lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự gián đoạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ngưng chiến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ngưng chức",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ngưng lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự treo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thể vẩn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the temporary prevention of something from continuing or being in force or effect.",
+      "definitions_ex_en": "the suspension of military action",
+      "definitions_ex_vn": "việc đình chỉ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the system of springs and shock absorbers by which a vehicle is cushioned from road conditions.",
+      "definitions_ex_en": "the car's rear suspension",
+      "definitions_ex_vn": "hệ thống treo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a mixture in which particles are dispersed throughout the bulk of a fluid.",
+      "definitions_ex_en": "a suspension of corn starch in peanut oil",
+      "definitions_ex_vn": "một hệ thống treo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a discord made by prolonging a note of a chord into the following chord.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071985_08ff850224_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071985_666a5cb98d_o.png",
+      "id_image": "suspended_2808469"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689989_796dcf23e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689989_383e390371_o.png",
+      "id_image": "suspension_3003679"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690054_0d18bc9732_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690054_24f70399e2_o.png",
+      "id_image": "suspension_560708"
+    }
+  ]
+}

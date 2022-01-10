@@ -1,0 +1,24 @@
+{
+  "english": "symphony",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khúc nhạc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an elaborate musical composition for full orchestra, typically in four movements, at least one of which is traditionally in sonata form.",
+      "definitions_ex_en": "Beethoven's Fifth Symphony",
+      "definitions_ex_vn": "Bản giao hưởng thứ năm của Beethoven",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330686_24b5ccab5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330686_c194f8ae37_o.png",
+      "id_image": "symphony_352253"
+    }
+  ]
+}

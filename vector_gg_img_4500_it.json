@@ -1,0 +1,51 @@
+{
+  "english": "vector",
+  "list_translation_mean": [
+    {
+      "translate_mean": "côn trùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "toán véc tơ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a quantity having direction as well as magnitude, especially as determining the position of one point in space relative to another.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an organism, typically a biting insect or tick, that transmits a disease or parasite from one animal or plant to another.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a course to be taken by an aircraft.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "direct (an aircraft in flight) to a desired point.",
+      "definitions_ex_en": "two Hurricanes were vectored towards the Stukas",
+      "definitions_ex_vn": "Hai cơn bão được vectơ về phía Stukas",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085125_cbe8650fd6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085125_0a9d7e4090_o.png",
+      "id_image": "vector_291031"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702464_93d02fa90f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702464_e1fdfd948d_o.png",
+      "id_image": "vector_345992"
+    }
+  ]
+}

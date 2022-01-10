@@ -1,0 +1,57 @@
+{
+  "english": "stitch",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mũi đan thêu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mũi kim may",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đau xóc hông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "may quần áo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "may vết thương",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a loop of thread or yarn resulting from a single pass or movement of the needle in sewing, knitting, or crocheting.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sudden sharp pain in the side of the body, caused by strenuous exercise.",
+      "definitions_ex_en": "she ran with a stitch in her side",
+      "definitions_ex_vn": "Cô chạy với một mũi khâu ở bên cạnh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make, mend, or join (something) with stitches.",
+      "definitions_ex_en": "stitch a plain seam with right sides together",
+      "definitions_ex_vn": "khâu một đường may trơn với hai bên phải với nhau",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391152_b4a380e982_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391152_2e64f798f8_o.png",
+      "id_image": "stitch_2442329"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346141_618e286211_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346141_2d0bea6236_o.png",
+      "id_image": "stitch_2927914"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "english": "syringe",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ống chích thuốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ống tiêm thuốc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a tube with a nozzle and piston or bulb for sucking in and ejecting liquid in a thin stream, used for cleaning wounds or body cavities, or fitted with a hollow needle for injecting or withdrawing fluids.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "spray liquid into (the ear or a wound) with a syringe.",
+      "definitions_ex_en": "I had my ears syringed",
+      "definitions_ex_vn": "Tôi đã có tai của tôi Ống tiêm",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066560_96a96f8955_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066560_fdae2a8a9a_o.png",
+      "id_image": "syringe_197876"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684784_77e7c04589_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684784_c9426a94a7_o.png",
+      "id_image": "syringe_407441"
+    }
+  ]
+}

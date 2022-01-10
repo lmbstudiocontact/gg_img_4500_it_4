@@ -1,0 +1,84 @@
+{
+  "english": "stump",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chân cụt còn lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lỏi của bắp cải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đi diển thuyết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi khập khểnh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hỏi khó thí sinh",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the bottom part of a tree left projecting from the ground after most of the trunk has fallen or been cut down.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "each of the three upright pieces of wood which form a wicket.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a cylinder with conical ends made of rolled paper or other soft material, used for softening or blending marks made with a crayon or pencil.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a question or problem) be too hard for; baffle.",
+      "definitions_ex_en": "education chiefs were stumped by some of the exam questions",
+      "definitions_ex_vn": "Giáo dục trưởng bị sẫm bối bởi một số câu hỏi thi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "walk stiffly and noisily.",
+      "definitions_ex_en": "he stumped away on short thick legs",
+      "definitions_ex_vn": "Anh bối rối trên đôi chân dày ngắn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "use a stump on (a drawing, line, etc.).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696179_1c25e6d1fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696179_bdb2cfd53a_o.png",
+      "id_image": "stump_4292728"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340856_4955a1ddb7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340856_b59614b7ac_o.png",
+      "id_image": "stump_4987014"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340931_c8505ebeca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340931_2564e88659_o.png",
+      "id_image": "stump_699660"
+    }
+  ]
+}

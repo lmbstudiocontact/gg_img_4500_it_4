@@ -1,0 +1,46 @@
+{
+  "english": "uncertainty",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự không chắc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính không chắc chắn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trạng thái không qủa quyết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trạng thái lưỡng lự",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the state of being uncertain.",
+      "definitions_ex_en": "times of uncertainty and danger",
+      "definitions_ex_vn": "Thời gian không chắc chắn và nguy hiểm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810091530_9063dc5f39_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810091530_ab74803f01_o.png",
+      "id_image": "uncertainty_5138296"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809354236_a88a739f59_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809354236_a2b20df0ff_o.png",
+      "id_image": "uncertainty_6001253"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809354226_93eb82789a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809354226_1ca25e6de6_o.png",
+      "id_image": "uncertainty_6078943"
+    }
+  ]
+}

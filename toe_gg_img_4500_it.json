@@ -1,0 +1,67 @@
+{
+  "english": "toe",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chân tường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đầu móng chân ngựa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mũi giày",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngón chân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đá bằng mũi giày",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đan lại đầu vớ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "any of the five digits at the end of the human foot.",
+      "definitions_ex_en": "he cut his big toe on a sharp stone",
+      "definitions_ex_vn": "Anh ta cắt ngón chân lớn của mình trên một hòn đá sắc nhọn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the lower end, tip, or point of something.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "push, touch, or kick (something) with one's toe.",
+      "definitions_ex_en": "he toed off his shoes and flexed his feet",
+      "definitions_ex_vn": "Anh ấy cởi giày và uốn cong đôi chân của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "walk with the toes pointed in (or out).",
+      "definitions_ex_en": "he toes out when he walks",
+      "definitions_ex_vn": "anh ấy ra ngoài khi anh ấy đi bộ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345856_ba82b4ecc9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345856_9e3e085d7d_o.png",
+      "id_image": "toe_2375360"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083300_39fe5e5a8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083300_7061b95178_o.png",
+      "id_image": "toe_2688365"
+    }
+  ]
+}

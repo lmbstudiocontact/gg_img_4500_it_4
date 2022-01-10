@@ -1,0 +1,57 @@
+{
+  "english": "strength",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sức mạnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính chắc chắn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the quality or state of being physically strong.",
+      "definitions_ex_en": "cycling can help you build up your strength",
+      "definitions_ex_vn": "Đi xe đạp có thể giúp bạn xây dựng sức mạnh của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the capacity of an object or substance to withstand great force or pressure.",
+      "definitions_ex_en": "they were taking no chances with the strength of the retaining wall",
+      "definitions_ex_vn": "họ không có cơ hội với sức mạnh của bức tường giữ lại",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the potency or degree of concentration of a drug, chemical, or drink.",
+      "definitions_ex_en": "it's double the strength of your average beer",
+      "definitions_ex_vn": "Đó là gấp đôi sức mạnh của bia trung bình của bạn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a good or beneficial quality or attribute of a person or thing.",
+      "definitions_ex_en": "the strengths and weaknesses of their sales and marketing operation",
+      "definitions_ex_vn": "Điểm mạnh và điểm yếu của hoạt động bán hàng và tiếp thị của họ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the number of people comprising a group, typically a team or army.",
+      "definitions_ex_en": "the peacetime strength of the army was 415,000",
+      "definitions_ex_vn": "Sức mạnh thời bình của quân đội là 415.000",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457738_96ac38da1f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457738_61158c0e88_o.png",
+      "id_image": "strength_1409008"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080380_c1ef70d5b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080380_e66c91b2b8_o.png",
+      "id_image": "strength_3476009"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "english": "stand",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cách đứng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ đậu xe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gian hàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khán đài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chống cự",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ngừng lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vị trí",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chịu đựng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đặt vật gì lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đứng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giử vửng lập trường",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kéo dài",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngừng lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đứng dậy",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "have or maintain an upright position, supported by one's feet.",
+      "definitions_ex_en": "Lionel stood in the doorway",
+      "definitions_ex_vn": "Lionel đứng ở ngưỡng cửa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of an object, building, or settlement) be situated in a particular place or position.",
+      "definitions_ex_en": "the town stood on a hill",
+      "definitions_ex_vn": "Thị trấn đứng trên một ngọn đồi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be in a specified state or condition.",
+      "definitions_ex_en": "since mother's death the house had stood empty",
+      "definitions_ex_vn": "Vì cái chết của mẹ ngôi nhà đã đứng trống rỗng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "withstand (an experience or test) without being damaged.",
+      "definitions_ex_en": "small boats that could stand the punishment of heavy seas",
+      "definitions_ex_vn": "những chiếc thuyền nhỏ có thể chịu được sự trừng phạt của biển nặng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "provide (food or drink) for (someone) at one's own expense.",
+      "definitions_ex_en": "somebody in the bar would stand him a beer",
+      "definitions_ex_vn": "ai đó trong quán bar sẽ đứng cho anh ta một cốc bia",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an attitude toward a particular issue; a position taken in an argument.",
+      "definitions_ex_en": "the party's tough stand on welfare",
+      "definitions_ex_vn": "ĐámP Đảng đứng về phúc lợi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a rack, base, or piece of furniture for holding, supporting, or displaying something.",
+      "definitions_ex_en": "a microphone stand",
+      "definitions_ex_vn": "Đế micro",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the place where someone typically stands or sits.",
+      "definitions_ex_en": "she took her stand in front of the desks",
+      "definitions_ex_vn": "Cô ấy đứng đứng trước bàn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a large raised tiered structure for spectators, typically at a sports arena.",
+      "definitions_ex_en": "her parents watched from the stands",
+      "definitions_ex_vn": "Bố mẹ cô nhìn từ khán đài",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a cessation from motion or progress.",
+      "definitions_ex_en": "the train drew to a stand by the signal box",
+      "definitions_ex_vn": "Chuyến tàu kéo đến một cái đứng bên hộp tín hiệu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a group of growing plants of a specified kind, especially trees.",
+      "definitions_ex_en": "a stand of poplars",
+      "definitions_ex_vn": "Đứng của cây dương",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349806_1cdb82e9cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349806_afe57e4aee_o.png",
+      "id_image": "stand_2455844"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464428_50dd93d5f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464428_5cc7f6a130_o.png",
+      "id_image": "stand_2598214"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464388_903b7ed3b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464388_a05144984e_o.png",
+      "id_image": "stand_4615756"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349711_0b3a60cab7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349711_8a196ca8bb_o.png",
+      "id_image": "stand_5332548"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394617_5365875c4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394617_7f564b0ddf_o.png",
+      "id_image": "stand_938109"
+    }
+  ]
+}

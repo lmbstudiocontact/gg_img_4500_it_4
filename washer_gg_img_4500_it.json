@@ -1,0 +1,56 @@
+{
+  "english": "washer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "long đền bằng sắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy giặt đồ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy lọc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người giặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người rửa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or device that washes something.",
+      "definitions_ex_en": "a glass washer",
+      "definitions_ex_vn": "một máy giặt kính",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small flat ring made of metal, rubber, or plastic fixed under a nut or the head of a bolt to spread the pressure when tightened or between two joining surfaces as a spacer or seal.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451248_8d1ec77d67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451248_4a24e98049_o.png",
+      "id_image": "washer_1010334"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336321_aa32474a69_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336321_b39b3642e9_o.png",
+      "id_image": "washer_4118023"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381352_a6cd6d1097_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381352_926fe269f1_o.png",
+      "id_image": "washer_518995"
+    }
+  ]
+}

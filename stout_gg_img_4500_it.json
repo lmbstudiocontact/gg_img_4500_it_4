@@ -1,0 +1,63 @@
+{
+  "english": "stout",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bia đen",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cường tráng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mạnh mẽ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mập mạp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "to lớn",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a person) somewhat fat or of heavy build.",
+      "definitions_ex_en": "stout middle-aged men",
+      "definitions_ex_vn": "Đàn ông trung niên mập mạp",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of an object) strong and thick.",
+      "definitions_ex_en": "Billy had armed himself with a stout stick",
+      "definitions_ex_vn": "Billy đã tự vũ trang với một cây gậy mập mạp",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of an act, quality, or person) brave and determined.",
+      "definitions_ex_en": "he put up a stout defense in court",
+      "definitions_ex_vn": "Anh ấy đưa ra một hàng phòng ngự tại tòa án",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a kind of strong, dark beer brewed with roasted malt or barley.",
+      "definitions_ex_en": "there is a tradition in England of drinking stout while eating oysters",
+      "definitions_ex_vn": "Có một truyền thống ở Anh uống mập mạp trong khi ăn hàu",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344436_4f1205863c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344436_81069a2837_o.png",
+      "id_image": "stout_2534084"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081830_7010f28288_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081830_19701abdaa_o.png",
+      "id_image": "stout_2534088"
+    }
+  ]
+}

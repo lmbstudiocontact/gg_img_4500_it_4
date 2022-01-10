@@ -1,0 +1,54 @@
+{
+  "english": "soul",
+  "list_translation_mean": [
+    {
+      "translate_mean": "linh hồn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tâm hồn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the spiritual or immaterial part of a human being or animal, regarded as immortal.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "emotional or intellectual energy or intensity, especially as revealed in a work of art or an artistic performance.",
+      "definitions_ex_en": "their interpretation lacked soul",
+      "definitions_ex_vn": "Giải thích của họ thiếu linh hồn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the essence or embodiment of a specified quality.",
+      "definitions_ex_en": "he was the soul of discretion",
+      "definitions_ex_vn": "anh ấy là linh hồn của sự thận trọng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680689_2fc8b21207_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680689_27d4b52c41_o.png",
+      "id_image": "soul_122860"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062415_4ef217f22e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062415_fb81c6194f_o.png",
+      "id_image": "soul_3957315"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680654_0f973b99cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680654_538329754e_o.png",
+      "id_image": "soul_4656867"
+    }
+  ]
+}

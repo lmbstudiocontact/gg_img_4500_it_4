@@ -1,0 +1,29 @@
+{
+  "english": "symptom",
+  "list_translation_mean": [
+    {
+      "translate_mean": "triệu chứng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a physical or mental feature which is regarded as indicating a condition of disease, particularly such a feature that is apparent to the patient.",
+      "definitions_ex_en": "dental problems may be a symptom of other illness",
+      "definitions_ex_vn": "Vấn đề về nha khoa có thể là một triệu chứng của bệnh khác",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685699_98cefb0a3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685699_e38a8d41c6_o.png",
+      "id_image": "symptom_5559834"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067470_ef9ae84494_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067470_0cedf7c15e_o.png",
+      "id_image": "symptom_670875"
+    }
+  ]
+}

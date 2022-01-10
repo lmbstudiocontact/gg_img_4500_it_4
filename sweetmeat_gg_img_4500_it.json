@@ -1,0 +1,29 @@
+{
+  "english": "sweetmeat",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kẹo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an item of confectionery or sweet food.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447963_3a63a10494_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447963_d0610289fe_o.png",
+      "id_image": "sweetmeat_644711"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377657_8a8bfc264c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377657_cd5d32c137_o.png",
+      "id_image": "sweetmeat_644719"
+    }
+  ]
+}

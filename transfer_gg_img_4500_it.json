@@ -1,0 +1,98 @@
+{
+  "english": "transfer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nối chuyến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chuyển đổi binh sĩ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chuyển ngân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự dời chổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thuyên chuyển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chuyển nhượng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi chuyển",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "move from one place to another.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "change to another place, route, or means of transportation during a journey.",
+      "definitions_ex_en": "John advised him to transfer from Rome airport to the railroad station",
+      "definitions_ex_vn": "John khuyên ông chuyển từ sân bay Rome đến ga đường sắt",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make over the possession of (property, a right, or a responsibility) to someone else.",
+      "definitions_ex_en": "we will transfer full planning responsibility to local authorities",
+      "definitions_ex_vn": "Chúng tôi sẽ chuyển hoàn toàn trách nhiệm trách nhiệm cho chính quyền địa phương",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "change (the sense of a word or phrase) by extension or metaphor.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of moving something or someone to another place.",
+      "definitions_ex_en": "a transfer of wealth to the poorer nations",
+      "definitions_ex_vn": "Chuyển sự giàu có sang các quốc gia nghèo hơn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of changing to another place, route, or means of transportation during a journey.",
+      "definitions_ex_en": "it took three hours and several bus transfers to get there",
+      "definitions_ex_vn": "Phải mất ba giờ và một số lần chuyển xe buýt để đến đó",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693824_2a6bfdec52_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693824_14a13956ef_o.png",
+      "id_image": "transfer_1349712"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075685_e89093a67f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075685_9d6c476ec4_o.png",
+      "id_image": "transfer_1364961"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693909_b0239a933f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693909_58f3b9a616_o.png",
+      "id_image": "transfer_296902"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383657_4f641bb4f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383657_c119ea5cb2_o.png",
+      "id_image": "transfer_855401"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693839_3d89cc81e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693839_45ab775c4d_o.png",
+      "id_image": "transfer_901039"
+    }
+  ]
+}

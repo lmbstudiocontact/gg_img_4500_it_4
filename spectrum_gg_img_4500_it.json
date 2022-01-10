@@ -1,0 +1,30 @@
+{
+  "english": "spectrum",
+  "list_translation_mean": [
+    {
+      "translate_mean": "quang phổ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a band of colors, as seen in a rainbow, produced by separation of the components of light by their different degrees of refraction according to wavelength.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "used to classify something, or suggest that it can be classified, in terms of its position on a scale between two extreme or opposite points.",
+      "definitions_ex_en": "the left or the right of the political spectrum",
+      "definitions_ex_vn": "bên trái hoặc bên phải của phổ chính trị",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324421_ec379d63ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324421_1e5d6f12bf_o.png",
+      "id_image": "spectrum_2285024"
+    }
+  ]
+}

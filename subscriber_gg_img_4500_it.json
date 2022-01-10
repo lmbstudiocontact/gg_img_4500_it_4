@@ -1,0 +1,33 @@
+{
+  "english": "subscriber",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người đi quyên tiền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người ký tên vào văn kiện",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who receives a publication regularly by paying in advance.",
+      "definitions_ex_en": "I have been a subscriber to your magazine for many years",
+      "definitions_ex_vn": "Tôi đã là một thuê bao cho tạp chí của bạn trong nhiều năm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077300_dcaa4feb9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077300_0ee8350bef_o.png",
+      "id_image": "subscriber_2166735"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077250_c03c88343c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077250_e3d896f960_o.png",
+      "id_image": "subscriber_4319381"
+    }
+  ]
+}

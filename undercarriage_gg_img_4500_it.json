@@ -1,0 +1,28 @@
+{
+  "english": "undercarriage",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bộ bánh xe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giàn dưới của xe",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a wheeled structure beneath an aircraft, typically retracted when not in use, that receives the impact on landing and supports the aircraft on the ground.",
+      "definitions_ex_en": "the undercarriage collapsed on landing",
+      "definitions_ex_vn": "Các bánh xe sụp đổ trên hạ cánh",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808398887_acde0ecf67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808398887_2107316bb9_o.png",
+      "id_image": "undercarriage_1619274"
+    }
+  ]
+}

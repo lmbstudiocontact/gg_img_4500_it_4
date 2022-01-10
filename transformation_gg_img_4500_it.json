@@ -1,0 +1,54 @@
+{
+  "english": "transformation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chùm tóc giả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự biến chất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự biến đổi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự biến tính",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự biến hình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự biến hóa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thorough or dramatic change in form or appearance.",
+      "definitions_ex_en": "its landscape has undergone a radical transformation",
+      "definitions_ex_vn": "Phong cảnh của nó đã trải qua một sự biến đổi triệt để",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453348_0468316cf7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453348_c06b3c9923_o.png",
+      "id_image": "transformation_2799892"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338301_55d2e49004_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338301_7fa7932933_o.png",
+      "id_image": "transformation_4072717"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338266_9984886a1b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338266_2e253edf51_o.png",
+      "id_image": "transformation_5139931"
+    }
+  ]
+}

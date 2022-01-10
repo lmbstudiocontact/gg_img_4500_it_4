@@ -1,0 +1,49 @@
+{
+  "english": "sow",
+  "list_translation_mean": [
+    {
+      "translate_mean": "heo cái",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gieo giống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gieo hột",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "plant (seed) by scattering it on or in the earth.",
+      "definitions_ex_en": "sow a thin layer of seeds on top",
+      "definitions_ex_vn": "Gieo một lớp hạt mỏng lên trên",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an adult female pig, especially one which has farrowed.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a large block of metal (larger than a “pig”) made by smelting.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440308_0c5e667f2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440308_abf810dc70_o.png",
+      "id_image": "sow_3319281"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440273_c1f484aa0b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440273_205e025f85_o.png",
+      "id_image": "sow_6041419"
+    }
+  ]
+}

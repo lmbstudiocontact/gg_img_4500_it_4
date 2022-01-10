@@ -1,0 +1,148 @@
+{
+  "english": "take",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự bắt được",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cầm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bị bịnh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dắt người",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đoạt giải thưởng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "uống thuốc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cầm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lấy cái gì",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chiếm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mướn nhà",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "có kết quả",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nắm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhận được",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "lay hold of (something) with one's hands; reach for and hold.",
+      "definitions_ex_en": "he leaned forward to take her hand",
+      "definitions_ex_vn": "Anh cúi xuống để nắm lấy tay cô",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "remove (someone or something) from a particular place.",
+      "definitions_ex_en": "he took an envelope from his inside pocket",
+      "definitions_ex_vn": "Anh ta lấy một phong bì từ túi bên trong của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "carry or bring with one; convey.",
+      "definitions_ex_en": "he took along a portfolio of his drawings",
+      "definitions_ex_vn": "Anh ấy lấy một danh mục đầu tư của bản vẽ của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "accept or receive (someone or something).",
+      "definitions_ex_en": "she was advised to take any job offered",
+      "definitions_ex_vn": "Cô được khuyên nên đưa bất kỳ công việc nào được cung cấp",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "consume as food, drink, medicine, or drugs.",
+      "definitions_ex_en": "take an aspirin and lie down",
+      "definitions_ex_vn": "uống aspirin và nằm xuống",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make, undertake, or perform (an action or task).",
+      "definitions_ex_en": "Lucy took a deep breath",
+      "definitions_ex_vn": "Lucy hít một hơi thật sâu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "require or use up (a specified amount of time).",
+      "definitions_ex_en": "the jury took an hour and a half to find McPherson guilty",
+      "definitions_ex_vn": "Ban giám khảo mất một tiếng rưỡi để tìm McPherson có tội",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be attracted or charmed by.",
+      "definitions_ex_en": "Billie was very taken with him",
+      "definitions_ex_vn": "Billie đã được thực hiện với anh ta",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a plant or seed) take root or begin to grow; germinate.",
+      "definitions_ex_en": "the fuchsia cuttings had taken and were looking good",
+      "definitions_ex_vn": "Các cuttings Fuchsia đã thực hiện và đang tìm kiếm tốt",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "have or require as part of the appropriate construction.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a scene or sequence of sound or vision photographed or recorded continuously at one time.",
+      "definitions_ex_en": "he completed a particularly difficult scene in two takes",
+      "definitions_ex_vn": "anh ấy đã hoàn thành một cảnh đặc biệt khó khăn trong hai lần mất",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an amount of something gained or acquired from one source or in one session.",
+      "definitions_ex_en": "the take from commodity taxation",
+      "definitions_ex_vn": "mất từ thuế hàng hóa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an amount of copy set up at one time or by one compositor.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064355_9e902c276e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064355_a9429557b4_o.png",
+      "id_image": "take_4151825"
+    }
+  ]
+}

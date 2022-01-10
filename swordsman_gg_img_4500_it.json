@@ -1,0 +1,28 @@
+{
+  "english": "swordsman",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người đánh kiếm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người múa kiếm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a man who fights with a sword (typically with his level of skill specified).",
+      "definitions_ex_en": "an expert swordsman",
+      "definitions_ex_vn": "một kiếm sĩ chuyên gia",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068130_180cb1bcbb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068130_1459f9b2d3_o.png",
+      "id_image": "swordsman_2822374"
+    }
+  ]
+}

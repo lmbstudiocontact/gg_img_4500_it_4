@@ -1,0 +1,38 @@
+{
+  "english": "universal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tất cả",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "toàn thể",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thế giới",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of, affecting, or done by all people or things in the world or in a particular group; applicable to all cases.",
+      "definitions_ex_en": "universal adult suffrage",
+      "definitions_ex_vn": "Đảng quyền trưởng thành phổ biến",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a person or thing having universal effect, currency, or application.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397372_8d0b8d66c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397372_b8513fb250_o.png",
+      "id_image": "universal_2455909"
+    }
+  ]
+}

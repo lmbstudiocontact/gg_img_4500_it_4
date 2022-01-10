@@ -1,0 +1,44 @@
+{
+  "english": "wrestler",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đô vật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đánh vật",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who takes part in wrestling, especially for sport.",
+      "definitions_ex_en": "huge men built like professional wrestlers",
+      "definitions_ex_vn": "Những người đàn ông lớn được xây dựng như những đô vật chuyên nghiệp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who struggles with a difficulty or problem.",
+      "definitions_ex_en": "wrestlers with our nation's dilemmas and challenges",
+      "definitions_ex_vn": "Các đô vật với những tình huống khó xử và những thách thức của quốc gia chúng ta",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447718_810f2e462f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447718_fabfd303b2_o.png",
+      "id_image": "wrestler_5253497"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332636_eb2b31bb9c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332636_0e6cd014e7_o.png",
+      "id_image": "wrestler_5484384"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332741_44e794f487_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332741_b2048af2ab_o.png",
+      "id_image": "wrestler_773365"
+    }
+  ]
+}

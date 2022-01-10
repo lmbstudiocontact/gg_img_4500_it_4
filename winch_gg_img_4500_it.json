@@ -1,0 +1,45 @@
+{
+  "english": "winch",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tay quây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trục để kéo đồ nặng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a hauling or lifting device consisting of a rope, cable, or chain winding around a horizontal rotating drum, turned by a crank or by motor or other power source; a windlass.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the crank of a wheel or axle.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "hoist or haul with a winch.",
+      "definitions_ex_en": "an attempt to winch survivors of the wreck into a helicopter",
+      "definitions_ex_vn": "một nỗ lực để tời sống sót của xác tàu thành một chiếc trực thăng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684249_8561915f41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684249_a7f1fd10df_o.png",
+      "id_image": "winch_2564143"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444263_dec0106a1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444263_e741523197_o.png",
+      "id_image": "winch_422153"
+    }
+  ]
+}

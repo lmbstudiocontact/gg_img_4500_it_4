@@ -1,0 +1,48 @@
+{
+  "english": "slush",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nước bùn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tuyết hơi tan",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm bắn bùn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tô hồ lên tường",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "partially melted snow or ice.",
+      "definitions_ex_en": "the snow was turning into brown slush in the gutters",
+      "definitions_ex_vn": "Tuyết đang biến thành slush nâu trong máng xối",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "excessive sentiment.",
+      "definitions_ex_en": "the slush of Hollywood's romantic fifties films",
+      "definitions_ex_vn": "Slush của những bộ phim Lãng mạn lãng mạn của Hollywood",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make a squelching or splashing sound.",
+      "definitions_ex_en": "there was water slushing around in the galley",
+      "definitions_ex_vn": "Có nước trượt xung quanh trong galley",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686909_a81c074ac0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686909_b2bb6c77b9_o.png",
+      "id_image": "slush_4214570"
+    }
+  ]
+}

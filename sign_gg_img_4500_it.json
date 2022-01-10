@@ -1,0 +1,120 @@
+{
+  "english": "sign",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ám hiệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dấu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điềm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hiệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ký hiệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phù hiệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bảng hiệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh dấu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ký",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ký tên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm dấu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ra dấu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an object, quality, or event whose presence or occurrence indicates the probable presence or occurrence of something else.",
+      "definitions_ex_en": "flowers are often given as a sign of affection",
+      "definitions_ex_vn": "hoa thường được đưa ra như một dấu hiệu của tình cảm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a gesture or action used to convey information or instructions.",
+      "definitions_ex_en": "she gave him the thumbs-up sign",
+      "definitions_ex_vn": "Cô ấy đã cho anh ấy dấu hiệu ngón tay cái",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a notice that is publicly displayed giving information or instructions in a written or symbolic form.",
+      "definitions_ex_en": "I didn't see the stop sign",
+      "definitions_ex_vn": "Tôi đã không nhìn thấy dấu hiệu dừng lại",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "each of the twelve equal sections into which the zodiac is divided, named from the constellations formerly situated in each, and associated with successive periods of the year according to the position of the sun on the ecliptic.",
+      "definitions_ex_en": "a person born under the sign of Virgo",
+      "definitions_ex_vn": "Một người sinh ra dưới dấu hiệu của Xử Nữ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the positiveness or negativeness of a quantity.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "write one's name on (a letter, card, or similar item) to identify oneself as the writer or sender.",
+      "definitions_ex_en": "the card was signed by the whole class",
+      "definitions_ex_vn": "Thẻ đã được ký bởi cả lớp",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "use gestures to convey information or instructions.",
+      "definitions_ex_en": "she signed to her husband to leave the room",
+      "definitions_ex_vn": "Cô ấy đã ký hợp đồng với chồng rời khỏi phòng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "mark or consecrate with the sign of the cross.",
+      "definitions_ex_en": "he signed himself with the cross",
+      "definitions_ex_vn": "anh ấy đã tự ký với thập giá",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339826_f6460589b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339826_63eedd60a8_o.png",
+      "id_image": "sign_2358774"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384702_c8953cc896_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384702_dcbd4444d4_o.png",
+      "id_image": "sign_2431489"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454688_fe666e4ee3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454688_990d78e42d_o.png",
+      "id_image": "sign_2834536"
+    }
+  ]
+}

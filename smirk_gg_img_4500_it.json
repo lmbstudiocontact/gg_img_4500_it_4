@@ -1,0 +1,39 @@
+{
+  "english": "smirk",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nụ cười giả dối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mỉm cười giả dối",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "smile in an irritatingly smug, conceited, or silly way.",
+      "definitions_ex_en": "he smirked in triumph",
+      "definitions_ex_vn": "Anh nhếch mép cười trong chiến thắng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a smug, conceited, or silly smile.",
+      "definitions_ex_en": "Gloria pursed her mouth in a self-satisfied smirk",
+      "definitions_ex_vn": "Gloria mím miệng trong một nụ cười tự hài lòng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331221_6747aa7fef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331221_5d49d5321b_o.png",
+      "id_image": "smirk_4126490"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331206_9e07f69f33_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331206_50a5997e1b_o.png",
+      "id_image": "smirk_4177338"
+    }
+  ]
+}

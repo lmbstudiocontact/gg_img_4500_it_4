@@ -1,0 +1,51 @@
+{
+  "english": "worth",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có phẩm cách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đáng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giá trị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xứng đáng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "equivalent in value to the sum or item specified.",
+      "definitions_ex_en": "jewelry worth $450 was taken",
+      "definitions_ex_vn": "trang sức trị giá 450 đô la đã được thực hiện",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "the value equivalent to that of someone or something under consideration; the level at which someone or something deserves to be valued or rated.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378132_02bdb5a825_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378132_a98e3b5011_o.png",
+      "id_image": "worth_1605307"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688259_79e60b6b35_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688259_e8aa580fbc_o.png",
+      "id_image": "worth_4834034"
+    }
+  ]
+}

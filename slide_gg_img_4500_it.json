@@ -1,0 +1,102 @@
+{
+  "english": "slide",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bộ phận của máy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khe trợt trong máy móc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lở đất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sụp đất",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trợt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đi thoáng qua",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nói phớt qua",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trợt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trượt trên tuyết",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "move along a smooth surface while maintaining continuous contact with it.",
+      "definitions_ex_en": "she slid down the bank into the water",
+      "definitions_ex_vn": "Cô trượt xuống bờ vào nước",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a structure with a smooth sloping surface for children to slide down.",
+      "definitions_ex_en": "Anna played on the slide",
+      "definitions_ex_vn": "Anna chơi trên slide",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of moving along a smooth surface while maintaining continuous contact with it.",
+      "definitions_ex_en": "use an ice axe to halt a slide on ice and snow",
+      "definitions_ex_vn": "Sử dụng một rìu băng để dừng một slide trên băng và tuyết",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a decline in value or quality.",
+      "definitions_ex_en": "the current slide in house prices",
+      "definitions_ex_vn": "Slide hiện tại về giá nhà",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a part of a machine or musical instrument that slides.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a rectangular piece of glass on which an object is mounted or placed for examination under a microscope.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sandal or light shoe without a back.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070005_9e6b4a86fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070005_23e6695e0e_o.png",
+      "id_image": "slide_4001221"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688229_606249d848_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688229_cd30935726_o.png",
+      "id_image": "slide_950737"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448258_3a6f61d4a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448258_bbe672bd9c_o.png",
+      "id_image": "slide_950754"
+    }
+  ]
+}

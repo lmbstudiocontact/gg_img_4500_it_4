@@ -1,0 +1,28 @@
+{
+  "english": "theology",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khoa thần học",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thần học thuyết",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the study of the nature of God and religious belief.",
+      "definitions_ex_en": "a theology degree",
+      "definitions_ex_vn": "Bằng Thần học",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704879_ff904865cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704879_5bc24da473_o.png",
+      "id_image": "theology_2161353"
+    }
+  ]
+}

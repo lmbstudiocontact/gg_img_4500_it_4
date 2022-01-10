@@ -1,0 +1,39 @@
+{
+  "english": "skyline",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chân trời",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an outline of land and buildings defined against the sky.",
+      "definitions_ex_en": "the skyline of the city",
+      "definitions_ex_vn": "đường chân trời của thành phố",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334826_4c246cbea4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334826_c5faa2e41d_o.png",
+      "id_image": "skyline_1354447"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334866_7c62718d86_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334866_e9c5715588_o.png",
+      "id_image": "skyline_270072"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379832_d5f364676b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379832_76d2277565_o.png",
+      "id_image": "skyline_353361"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449873_74f738a0a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449873_206156c775_o.png",
+      "id_image": "skyline_4613401"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "english": "snowball",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bông của cây kim ngân hoa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cục tuyết được vò tròn lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tuyết vò tròn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a ball of packed snow, especially one made for throwing at other people for fun.",
+      "definitions_ex_en": "they pelted him with snowballs",
+      "definitions_ex_vn": "Họ vắt anh với những quả cầu tuyết",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a cocktail containing gin, anisette, and cream.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a dessert resembling a ball of snow, especially one containing or covered in ice cream.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "throw snowballs at.",
+      "definitions_ex_en": "I made sure the other kids stopped snowballing Celia",
+      "definitions_ex_vn": "Tôi chắc chắn rằng những đứa trẻ khác đã ngừng trượt tuyết Celia",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "increase rapidly in size, intensity, or importance.",
+      "definitions_ex_en": "the campaign was snowballing",
+      "definitions_ex_vn": "Chiến dịch là Snowballing",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683914_9948b6b211_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683914_1dd4551e89_o.png",
+      "id_image": "snowball_2291212"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683889_19b626d381_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683889_0a882cbf13_o.png",
+      "id_image": "snowball_2370507"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "english": "silo",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hầm dưới đất để chứa đồ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a tower or pit on a farm used to store grain.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an underground chamber in which a guided missile is kept ready for firing.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a system, process, department, etc. that operates in isolation from others.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "isolate (one system, process, department, etc.) from others.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453473_f88d2d0b24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453473_f7c6abdb91_o.png",
+      "id_image": "silo_3319405"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075500_01b92e56fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075500_d1019ac632_o.png",
+      "id_image": "silo_6135264"
+    }
+  ]
+}

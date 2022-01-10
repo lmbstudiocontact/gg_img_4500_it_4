@@ -1,0 +1,34 @@
+{
+  "english": "valor",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lòng can đảm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "great courage in the face of danger, especially in battle.",
+      "definitions_ex_en": "the medals are awarded for acts of valor",
+      "definitions_ex_vn": "Các huy chương được trao cho các hành vi valor",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394037_00e721e96d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394037_fee22511f1_o.png",
+      "id_image": "valor_188974"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394027_99d5a58880_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394027_1864bdb8c6_o.png",
+      "id_image": "valor_189009"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393987_83906a9526_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393987_0cc5d1e06d_o.png",
+      "id_image": "valor_2809756"
+    }
+  ]
+}

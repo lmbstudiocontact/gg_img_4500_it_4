@@ -1,0 +1,34 @@
+{
+  "english": "solar",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về mặt trời",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to or determined by the sun.",
+      "definitions_ex_en": "solar radiation",
+      "definitions_ex_vn": "bức xạ năng lượng mặt trời",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063710_449cef8aee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063710_3a6d1d5a10_o.png",
+      "id_image": "solar_438753"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326681_3c4ceded55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326681_5641d3bf42_o.png",
+      "id_image": "solar_4657812"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441753_270e4f20ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441753_31a3e37b5d_o.png",
+      "id_image": "solar_804562"
+    }
+  ]
+}

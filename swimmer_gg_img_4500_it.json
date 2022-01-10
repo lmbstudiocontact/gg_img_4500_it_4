@@ -1,0 +1,33 @@
+{
+  "english": "swimmer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái phao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người bơi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or animal that swims.",
+      "definitions_ex_en": "the fastest freestyle swimmer in the world",
+      "definitions_ex_vn": "người bơi tự do nhanh nhất trên thế giới",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069250_6f139d44e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069250_94c221319c_o.png",
+      "id_image": "swimmer_1228266"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332461_fd19f2a52d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332461_ae86893a33_o.png",
+      "id_image": "swimmer_3124505"
+    }
+  ]
+}

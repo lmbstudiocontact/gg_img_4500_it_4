@@ -1,0 +1,30 @@
+{
+  "english": "synchronous",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phát khởi đồng thới",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "existing or occurring at the same time.",
+      "definitions_ex_en": "glaciations were approximately synchronous in both hemispheres",
+      "definitions_ex_vn": "Bạch băng đã xấp xỉ đồng bộ ở cả hai bán cầu",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a satellite or its orbit) making or denoting an orbit around the earth or another celestial body in which one revolution is completed in the period taken for the body to rotate about its axis.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067075_969c9e8773_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067075_eb589c6863_o.png",
+      "id_image": "synchronous_495716"
+    }
+  ]
+}

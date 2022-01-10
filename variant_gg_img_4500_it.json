@@ -1,0 +1,32 @@
+{
+  "english": "variant",
+  "list_translation_mean": [
+    {
+      "translate_mean": "biến thể",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hay biến đổi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hay thay đổi",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a form or version of something that differs in some respect from other forms of the same thing or from a standard.",
+      "definitions_ex_en": "clinically distinct variants of malaria",
+      "definitions_ex_vn": "Các biến thể bệnh sốt rét khác biệt về lâm sàng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348316_e4b0baa37f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348316_39e247fb09_o.png",
+      "id_image": "variant_5264994"
+    }
+  ]
+}

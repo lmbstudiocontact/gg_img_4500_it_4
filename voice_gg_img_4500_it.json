@@ -1,0 +1,88 @@
+{
+  "english": "voice",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thanh âm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phiếu biểu quyết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng nói",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bày tỏ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the sound produced in a person's larynx and uttered through the mouth, as speech or song.",
+      "definitions_ex_en": "Meg raised her voice",
+      "definitions_ex_vn": "Meg giơ giọng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a particular opinion or attitude expressed.",
+      "definitions_ex_en": "a dissenting voice",
+      "definitions_ex_vn": "một giọng nói bất đồng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the range of pitch or type of tone with which a person sings, such as soprano or tenor.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "sound uttered with resonance of the vocal cords (used in the pronunciation of vowels and certain consonants).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a form or set of forms of a verb showing the relation of the subject to the action.",
+      "definitions_ex_en": "the passive voice",
+      "definitions_ex_vn": "bị động",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "express (something) in words.",
+      "definitions_ex_en": "get teachers to voice their opinions on important subjects",
+      "definitions_ex_vn": "Nhận giáo viên để nói lên ý kiến của họ về các môn học quan trọng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "utter (a speech sound) with resonance of the vocal cords (e.g. b, d, g, v, z ).",
+      "definitions_ex_en": "he is unable to voice the g sound",
+      "definitions_ex_vn": "anh ta không thể nói lên âm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "regulate the tone quality of (organ pipes or a piano).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386352_c8181769c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386352_6b1ab1e9b3_o.png",
+      "id_image": "voice_2080863"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386307_92c2bc3d57_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386307_afdc95f510_o.png",
+      "id_image": "voice_2597094"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456218_f29f16aa42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456218_7661412653_o.png",
+      "id_image": "voice_450461"
+    }
+  ]
+}

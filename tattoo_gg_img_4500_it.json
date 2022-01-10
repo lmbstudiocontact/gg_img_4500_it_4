@@ -1,0 +1,70 @@
+{
+  "english": "tattoo",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ngựa tơ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vẽ trên mình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xăm mình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng kèn kêu lính",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng trống kêu gọi lính",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh bằng tay",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xăm mình",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an evening drum or bugle signal recalling soldiers to their quarters.",
+      "definitions_ex_en": "a military tattoo takes place with clockwork precision",
+      "definitions_ex_vn": "Một hình xăm quân sự diễn ra với độ chính xác của đồng hồ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a design made by tattooing.",
+      "definitions_ex_en": "they were muscle-bound men covered in scars and tattoos",
+      "definitions_ex_vn": "chúng là những người đàn ông bị ràng buộc cơ bắp bao phủ trong sẹo và hình xăm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "mark (a person or a part of the body) with an indelible design by inserting pigment into punctures in the skin.",
+      "definitions_ex_en": "his cheek was tattooed with a winged fist",
+      "definitions_ex_vn": "Má anh ta được xăm bằng một nắm tay có cánh",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810091490_c9ab98c8f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810091490_a040bba661_o.png",
+      "id_image": "tattoo_1685860"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468873_a9d02ee22f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468873_7778d796bb_o.png",
+      "id_image": "tattoo_2142824"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468843_7bc0194888_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468843_6afe416187_o.png",
+      "id_image": "tattoo_4539425"
+    }
+  ]
+}

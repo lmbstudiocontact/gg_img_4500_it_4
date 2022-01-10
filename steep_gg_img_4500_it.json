@@ -1,0 +1,60 @@
+{
+  "english": "steep",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giốc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "giốc đứng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ngâm vào nước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhúng vào nước",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a slope, flight of stairs, angle, ascent, etc.) rising or falling sharply; nearly perpendicular.",
+      "definitions_ex_en": "she pushed the bike up the steep hill",
+      "definitions_ex_vn": "Cô đẩy chiếc xe đạp lên đồi dốc",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a price or demand) not reasonable; excessive.",
+      "definitions_ex_en": "a steep membership fee",
+      "definitions_ex_vn": "một khoản phí thành viên dốc đứng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a steep mountain slope.",
+      "definitions_ex_en": "hair-raising steeps",
+      "definitions_ex_vn": "Cốc nâng tóc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "soak (food or tea) in water or other liquid so as to extract its flavor or to soften it.",
+      "definitions_ex_en": "the chilies are steeped in olive oil",
+      "definitions_ex_vn": "ớt được ngâm trong dầu ô liu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "surround or fill with a quality or influence.",
+      "definitions_ex_en": "a city steeped in history",
+      "definitions_ex_vn": "Một thành phố dốc trong lịch sử",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084970_807e7c5f41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084970_1936b6ecaa_o.png",
+      "id_image": "steep_5265595"
+    }
+  ]
+}

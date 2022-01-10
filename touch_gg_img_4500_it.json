@@ -1,0 +1,138 @@
+{
+  "english": "touch",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cách đánh đờn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nét bút",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giao thiệp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự mó",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự rờ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tiếp xúc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thăm tử cung",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xúc giác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cảm kích",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chạm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quan hệ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sờ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "come into or be in contact with.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "handle in order to manipulate, alter, or otherwise affect, especially in an adverse way.",
+      "definitions_ex_en": "I didn't play her records or touch any of her stuff",
+      "definitions_ex_vn": "Tôi đã không chơi kỷ lục của cô ấy hoặc chạm vào bất kỳ thứ nào của cô ấy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "have an effect on; make a difference to.",
+      "definitions_ex_en": "a tenth of state companies have been touched by privatization",
+      "definitions_ex_vn": "một phần mười của các công ty nhà nước đã được cảm động bởi tư nhân hóa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "produce feelings of affection, gratitude, or sympathy in.",
+      "definitions_ex_en": "she was touched by her friend's loyalty",
+      "definitions_ex_vn": "Cô đã được chạm đến bởi lòng trung thành của bạn mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "reach (a specified level or amount).",
+      "definitions_ex_en": "sales touched twenty grand last year",
+      "definitions_ex_vn": "Doanh số chạm hai mươi năm ngoái",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of touching someone or something.",
+      "definitions_ex_en": "her touch on his shoulder was hesitant",
+      "definitions_ex_vn": "chạm vào vai cô ấy do dự",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small amount; a trace.",
+      "definitions_ex_en": "add a touch of vinegar",
+      "definitions_ex_vn": "Thêm một chút giấm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a distinctive manner or method of dealing with something.",
+      "definitions_ex_en": "later he showed a surer political touch",
+      "definitions_ex_vn": "sau đó anh ấy cho thấy một liên lạc chính trị",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of asking for and getting money or some other commodity from someone as a loan or gift.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a series of changes shorter than a peal.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing or an action that tries out the worth or character of something; a test.",
+      "definitions_ex_en": "you must put your fate to the touch",
+      "definitions_ex_vn": "Bạn phải đặt số phận của bạn vào cảm ứng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697894_c0478f6c70_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697894_d26b3f1152_o.png",
+      "id_image": "touch_2723077"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457488_4e2ef5889f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457488_e7cb92cd64_o.png",
+      "id_image": "touch_408428"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697854_9cb661a673_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697854_f6316dd024_o.png",
+      "id_image": "touch_5772919"
+    }
+  ]
+}

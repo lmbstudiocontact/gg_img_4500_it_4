@@ -1,0 +1,90 @@
+{
+  "english": "way",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường đi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lối đi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vận hành",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a method, style, or manner of doing something.",
+      "definitions_ex_en": "there are two ways of approaching this problem",
+      "definitions_ex_vn": "Có hai cách để tiếp cận vấn đề này",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a road, track, path, or street for traveling along.",
+      "definitions_ex_en": "No. 3, Church Way",
+      "definitions_ex_vn": "Số 3, cách nhà thờ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "parts into which something divides or is divided.",
+      "definitions_ex_en": "the national vote split three ways",
+      "definitions_ex_vn": "Cuộc bỏ phiếu quốc gia chia ba cách",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "forward or backward motion of a ship or boat through water.",
+      "definitions_ex_en": "the dinghy lost way and drifted toward the shore",
+      "definitions_ex_vn": "sự mất mát của xu hướng và trôi về phía bờ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sloping structure down which a new ship is launched.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "at or to a considerable distance or extent; far (used before an adverb or preposition for emphasis).",
+      "definitions_ex_en": "his understanding of what constitutes good writing is way off target",
+      "definitions_ex_vn": "sự hiểu biết của anh ấy về những gì cấu thành văn bản tốt là cách xa mục tiêu",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "equivalent to -ways.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "suffix"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450008_1108772823_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450008_2b3b727559_o.png",
+      "id_image": "way_5930364"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334871_0298479a55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334871_ed5779d08f_o.png",
+      "id_image": "way_5956734"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334926_011237b653_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334926_a15eda3dfc_o.png",
+      "id_image": "way_661923"
+    }
+  ]
+}

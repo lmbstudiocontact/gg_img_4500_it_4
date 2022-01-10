@@ -1,0 +1,87 @@
+{
+  "english": "warp",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dây dùng để kéo thuyền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đất bồi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trạng thái cong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm bại hoại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cong",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "become or cause to become bent or twisted out of shape, typically as a result of the effects of heat or dampness.",
+      "definitions_ex_en": "moisture had warped the box",
+      "definitions_ex_vn": "Độ ẩm đã bị vênh hộp",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "move (a ship) along by hauling on a rope attached to a stationary object on shore.",
+      "definitions_ex_en": "crew and passengers helped warp the vessels through the shallow section",
+      "definitions_ex_vn": "phi hành đoàn và hành khách đã giúp cong vênh các tàu qua phần nông",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(in weaving) arrange (yarn) so as to form the warp of a piece of cloth.",
+      "definitions_ex_en": "cotton string will be warped on the loom in the rug-weaving process",
+      "definitions_ex_vn": "Chuỗi bông sẽ bị cong vênh trên máy dệt trong quy trình dệt thảm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cover (land) with a deposit of alluvial soil by natural or artificial flooding.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a twist or distortion in the shape or form of something.",
+      "definitions_ex_en": "the head of the racket had a curious warp",
+      "definitions_ex_vn": "Người đứng đầu vợt có một sợi dọc tò mò",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in weaving) the threads on a loom over and under which other threads (the weft) are passed to make cloth.",
+      "definitions_ex_en": "the warp and weft are the basic constituents of all textiles",
+      "definitions_ex_vn": "The Warp và Weft là các thành phần cơ bản của tất cả hàng dệt may",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a rope attached at one end to a fixed point and used for moving or mooring a ship.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "alluvial sediment; silt.",
+      "definitions_ex_en": "the warp or muddy deposit dug from an old riverbed",
+      "definitions_ex_vn": "Các ký gửi Warp hoặc Muddy đào từ một lòng sông cũ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382142_0b47f6e368_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382142_c53e7e692e_o.png",
+      "id_image": "warp_1699460"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337081_be83e8dd3f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337081_0bf53fd5d8_o.png",
+      "id_image": "warp_2590546"
+    }
+  ]
+}

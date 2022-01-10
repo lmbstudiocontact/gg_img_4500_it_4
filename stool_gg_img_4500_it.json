@@ -1,0 +1,55 @@
+{
+  "english": "stool",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đi tiêu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ghế đẩu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gốc cây",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a seat without a back or arms, typically resting on three or four legs or on a single pedestal.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a piece of feces.",
+      "definitions_ex_en": "fiber in the child's diet will soften the stools",
+      "definitions_ex_vn": "Chất xơ trong chế độ ăn uống của trẻ sẽ làm mềm phân",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a root or stump of a tree or plant from which shoots spring.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a plant) throw up shoots from the root.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345326_5f2e251bce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345326_97a04947eb_o.png",
+      "id_image": "stool_123782"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700459_8d1bcf7ccd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700459_2f3dc1f834_o.png",
+      "id_image": "stool_1930598"
+    }
+  ]
+}

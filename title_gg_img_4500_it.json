@@ -1,0 +1,80 @@
+{
+  "english": "title",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chức tước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chứng thư",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tên một quyển sách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chương sách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đề tên sách",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the name of a book, composition, or other artistic work.",
+      "definitions_ex_en": "the author and title of the book",
+      "definitions_ex_vn": "Tác giả và tiêu đề của cuốn sách",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a name that describes someone's position or job.",
+      "definitions_ex_en": "Leese assumed the title of director general",
+      "definitions_ex_vn": "Leese đảm nhận danh hiệu Tổng giám đốc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the position of being the champion of a major sports competition.",
+      "definitions_ex_en": "Davis won the world title for the first time in 1981",
+      "definitions_ex_vn": "Davis giành được danh hiệu thế giới lần đầu tiên vào năm 1981",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a right or claim to the ownership of property or to a rank or throne.",
+      "definitions_ex_en": "a local family had title to the property",
+      "definitions_ex_vn": "Một gia đình địa phương có danh hiệu cho khách sạn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in church use) a fixed sphere of work and source of income as a condition for ordination.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "give a name to (a book, composition, or other work).",
+      "definitions_ex_en": "a song titled “You Rascal, You.”",
+      "definitions_ex_vn": "Một bài hát có tiêu đề \"Bạn Rascal, bạn.\"",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461158_6df982bd1f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461158_c301fedfb1_o.png",
+      "id_image": "title_2620548"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461088_aba7e65ac2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461088_15e0045046_o.png",
+      "id_image": "title_2620574"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461188_68eb653bc3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461188_e5448f8e98_o.png",
+      "id_image": "title_422137"
+    }
+  ]
+}

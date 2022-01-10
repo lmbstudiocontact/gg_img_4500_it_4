@@ -1,0 +1,48 @@
+{
+  "english": "volunteer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chí nguyện quân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quân tình nguyện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình nguyện",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who freely offers to take part in an enterprise or undertake a task.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "freely offer to do something.",
+      "definitions_ex_en": "he volunteered for the job",
+      "definitions_ex_vn": "anh ấy tình nguyện cho công việc",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695889_ecd1f38cb5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695889_2b7fb5e4c8_o.png",
+      "id_image": "volunteer_1312494"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077890_fe21900a8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077890_b04b75d229_o.png",
+      "id_image": "volunteer_4706857"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340486_5420287679_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340486_1db44f8955_o.png",
+      "id_image": "volunteer_6183121"
+    }
+  ]
+}

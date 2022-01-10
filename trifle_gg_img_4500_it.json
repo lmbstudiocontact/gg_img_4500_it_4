@@ -1,0 +1,56 @@
+{
+  "english": "trifle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chuyện không đáng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chuyện nhỏ mọn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "số tiền nhỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ vật không giá trị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chơi giởn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giởn cợt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thing of little value or importance.",
+      "definitions_ex_en": "we needn't trouble the headmaster over such trifles",
+      "definitions_ex_vn": "Chúng ta không cần phải gây rắc rối cho hiệu trưởng về những chuyện vặt vãnh như vậy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "treat (someone or something) without seriousness or respect.",
+      "definitions_ex_en": "he is not a man to be trifled with",
+      "definitions_ex_vn": "anh ấy không phải là một người đàn ông để được chifled với",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "talk or act frivolously.",
+      "definitions_ex_en": "we will not trifle—life is too short",
+      "definitions_ex_vn": "chúng ta sẽ không trifle cuộc sống quá ngắn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378317_ea530e79a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378317_c8d31b5aba_o.png",
+      "id_image": "trifle_3730755"
+    }
+  ]
+}

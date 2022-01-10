@@ -1,0 +1,47 @@
+{
+  "english": "specification",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự chỉ rỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ghi rỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tả từng chi tiết",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an act of describing or identifying something precisely or of stating a precise requirement.",
+      "definitions_ex_en": "give a full specification of the job advertised",
+      "definitions_ex_vn": "Đưa ra một đặc điểm kỹ thuật đầy đủ của công việc được quảng cáo",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679729_d51bfdc9fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679729_c8611452d5_o.png",
+      "id_image": "specification_2503768"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061455_6e18d1263a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061455_becfd82b57_o.png",
+      "id_image": "specification_4296573"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324541_47241de35b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324541_a4feddd5c6_o.png",
+      "id_image": "specification_4661995"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061425_a6aba966db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061425_5007a67edf_o.png",
+      "id_image": "specification_4727035"
+    }
+  ]
+}

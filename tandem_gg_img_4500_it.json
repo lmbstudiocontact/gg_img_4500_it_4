@@ -1,0 +1,41 @@
+{
+  "english": "tandem",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xe đạp hai chổ ngồi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a bicycle with seats and pedals for two riders, one behind the other.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "with two or more horses harnessed one behind another.",
+      "definitions_ex_en": "I rode tandem to Paris",
+      "definitions_ex_vn": "Tôi cưỡi song song với Paris",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "having two things arranged one in front of the other.",
+      "definitions_ex_en": "a tandem trailer",
+      "definitions_ex_vn": "Một trailer Tandem",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441993_95b135f646_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441993_bcac6d821d_o.png",
+      "id_image": "tandem_1473268"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371687_07bfafed02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371687_11db69afe1_o.png",
+      "id_image": "tandem_923795"
+    }
+  ]
+}

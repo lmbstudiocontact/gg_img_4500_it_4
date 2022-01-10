@@ -1,0 +1,59 @@
+{
+  "english": "transition",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự biến điệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự biến tính",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chuyển điệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đổi dạng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đổi kiểu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hoán chuyển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thuyên chuyển",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the process or a period of changing from one state or condition to another.",
+      "definitions_ex_en": "students in transition from one program to another",
+      "definitions_ex_vn": "Học sinh chuyển đổi từ chương trình này sang chương trình khác",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "undergo or cause to undergo a process or period of transition.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452598_32b44cfeb6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452598_742f89fb27_o.png",
+      "id_image": "transition_4282736"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692999_1bfb814fc2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692999_08f9691912_o.png",
+      "id_image": "transition_5184279"
+    }
+  ]
+}

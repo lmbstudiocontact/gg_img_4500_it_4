@@ -1,0 +1,52 @@
+{
+  "english": "swat",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đánh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh người nào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đập người nào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hành hung",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "hit or crush (something, especially an insect) with a sharp blow from a flat object.",
+      "definitions_ex_en": "I swatted a mosquito that had landed on my wrist",
+      "definitions_ex_vn": "Tôi đã vuốt một con muỗi đã hạ cánh trên cổ tay của tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a sharp slap or blow.",
+      "definitions_ex_en": "the dog gave the hedgehog a sideways swat",
+      "definitions_ex_vn": "Con chó đã cho con nhím một SWAT sang một bên",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071040_129cf6e8cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071040_dfed5a996f_o.png",
+      "id_image": "swat_1256822"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378917_ccfd8df6be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378917_737afc73e4_o.png",
+      "id_image": "swat_323969"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449028_3affcbc529_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449028_25f3a9594d_o.png",
+      "id_image": "swat_3856876"
+    }
+  ]
+}

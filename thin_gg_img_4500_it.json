@@ -1,0 +1,115 @@
+{
+  "english": "thin",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lưa thưa",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "gầy",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không dầy",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lỏng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không vững chắc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mõng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ốm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "làm cho mõng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm ốm bớt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "having opposite surfaces or sides close together; of little thickness or depth.",
+      "definitions_ex_en": "thin slices of bread",
+      "definitions_ex_vn": "lát bánh mì mỏng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a person) having little, or too little, flesh or fat on their body.",
+      "definitions_ex_en": "she was painfully thin",
+      "definitions_ex_vn": "cô ấy gầy gò",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "having few parts or members relative to the area covered or filled; sparse.",
+      "definitions_ex_en": "a depressingly thin crowd",
+      "definitions_ex_vn": "một đám đông mỏng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "containing much liquid and not much solid substance.",
+      "definitions_ex_en": "thin soup",
+      "definitions_ex_vn": "súp mỏng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "too weak to justify a result or effect; inadequate.",
+      "definitions_ex_en": "the evidence is rather thin",
+      "definitions_ex_vn": "Bằng chứng khá mỏng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "with little thickness or depth.",
+      "definitions_ex_en": "cut it as thin as possible",
+      "definitions_ex_vn": "Cắt nó càng mỏng càng tốt",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "make or become less dense, crowded, or numerous.",
+      "definitions_ex_en": "the remorseless fire of archers thinned their ranks",
+      "definitions_ex_vn": "ngọn lửa không hối hận của cung thủ thu hút thứ hạng của họ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make or become smaller in width or thickness.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "hit (a ball) above its center.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "denoting a specified degree of thinness.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "combining form"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704319_9233e7eee7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704319_04e005e46a_o.png",
+      "id_image": "thin_1466546"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704299_13781015da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704299_f3846d860c_o.png",
+      "id_image": "thin_4637252"
+    }
+  ]
+}

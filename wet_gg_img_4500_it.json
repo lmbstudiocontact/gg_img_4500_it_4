@@ -1,0 +1,76 @@
+{
+  "english": "wet",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mưa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trạng thái ẩm ướt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ẩm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thấm nước",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ướt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "làm ướt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thấm nước",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "covered or saturated with water or another liquid.",
+      "definitions_ex_en": "she followed, slipping on the wet rock",
+      "definitions_ex_vn": "Cô đi theo, trượt trên đá ướt",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a country or region or of its legislation) allowing the sale of alcoholic beverages.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "cover or touch with liquid; moisten.",
+      "definitions_ex_en": "he wet a finger and flicked through the pages",
+      "definitions_ex_vn": "Anh ta ướt một ngón tay và lúng túng qua các trang",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "liquid that makes something damp.",
+      "definitions_ex_en": "I could feel the wet of his tears",
+      "definitions_ex_vn": "Tôi có thể cảm thấy ẩm ướt của nước mắt",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686934_fedbcc84f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686934_8074cd7886_o.png",
+      "id_image": "wet_2885357"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068560_eb0992a918_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068560_bf560ec5c2_o.png",
+      "id_image": "wet_3217147"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331871_24f99c978f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331871_e184494e3a_o.png",
+      "id_image": "wet_3750767"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "english": "socket",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bệ cột buồm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đuôi của bóng đèn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lổ chân răng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lổ để vật gì vào",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a natural or artificial hollow into which something fits or in which something revolves.",
+      "definitions_ex_en": "the eye socket",
+      "definitions_ex_vn": "Ổ cắm mắt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an electrical device receiving a plug or light bulb to make a connection.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "place in or fit with a socket.",
+      "definitions_ex_en": "by then, arrowheads were normally socketed",
+      "definitions_ex_vn": "Đến lúc đó, đầu mũi tên thường được cắm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "old-fashioned term for shank.",
+      "definitions_ex_en": "a mashie that persists in socketing the ball",
+      "definitions_ex_vn": "một mashie vẫn tồn tại trong ổ cắm bóng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327391_b78250b778_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327391_15dc395e38_o.png",
+      "id_image": "socket_252598"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327336_6aed82dc1a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327336_8219272542_o.png",
+      "id_image": "socket_403151"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "english": "sprinkle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự rải lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự rưới nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhỏ từng giọt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rải lên",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "scatter or pour small drops or particles of a substance over (an object or surface).",
+      "definitions_ex_en": "I sprinkled the floor with water",
+      "definitions_ex_vn": "Tôi rắc sàn với nước",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a small quantity or amount of something scattered over an object or surface.",
+      "definitions_ex_en": "a generous sprinkle of pepper",
+      "definitions_ex_vn": "một rắc hạt tiêu hào phóng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466853_43ca04881e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466853_70bdf3d1c1_o.png",
+      "id_image": "sprinkle_1744341"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706874_4b2e9d0f1e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706874_69d3436427_o.png",
+      "id_image": "sprinkle_1886686"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466898_bdd4957684_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466898_11edc5be3a_o.png",
+      "id_image": "sprinkle_995890"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "english": "unlike",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khác",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khác biệt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khác nhau",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không giống nhau",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vật không giống nhau",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "different from; not similar to.",
+      "definitions_ex_en": "a large house not unlike Mr. Shaw's",
+      "definitions_ex_vn": "một ngôi nhà lớn không giống với ông Shaw",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "dissimilar or different from each other.",
+      "definitions_ex_en": "they seemed utterly unlike, despite being twins",
+      "definitions_ex_vn": "họ dường như hoàn toàn không giống như, mặc dù là cặp song sinh",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "be regarded with distaste or hostility; be unpopular.",
+      "definitions_ex_en": "the article suggests that his character was unliked by many",
+      "definitions_ex_vn": "Bài báo cho thấy rằng nhân vật của anh ta đã bị nhiều người",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(in the context of social media) withdraw one's approval of or support for (someone or something one has previously liked) by means of an icon or link.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352476_4bed4928e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352476_ec067afe21_o.png",
+      "id_image": "unlike_4470910"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352451_b52a0a7e34_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352451_186e799418_o.png",
+      "id_image": "unlike_4567672"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "english": "snuggle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "co mình lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ôm chặt vào lòng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rút mình lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "settle or move into a warm, comfortable position.",
+      "definitions_ex_en": "I snuggled down in my sleeping bag",
+      "definitions_ex_vn": "Tôi rúc xuống trong túi ngủ của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328141_9d47bf2cc6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328141_401641c781_o.png",
+      "id_image": "snuggle_2021241"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328161_7efd48ff51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328161_0192f638ae_o.png",
+      "id_image": "snuggle_661315"
+    }
+  ]
+}

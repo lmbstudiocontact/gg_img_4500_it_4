@@ -1,0 +1,30 @@
+{
+  "english": "slum",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xóm ẫm thấp",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a squalid and overcrowded urban street or district inhabited by very poor people.",
+      "definitions_ex_en": "inner-city slums",
+      "definitions_ex_vn": "khu ổ chuột nội thành",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "spend time at a lower social level than one's own through curiosity or for charitable purposes.",
+      "definitions_ex_en": "he bought some secondhand clothes, and slummed among the metropolis's underprivileged",
+      "definitions_ex_vn": "Anh ta đã mua một số quần áo cũ, và siết chặt trong số các đô thị kém",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446988_881568c27a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446988_e4b6ac5ae0_o.png",
+      "id_image": "slum_5256588"
+    }
+  ]
+}

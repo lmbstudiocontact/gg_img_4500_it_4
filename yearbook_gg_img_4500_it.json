@@ -1,0 +1,38 @@
+{
+  "english": "yearbook",
+  "list_translation_mean": [
+    {
+      "translate_mean": "niên giám",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sách in hàng năm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an annual publication giving current information and listing events or aspects of the previous year, especially in a particular field.",
+      "definitions_ex_en": "Yearbook of Physical Anthropology",
+      "definitions_ex_vn": "Niên giám nhân chủng học",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331056_c8a6d70b71_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331056_c24c4b8984_o.png",
+      "id_image": "yearbook_124774"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067775_4c095360b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067775_7f80343b3a_o.png",
+      "id_image": "yearbook_124775"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375612_8c6c8b6789_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375612_95075f2658_o.png",
+      "id_image": "yearbook_4650656"
+    }
+  ]
+}

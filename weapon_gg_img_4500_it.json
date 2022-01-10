@@ -1,0 +1,34 @@
+{
+  "english": "weapon",
+  "list_translation_mean": [
+    {
+      "translate_mean": "binh khí",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thing designed or used for inflicting bodily harm or physical damage.",
+      "definitions_ex_en": "nuclear weapons",
+      "definitions_ex_vn": "vũ khí hạt nhân",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449453_c960ceb9b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449453_c5b530044b_o.png",
+      "id_image": "weapon_1033008"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071365_b6f5e76a8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071365_b2085dbb12_o.png",
+      "id_image": "weapon_1033009"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689429_42d3719332_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689429_df34459fa1_o.png",
+      "id_image": "weapon_2670501"
+    }
+  ]
+}

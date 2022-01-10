@@ -1,0 +1,34 @@
+{
+  "english": "spooky",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hay hiện lên",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "sinister or ghostly in a way that causes fear and unease.",
+      "definitions_ex_en": "I bet this place is really spooky late at night",
+      "definitions_ex_vn": "Tôi cá là nơi này thực sự hư hỏng vào đêm khuya",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352956_a740815d49_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352956_723ed996f4_o.png",
+      "id_image": "spooky_359975"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810090355_ea2d55d801_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810090355_f58a6fc059_o.png",
+      "id_image": "spooky_360016"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467683_cb033589ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467683_7e6ba49218_o.png",
+      "id_image": "spooky_5509026"
+    }
+  ]
+}

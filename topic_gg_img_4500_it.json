@@ -1,0 +1,33 @@
+{
+  "english": "topic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chủ đề",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đề mục",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a matter dealt with in a text, discourse, or conversation; a subject.",
+      "definitions_ex_en": "sleep deprivation became a frequent topic of conversation",
+      "definitions_ex_vn": "thiếu ngủ trở thành một chủ đề thường xuyên của cuộc trò chuyện",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343451_6107505e8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343451_5b9f52f422_o.png",
+      "id_image": "topic_5455650"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343421_2cd9e5d598_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343421_d9364ca37b_o.png",
+      "id_image": "topic_5983898"
+    }
+  ]
+}

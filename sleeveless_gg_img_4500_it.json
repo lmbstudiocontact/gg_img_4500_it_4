@@ -1,0 +1,38 @@
+{
+  "english": "sleeveless",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không tay áo dài",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "áo không có tay",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a garment) having no sleeves.",
+      "definitions_ex_en": "a black sleeveless dress",
+      "definitions_ex_vn": "một chiếc váy không tay màu đen",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070500_3eafdb0c6f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070500_fd14cde8da_o.png",
+      "id_image": "sleeveless_1826469"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688694_ed65e66978_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688694_d7d4ee4c85_o.png",
+      "id_image": "sleeveless_293190"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448653_86f3694b63_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448653_e826306c3d_o.png",
+      "id_image": "sleeveless_2965267"
+    }
+  ]
+}

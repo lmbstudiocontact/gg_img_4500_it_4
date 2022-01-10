@@ -1,0 +1,45 @@
+{
+  "english": "summer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mùa hạ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mùa hè",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the warmest season of the year, in the northern hemisphere from June to August and in the southern hemisphere from December to February.",
+      "definitions_ex_en": "the plant flowers in late summer",
+      "definitions_ex_vn": "Hoa cây vào cuối mùa hè",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a horizontal bearing beam, especially one supporting joists or rafters.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "spend the summer in a particular place.",
+      "definitions_ex_en": "well over 100 birds summered there in 1976",
+      "definitions_ex_vn": "Hơn 100 con chim ở đó vào năm 1976",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693289_c942f72283_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693289_5eab85c003_o.png",
+      "id_image": "summer_4359944"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382992_d5053f670c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382992_7a0e66f968_o.png",
+      "id_image": "summer_4522556"
+    }
+  ]
+}

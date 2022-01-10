@@ -1,0 +1,45 @@
+{
+  "english": "unplug",
+  "list_translation_mean": [
+    {
+      "translate_mean": "rút nút",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rút nút miệng súng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "disconnect (an electrical device) by removing its plug from a socket.",
+      "definitions_ex_en": "she unplugged the fridge",
+      "definitions_ex_vn": "Cô rút phích cắm tủ lạnh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "remove an obstacle or blockage from.",
+      "definitions_ex_en": "a procedure to unplug blocked arteries",
+      "definitions_ex_vn": "một thủ tục để rút phích cắm động mạch bị chặn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "relax by disengaging from normal activities.",
+      "definitions_ex_en": "they've gone up to the cabin to unplug",
+      "definitions_ex_vn": "Họ đã đi lên cabin để rút phích cắm",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089470_795cced912_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089470_59f671c836_o.png",
+      "id_image": "unplug_4241115"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466718_4f8e446f02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466718_1c5a55f63d_o.png",
+      "id_image": "unplug_4309775"
+    }
+  ]
+}

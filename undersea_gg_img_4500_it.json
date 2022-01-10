@@ -1,0 +1,33 @@
+{
+  "english": "undersea",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ở dưới biển",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dưới lòng biển",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "below the sea or the surface of the sea.",
+      "definitions_ex_en": "undersea cables",
+      "definitions_ex_vn": "Cáp dưới đáy biển",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810091185_ee7d94e9ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810091185_60e3a9e266_o.png",
+      "id_image": "undersea_2055682"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809353751_840c1e02d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809353751_0cd29cb9b6_o.png",
+      "id_image": "undersea_2572011"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "english": "squad",
+  "list_translation_mean": [
+    {
+      "translate_mean": "một ê kíp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một toán lính",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "họp lại thành toán",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small group of people having a particular task.",
+      "definitions_ex_en": "an assassination squad",
+      "definitions_ex_vn": "một đội ám sát",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809351886_9ee975876f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809351886_2e5ee6a78e_o.png",
+      "id_image": "squad_1485088"
+    }
+  ]
+}

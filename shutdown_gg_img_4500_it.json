@@ -1,0 +1,29 @@
+{
+  "english": "shutdown",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự ngưng hoạt động",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a closure of a factory or system, typically a temporary closure due to a malfunction or for maintenance.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385952_5681223800_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385952_60f3f8c921_o.png",
+      "id_image": "shutdown_1112546"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385922_1bccb518aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385922_a8f76fb701_o.png",
+      "id_image": "shutdown_6311336"
+    }
+  ]
+}

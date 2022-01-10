@@ -1,0 +1,58 @@
+{
+  "english": "volley",
+  "list_translation_mean": [
+    {
+      "translate_mean": "loạt súng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trận mưa đá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắn một loạt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bắn một loạt tên",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a number of bullets, arrows, or other projectiles discharged at one time.",
+      "definitions_ex_en": "the infantry let off a couple of volleys",
+      "definitions_ex_vn": "Bộ binh buông một vài chiếc Volleys",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in sports, especially tennis or soccer) a strike or kick of the ball made before it touches the ground.",
+      "definitions_ex_en": "a forehand volley",
+      "definitions_ex_vn": "một cú vô lê",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in sports, especially tennis or soccer) strike or kick (the ball) before it touches the ground.",
+      "definitions_ex_en": "she volleyed the ball home",
+      "definitions_ex_vn": "Cô ấy tung bóng về nhà",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455858_5d968058ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455858_09604c0774_o.png",
+      "id_image": "volley_4696264"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696274_17a3f2ee9f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696274_6db08d63a6_o.png",
+      "id_image": "volley_4792260"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455883_0480fe8f4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455883_70ff464b88_o.png",
+      "id_image": "volley_907382"
+    }
+  ]
+}

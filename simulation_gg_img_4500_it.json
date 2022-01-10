@@ -1,0 +1,42 @@
+{
+  "english": "simulation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự giả bộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giả đò",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự làm bộ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "imitation of a situation or process.",
+      "definitions_ex_en": "simulation of blood flowing through arteries and veins",
+      "definitions_ex_vn": "mô phỏng máu chảy qua các động mạch và tĩnh mạch",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453253_25654a0ab0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453253_4980832307_o.png",
+      "id_image": "simulation_3410196"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075320_2dbd0a6170_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075320_f954cab6c7_o.png",
+      "id_image": "simulation_4795509"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453148_314283c546_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453148_ecafb6eddd_o.png",
+      "id_image": "simulation_4795547"
+    }
+  ]
+}

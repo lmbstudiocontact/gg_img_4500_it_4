@@ -1,0 +1,68 @@
+{
+  "english": "tow",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dây kéo thuyền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dây kéo xe hơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kéo tàu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kéo xe hơi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a motor vehicle or boat) pull (another vehicle or boat) along with a rope, chain, or tow bar.",
+      "definitions_ex_en": "a pickup van towing a trailer",
+      "definitions_ex_vn": "một chiếc xe bán tải kéo một trailer",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of towing a vehicle or boat.",
+      "definitions_ex_en": "the cruiser got a tow from a warship after its engine failed",
+      "definitions_ex_vn": "Tàu tuần dương đã bị kéo từ một tàu chiến sau khi động cơ của nó thất bại",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the coarse and broken part of flax or hemp prepared for spinning.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "tube-launched, optically tracked, wire-guided (missile).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697154_27171067df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697154_20a409328c_o.png",
+      "id_image": "tow_1367212"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341931_d9014f5362_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341931_3816a3c041_o.png",
+      "id_image": "tow_1850838"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387007_6aa0deb2f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387007_f8c71143b1_o.png",
+      "id_image": "tow_648716"
+    }
+  ]
+}

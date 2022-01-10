@@ -1,0 +1,54 @@
+{
+  "english": "venture",
+  "list_translation_mean": [
+    {
+      "translate_mean": "công cuộc buôn bán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "công cuộc làm ăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự may rủi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tùy nơi sự may rủi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "công việc mạo hiểm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mạo hiểm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tùy vào sự may rủi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a risky or daring journey or undertaking.",
+      "definitions_ex_en": "pioneering ventures into little-known waters",
+      "definitions_ex_vn": "mạo hiểm tiên phong vào vùng biển ít được biết đến",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "dare to do something or go somewhere that may be dangerous or unpleasant.",
+      "definitions_ex_en": "she ventured out into the blizzard",
+      "definitions_ex_vn": "Cô mạo hiểm vào Blizzard",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083925_554704ebab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083925_25ec0064af_o.png",
+      "id_image": "venture_2329919"
+    }
+  ]
+}

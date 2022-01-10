@@ -1,0 +1,58 @@
+{
+  "english": "world",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thế giới",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vạn vật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "việc đời",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vũ trụ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the earth, together with all of its countries, peoples, and natural features.",
+      "definitions_ex_en": "he was doing his bit to save the world",
+      "definitions_ex_vn": "Anh ấy đã làm một chút để cứu thế giới",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a region or group of countries.",
+      "definitions_ex_en": "the English-speaking world",
+      "definitions_ex_vn": "Thế giới nói tiếng Anh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "human and social interaction.",
+      "definitions_ex_en": "he has almost completely withdrawn from the world",
+      "definitions_ex_vn": "anh ấy đã hoàn toàn rút lui khỏi thế giới",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688719_8eae88ae42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688719_1a7ba9069d_o.png",
+      "id_image": "world_309256"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070530_6d2b5e201e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070530_d76abab39a_o.png",
+      "id_image": "world_366468"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378462_efcbd4eb10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378462_58f52d0f40_o.png",
+      "id_image": "world_439956"
+    }
+  ]
+}

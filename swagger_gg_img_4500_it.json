@@ -1,0 +1,53 @@
+{
+  "english": "swagger",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đi vênh vang",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nói khoác",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hợp thời trang",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lịch sự",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "walk or behave in a very confident and typically arrogant or aggressive way.",
+      "definitions_ex_en": "he swaggered along the corridor",
+      "definitions_ex_vn": "Ông lướt qua hành lang",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a very confident and typically arrogant or aggressive gait or manner.",
+      "definitions_ex_en": "they strolled around the camp with an exaggerated swagger",
+      "definitions_ex_vn": "Họ đi dạo quanh trại với một vênh vang phóng đại",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "denoting a coat or jacket cut with a loose flare from the shoulders.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449468_af5a501580_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449468_735c92b2da_o.png",
+      "id_image": "swagger_1343037"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071395_014cf9e32e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071395_623ffac748_o.png",
+      "id_image": "swagger_1343057"
+    }
+  ]
+}

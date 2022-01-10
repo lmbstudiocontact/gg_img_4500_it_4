@@ -1,0 +1,40 @@
+{
+  "english": "thyroid",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tuyến giáp trạng",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large ductless gland in the neck which secretes hormones regulating growth and development through the rate of metabolism.",
+      "definitions_ex_en": "thyroid function",
+      "definitions_ex_vn": "chức năng tuyến giáp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a large cartilage of the larynx, a projection of which forms the Adam's apple in humans.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348431_0b7c1e8a2f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348431_0d300d92ba_o.png",
+      "id_image": "thyroid_2252847"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703089_594fe50efa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703089_cfa4983869_o.png",
+      "id_image": "thyroid_4482439"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085645_bd0f861274_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085645_c4ba030aba_o.png",
+      "id_image": "thyroid_5278162"
+    }
+  ]
+}

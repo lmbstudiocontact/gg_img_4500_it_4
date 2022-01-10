@@ -1,0 +1,74 @@
+{
+  "english": "uniform",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cùng một kiểu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đồng dạng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đồng chủng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đồng hình",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không thay đổi",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "remaining the same in all cases and at all times; unchanging in form or character.",
+      "definitions_ex_en": "blocks of stone of uniform size",
+      "definitions_ex_vn": "Khối đá có kích thước đồng đều",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "denoting a garment forming part of a person's uniform.",
+      "definitions_ex_en": "black uniform jackets",
+      "definitions_ex_vn": "Áo khoác đồng phục màu đen",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "the distinctive clothing worn by members of the same organization or body or by children attending certain schools.",
+      "definitions_ex_en": "airline pilots in dark blue uniforms",
+      "definitions_ex_vn": "Phi công hàng không trong đồng phục màu xanh đậm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a code word representing the letter U, used in radio communication.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make uniform.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397967_6a4249bd9e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397967_d6a8733539_o.png",
+      "id_image": "uniform_1505372"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397937_572b65e515_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397937_6a916edb40_o.png",
+      "id_image": "uniform_1552316"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467743_dc8b353798_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467743_59b1b3a192_o.png",
+      "id_image": "uniform_2809752"
+    }
+  ]
+}

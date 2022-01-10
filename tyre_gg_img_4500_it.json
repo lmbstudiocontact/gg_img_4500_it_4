@@ -1,0 +1,72 @@
+{
+  "english": "tyre",
+  "list_translation_mean": [
+    {
+      "translate_mean": "vỏ xe hơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vành sắt bịt bánh xe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vỏ bánh xe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chán ngán",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm mệt mõi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm mệt nhọc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mệt mõi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trang điểm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đóng vành bánh xe",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vô vỏ bánh xe",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "feel or cause to feel in need of rest or sleep.",
+      "definitions_ex_en": "soon the ascent grew steeper and he began to tire",
+      "definitions_ex_vn": "Sớm mọc lên phát triển và anh ta bắt đầu mệt mỏi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "British spelling of tire2.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a rubber covering, typically inflated or surrounding an inflated inner tube, placed around a wheel to form a flexible contact with the road.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808399317_e28fd23162_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808399317_d63a69fb13_o.png",
+      "id_image": "tyre_4539903"
+    }
+  ]
+}

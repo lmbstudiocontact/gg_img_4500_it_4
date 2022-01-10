@@ -1,0 +1,65 @@
+{
+  "english": "where",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đâu",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "ở chổ nào",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "ở đâu",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "trong ấy",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "in or to what place or position.",
+      "definitions_ex_en": "where do you live?",
+      "definitions_ex_vn": "ban song o dau?",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "at, in, or to which (used after reference to a place or situation).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "the place or situation in which.",
+      "definitions_ex_en": "this is where I live",
+      "definitions_ex_vn": "đây là nơi tôi sống",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "that.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "conjunction"
+    },
+    {
+      "definitions_word_en": "whereas.",
+      "definitions_ex_en": "where some caregivers burn out, others become too involved",
+      "definitions_ex_vn": "nơi một số người chăm sóc bị đốt cháy, những người khác trở nên quá tham gia",
+      "definitions_type_word": "conjunction"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067890_9cac324e77_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067890_bebe9cd828_o.png",
+      "id_image": "where_5307387"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331111_59280e6b21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331111_8e246dba63_o.png",
+      "id_image": "where_5359676"
+    }
+  ]
+}

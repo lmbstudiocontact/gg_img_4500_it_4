@@ -1,0 +1,73 @@
+{
+  "english": "sweet",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thơm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dịu dàng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ngọt",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "having the pleasant taste characteristic of sugar or honey; not salty, sour, or bitter.",
+      "definitions_ex_en": "a cup of hot sweet tea",
+      "definitions_ex_vn": "một tách trà ngọt nóng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "pleasing in general; delightful.",
+      "definitions_ex_en": "it was the sweet life he had always craved",
+      "definitions_ex_vn": "Đó là cuộc sống ngọt ngào mà anh luôn khao khát",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a person or action) pleasant and kind or thoughtful.",
+      "definitions_ex_en": "a very sweet nurse came along",
+      "definitions_ex_vn": "Một y tá rất ngọt ngào đã đi cùng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "used for emphasis in various phrases and exclamations.",
+      "definitions_ex_en": "What had happened? Sweet nothing",
+      "definitions_ex_vn": "Chuyện gì đã xảy ra?",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "sweet foods, collectively.",
+      "definitions_ex_en": "Americans eat too many sweets",
+      "definitions_ex_vn": "Người Mỹ ăn quá nhiều đồ ngọt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "used as an affectionate form of address.",
+      "definitions_ex_en": "hello, my sweet",
+      "definitions_ex_vn": "chào cưng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the sweet part or element of something.",
+      "definitions_ex_en": "you have had the bitter, now comes the sweet",
+      "definitions_ex_vn": "Bạn đã có vị đắng, bây giờ đến ngọt ngào",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333026_d222f36848_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333026_199999bba6_o.png",
+      "id_image": "sweet_1065227"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687989_1565aa88e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687989_6637b7c1f4_o.png",
+      "id_image": "sweet_2570495"
+    }
+  ]
+}

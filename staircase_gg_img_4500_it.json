@@ -1,0 +1,42 @@
+{
+  "english": "staircase",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lồng cầu thang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thang lầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thang máy",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a set of stairs and its surrounding walls or structure.",
+      "definitions_ex_en": "he descended the broad staircase",
+      "definitions_ex_vn": "Anh ta ngẩng cầu thang rộng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395112_6070b13eb4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395112_8dfbc41641_o.png",
+      "id_image": "staircase_1171705"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350286_538db0e493_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350286_b7c8a9d38b_o.png",
+      "id_image": "staircase_5234246"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395067_d71aba186d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395067_b68b80ef6c_o.png",
+      "id_image": "staircase_5776617"
+    }
+  ]
+}

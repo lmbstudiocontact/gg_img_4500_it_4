@@ -1,0 +1,58 @@
+{
+  "english": "static",
+  "list_translation_mean": [
+    {
+      "translate_mean": "như có điện",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tỉnh điện",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "lacking in movement, action, or change, especially in a way viewed as undesirable or uninteresting.",
+      "definitions_ex_en": "demand has grown in what was a fairly static market",
+      "definitions_ex_vn": "nhu cầu đã phát triển trong một thị trường khá tĩnh",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "concerned with bodies at rest or forces in equilibrium.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of an electric charge) having gathered on or in an object that cannot conduct a current.",
+      "definitions_ex_en": "the film is vulnerable to the collection of static charges",
+      "definitions_ex_vn": "Bộ phim dễ bị tổn thương đối với việc thu phí tĩnh",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a memory or store) not needing to be periodically refreshed by an applied voltage.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "crackling or hissing noises on a telephone, radio, or other telecommunications system.",
+      "definitions_ex_en": "the phone was full of static that sounded distant",
+      "definitions_ex_vn": "Điện thoại đầy tĩnh phát ra âm thanh xa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "in adjectives corresponding to nouns ending in -stasis (such as hemostatic corresponding to hemostasis ).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "combining form"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703584_ca11a1115f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703584_b76c7db094_o.png",
+      "id_image": "static_3978994"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "english": "sorry",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hèn mọn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lấy làm buồn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lấy làm tiếc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xấu",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "feeling distress, especially through sympathy with someone else's misfortune.",
+      "definitions_ex_en": "I was sorry to hear about what happened to your family",
+      "definitions_ex_vn": "Tôi rất tiếc khi nghe về những gì đã xảy ra với gia đình của bạn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "feeling regret or penitence.",
+      "definitions_ex_en": "he said he was sorry he had upset me",
+      "definitions_ex_vn": "Anh ấy nói anh ấy xin lỗi, anh ấy đã làm tôi buồn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "in a poor or pitiful state or condition.",
+      "definitions_ex_en": "he looks a sorry sight with his broken jaw",
+      "definitions_ex_vn": "Anh ta nhìn một cảnh báo lỗi với hàm bị hỏng của mình",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370572_2cd6034e8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370572_aa6434cc21_o.png",
+      "id_image": "sorry_3159041"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325761_bb636f9c86_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325761_05bf96d68d_o.png",
+      "id_image": "sorry_4743043"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680829_3abb8bdaa9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680829_5c55ddd74e_o.png",
+      "id_image": "sorry_5906109"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325721_73709052c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325721_1971e8b3ec_o.png",
+      "id_image": "sorry_5906113"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "english": "whip",
+  "list_translation_mean": [
+    {
+      "translate_mean": "roi da",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái đánh bằng roi da",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đánh xe ngựa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh trứng gà cho dậy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "may vắt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quất ngựa bằng roi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a strip of leather or length of cord fastened to a handle, used for flogging or beating a person or for urging on an animal.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an official of a political party appointed to maintain discipline among its members in Congress or Parliament, especially so as to ensure attendance and voting in debates.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "beat (a person or animal) with a whip or similar instrument, especially as a punishment or to urge them on.",
+      "definitions_ex_en": "Lewis whipped the boy twenty times",
+      "definitions_ex_vn": "Lewis quất cậu bé hai mươi lần",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686044_c8f164c03b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686044_52d6b7a530_o.png",
+      "id_image": "whip_1809883"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445933_85686648c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445933_563e77de0a_o.png",
+      "id_image": "whip_1917170"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067825_5664d9b755_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067825_d9f00baf9a_o.png",
+      "id_image": "whip_257512"
+    }
+  ]
+}

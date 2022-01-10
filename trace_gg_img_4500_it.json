@@ -1,0 +1,109 @@
+{
+  "english": "trace",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chút ít",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dấu chân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "số ít",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vết chân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vết của đường thẳng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ lại bức vẻ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kẻ đường thẳng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tìm ra vết tích",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "find or discover by investigation.",
+      "definitions_ex_en": "police are trying to trace a white van seen in the area",
+      "definitions_ex_vn": "Cảnh sát đang cố gắng theo dõi một chiếc xe tải trắng nhìn thấy trong khu vực",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "copy (a drawing, map, or design) by drawing over its lines on a superimposed piece of transparent paper.",
+      "definitions_ex_en": "trace a map of the world onto a large piece of paper",
+      "definitions_ex_vn": "Theo dõi một bản đồ của thế giới lên một mảnh giấy lớn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a mark, object, or other indication of the existence or passing of something.",
+      "definitions_ex_en": "remove all traces of the old adhesive",
+      "definitions_ex_vn": "Loại bỏ tất cả các dấu vết của chất kết dính cũ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a very small quantity, especially one too small to be accurately measured.",
+      "definitions_ex_en": "his body contained traces of amphetamines",
+      "definitions_ex_vn": "cơ thể anh chứa dấu vết của amphetamines",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a procedure to investigate the source of something, such as the place from which a telephone call was made, or the origin of an error in a computer program.",
+      "definitions_ex_en": "we've got a trace on the call",
+      "definitions_ex_vn": "Chúng tôi đã có một dấu vết trong cuộc gọi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a line which represents the projection of a curve or surface on a plane or the intersection of a curve or surface with a plane.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the sum of the elements in the principle diagonal of a square matrix.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "each of the two side straps, chains, or ropes by which a horse is attached to a vehicle that it is pulling.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696534_c521019c82_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696534_6c0a1b17dd_o.png",
+      "id_image": "trace_1548341"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456068_5a7762ca9d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456068_6f5cb53b47_o.png",
+      "id_image": "trace_1772536"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341341_6a9025951f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341341_eaa9589493_o.png",
+      "id_image": "trace_583647"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078730_38b2414356_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078730_d2e0f1873e_o.png",
+      "id_image": "trace_593528"
+    }
+  ]
+}

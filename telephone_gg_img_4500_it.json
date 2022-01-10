@@ -1,0 +1,43 @@
+{
+  "english": "telephone",
+  "list_translation_mean": [
+    {
+      "translate_mean": "điện thoại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy điện thoại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nói điện thoại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a system for transmitting voices over a distance using wire or radio, by converting acoustic vibrations to electrical signals.",
+      "definitions_ex_en": "a telephone call",
+      "definitions_ex_vn": "một cuộc gọi điện thoại",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "contact (someone) using the telephone.",
+      "definitions_ex_en": "he telephoned his wife at 9.30",
+      "definitions_ex_vn": "Anh ta gọi điện cho vợ lúc 9h30",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467508_9770387265_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467508_98a6d06932_o.png",
+      "id_image": "telephone_309106"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810090165_0a44b18f16_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810090165_d820c18ac1_o.png",
+      "id_image": "telephone_387409"
+    }
+  ]
+}

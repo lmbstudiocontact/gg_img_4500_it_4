@@ -1,0 +1,61 @@
+{
+  "english": "spruce",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ăn mặc lịch sự",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cây bách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây tùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ăn mặc chải chuốt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ăn mặc lịch sự",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm dáng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a widespread coniferous tree which has a distinctive conical shape and hanging cones, widely grown for timber, pulp, and Christmas trees.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "neat in dress and appearance.",
+      "definitions_ex_en": "he looked as spruce as if he were getting married",
+      "definitions_ex_vn": "anh ấy trông như thể thao như thể anh ấy đã kết hôn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "make a person or place smarter or tidier.",
+      "definitions_ex_en": "the fund will be used to spruce up historic buildings",
+      "definitions_ex_vn": "Quỹ sẽ được sử dụng để làm nổi tiếng các tòa nhà lịch sử",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352151_cb9e62646f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352151_722ef7a1c0_o.png",
+      "id_image": "spruce_4292805"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466618_a765b31eda_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466618_d0c9b02dbf_o.png",
+      "id_image": "spruce_6236538"
+    }
+  ]
+}

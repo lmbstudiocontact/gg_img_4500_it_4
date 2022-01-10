@@ -1,0 +1,39 @@
+{
+  "english": "website",
+  "list_translation_mean": [
+    {
+      "translate_mean": "địa chỉ trang web",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a set of related web pages located under a single domain name, typically produced by a single person or organization.",
+      "definitions_ex_en": "for more information, please visit our website",
+      "definitions_ex_vn": "Để biết thêm thông tin, vui lòng truy cập trang web của chúng tôi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333281_67f9a0741c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333281_24bb1c0640_o.png",
+      "id_image": "website_1238670"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378267_57a8a08c1f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378267_d2ce2dd7be_o.png",
+      "id_image": "website_751372"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378217_84d4e5a63c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378217_c7dd96a7d9_o.png",
+      "id_image": "website_781647"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070185_a4c1e08b83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070185_e3e2c1efd7_o.png",
+      "id_image": "website_782664"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "english": "trim",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ăn mặc chỉnh tề",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dọn dẹp có thứ tự",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sắp đặt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sự cắt cho ngay ngắn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tỉa cho bằng phẳng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thứ tự",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thăng bằng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dọn dẹp có thứ tự",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "sắp đặt có thứ tự",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tỉa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tỉa bớt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make (something) neat or of the required size or form by cutting away irregular or unwanted parts.",
+      "definitions_ex_en": "trim the grass using a sharp mower",
+      "definitions_ex_vn": "Cắt cỏ bằng máy cắt mạnh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "decorate (something), typically with contrasting items or pieces of material.",
+      "definitions_ex_en": "a pair of black leather gloves trimmed with fake fur",
+      "definitions_ex_vn": "Một đôi găng tay da màu đen được cắt tỉa với lông giả",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "adjust (sails) to take best advantage of the wind.",
+      "definitions_ex_en": "her jobs include trimming the spinnaker and dealing with the yacht's plumbing",
+      "definitions_ex_vn": "Công việc của cô bao gồm cắt tỉa spinnaker và đối phó với hệ thống ống nước của du thuyền",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "get the better of (someone), typically by cheating them out of money.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "rebuke (someone) angrily.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "additional decoration, typically along the edges of something and in contrasting color or material.",
+      "definitions_ex_en": "we painted the buildings off-white with a blue trim",
+      "definitions_ex_vn": "Chúng tôi vẽ các tòa nhà có màu trắng với một trang trí màu xanh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of cutting off part of something in order to neaten it.",
+      "definitions_ex_en": "his hair needs a trim",
+      "definitions_ex_vn": "tóc anh cần một trang trí",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the state of being in good order or condition.",
+      "definitions_ex_en": "no one had been there for months—everything was out of trim",
+      "definitions_ex_vn": "không ai ở đó trong nhiều tháng, mọi thứ đều hết hạn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the degree to which an aircraft can be maintained at a constant altitude without any control forces being present.",
+      "definitions_ex_en": "the pilot's only problem was the need to constantly readjust the trim",
+      "definitions_ex_vn": "Vấn đề duy nhất của phi công là sự cần thiết phải liên tục điều chỉnh trang trí",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the difference between a vessel's forward and after drafts, especially as it affects its navigability.",
+      "definitions_ex_en": "ships' masters had to check trim and stability before departure",
+      "definitions_ex_vn": "Masters của tàu phải kiểm tra trang trí và ổn định trước khi khởi hành",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "neat and smart in appearance; in good order.",
+      "definitions_ex_en": "his face was freshly shaved, his clothes neat and trim",
+      "definitions_ex_vn": "Khuôn mặt của anh ta mới cạo râu, quần áo của anh gọn gàng và cắt tỉa",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070215_1ef2cf0f1e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070215_a56647d45d_o.png",
+      "id_image": "trim_217250"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070180_8472ecec9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070180_9b9ecd10cc_o.png",
+      "id_image": "trim_2780690"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333271_c419989daa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333271_2777706fc3_o.png",
+      "id_image": "trim_3996603"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "english": "tether",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dây buộc ngựa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "buộc ngựa vào cột",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cột ngựa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "tie (an animal) with a rope or chain so as to restrict its movement.",
+      "definitions_ex_en": "the horse had been tethered to a post",
+      "definitions_ex_vn": "Con ngựa đã được buộc vào một bài viết",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "use (a smartphone) in order to connect a computer or other device to the internet.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a rope or chain with which an animal is tied to restrict its movement.",
+      "definitions_ex_en": "regulations banning neck and girth tethers for sows",
+      "definitions_ex_vn": "Quy định cấm giới thiệu cổ và girth cho lợn nái",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809351156_71b92698e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809351156_7a66bc6d7b_o.png",
+      "id_image": "tether_4610964"
+    }
+  ]
+}

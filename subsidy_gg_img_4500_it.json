@@ -1,0 +1,30 @@
+{
+  "english": "subsidy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tiền trợ cấp",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a sum of money granted by the government or a public body to assist an industry or business so that the price of a commodity or service may remain low or competitive.",
+      "definitions_ex_en": "a farm subsidy",
+      "definitions_ex_vn": "một trợ cấp trang trại",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a parliamentary grant to the sovereign for state needs.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695064_d10567f2b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695064_f4c95d2fcf_o.png",
+      "id_image": "subsidy_5605905"
+    }
+  ]
+}

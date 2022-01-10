@@ -1,0 +1,52 @@
+{
+  "english": "wink",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự chớp mắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nháy mắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chớp mắt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nháy mắt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "close and open one eye quickly, typically to indicate that something is a joke or a secret or as a signal of affection or greeting.",
+      "definitions_ex_en": "he winked at Nicole as he passed",
+      "definitions_ex_vn": "Anh nháy mắt với Nicole khi anh đi qua",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of closing and opening one eye quickly, typically as a signal.",
+      "definitions_ex_en": "Barney gave him a knowing wink",
+      "definitions_ex_vn": "Barney đã cho anh ta một cái nháy mắt",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683894_189900388b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683894_e2dc15019f_o.png",
+      "id_image": "wink_1128926"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683869_a8609c9ff7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683869_9092be4094_o.png",
+      "id_image": "wink_1815157"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065565_837d73fc86_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065565_7982219eef_o.png",
+      "id_image": "wink_2366546"
+    }
+  ]
+}

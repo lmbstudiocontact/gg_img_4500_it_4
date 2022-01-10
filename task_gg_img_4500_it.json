@@ -1,0 +1,52 @@
+{
+  "english": "task",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bài làm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "công việc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần việc làm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chỉ định",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a piece of work to be done or undertaken.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "assign a piece of work to.",
+      "definitions_ex_en": "NATO troops are tasked with separating the warring parties",
+      "definitions_ex_vn": "Quân đội NATO được giao nhiệm vụ tách biệt các bên chiến tranh",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809469113_6600bcaeb8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809469113_912bd59299_o.png",
+      "id_image": "task_4481316"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809708929_1400a67b69_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809708929_ca5e14a048_o.png",
+      "id_image": "task_5541953"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809469138_67a92ea53f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809469138_ee16133d9a_o.png",
+      "id_image": "task_735181"
+    }
+  ]
+}

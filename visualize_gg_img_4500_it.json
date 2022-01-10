@@ -1,0 +1,38 @@
+{
+  "english": "visualize",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gợi lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm có thể thấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhắc lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "form a mental image of; imagine.",
+      "definitions_ex_en": "it is not easy to visualize the future",
+      "definitions_ex_vn": "Không dễ để hình dung tương lai",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make (something) visible to the eye.",
+      "definitions_ex_en": "the cells were better visualized by staining",
+      "definitions_ex_vn": "Các tế bào đã được hình dung tốt hơn bằng cách nhuộm màu",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697059_06d36f57f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697059_5f3fca58fd_o.png",
+      "id_image": "visualize_3062435"
+    }
+  ]
+}

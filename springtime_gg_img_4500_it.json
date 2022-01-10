@@ -1,0 +1,39 @@
+{
+  "english": "springtime",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mùa xuân",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the season of spring.",
+      "definitions_ex_en": "the sounds of lambing in springtime",
+      "definitions_ex_vn": "những âm thanh của cừu trong mùa xuân",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466913_c742dc88ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466913_fe323c3152_o.png",
+      "id_image": "springtime_4198972"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466998_36b3c84473_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466998_48167417ae_o.png",
+      "id_image": "spring_4359910"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089600_65f6dc988a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089600_8dc0cb755e_o.png",
+      "id_image": "spring_4433174"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466963_fc51580e58_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466963_81c89469b9_o.png",
+      "id_image": "spring_4433190"
+    }
+  ]
+}

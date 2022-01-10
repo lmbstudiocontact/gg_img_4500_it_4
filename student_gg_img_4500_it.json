@@ -1,0 +1,38 @@
+{
+  "english": "student",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sinh viên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "học sinh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who is studying at a school or college.",
+      "definitions_ex_en": "a student of sociology",
+      "definitions_ex_vn": "một sinh viên xã hội học",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078945_aee5105804_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078945_aa686d91aa_o.png",
+      "id_image": "student_195817"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078895_45b8e214e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078895_7e8756ae4e_o.png",
+      "id_image": "student_773388"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386507_1b2bb21530_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386507_3d018491ef_o.png",
+      "id_image": "student_949570"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "english": "speedster",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người lái xe hơi dở",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who drives or moves very fast.",
+      "definitions_ex_en": "the 26-year-old speedster has already equaled his own world record this season",
+      "definitions_ex_vn": "Speedster 26 tuổi đã cân bằng kỷ lục thế giới của riêng mình trong mùa này",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679464_99df3e5503_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679464_152b8003f0_o.png",
+      "id_image": "speedster_2453720"
+    }
+  ]
+}

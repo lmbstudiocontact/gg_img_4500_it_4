@@ -1,0 +1,32 @@
+{
+  "english": "vortex",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuộn nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cuốn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xoáy nước",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a mass of whirling fluid or air, especially a whirlpool or whirlwind.",
+      "definitions_ex_en": "we were caught in a vortex of water",
+      "definitions_ex_vn": "Chúng tôi bị bắt trong một cơn lốc nước",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385297_400eb28f42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385297_1e0be09f23_o.png",
+      "id_image": "vortex_3306656"
+    }
+  ]
+}

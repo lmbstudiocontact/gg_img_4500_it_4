@@ -1,0 +1,118 @@
+{
+  "english": "will",
+  "list_translation_mean": [
+    {
+      "translate_mean": "muốn",
+      "type_word": "auxiliary verb"
+    },
+    {
+      "translate_mean": "điều quyết định",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ý chí",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ý lực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ý muốn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chúc ngôn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "để lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "expressing the future tense.",
+      "definitions_ex_en": "you will regret it when you are older",
+      "definitions_ex_vn": "bạn sẽ hối tiếc khi bạn già hơn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "expressing inevitable events.",
+      "definitions_ex_en": "accidents will happen",
+      "definitions_ex_vn": "tai nạn sẽ xảy ra",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "expressing a request.",
+      "definitions_ex_en": "will you stop here, please",
+      "definitions_ex_vn": "bạn sẽ dừng lại ở đây chứ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "expressing facts about ability or capacity.",
+      "definitions_ex_en": "a rock so light that it will float on water",
+      "definitions_ex_vn": "một tảng đá để ánh sáng mà nó sẽ nổi trên mặt nước",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "expressing habitual behavior.",
+      "definitions_ex_en": "she will dance for hours",
+      "definitions_ex_vn": "Cô ấy sẽ nhảy hàng giờ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "expressing probability or expectation about something in the present.",
+      "definitions_ex_en": "they will be miles away by now",
+      "definitions_ex_vn": "bây giờ họ sẽ đi xa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make or try to make (someone) do something or (something) happen by the exercise of mental powers.",
+      "definitions_ex_en": "reluctantly he willed himself to turn and go back",
+      "definitions_ex_vn": "miễn cưỡng anh ta sẽ tự mình quay lại và quay trở lại",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "intend, desire, or wish (something) to happen.",
+      "definitions_ex_en": "their friendship flourished particularly because Adams willed it",
+      "definitions_ex_vn": "Tình bạn của họ phát triển đặc biệt bởi vì Adams sẽ sẵn sàng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "bequeath something to (someone) by the terms of one's will.",
+      "definitions_ex_en": "his father willed the farm to Mr. Timms",
+      "definitions_ex_vn": "Cha ông sẽ chúc trang trại với ông Timms",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "the faculty by which a person decides on and initiates action.",
+      "definitions_ex_en": "she has an iron will",
+      "definitions_ex_vn": "cô ấy có một sắt sẽ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a legal document containing instructions as to what should be done with one's money and property after one's death.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374047_3de77e7f2c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374047_5cacb2a04f_o.png",
+      "id_image": "will_2855599"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329386_8f232b8b9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329386_456663b525_o.png",
+      "id_image": "will_298702"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066150_9fff97c79e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066150_ff4ce7ffb4_o.png",
+      "id_image": "will_6001205"
+    }
+  ]
+}

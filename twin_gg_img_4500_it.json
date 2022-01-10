@@ -1,0 +1,56 @@
+{
+  "english": "twin",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sanh đôi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "con sanh đôi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "one of two children or animals born at the same birth.",
+      "definitions_ex_en": "experiments were carried out using sets of identical twins",
+      "definitions_ex_vn": "Các thí nghiệm được thực hiện bằng cách sử dụng các bộ sinh đôi giống hệt nhau",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "something containing or consisting of two matching or corresponding parts.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "forming, or being one of, a pair born at one birth.",
+      "definitions_ex_en": "she gave birth to twin boys",
+      "definitions_ex_vn": "Cô sinh con trai sinh đôi",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "link; combine.",
+      "definitions_ex_en": "the company twinned its core business of brewing with that of distilling",
+      "definitions_ex_vn": "Công ty đã sinh hoạt kinh doanh cốt lõi của nó về việc sản xuất máy chưng cất",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442768_a65a9b872e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442768_5d1250daab_o.png",
+      "id_image": "twin_2357113"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327776_b57293a079_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327776_37c1972fef_o.png",
+      "id_image": "twin_4842325"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682774_8528d73fcd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682774_1b31ecf25d_o.png",
+      "id_image": "twin_6254373"
+    }
+  ]
+}

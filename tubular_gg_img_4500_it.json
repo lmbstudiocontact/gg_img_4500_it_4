@@ -1,0 +1,55 @@
+{
+  "english": "tubular",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có hình ống",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có ống",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hình ống",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "long, round, and hollow like a tube.",
+      "definitions_ex_en": "tubular flowers of deep crimson",
+      "definitions_ex_vn": "Hoa hình ống màu đỏ thẫm",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "of or involving tubules or other tube-shaped structures.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "short for tubular tire.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "oil-drilling equipment made from tubes.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374677_2b3b1d68a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374677_a2e32e78a5_o.png",
+      "id_image": "tubular_3255947"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444953_7b3a033076_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444953_ef758e219b_o.png",
+      "id_image": "tubular_5616002"
+    }
+  ]
+}

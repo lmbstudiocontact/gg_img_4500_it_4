@@ -1,0 +1,60 @@
+{
+  "english": "veil",
+  "list_translation_mean": [
+    {
+      "translate_mean": "màn che phủ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "màng che mặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vải che phủ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "che bằng cái màng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a piece of fine material worn by women to protect or conceal the face.",
+      "definitions_ex_en": "a white bridal veil",
+      "definitions_ex_vn": "một tấm màn che trắng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing that serves to cover, conceal, or disguise.",
+      "definitions_ex_en": "a veil of mist and snow lay over the landscape",
+      "definitions_ex_vn": "một tấm màn sương và tuyết nằm trên cảnh quan",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a membrane which is attached to the immature fruiting body of some toadstools and ruptures in the course of development, either ( universal veil ) enclosing the whole fruiting body or ( partial veil ) joining the edges of the cap to the stalk.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cover with a veil.",
+      "definitions_ex_en": "she veiled her face",
+      "definitions_ex_vn": "Cô ấy che mặt",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cover, conceal, or disguise.",
+      "definitions_ex_en": "cold mists veiled the mountain peaks",
+      "definitions_ex_vn": "Mình lạnh che giấu những đỉnh núi",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084390_d2c99ef7b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084390_9300d61a21_o.png",
+      "id_image": "veil_5262991"
+    }
+  ]
+}

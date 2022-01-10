@@ -1,0 +1,34 @@
+{
+  "english": "vaccine",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về bò cái",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a substance used to stimulate the production of antibodies and provide immunity against one or several diseases, prepared from the causative agent of a disease, its products, or a synthetic substitute, treated to act as an antigen without inducing the disease.",
+      "definitions_ex_en": "there is no vaccine against the virus",
+      "definitions_ex_vn": "Không có vắc-xin chống lại virus",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349801_3b0c3f74ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349801_d97f7c3eb0_o.png",
+      "id_image": "vaccine_2746413"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464523_c1ef3cbf6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464523_492d9414bc_o.png",
+      "id_image": "vaccine_484713"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087095_44fde22988_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087095_b4b10e0143_o.png",
+      "id_image": "vaccine_549106"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "english": "vice",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái ê tô",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kềm vặn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tánh xấu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tật xấu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nết xấu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thói xấu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "siết chặc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "immoral or wicked behavior.",
+      "definitions_ex_en": "an open sewer of vice and crime",
+      "definitions_ex_vn": "Một cống thoát nước mở của phó và tội phạm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "British spelling of vise.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for vice president, vice admiral, etc.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "as a substitute for.",
+      "definitions_ex_en": "the letter was drafted by David Hunt, vice Bevin who was ill",
+      "definitions_ex_vn": "Bức thư được soạn thảo bởi David Hunt, phó Bevin bị bệnh",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "acting as deputy or substitute for; next in rank.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "combining form"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082590_7796b22aaa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082590_215f3e6892_o.png",
+      "id_image": "vice_1354772"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700244_0d566d6213_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700244_1d3c97a0c1_o.png",
+      "id_image": "vice_1504113"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390027_273254aa88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390027_f324f6583f_o.png",
+      "id_image": "vice_5527069"
+    }
+  ]
+}

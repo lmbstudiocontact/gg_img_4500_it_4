@@ -1,0 +1,111 @@
+{
+  "english": "spare",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dung tha",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bỏ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "dung thứ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "để dành",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tiết kiệm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đạm bạc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "gầy gò",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sẳn có",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thanh đạm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thay thế",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sơ sài",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "additional to what is required for ordinary use.",
+      "definitions_ex_en": "few people had spare cash for inessentials",
+      "definitions_ex_vn": "Rất ít người đã có tiền mặt cho các giải quyết",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "with no excess fat; thin.",
+      "definitions_ex_en": "a spare, bearded figure",
+      "definitions_ex_vn": "một con số phụ tùng, râu",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "elegantly simple.",
+      "definitions_ex_en": "her clothes are smart and spare in style",
+      "definitions_ex_vn": "Quần áo của cô ấy thông minh và phụ tùng theo phong cách",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "an item kept in case another item of the same type is lost, broken, or worn out.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in tenpin bowling) an act of knocking down all the pins with two consecutive rolls of the ball.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "give (something of which one has enough) to (someone); afford to give to.",
+      "definitions_ex_en": "she asked if I could spare her a dollar or two",
+      "definitions_ex_vn": "cô ấy hỏi nếu tôi có thể tha cho cô ấy một hoặc hai đô la",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "refrain from killing, injuring, or distressing.",
+      "definitions_ex_en": "there was no way the men would spare her",
+      "definitions_ex_vn": "Không có cách nào đàn ông sẽ tha cho cô ấy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be frugal.",
+      "definitions_ex_en": "but some will spend, and some will spare",
+      "definitions_ex_vn": "nhưng một số sẽ chi tiêu, và một số sẽ phụ tùng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439988_62f5f3d841_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439988_40c6c87460_o.png",
+      "id_image": "spare_3476407"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439978_83116f56ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439978_77fcf90287_o.png",
+      "id_image": "spare_5613201"
+    }
+  ]
+}

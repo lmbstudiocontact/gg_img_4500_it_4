@@ -1,0 +1,46 @@
+{
+  "english": "surrender",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự đầu hàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hủy bỏ khế ước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nhường cho người khác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đầu hàng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hủy bỏ khế ước",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "cease resistance to an enemy or opponent and submit to their authority.",
+      "definitions_ex_en": "over 140 rebels surrendered to the authorities",
+      "definitions_ex_vn": "Hơn 140 phiến quân đầu hàng với chính quyền",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "the action of surrendering.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690614_dd8af28d8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690614_6bb5905372_o.png",
+      "id_image": "surrender_3857603"
+    }
+  ]
+}

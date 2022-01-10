@@ -1,0 +1,86 @@
+{
+  "english": "sport",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuộc chơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc giải trí",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vui đùa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thể thao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuộc tiêu khiển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chơi đùa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đeo vật gì lèo lẹt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đùa giởn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an activity involving physical exertion and skill in which an individual or team competes against another or others for entertainment.",
+      "definitions_ex_en": "team sports such as baseball and soccer",
+      "definitions_ex_vn": "Đội thể thao như bóng chày và bóng đá",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who behaves in a good or specified way in response to teasing, defeat, or a similarly trying situation.",
+      "definitions_ex_en": "go on, be a sport!",
+      "definitions_ex_vn": "Tiếp tục, hãy là một môn thể thao!",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an animal or plant showing abnormal or striking variation from the parent type, especially in form or color, as a result of spontaneous mutation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "wear or display (a distinctive or noticeable item).",
+      "definitions_ex_en": "he was sporting a huge handlebar mustache",
+      "definitions_ex_vn": "anh ấy đã thể thao một bộ ria mép tay cầm khổng lồ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "amuse oneself or play in a lively, energetic way.",
+      "definitions_ex_en": "the children sported in the water",
+      "definitions_ex_vn": "Những đứa trẻ thể thao trong nước",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352771_7ee72b8469_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352771_21a15bf244_o.png",
+      "id_image": "sport_4669567"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397642_a2bb90dd3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397642_6755a5c008_o.png",
+      "id_image": "sport_5558314"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397617_026f8758b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397617_b0f7bb725c_o.png",
+      "id_image": "sport_6183790"
+    }
+  ]
+}

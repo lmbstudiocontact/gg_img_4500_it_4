@@ -1,0 +1,69 @@
+{
+  "english": "spoon",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái muổng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái thìa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "muỗng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ăn súp bằng muổng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "múc cháo bằng thìa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an implement consisting of a small, shallow oval or round bowl on a long handle, used for eating, stirring, and serving food.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing resembling a spoon in shape.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "convey (food) somewhere by using a spoon.",
+      "definitions_ex_en": "Rosie spooned sugar into her mug",
+      "definitions_ex_vn": "Rosie muỗng đường vào cốc của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of two people) behave in an amorous way; kiss and cuddle.",
+      "definitions_ex_en": "I saw them spooning on the beach",
+      "definitions_ex_vn": "Tôi thấy họ muỗng trên bãi biển",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "hit (a ball) up into the air with a soft or weak stroke.",
+      "definitions_ex_en": "he spooned his shot high over the bar",
+      "definitions_ex_vn": "Anh ấy bắn nhiều tay lên quầy bar",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467598_47c0d1a09d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467598_d0c2305058_o.png",
+      "id_image": "spoon_263740"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397702_75613bacd6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397702_51a656b9c4_o.png",
+      "id_image": "spoon_265400"
+    }
+  ]
+}

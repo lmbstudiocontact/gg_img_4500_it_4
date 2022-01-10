@@ -1,0 +1,38 @@
+{
+  "english": "victim",
+  "list_translation_mean": [
+    {
+      "translate_mean": "vật để cúng hiến cho thần",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật hy sinh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person harmed, injured, or killed as a result of a crime, accident, or other event or action.",
+      "definitions_ex_en": "victims of domestic violence",
+      "definitions_ex_vn": "Nạn nhân của bạo lực gia đình",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345036_385caec6f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345036_f6c648404d_o.png",
+      "id_image": "victim_2117465"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389982_3f09b0ddbf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389982_f6628e3942_o.png",
+      "id_image": "victim_2155410"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082475_f12663411a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082475_efcbc55887_o.png",
+      "id_image": "victim_5781221"
+    }
+  ]
+}

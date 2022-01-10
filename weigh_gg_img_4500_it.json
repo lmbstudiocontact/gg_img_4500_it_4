@@ -1,0 +1,51 @@
+{
+  "english": "weigh",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cân",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cân nhắc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đắn đo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đè nặng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "suy sét",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "find out how heavy (someone or something) is, typically using scales.",
+      "definitions_ex_en": "weigh yourself on the day you begin the diet",
+      "definitions_ex_vn": "Cân mình vào ngày bạn bắt đầu chế độ ăn kiêng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "assess the nature or importance of, especially with a view to a decision or action.",
+      "definitions_ex_en": "the consequences of the move would need to be very carefully weighed",
+      "definitions_ex_vn": "hậu quả của động thái sẽ cần phải được cân nặng rất cẩn thận",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448128_13325cdb02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448128_f4ec9b515a_o.png",
+      "id_image": "weigh_2302591"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448068_3e66974195_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448068_48fd1bf34b_o.png",
+      "id_image": "weigh_5571674"
+    }
+  ]
+}

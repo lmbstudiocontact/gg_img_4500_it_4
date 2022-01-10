@@ -1,0 +1,40 @@
+{
+  "english": "sock",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái đánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vớ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a garment for the foot and lower part of the leg, typically knitted from wool, cotton, or nylon.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a hard blow.",
+      "definitions_ex_en": "a sock on the jaw",
+      "definitions_ex_vn": "một cái tất trên hàm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "hit forcefully.",
+      "definitions_ex_en": "Jess socked his father across the face",
+      "definitions_ex_vn": "Jess vớ cha qua mặt",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064145_456939e76c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064145_f06b122073_o.png",
+      "id_image": "sock_412005"
+    }
+  ]
+}

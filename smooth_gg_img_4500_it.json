@@ -1,0 +1,101 @@
+{
+  "english": "smooth",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bằng phẳng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bình tỉnh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không có lá",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ngọt ngào",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhẳn nhụi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bình thản",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bóng láng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đất bằng phẳng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mặt bóng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mặt láng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "having an even and regular surface or consistency; free from perceptible projections, lumps, or indentations.",
+      "definitions_ex_en": "smooth flat rocks",
+      "definitions_ex_vn": "Đá phẳng mịn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of movement) without jerks.",
+      "definitions_ex_en": "the trucks gave a smooth ride",
+      "definitions_ex_vn": "Những chiếc xe tải đã cho một chuyến đi suôn sẻ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of an action, event, or process) without problems or difficulties.",
+      "definitions_ex_en": "the group's expansion into the U.S. market was not quite so smooth",
+      "definitions_ex_vn": "Việc mở rộng của nhóm vào thị trường Hoa Kỳ không quá mượt mà",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a person or their manner, actions, or words) suavely charming in a way considered to be unctuous.",
+      "definitions_ex_en": "his voice was infuriatingly smooth",
+      "definitions_ex_vn": "giọng nói của anh ấy rất mịn màng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of food or drink) without harshness or bitterness.",
+      "definitions_ex_en": "a lovely, smooth, very fruity wine",
+      "definitions_ex_vn": "Một loại rượu đáng yêu, mịn, rất trái cây",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "give (something) a flat, regular surface or appearance by running one's hand over it.",
+      "definitions_ex_en": "she smoothed out the newspaper",
+      "definitions_ex_vn": "Cô làm mịn tờ báo",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "in a way that is without difficulties.",
+      "definitions_ex_en": "the course of true love never did run smooth",
+      "definitions_ex_vn": "Quá trình của tình yêu đích thực không bao giờ chạy trơn tru",
+      "definitions_type_word": "adverb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067465_a2e5b9b2c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067465_c5d03fafc4_o.png",
+      "id_image": "smooth_1151200"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685689_8c9b34aa45_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685689_2ab61a3bb2_o.png",
+      "id_image": "smooth_2844499"
+    }
+  ]
+}

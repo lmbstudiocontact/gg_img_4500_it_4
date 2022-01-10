@@ -1,0 +1,60 @@
+{
+  "english": "vote",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự bỏ phiếu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bỏ thăm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đầu phiếu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bỏ phiếu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bỏ thăm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đầu phiếu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a formal indication of a choice between two or more candidates or courses of action, expressed typically through a ballot or a show of hands or by voice.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "give or register a vote.",
+      "definitions_ex_en": "they voted against the resolution",
+      "definitions_ex_vn": "Họ đã bỏ phiếu chống lại nghị quyết",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077575_bfdfdaa7f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077575_c8c394b667_o.png",
+      "id_image": "vote_1666098"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695589_71fa0c0aca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695589_8389f5847b_o.png",
+      "id_image": "vote_1666102"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077505_0432f7e376_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077505_d81d5eb770_o.png",
+      "id_image": "vote_2529798"
+    }
+  ]
+}

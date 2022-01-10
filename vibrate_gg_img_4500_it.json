@@ -1,0 +1,40 @@
+{
+  "english": "vibrate",
+  "list_translation_mean": [
+    {
+      "translate_mean": "rung",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rung rinh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm rung động",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm rung rinh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rung động",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "move or cause to move continuously and rapidly to and fro.",
+      "definitions_ex_en": "the cabin started to vibrate",
+      "definitions_ex_vn": "Cabin bắt đầu rung",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460033_aea479d0e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460033_b0d3f223c6_o.png",
+      "id_image": "vibrate_2313572"
+    }
+  ]
+}

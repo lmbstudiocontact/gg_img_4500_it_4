@@ -1,0 +1,44 @@
+{
+  "english": "tanker",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tàu có hầm để chở nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xe có bồn chở săng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a ship, road vehicle, or aircraft for carrying liquids, especially petroleum, in bulk.",
+      "definitions_ex_en": "the dockyards are used mainly for the repair of oil tankers",
+      "definitions_ex_vn": "Các nhà khai thác được sử dụng chủ yếu để sửa chữa tàu chở dầu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "transport (a liquid) in a tanker.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681909_3edc4fa051_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681909_ff1d3c9327_o.png",
+      "id_image": "tanker_1658029"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063730_0d2ef60e23_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063730_246d174b15_o.png",
+      "id_image": "tanker_3721954"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371507_eb6d635583_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371507_4cc8af365f_o.png",
+      "id_image": "tanker_6255376"
+    }
+  ]
+}

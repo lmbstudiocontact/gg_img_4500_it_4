@@ -1,0 +1,29 @@
+{
+  "english": "supper",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bữa ăn tối",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an evening meal, typically a light or informal one.",
+      "definitions_ex_en": "we had a delicious cold supper",
+      "definitions_ex_vn": "Chúng tôi đã có một bữa ăn tối lạnh",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382032_25428a38b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382032_bb311bae83_o.png",
+      "id_image": "supper_191963"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382017_8de39662cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382017_95b9930d28_o.png",
+      "id_image": "supper_343808"
+    }
+  ]
+}

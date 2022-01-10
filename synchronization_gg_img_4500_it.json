@@ -1,0 +1,39 @@
+{
+  "english": "synchronization",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phép đồng bộ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the operation or activity of two or more things at the same time or rate.",
+      "definitions_ex_en": "lack of synchronization between the dancers made it look clumsy",
+      "definitions_ex_vn": "Thiếu đồng bộ hóa giữa các vũ công làm cho nó trông vụng về",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685504_12b6c4c6d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685504_df341fe495_o.png",
+      "id_image": "synchronization_1248165"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330356_78e0ea56ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330356_1a70fa0bfd_o.png",
+      "id_image": "synchronization_1892490"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067215_8d2eb19bc1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067215_4bf9996606_o.png",
+      "id_image": "synchronization_4439582"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445448_851f6884fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445448_8ffbe66e32_o.png",
+      "id_image": "synchronization_586257"
+    }
+  ]
+}

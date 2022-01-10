@@ -1,0 +1,44 @@
+{
+  "english": "turpentine",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhựa thông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lấy dầu nhựa thông",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lấy nhựa thông",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a volatile pungent oil distilled from gum turpentine or pine wood, used in mixing paints and varnishes and in liniment.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "any of a number of trees which yield turpentine or a similar resin.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "apply turpentine to.",
+      "definitions_ex_en": "antique turpentining equipment",
+      "definitions_ex_vn": "Thiết bị cổ Turpentining",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064780_c84894f7ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064780_9b3963b3d7_o.png",
+      "id_image": "turpentine_2071402"
+    }
+  ]
+}

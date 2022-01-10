@@ -1,0 +1,60 @@
+{
+  "english": "tension",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái tăng đưa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điện thế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự áp lực không khí",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sức ép",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kéo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình trạng khẩn trương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trạng thái căng thẳng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the state of being stretched tight.",
+      "definitions_ex_en": "the parachute keeps the cable under tension as it drops",
+      "definitions_ex_vn": "dù lượn giữ cáp dưới sự căng thẳng khi nó rơi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "mental or emotional strain.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "apply a force to (something) which tends to stretch it.",
+      "definitions_ex_en": "it is best to insert the battens before the outhaul is tensioned",
+      "definitions_ex_vn": "Tốt nhất là chèn các battens trước khi Outhaul được căng thẳng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352246_25700391b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352246_d5c283f16a_o.png",
+      "id_image": "tension_6433905"
+    }
+  ]
+}

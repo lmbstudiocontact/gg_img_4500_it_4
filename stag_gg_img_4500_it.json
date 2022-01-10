@@ -1,0 +1,43 @@
+{
+  "english": "stag",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bò đực thiến khi lớn lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người dự buổi khiêu vũ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a male deer.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a social gathering attended by men only.",
+      "definitions_ex_en": "a stag event",
+      "definitions_ex_vn": "một sự kiện stag.",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395427_83bc4d2fe4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395427_6be735ec3c_o.png",
+      "id_image": "stag_1403873"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705164_4e02c2db20_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705164_372ed09110_o.png",
+      "id_image": "stag_4145041"
+    }
+  ]
+}

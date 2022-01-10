@@ -1,0 +1,59 @@
+{
+  "english": "theme",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chủ đề",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the subject of a talk, a piece of writing, a person's thoughts, or an exhibition; a topic.",
+      "definitions_ex_en": "the theme of the sermon was reverence",
+      "definitions_ex_vn": "Chủ đề của bài giảng là sự tôn kính",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an idea that recurs in or pervades a work of art or literature.",
+      "definitions_ex_en": "love and honor are the pivotal themes of the Hornblower books",
+      "definitions_ex_vn": "Tình yêu và danh dự là chủ đề pivotal của những cuốn sách sừng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a setting given to a leisure venue or activity, intended to evoke a particular country, historical period, culture, etc.",
+      "definitions_ex_en": "a family fun park with a western theme",
+      "definitions_ex_vn": "một công viên vui vẻ gia đình với một chủ đề phương Tây",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the stem of a noun or verb; the part to which inflections are added, especially one composed of the root and an added vowel.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "any of the twenty-nine provinces in the Byzantine empire.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "give a particular setting or ambience to (a venue or activity).",
+      "definitions_ex_en": "the amusement park will be themed as a Caribbean pirate stronghold",
+      "definitions_ex_vn": "Công viên giải trí sẽ được theo chủ đề như một thành trì cướp biển Caribbean",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350411_d57cb6b3cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350411_63027a45b4_o.png",
+      "id_image": "theme_1199134"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350381_095b0cdc37_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350381_b3690fb728_o.png",
+      "id_image": "theme_2236194"
+    }
+  ]
+}

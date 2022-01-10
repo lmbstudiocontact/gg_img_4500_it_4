@@ -1,0 +1,24 @@
+{
+  "english": "violinist",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người chơi vĩ cầm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who plays the violin.",
+      "definitions_ex_en": "the most renowned virtuoso violinist of his time",
+      "definitions_ex_vn": "nghệ sĩ violin virtuoso nổi tiếng nhất của thời gian của mình",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080460_85214d8521_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080460_6727b9532e_o.png",
+      "id_image": "violinist_4780244"
+    }
+  ]
+}

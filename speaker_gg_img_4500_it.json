@@ -1,0 +1,60 @@
+{
+  "english": "speaker",
+  "list_translation_mean": [
+    {
+      "translate_mean": "diển giả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "máy phát thanh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đối thoại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người diển thuyết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phát ngôn viên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "viện trưởng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xướng ngôn viên",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who speaks.",
+      "definitions_ex_en": "language communication involves the interrelation between speaker and hearer",
+      "definitions_ex_vn": "Truyền thông ngôn ngữ liên quan đến mối quan hệ giữa loa và người nghe",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the presiding officer in a legislative assembly, especially the House of Representatives.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for loudspeaker.",
+      "definitions_ex_en": "a cassette player with two speakers",
+      "definitions_ex_vn": "một cầu thủ băng cassette với hai loa",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679944_e1fb818295_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679944_8632aeeec4_o.png",
+      "id_image": "speaker_422509"
+    }
+  ]
+}

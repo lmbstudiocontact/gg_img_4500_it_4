@@ -1,0 +1,72 @@
+{
+  "english": "sketch",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bản phác họa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bức vẻ phác họa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bày ra kế hoạch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vở kịch ngắn khôi hài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phác họa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phác ra",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a rough or unfinished drawing or painting, often made to assist in making a more finished picture.",
+      "definitions_ex_en": "a charcoal sketch",
+      "definitions_ex_vn": "một phác thảo than",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a short humorous play or performance, consisting typically of one scene in a comedy program.",
+      "definitions_ex_en": "a hilarious sketch for their latest BBC series",
+      "definitions_ex_vn": "Một bản phác thảo vui nhộn cho loạt BBC mới nhất của họ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a comical or amusing person or thing.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "make a rough drawing of.",
+      "definitions_ex_en": "as they talked, Modigliani began to sketch her",
+      "definitions_ex_vn": "Khi họ nói chuyện, Modigliani bắt đầu phác thảo cô ấy",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380987_10d39e50dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380987_eab1fba3a7_o.png",
+      "id_image": "sketch_1589269"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450853_f5a7523356_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450853_ed259d3cba_o.png",
+      "id_image": "sketch_2722267"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335946_966cdd12e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335946_09ed762297_o.png",
+      "id_image": "sketch_448718"
+    }
+  ]
+}

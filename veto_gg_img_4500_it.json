@@ -1,0 +1,34 @@
+{
+  "english": "veto",
+  "list_translation_mean": [
+    {
+      "translate_mean": "quyền phủ nhận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phản đối",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a constitutional right to reject a decision or proposal made by a law-making body.",
+      "definitions_ex_en": "the legislature would have a veto over appointments to key posts",
+      "definitions_ex_vn": "Cơ quan lập pháp sẽ có một veto hơn các cuộc hẹn với các bài viết chính",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "exercise a veto against (a decision or proposal made by a law-making body).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700394_9442b1e3bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700394_2b8bdb71d1_o.png",
+      "id_image": "veto_2473207"
+    }
+  ]
+}

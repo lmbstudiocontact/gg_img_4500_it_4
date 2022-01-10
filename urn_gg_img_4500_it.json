@@ -1,0 +1,41 @@
+{
+  "english": "urn",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bình đựng di cốt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a tall, rounded vase with a base, and often a stem, especially one used for storing the ashes of a cremated person.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a large metal container with a tap, in which tea or coffee is made and kept hot, or water for making hot drinks is boiled.",
+      "definitions_ex_en": "a tea urn",
+      "definitions_ex_vn": "một trà urn.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "place (something) in an urn.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705504_91049be2f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705504_4e7147e567_o.png",
+      "id_image": "urn_5826157"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350956_c3e9965b16_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350956_e04e85672f_o.png",
+      "id_image": "urn_6001196"
+    }
+  ]
+}

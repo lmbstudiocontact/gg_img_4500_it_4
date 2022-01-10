@@ -1,0 +1,98 @@
+{
+  "english": "spit",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây sắt nướng thịt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mũi đất nhỏ chạy ra biển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mưa phùn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước miếng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự khạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đâm qua bằng gươm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lụi thịt bằng cây sắt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mưa phùn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhổ nước miếng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "eject saliva forcibly from one's mouth, sometimes as a gesture of contempt or anger.",
+      "definitions_ex_en": "Todd spit in Hugh's face",
+      "definitions_ex_vn": "Todd nhổ vào mặt Hugh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a fire or something being cooked) emit small bursts of sparks or hot fat with a series of short, explosive noises.",
+      "definitions_ex_en": "the bonfire crackled and spat",
+      "definitions_ex_vn": "Bonfire Crackled và Spat",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "put a spit through (meat) in order to roast it over an open fire.",
+      "definitions_ex_en": "I spitted the squirrel meat and turned it over the flames",
+      "definitions_ex_vn": "Tôi đã chia sẻ thịt sóc và lật nó lên ngọn lửa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "saliva, typically that which has been ejected from a person's mouth.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of spitting.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a long, thin metal rod pushed through meat in order to hold and turn it while it is roasted over an open fire.",
+      "definitions_ex_en": "chicken cooked on a spit",
+      "definitions_ex_vn": "Gà nấu trên một nhổ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a narrow point of land projecting into the sea.",
+      "definitions_ex_en": "a narrow spit of land shelters the bay",
+      "definitions_ex_vn": "một nhổ nước bọt hẹp của vịnh vịnh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a layer of earth whose depth is equal to the length of the blade of a spade.",
+      "definitions_ex_en": "break up the top spit with a fork",
+      "definitions_ex_vn": "Chia nhổ hàng đầu với một ngã ba",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468268_413d49041b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468268_ef7d0dd8b2_o.png",
+      "id_image": "spit_5772889"
+    }
+  ]
+}

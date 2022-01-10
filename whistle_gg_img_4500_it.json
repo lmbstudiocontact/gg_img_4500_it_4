@@ -1,0 +1,43 @@
+{
+  "english": "whistle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "còi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng hót",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng huýt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a clear, high-pitched sound made by forcing breath through a small hole between partly closed lips, or between one's teeth.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "emit a clear, high-pitched sound by forcing breath through a small hole between one's lips or teeth.",
+      "definitions_ex_en": "the audience cheered and whistled",
+      "definitions_ex_vn": "Khán giả cổ vũ và huýt sáo",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330386_445932b58f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330386_19d02f9174_o.png",
+      "id_image": "whistle_165054"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375067_2df2b2fccd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375067_9d3b189f60_o.png",
+      "id_image": "whistle_451691"
+    }
+  ]
+}

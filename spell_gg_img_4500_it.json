@@ -1,0 +1,90 @@
+{
+  "english": "spell",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phiên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời nói say mê",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sức làm say mê",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự quyến rũ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "có nghĩa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh vần",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thay phiên làm việc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh vần từng mẫu tự",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đọc chậm và khó khăn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "write or name the letters that form (a word) in correct sequence.",
+      "definitions_ex_en": "Dolly spelled her name",
+      "definitions_ex_vn": "Dolly đánh vần tên cô ấy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be a sign or characteristic of.",
+      "definitions_ex_en": "she had the chic, efficient look that spells Milan",
+      "definitions_ex_vn": "Cô ấy đã có sự sang trọng, vẻ ngoài hiệu quả mà phép thuật Milan",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a form of words used as a magical charm or incantation.",
+      "definitions_ex_en": "a spell is laid on the door to prevent entry",
+      "definitions_ex_vn": "Một câu thần chú được đặt trên cửa để ngăn chặn lối vào",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a short period.",
+      "definitions_ex_en": "I want to get away from racing for a spell",
+      "definitions_ex_vn": "Tôi muốn thoát khỏi việc đua xe cho một câu thần chú",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a splinter of wood.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679454_ea42376cd6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679454_94fdc1e90e_o.png",
+      "id_image": "spell_1617776"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679434_74a24ffa5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679434_5be927ec38_o.png",
+      "id_image": "spell_4209632"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679424_795ab9467c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679424_23c4b1c1ea_o.png",
+      "id_image": "spell_5345565"
+    }
+  ]
+}

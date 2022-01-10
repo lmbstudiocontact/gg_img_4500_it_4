@@ -1,0 +1,48 @@
+{
+  "english": "youth",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tuổi trẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tuổi xuân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thiếu niên",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the period between childhood and adult age.",
+      "definitions_ex_en": "he had been a keen sportsman in his youth",
+      "definitions_ex_vn": "anh ấy đã là một người chơi thể thao sâu sắc ở tuổi trẻ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a young man.",
+      "definitions_ex_en": "he was attacked by a gang of youths",
+      "definitions_ex_vn": "Anh ta bị tấn công bởi một nhóm thanh niên",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374982_34f9e968b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374982_5cdca0c5a0_o.png",
+      "id_image": "youth_1312511"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685364_bb53ea09f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685364_1121dc6823_o.png",
+      "id_image": "youth_3787893"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330266_aea7175f89_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330266_37831348b0_o.png",
+      "id_image": "youth_4901028"
+    }
+  ]
+}

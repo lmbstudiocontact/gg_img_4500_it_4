@@ -1,0 +1,109 @@
+{
+  "english": "suit",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bộ com lê",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bộ đồ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời thỉnh cầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời thỉnh nguyện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bộ quần áo lớn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời xin",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hợp với vật gì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "màu của lá bài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cầu hôn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "việc tố tụng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "việc tranh tụng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm cho thích hợp",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a set of outer clothes made of the same fabric and designed to be worn together, typically consisting of a jacket and trousers or a jacket and skirt.",
+      "definitions_ex_en": "a pinstriped suit",
+      "definitions_ex_vn": "một bộ đồ pinstriped.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "any of the sets distinguished by their pictorial symbols into which a deck of playing cards is divided, in conventional decks comprising spades, hearts, diamonds, and clubs.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for lawsuit.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the process of trying to win a woman's affection with a view to marriage.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a complete set of sails required for a ship or for a set of spars.",
+      "definitions_ex_en": "they went ashore and changed to another suit of sails",
+      "definitions_ex_vn": "họ đã lên bờ và đổi thành một bộ đồ khác của những cánh buồm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "be convenient for or acceptable to.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "go well with or enhance the features, figure, or character of (someone).",
+      "definitions_ex_en": "the dress didn't suit her",
+      "definitions_ex_vn": "Chiếc váy không phù hợp với cô ấy",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383397_ecbe801295_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383397_178bd26022_o.png",
+      "id_image": "suit_2600934"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453468_26c23ebb11_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453468_cb59cd7734_o.png",
+      "id_image": "suit_281385"
+    }
+  ]
+}

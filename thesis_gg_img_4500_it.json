@@ -1,0 +1,45 @@
+{
+  "english": "thesis",
+  "list_translation_mean": [
+    {
+      "translate_mean": "luận đề",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "luận văn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a statement or theory that is put forward as a premise to be maintained or proved.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a long essay or dissertation involving personal research, written by a candidate for a college degree.",
+      "definitions_ex_en": "a doctoral thesis",
+      "definitions_ex_vn": "một luận án tiến sĩ.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an unstressed syllable or part of a metrical foot in Greek or Latin verse.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704489_f49e25f0ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704489_29044f8627_o.png",
+      "id_image": "thesis_2015709"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464508_31ec1182dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464508_2d42ea8514_o.png",
+      "id_image": "thesis_4135828"
+    }
+  ]
+}

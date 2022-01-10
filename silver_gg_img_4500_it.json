@@ -1,0 +1,81 @@
+{
+  "english": "silver",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồng tiền bạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm bạc tóc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mạ bạc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tráng thủy vào gương",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a precious shiny grayish-white metal, the chemical element of atomic number 47.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a shiny gray-white color or appearance like that of silver.",
+      "definitions_ex_en": "the dark hair was now highlighted with silver",
+      "definitions_ex_vn": "Tóc đen bây giờ được tô sáng bằng bạc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "silver dishes, containers, or cutlery.",
+      "definitions_ex_en": "thieves stole $5,000 worth of silver",
+      "definitions_ex_vn": "Kẻ trộm đã đánh cắp bạc trị giá 5.000 đô la",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "coins made from silver or from a metal that resembles silver.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for silver medal.",
+      "definitions_ex_en": "she won three silvers",
+      "definitions_ex_vn": "Cô đã thắng ba người đánh bóng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "made of or colored like silver.",
+      "definitions_ex_en": "a silver necklace",
+      "definitions_ex_vn": "một vòng cổ bạc",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "coat or plate with silver.",
+      "definitions_ex_en": "he admitted silvering the coins",
+      "definitions_ex_vn": "Ông thừa nhận bạc xu",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338431_30c4d39b5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338431_f2894d9e04_o.png",
+      "id_image": "silver_1176235"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693594_9739ed1b28_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693594_49077472c1_o.png",
+      "id_image": "silver_4033743"
+    }
+  ]
+}

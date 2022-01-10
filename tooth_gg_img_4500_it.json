@@ -1,0 +1,59 @@
+{
+  "english": "tooth",
+  "list_translation_mean": [
+    {
+      "translate_mean": "răng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "răng của cưa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ăn khớp nhau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giủa cho có răng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "each of a set of hard, bony enamel-coated structures in the jaws of most vertebrates, used for biting and chewing.",
+      "definitions_ex_en": "he clenched his teeth",
+      "definitions_ex_vn": "Anh nghiến răng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a projecting part on a tool or other instrument, especially one of a series that function or engage together, such as a cog on a gearwheel or a point on a saw or comb.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an appetite or liking for a particular thing.",
+      "definitions_ex_en": "what a tooth for fruit a monkey has!",
+      "definitions_ex_vn": "Thật là một chiếc răng cho trái cây một con khỉ có!",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "roughness given to a surface to allow color or glue to adhere.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081290_35da31f56c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081290_38784fa970_o.png",
+      "id_image": "tooth_203140"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081275_088e7ce3e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081275_1e2f35e47f_o.png",
+      "id_image": "tooth_286559"
+    }
+  ]
+}

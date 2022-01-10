@@ -1,0 +1,45 @@
+{
+  "english": "taxi",
+  "list_translation_mean": [
+    {
+      "translate_mean": "taxi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xe tắc xi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "short for taxicab.",
+      "definitions_ex_en": "I'll take a taxi from the air terminal",
+      "definitions_ex_vn": "Tôi sẽ đi taxi từ bến cảng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of an aircraft) move slowly along the ground before takeoff or after landing.",
+      "definitions_ex_en": "the plane taxis up to a waiting limousine",
+      "definitions_ex_vn": "Taxi máy bay lên đến một chiếc limousine đang chờ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "take a taxi as a means of transport.",
+      "definitions_ex_en": "I would taxi home and sleep till eight",
+      "definitions_ex_vn": "Tôi sẽ taxi về nhà và ngủ cho đến tám",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809708484_30eff9ae47_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809708484_131b810180_o.png",
+      "id_image": "taxi_2358720"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468573_82eded2cd6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468573_c5f04266ee_o.png",
+      "id_image": "taxi_2385527"
+    }
+  ]
+}

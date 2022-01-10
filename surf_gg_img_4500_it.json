@@ -1,0 +1,50 @@
+{
+  "english": "surf",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bọt biển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lướt sóng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the mass or line of foam formed by waves breaking on a seashore or reef.",
+      "definitions_ex_en": "the roar of the surf",
+      "definitions_ex_vn": "tiếng gầm của lướt sóng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "stand or lie on a surfboard and ride on a wave towards the shore.",
+      "definitions_ex_en": "he's learning to surf",
+      "definitions_ex_vn": "Anh ấy học lướt sóng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "move from page to page or site to site on (the World Wide Web).",
+      "definitions_ex_en": "the device allows you to surf the net and send emails",
+      "definitions_ex_vn": "Thiết bị cho phép bạn lướt mạng và gửi email",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336071_682969dc5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336071_39a2b82a29_o.png",
+      "id_image": "surf_2362580"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381052_48b2cbd4ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381052_24ef541994_o.png",
+      "id_image": "surf_2808544"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073035_bf476439c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073035_4f507a1052_o.png",
+      "id_image": "surf_453349"
+    }
+  ]
+}

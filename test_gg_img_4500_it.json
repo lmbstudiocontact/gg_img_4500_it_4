@@ -1,0 +1,95 @@
+{
+  "english": "test",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuộc thi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự khảo thí",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thử",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thí nghiệm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thí nghiệm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thử",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a procedure intended to establish the quality, performance, or reliability of something, especially before it is taken into widespread use.",
+      "definitions_ex_en": "no sparking was visible during the tests",
+      "definitions_ex_vn": "Không có tia lửa có thể nhìn thấy trong các bài kiểm tra",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a movable hearth in a reverberating furnace, used for separating gold or silver from lead.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the shell or integument of some invertebrates and protozoans, especially the chalky shell of a foraminiferan or the tough outer layer of a tunicate.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "take measures to check the quality, performance, or reliability of (something), especially before putting it into widespread use or practice.",
+      "definitions_ex_en": "this range has not been tested on animals",
+      "definitions_ex_vn": "Phạm vi này đã không được thử nghiệm trên động vật",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "testator.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    },
+    {
+      "definitions_word_en": "testimony.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    },
+    {
+      "definitions_word_en": "Testament.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466168_9ddf057b2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466168_5bb34f6880_o.png",
+      "id_image": "test_2484611"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466143_997824c920_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466143_02163f5f68_o.png",
+      "id_image": "test_2490313"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396277_7b96ee2545_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396277_3a64fdf5db_o.png",
+      "id_image": "test_2725724"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705999_c043ff7af3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705999_95b53fa23e_o.png",
+      "id_image": "test_3335843"
+    }
+  ]
+}

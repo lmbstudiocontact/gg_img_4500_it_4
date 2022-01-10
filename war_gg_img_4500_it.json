@@ -1,0 +1,44 @@
+{
+  "english": "war",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chiến tranh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trận giặc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a state of armed conflict between different nations or states or different groups within a nation or state.",
+      "definitions_ex_en": "Japan declared war on Germany",
+      "definitions_ex_vn": "Nhật Bản tuyên chiến với Đức",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "engage in a war.",
+      "definitions_ex_en": "small states warred against each other",
+      "definitions_ex_vn": "tiểu bang nhỏ chiến đấu với nhau",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337846_7b1029f1f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337846_702cdd6d32_o.png",
+      "id_image": "war_286622"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337816_664833db3b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337816_5770dac201_o.png",
+      "id_image": "war_3061838"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074795_8e2b07da44_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074795_e738f8cf6a_o.png",
+      "id_image": "war_5138667"
+    }
+  ]
+}

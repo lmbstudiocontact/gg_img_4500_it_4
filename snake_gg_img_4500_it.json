@@ -1,0 +1,58 @@
+{
+  "english": "snake",
+  "list_translation_mean": [
+    {
+      "translate_mean": "rắn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a long limbless reptile which has no eyelids, a short tail, and jaws that are capable of considerable extension. Some snakes have a venomous bite.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a treacherous or deceitful person.",
+      "definitions_ex_en": "that man is a cold-blooded snake",
+      "definitions_ex_vn": "Người đàn ông đó là một con rắn máu lạnh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a former system of interconnected exchange rates for the currencies of EC countries.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a long flexible wire for clearing obstacles in piping.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "move or extend with the twisting motion of a snake.",
+      "definitions_ex_en": "a rope snaked down",
+      "definitions_ex_vn": "một sợi dây sập xuống",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685184_4773693d90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685184_14757709cc_o.png",
+      "id_image": "snake_194951"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374782_707300f3d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374782_7945850a56_o.png",
+      "id_image": "snake_464949"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445078_baed0bd4aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445078_ac5cf7a9bf_o.png",
+      "id_image": "snake_882892"
+    }
+  ]
+}

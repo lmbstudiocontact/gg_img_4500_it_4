@@ -1,0 +1,62 @@
+{
+  "english": "torpedo",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ngư lôi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điện ngư",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thủy lôi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm thất bại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phóng thủy lôi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a cigar-shaped self-propelled underwater missile designed to be fired from a ship or submarine or dropped into the water from an aircraft and to explode on reaching a target.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an electric ray.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "attack or sink (a ship) with a torpedo or torpedoes.",
+      "definitions_ex_en": "the liner was torpedoed and sunk by a German submarine",
+      "definitions_ex_vn": "lớp lót bị ngư lôi và chìm bởi một tàu ngầm Đức",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387917_5900a4dbf5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387917_be4f611e99_o.png",
+      "id_image": "torpedo_1461914"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387957_ea05d4b7a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387957_84b329aebf_o.png",
+      "id_image": "torpedo_238551"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342911_6d0bce4af9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342911_79191b5e7f_o.png",
+      "id_image": "torpedo_3191019"
+    }
+  ]
+}

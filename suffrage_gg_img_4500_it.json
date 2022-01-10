@@ -1,0 +1,33 @@
+{
+  "english": "suffrage",
+  "list_translation_mean": [
+    {
+      "translate_mean": "quyền bỏ phiếu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đầu phiếu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the right to vote in political elections.",
+      "definitions_ex_en": "universal adult suffrage",
+      "definitions_ex_vn": "Đảng quyền trưởng thành phổ biến",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338961_5a1c320b4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338961_66efa2dc8a_o.png",
+      "id_image": "suffrage_1425432"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453908_d37c85c288_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453908_882597218f_o.png",
+      "id_image": "suffrage_5234470"
+    }
+  ]
+}

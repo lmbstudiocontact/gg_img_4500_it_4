@@ -1,0 +1,58 @@
+{
+  "english": "tincture",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kiến thức sơ sài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "màu của da",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuốc rượu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ý thức thô sơ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tô màu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a medicine made by dissolving a drug in alcohol.",
+      "definitions_ex_en": "the remedies can be administered in the form of tinctures",
+      "definitions_ex_vn": "Các biện pháp khắc phục có thể được quản lý dưới dạng tinctures",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a slight trace of something.",
+      "definitions_ex_en": "she could not keep a tincture of bitterness out of her voice",
+      "definitions_ex_vn": "cô không thể giữ một cồn cay đắng ra khỏi giọng nói",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "any of the conventional colors (including the metals and stains, and often the furs) used in coats of arms.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "be tinged, flavored, or imbued with a slight amount of.",
+      "definitions_ex_en": "Arthur's affability was tinctured with faint sarcasm",
+      "definitions_ex_vn": "Độ bền bín của Arthur được ấn tượng với sự mỉa mai mờ nhạt",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084535_d0232b6691_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084535_f90c28480c_o.png",
+      "id_image": "tincture_3753272"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "english": "split",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chổ nứt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường nứt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lớp da thú nứt ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nữa chai nườc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kẻ hở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chia rẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khe hở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bửa củi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chẻ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm rách",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tố cáo người nào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xé ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chia tiền",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "break or cause to break forcibly into parts, especially into halves or along the grain.",
+      "definitions_ex_en": "the ice cracked and heaved and split",
+      "definitions_ex_vn": "Băng nứt và rụng và chia tay",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(with reference to a group of people) divide into two or more groups.",
+      "definitions_ex_en": "let's split up and find the other two",
+      "definitions_ex_vn": "Chúng ta hãy chia tay và tìm hai người kia",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of one's head) suffer great pain from a headache.",
+      "definitions_ex_en": "my head is splitting",
+      "definitions_ex_vn": "đầu của tôi đang chia tách",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "leave a place, especially suddenly.",
+      "definitions_ex_en": "“Let's split,” Harvey said",
+      "definitions_ex_vn": "\"Hãy chia tay,\" Harvey nói",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a tear, crack, or fissure in something, especially down the middle or along the grain.",
+      "definitions_ex_en": "light squeezed through a small split in the curtain",
+      "definitions_ex_vn": "Ánh sáng vắt qua một vết rách nhỏ trong rèm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in gymnastics and dance) an act of leaping in the air or sitting down with the legs straight and at right angles to the upright body, one in front and the other behind, or one at each side.",
+      "definitions_ex_en": "I could never do a split before",
+      "definitions_ex_vn": "Tôi không bao giờ có thể làm một sự chia rẽ trước đây",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing that is divided or split.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the time it takes to complete a recognized part of a race, or the point in the race where such a time is measured.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808398227_efa443f9c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808398227_d7d12b8f83_o.png",
+      "id_image": "split_3557652"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468018_df93172ef6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468018_3ac308356b_o.png",
+      "id_image": "split_6026427"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468063_7c5c7ee72c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468063_6873369fa5_o.png",
+      "id_image": "split_868666"
+    }
+  ]
+}

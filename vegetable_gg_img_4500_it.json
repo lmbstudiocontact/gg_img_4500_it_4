@@ -1,0 +1,58 @@
+{
+  "english": "vegetable",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về cây cối",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về thảo mộc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về thực vật",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cây cối",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a plant or part of a plant used as food, typically as accompaniment to meat or fish, such as a cabbage, potato, carrot, or bean.",
+      "definitions_ex_en": "fresh fruit and vegetables",
+      "definitions_ex_vn": "trái cây và rau tươi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person with a dull or inactive life.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "relating to plants or plant life, especially as distinct from animal life or mineral substances.",
+      "definitions_ex_en": "vegetable matter",
+      "definitions_ex_vn": "thực vật",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084910_b685376aa6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084910_a34db632d2_o.png",
+      "id_image": "vegetable_1198308"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347576_9394fe2363_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347576_e036cb6741_o.png",
+      "id_image": "vegetable_3527108"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462353_8bbe362d59_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462353_2756a92290_o.png",
+      "id_image": "vegetable_549126"
+    }
+  ]
+}

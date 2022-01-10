@@ -1,0 +1,44 @@
+{
+  "english": "teaser",
+  "list_translation_mean": [
+    {
+      "translate_mean": "câu hỏi khó khăn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người hay trêu chọc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vấn đề rắc rối",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who makes fun of or provokes others in a playful or unkind way.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a short introductory advertisement for a product, especially one that does not mention the name of the thing being advertised.",
+      "definitions_ex_en": "promotional teasers in every commercial break",
+      "definitions_ex_vn": "Teaser quảng cáo trong mỗi lần nghỉ thương mại",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a difficult or tricky question or task.",
+      "definitions_ex_en": "the teams get the chance to pose the opposition some teasers",
+      "definitions_ex_vn": "Các đội có cơ hội đặt ra sự phản đối một số lời trêu ghẹo",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809707999_8289c0d099_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809707999_465cbe7c21_o.png",
+      "id_image": "teasing_3508718"
+    }
+  ]
+}

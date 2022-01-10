@@ -1,0 +1,52 @@
+{
+  "english": "zoom",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ống dòm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "move or travel very quickly.",
+      "definitions_ex_en": "he jumped into his car and zoomed off",
+      "definitions_ex_vn": "Anh nhảy vào xe và phóng to",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a camera or user) change smoothly from a long shot to a close-up or vice versa.",
+      "definitions_ex_en": "the camera zoomed in for a close-up of his face",
+      "definitions_ex_vn": "Máy ảnh phóng to để cận cảnh khuôn mặt của anh ấy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a camera shot that changes smoothly from a long shot to a close-up or vice versa.",
+      "definitions_ex_en": "the zoom button",
+      "definitions_ex_vn": "nút thu phóng.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "used to express sudden fast movement.",
+      "definitions_ex_en": "then suddenly, zoom!, he's off",
+      "definitions_ex_vn": "sau đó đột nhiên, phóng to !, Anh ấy tắt",
+      "definitions_type_word": "exclamation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444893_a02bfda0cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444893_4713eff869_o.png",
+      "id_image": "zoom_1512794"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066580_857b84afb1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066580_f3d3bfd1c4_o.png",
+      "id_image": "zoom_4151796"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374477_9ca2f00f0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374477_76132f2bde_o.png",
+      "id_image": "zoom_4463647"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "english": "wonderland",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tiên giới",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a land or place full of wonderful things.",
+      "definitions_ex_en": "London was a wonderland of historical sites, museums, theaters, shops, and entertainment",
+      "definitions_ex_vn": "London là một xứ sở thần tiên của các di tích lịch sử, bảo tàng, nhà hát, cửa hàng và giải trí",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380022_17f91d4b84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380022_40cd2c84f0_o.png",
+      "id_image": "wonderland_980767"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "english": "sick",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đau",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bệnh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bịnh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mệt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xông vào",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "affected by physical or mental illness.",
+      "definitions_ex_en": "nursing very sick children",
+      "definitions_ex_vn": "Điều dưỡng trẻ em rất ốm",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "feeling nauseous and wanting to vomit.",
+      "definitions_ex_en": "he was starting to feel sick",
+      "definitions_ex_vn": "anh ấy đã bắt đầu cảm thấy bị bệnh",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "intensely annoyed with or bored by (someone or something) as a result of having had too much of them.",
+      "definitions_ex_en": "I'm absolutely sick of your moods",
+      "definitions_ex_vn": "Tôi hoàn toàn phát ốm vì tâm trạng của bạn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(especially of humor) having something unpleasant such as death, illness, or misfortune as its subject and dealing with it in an offensive way.",
+      "definitions_ex_en": "this was someone's idea of a sick joke",
+      "definitions_ex_vn": "Đây là ý tưởng của ai đó về một trò đùa bệnh hoạn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "excellent.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "variant of sic2.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385537_68417affa3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385537_414f287772_o.png",
+      "id_image": "sick_1128913"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340546_b17a85e234_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340546_627bc9cbff_o.png",
+      "id_image": "sick_2707348"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340601_7ef4e4b06d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340601_d0dd6bfa84_o.png",
+      "id_image": "sick_501135"
+    }
+  ]
+}

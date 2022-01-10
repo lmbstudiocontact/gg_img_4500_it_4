@@ -1,0 +1,58 @@
+{
+  "english": "solution",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cách giải quyết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước dung dịch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tan",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuốc nước",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a means of solving a problem or dealing with a difficult situation.",
+      "definitions_ex_en": "there are no easy solutions to financial and marital problems",
+      "definitions_ex_vn": "Không có giải pháp dễ dàng cho các vấn đề tài chính và hôn nhân",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a liquid mixture in which the minor component (the solute) is uniformly distributed within the major component (the solvent).",
+      "definitions_ex_en": "a solution of ammonia in water",
+      "definitions_ex_vn": "một dung dịch amoniac trong nước",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action of separating or breaking down; dissolution.",
+      "definitions_ex_en": "the solution of British supremacy in South Africa",
+      "definitions_ex_vn": "Giải pháp tối cao Anh ở Nam Phi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441058_e0f4a0ab5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441058_c1b46d0b63_o.png",
+      "id_image": "solution_421680"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062860_1f84697efe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062860_6b069d6eba_o.png",
+      "id_image": "solution_4833903"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326101_c6feda482f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326101_68bb6e94d1_o.png",
+      "id_image": "solution_536921"
+    }
+  ]
+}

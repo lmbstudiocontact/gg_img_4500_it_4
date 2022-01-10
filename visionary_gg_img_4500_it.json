@@ -1,0 +1,40 @@
+{
+  "english": "visionary",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hay mộng tưởng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hay mơ mộng",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(especially of a person) thinking about or planning the future with imagination or wisdom.",
+      "definitions_ex_en": "a visionary leader",
+      "definitions_ex_vn": "một nhà lãnh đạo tầm nhìn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to or able to see visions in a dream or trance, or as a supernatural apparition.",
+      "definitions_ex_en": "a visionary experience",
+      "definitions_ex_vn": "một kinh nghiệm tầm nhìn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a person with original ideas about what the future will or could be like.",
+      "definitions_ex_en": "he is a visionary keen on policy-making",
+      "definitions_ex_vn": "Anh ấy là một người quan tâm về chính sách",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387307_3473be6191_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387307_0feb191db8_o.png",
+      "id_image": "visionary_6299914"
+    }
+  ]
+}

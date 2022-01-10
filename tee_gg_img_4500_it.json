@@ -1,0 +1,70 @@
+{
+  "english": "tee",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đích để nhắm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chữ t",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật giống hình chữ t",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh gôn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the letter T, or a shape like that of a capital T.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a T-shirt.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a cleared space on a golf course, from which the ball is struck at the beginning of play for each hole.",
+      "definitions_ex_en": "he smashes the ball off the 15th tee",
+      "definitions_ex_vn": "Anh ta đập bóng ra khỏi Tee thứ 15",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a mark aimed at in lawn bowling, quoits, curling, and other similar games.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "place the ball on a tee ready to make the first stroke of the round or hole.",
+      "definitions_ex_en": "she fished in her pocket for a ball and teed it",
+      "definitions_ex_vn": "Cô ấy đã đánh cá trong túi của mình cho một quả bóng và Teed nó",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809707819_ebab74daba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809707819_675aa56b03_o.png",
+      "id_image": "tee_5492467"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809707794_08bf199d6a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809707794_fe7cdb063c_o.png",
+      "id_image": "tee_5496480"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809707839_d04f9d2f33_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809707839_65c552b545_o.png",
+      "id_image": "tee_586487"
+    }
+  ]
+}

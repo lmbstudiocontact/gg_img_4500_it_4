@@ -1,0 +1,90 @@
+{
+  "english": "warm",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đun",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho ấm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nấu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ẩm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nóng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nồng nhiệt",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đun cho nóng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đốt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sưởi cho ấm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of or at a fairly or comfortably high temperature.",
+      "definitions_ex_en": "a warm September evening",
+      "definitions_ex_vn": "một buổi tối ấm áp tháng chín",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "having, showing, or expressive of enthusiasm, affection, or kindness.",
+      "definitions_ex_en": "they exchanged warm, friendly smiles",
+      "definitions_ex_vn": "Họ trao đổi những nụ cười ấm áp, thân thiện",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a color) containing red, yellow, or orange tones.",
+      "definitions_ex_en": "her fair coloring suited soft, warm shades",
+      "definitions_ex_vn": "màu sắc công bằng của cô ấy phù hợp với sắc thái mềm mại, ấm áp",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a scent or trail) fresh; strong.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "make or become warm.",
+      "definitions_ex_en": "I stamped my feet to warm them up",
+      "definitions_ex_vn": "Tôi đóng dấu chân để làm ấm chúng lên",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382532_9125f65efa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382532_36b51b31b4_o.png",
+      "id_image": "warm_1327594"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452468_97ebb09859_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452468_68fa9212b8_o.png",
+      "id_image": "warm_645681"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452408_5a3d349d12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452408_215699ba9d_o.png",
+      "id_image": "warm_817790"
+    }
+  ]
+}

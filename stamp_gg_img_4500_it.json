@@ -1,0 +1,104 @@
+{
+  "english": "stamp",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tem",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "com tem",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dấu khắc chữ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dấu vết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "con dấu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dán tem",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đóng dấu lên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nghiền khoáng chất",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "bring down (one's foot) heavily on the ground or on something on the ground.",
+      "definitions_ex_en": "he stamped his foot in frustration",
+      "definitions_ex_vn": "Anh đóng dấu chân vào thất vọng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "impress a pattern or mark, especially an official one, on (a surface, object, or document) using an engraved or inked block or die or other instrument.",
+      "definitions_ex_en": "the woman stamped my passport",
+      "definitions_ex_vn": "Người phụ nữ đóng dấu hộ chiếu của tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "affix a postage stamp or stamps onto (a letter or package).",
+      "definitions_ex_en": "Annie stamped the envelope for her",
+      "definitions_ex_vn": "Annie đóng dấu phong bì cho cô ấy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "crush or pulverize (ore).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an instrument for stamping a pattern or mark, in particular an engraved or inked block or die.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small adhesive piece of paper stuck to something to show that an amount of money has been paid, in particular a postage stamp.",
+      "definitions_ex_en": "a first-class stamp",
+      "definitions_ex_vn": "một con tem hạng nhất",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act or sound of stamping with the foot.",
+      "definitions_ex_en": "the stamp of boots on the bare floor",
+      "definitions_ex_vn": "Tem của ủng trên sàn nhà trọt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a block for crushing ore in a stamp mill.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464648_b75a06a058_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464648_7ccec6a4a9_o.png",
+      "id_image": "stamp_1151163"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394822_8302c27557_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394822_6954e7ed9a_o.png",
+      "id_image": "stamp_445270"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350006_e04615f155_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350006_bf2e2e8081_o.png",
+      "id_image": "stamp_928907"
+    }
+  ]
+}

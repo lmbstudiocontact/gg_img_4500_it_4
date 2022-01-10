@@ -1,0 +1,50 @@
+{
+  "english": "tourist",
+  "list_translation_mean": [
+    {
+      "translate_mean": "du khách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khách du lãm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who is traveling or visiting a place for pleasure.",
+      "definitions_ex_en": "the pyramids have drawn tourists to Egypt",
+      "definitions_ex_vn": "Các kim tự tháp đã vẽ khách du lịch đến Ai Cập",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for tourist class.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "travel as a tourist.",
+      "definitions_ex_en": "American families touristing abroad",
+      "definitions_ex_vn": "Gia đình Mỹ du lịch ở nước ngoài",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387252_19c49f17be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387252_0078e53570_o.png",
+      "id_image": "tourist_4891414"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697429_ce2fa62345_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697429_709d4afed3_o.png",
+      "id_image": "tourist_5020871"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079630_462cc2fce5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079630_3cc55450e4_o.png",
+      "id_image": "tourist_5406483"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "english": "wreath",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khói lên cuồng cuộn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tràng hoa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vòng hoa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an arrangement of flowers, leaves, or stems fastened in a ring and used for decoration or for laying on a grave.",
+      "definitions_ex_en": "the Queen laid a wreath at the Cenotaph",
+      "definitions_ex_vn": "Nữ hoàng đặt vòng hoa ở Cenotaph",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a curl or ring of smoke or cloud.",
+      "definitions_ex_en": "wreaths of mist swirled up into the cold air",
+      "definitions_ex_vn": "vòng hoa của sương mù xoáy vào không khí lạnh",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377717_dc55a4c8db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377717_0872eccef1_o.png",
+      "id_image": "wreath_6247672"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069645_57d160f812_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069645_d070fd390e_o.png",
+      "id_image": "wreath_6280076"
+    }
+  ]
+}

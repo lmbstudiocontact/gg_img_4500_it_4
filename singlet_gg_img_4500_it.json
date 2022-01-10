@@ -1,0 +1,39 @@
+{
+  "english": "singlet",
+  "list_translation_mean": [
+    {
+      "translate_mean": "áo nịt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "loại áo thể thao",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a single unresolvable line in a spectrum, not part of a multiplet.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an atomic or molecular state in which all electron spins are paired.",
+      "definitions_ex_en": "singlet oxygen",
+      "definitions_ex_vn": "Singlet oxy.",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692809_6c98cb742a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692809_7c3a89910b_o.png",
+      "id_image": "singlet_3978949"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452303_4664e67036_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452303_c060f3a90a_o.png",
+      "id_image": "singlet_4134859"
+    }
+  ]
+}

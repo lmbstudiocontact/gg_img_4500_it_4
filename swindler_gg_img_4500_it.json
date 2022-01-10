@@ -1,0 +1,24 @@
+{
+  "english": "swindler",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người lừa đảo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who uses deception to deprive someone of money or possessions.",
+      "definitions_ex_en": "he used his charm to become a small-time swindler",
+      "definitions_ex_vn": "Anh ta đã sử dụng sự quyến rũ của mình để trở thành một kẻ lừa đảo thời gian nhỏ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447338_055a633e53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447338_12ded55444_o.png",
+      "id_image": "swindler_2631562"
+    }
+  ]
+}

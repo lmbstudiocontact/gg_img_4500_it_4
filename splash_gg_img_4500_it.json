@@ -1,0 +1,64 @@
+{
+  "english": "splash",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đốm trên da thú",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phấn bột gạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự làm bùn văng lên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vũng nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm văng bùn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lội trong bùn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vổ bập bềnh",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a sound made by something striking or falling into liquid.",
+      "definitions_ex_en": "we hit the water with a mighty splash",
+      "definitions_ex_vn": "Chúng tôi chạm nước với một giật gân mạnh mẽ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cause (liquid) to strike or fall on something in irregular drops.",
+      "definitions_ex_en": "she splashed cold water onto her face",
+      "definitions_ex_vn": "Cô văng nước lạnh vào mặt cô.",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468228_404c817bff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468228_8f1eb64b4c_o.png",
+      "id_image": "splash_3917951"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468253_3b189f098e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468253_2d32f348a5_o.png",
+      "id_image": "splash_453316"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809708134_82e465223d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809708134_945614480c_o.png",
+      "id_image": "splash_4534952"
+    }
+  ]
+}

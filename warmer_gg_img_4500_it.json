@@ -1,0 +1,39 @@
+{
+  "english": "warmer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự ấm áp",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a device for warming something; a thing that warms.",
+      "definitions_ex_en": "the rooms had towel warmers in the bathroom",
+      "definitions_ex_vn": "Các phòng có ấm khăn trong phòng tắm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452298_7b31ca63ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452298_e3b75629a7_o.png",
+      "id_image": "warmer_3751938"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382462_995a73d81b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382462_93fdc6f76e_o.png",
+      "id_image": "warmer_4427171"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382432_0873c629ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382432_acf4c15514_o.png",
+      "id_image": "warmer_5059531"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382392_059be6f9c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382392_f15afe98a0_o.png",
+      "id_image": "warmer_5650989"
+    }
+  ]
+}

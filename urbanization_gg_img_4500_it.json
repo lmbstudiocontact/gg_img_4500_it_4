@@ -1,0 +1,29 @@
+{
+  "english": "urbanization",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự nhã nhặn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the process of making an area more urban.",
+      "definitions_ex_en": "he saw nature being destroyed by urbanization",
+      "definitions_ex_vn": "anh ta thấy thiên nhiên bị phá hủy bởi đô thị hóa",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809351426_2f955d430b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809351426_7fb57989c9_o.png",
+      "id_image": "urbanization_1610508"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705839_b64c01eb45_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705839_7576138005_o.png",
+      "id_image": "urbanization_3380963"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "english": "slingshot",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự ném đi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự quăng đi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the effect of the gravitational pull of a celestial object in accelerating and changing the course of another object or a spacecraft.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "forcefully accelerate through the effect of gravity.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377562_b93164c719_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377562_ac6e5dcaf9_o.png",
+      "id_image": "slingshot_613894"
+    }
+  ]
+}

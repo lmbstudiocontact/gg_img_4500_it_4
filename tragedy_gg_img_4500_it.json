@@ -1,0 +1,35 @@
+{
+  "english": "tragedy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thảm kịch",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an event causing great suffering, destruction, and distress, such as a serious accident, crime, or natural catastrophe.",
+      "definitions_ex_en": "a tragedy that killed 95 people",
+      "definitions_ex_vn": "một bi kịch đã giết chết 95 người",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a play dealing with tragic events and having an unhappy ending, especially one concerning the downfall of the main character.",
+      "definitions_ex_en": "Shakespeare's tragedies",
+      "definitions_ex_vn": "Bi kịch của Shakespeare",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340161_48e97c5c4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340161_5b89e6208a_o.png",
+      "id_image": "tragedy_207050"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340131_4b74ba4f78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340131_df1bc5f5e0_o.png",
+      "id_image": "tragedy_4065453"
+    }
+  ]
+}

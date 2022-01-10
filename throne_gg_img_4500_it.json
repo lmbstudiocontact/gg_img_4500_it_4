@@ -1,0 +1,35 @@
+{
+  "english": "throne",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ngôi vua",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a ceremonial chair for a sovereign, bishop, or similar figure.",
+      "definitions_ex_en": "King Solomon's great ivory throne",
+      "definitions_ex_vn": "Throne ngà voi tuyệt vời của vua Solomon",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "place (someone) on a throne.",
+      "definitions_ex_en": "the king was throned on a rock",
+      "definitions_ex_vn": "Nhà vua đã được trang bị một tảng đá",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463633_fef51fa975_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463633_27db0a70e5_o.png",
+      "id_image": "throne_1426773"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393662_063ffcdfcb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393662_fa9e3276d6_o.png",
+      "id_image": "throne_1835104"
+    }
+  ]
+}

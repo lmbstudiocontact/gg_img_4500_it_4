@@ -1,0 +1,97 @@
+{
+  "english": "stir",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự chuyển động",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cử động",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lay động",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự náo động",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cựa quậy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khích động",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm chuyển động",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm lay chuyển",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhúc nhích",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "move a spoon or other implement around in (a liquid or other substance) in order to mix it thoroughly.",
+      "definitions_ex_en": "stir the batter until it is just combined",
+      "definitions_ex_vn": "khuấy bột cho đến khi nó chỉ được kết hợp",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "move or cause to move slightly.",
+      "definitions_ex_en": "nothing stirred except the wind",
+      "definitions_ex_vn": "Không có gì khuấy động ngoại trừ gió",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "arouse strong feeling in (someone); move or excite.",
+      "definitions_ex_en": "they will be stirred to action by what is written",
+      "definitions_ex_vn": "họ sẽ được khuấy động để hành động bằng những gì được viết",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a slight physical movement.",
+      "definitions_ex_en": "I stood, straining eyes and ears for the faintest stir",
+      "definitions_ex_vn": "Tôi đứng, căng mắt và tai cho khuấy mờ nhất",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a commotion.",
+      "definitions_ex_en": "the event caused quite a stir",
+      "definitions_ex_vn": "Sự kiện gây ra một sự khuấy động",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of stirring food or drink.",
+      "definitions_ex_en": "he gives his chocolate milk a stir",
+      "definitions_ex_vn": "anh ta cho sữa sô cô la của mình một khuấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "prison.",
+      "definitions_ex_en": "I've spent twenty-eight years in stir",
+      "definitions_ex_vn": "Tôi đã dành hai mươi tám năm trong khuấy động",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461053_239b0f6dab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461053_9a4c9a637e_o.png",
+      "id_image": "stir_1830851"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460993_c07853d0a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460993_83654ffc76_o.png",
+      "id_image": "stir_5158727"
+    }
+  ]
+}

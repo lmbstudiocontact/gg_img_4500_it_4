@@ -1,0 +1,28 @@
+{
+  "english": "submerge",
+  "list_translation_mean": [
+    {
+      "translate_mean": "làm ngập",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhận xuống nước",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "cause to be under water.",
+      "definitions_ex_en": "houses had been flooded and cars submerged",
+      "definitions_ex_vn": "những ngôi nhà đã bị ngập lụt và xe hơi ngập nước",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077650_cfecb440e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077650_63e8a99e23_o.png",
+      "id_image": "submerge_2364523"
+    }
+  ]
+}

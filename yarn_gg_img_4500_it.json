@@ -1,0 +1,49 @@
+{
+  "english": "yarn",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chỉ len",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chỉ sợi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chỉ dùng để bện thừng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "spun thread used for knitting, weaving, or sewing.",
+      "definitions_ex_en": "hanks of pale green yarn",
+      "definitions_ex_vn": "Hanks của sợi xanh nhạt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a long or rambling story, especially one that is implausible.",
+      "definitions_ex_en": "he never let reality get in the way of a good yarn",
+      "definitions_ex_vn": "anh ấy không bao giờ để thực tế cản trở một sợi tốt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "tell a long or implausible story.",
+      "definitions_ex_en": "they were yarning about local legends and superstitions",
+      "definitions_ex_vn": "Họ đang làm tình yêu về những huyền thoại địa phương và mê tín",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067995_31644aff6e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067995_282b8557cf_o.png",
+      "id_image": "yarn_5617607"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686329_75b3ebaff0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686329_85032ceec8_o.png",
+      "id_image": "yarn_588425"
+    }
+  ]
+}

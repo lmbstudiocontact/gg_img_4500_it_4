@@ -1,0 +1,95 @@
+{
+  "english": "wrap",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bao",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bọc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gói",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "áo choàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khăn choàng cổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quấn lại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "cover or enclose (someone or something) in paper or soft material.",
+      "definitions_ex_en": "last Christmas Eve, I was still wrapping presents at 1 a.m.",
+      "definitions_ex_vn": "Đêm Giáng sinh cuối cùng, tôi vẫn đang gói quà lúc 1 giờ sáng.",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cause (a word or unit of text) to be carried over to a new line automatically as the margin is reached, or to fit around embedded features such as pictures.",
+      "definitions_ex_en": "the program can automatically wrap text around irregularly shaped graphics",
+      "definitions_ex_vn": "Chương trình có thể tự động bọc văn bản xung quanh đồ họa hình dạng không đều",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "finish filming or recording.",
+      "definitions_ex_en": "we wrapped on schedule three days later",
+      "definitions_ex_vn": "Chúng tôi đã gói lịch trình ba ngày sau",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a loose outer garment or piece of material.",
+      "definitions_ex_en": "beach wraps",
+      "definitions_ex_vn": "Bãi biển kết thúc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sandwich in which the filling is rolled in a soft tortilla.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the end of a session of filming or recording.",
+      "definitions_ex_en": "right, it's a wrap",
+      "definitions_ex_vn": "Phải, đó là một gói",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for body wrap.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377847_511043c957_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377847_ce5fa35d02_o.png",
+      "id_image": "wrapping_2403461"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448248_f34a75b054_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448248_8f9c99430a_o.png",
+      "id_image": "wrap_2293083"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688169_17d8b56975_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688169_320e3caed2_o.png",
+      "id_image": "wrap_2819421"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448223_c9fedb2714_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448223_c6565d7c75_o.png",
+      "id_image": "wrap_2923199"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "english": "stain",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dấu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thuốc màu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vết bẩn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vết vơ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm dơ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhuộm màu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "mark (something) with colored patches or dirty marks that are not easily removed.",
+      "definitions_ex_en": "her clothing was stained with blood",
+      "definitions_ex_vn": "Quần áo của cô bị vấy máu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "color (a material or object) by applying a penetrative dye or chemical.",
+      "definitions_ex_en": "wood can always be stained to a darker shade",
+      "definitions_ex_vn": "Gỗ luôn có thể được nhuộm thành một màu tối hơn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a colored patch or dirty mark that is difficult to remove.",
+      "definitions_ex_en": "there were mud stains on my shoes",
+      "definitions_ex_vn": "Có những vết bùn trên giày của tôi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a penetrative dye or chemical used in coloring a material or object.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465033_a5fbec0d21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465033_d3094679bf_o.png",
+      "id_image": "stain_2389425"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395262_3b1ce30a2a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395262_e93c6b5325_o.png",
+      "id_image": "stain_2534993"
+    }
+  ]
+}

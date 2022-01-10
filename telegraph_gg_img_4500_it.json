@@ -1,0 +1,35 @@
+{
+  "english": "telegraph",
+  "list_translation_mean": [
+    {
+      "translate_mean": "máy điện báo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a system for transmitting messages from a distance along a wire, especially one creating signals by making and breaking an electrical connection.",
+      "definitions_ex_en": "news came from the outside world by telegraph",
+      "definitions_ex_vn": "Tin tức đến từ thế giới bên ngoài của Telegraph",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "send (someone) a message by telegraph.",
+      "definitions_ex_en": "I must go and telegraph Mom",
+      "definitions_ex_vn": "Tôi phải đi và điện báo mẹ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397742_147ca1f35f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397742_6501b10e9a_o.png",
+      "id_image": "telegraph_1411885"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352816_f281202118_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352816_5f5081d33f_o.png",
+      "id_image": "telegraph_5256698"
+    }
+  ]
+}

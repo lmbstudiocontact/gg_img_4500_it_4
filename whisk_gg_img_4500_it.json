@@ -1,0 +1,83 @@
+{
+  "english": "whisk",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bó cỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bó rơm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ dùng để đánh trứng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cử động mau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đi mau như chớp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi như tên bắn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "take or move (someone or something) in a particular direction suddenly and quickly.",
+      "definitions_ex_en": "his jacket was whisked away for dry cleaning",
+      "definitions_ex_vn": "Áo khoác của anh ta đã được rì rò để giặt khô",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "beat or stir (a substance, especially cream or eggs) with a light, rapid movement.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a utensil for whipping eggs or cream.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a bunch of grass, twigs, or bristles for removing dust or flies.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a brief, rapid action or movement.",
+      "definitions_ex_en": "a whisk around St. Basil's cathedral",
+      "definitions_ex_vn": "Một cái râu quanh Nhà thờ St. Basil",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375532_4582b2b428_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375532_fe6c457ac2_o.png",
+      "id_image": "whisk_184490"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067555_466780a4dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067555_19064a359f_o.png",
+      "id_image": "whisk_2455937"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685864_3b2828553d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685864_3dec61a5f3_o.png",
+      "id_image": "whisk_527770"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330781_a0fe1fc3a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330781_8ee5d5ff6b_o.png",
+      "id_image": "whisk_741367"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "english": "velocity",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự mau lẹ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the speed of something in a given direction.",
+      "definitions_ex_en": "the velocities of the emitted particles",
+      "definitions_ex_vn": "vận tốc",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461683_02794fe2b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461683_2e16f1f48f_o.png",
+      "id_image": "velocity_2464304"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461773_e38cf623ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461773_4ce271ef1c_o.png",
+      "id_image": "velocity_353578"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084305_5cca6eaf4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084305_b0116674f3_o.png",
+      "id_image": "velocity_408319"
+    }
+  ]
+}

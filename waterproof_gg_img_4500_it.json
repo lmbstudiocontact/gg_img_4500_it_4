@@ -1,0 +1,56 @@
+{
+  "english": "waterproof",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không thấm nước",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nước không qua được",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mái nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "không cho thấm nước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm không thấm nước",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "impervious to water.",
+      "definitions_ex_en": "a waterproof hat",
+      "definitions_ex_vn": "một chiếc mũ không thấm nước",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "make impervious to water.",
+      "definitions_ex_en": "a plastic case waterproofs this disposable camera",
+      "definitions_ex_vn": "Một vỏ nhựa chống thấm máy ảnh dùng một lần này",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380502_2a18da1182_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380502_edd8d4fbb6_o.png",
+      "id_image": "waterproof_4637360"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380447_cc6aced3e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380447_63b6a7d6bf_o.png",
+      "id_image": "waterproof_5375350"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380422_643e6b917c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380422_fd43755074_o.png",
+      "id_image": "waterproof_6256102"
+    }
+  ]
+}

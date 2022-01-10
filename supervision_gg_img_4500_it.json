@@ -1,0 +1,32 @@
+{
+  "english": "supervision",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự giám đốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giám thị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trông nom",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of supervising someone or something.",
+      "definitions_ex_en": "she let them work without supervision",
+      "definitions_ex_vn": "Cô để họ làm việc mà không có sự giám sát",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692459_8117df89a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692459_f8263a850f_o.png",
+      "id_image": "supervision_5955173"
+    }
+  ]
+}

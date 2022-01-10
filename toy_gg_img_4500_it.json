@@ -1,0 +1,60 @@
+{
+  "english": "toy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đồ chơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ chơi trẻ con",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ vật ít giá trị",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an object for a child to play with, typically a model or miniature replica of something.",
+      "definitions_ex_en": "a toy car",
+      "definitions_ex_vn": "một chiếc xe đồ chơi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "denoting a diminutive breed or variety of dog.",
+      "definitions_ex_en": "a toy poodle",
+      "definitions_ex_vn": "một poodle đồ chơi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "move or handle (an object) absentmindedly or nervously.",
+      "definitions_ex_en": "Alan toyed with his glasses",
+      "definitions_ex_vn": "Alan đùa giỡn với cặp kính của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "consider (an idea, movement, or proposal) casually or indecisively.",
+      "definitions_ex_en": "I was toying with the idea of writing a book",
+      "definitions_ex_vn": "Tôi đã chơi với ý tưởng viết một cuốn sách",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078955_321a27e890_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078955_375e8b7edb_o.png",
+      "id_image": "toy_2276507"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386547_263e8260e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386547_e64567155d_o.png",
+      "id_image": "toy_3851210"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078880_391cbe453d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078880_a5cf8df45e_o.png",
+      "id_image": "toy_4632480"
+    }
+  ]
+}

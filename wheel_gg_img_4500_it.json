@@ -1,0 +1,82 @@
+{
+  "english": "wheel",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bánh xe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chạy quanh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xe đạp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xe máy",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a circular object that revolves on an axle and is fixed below a vehicle or other object to enable it to move easily over the ground.",
+      "definitions_ex_en": "a chair on wheels",
+      "definitions_ex_vn": "một cái ghế trên bánh xe",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a machine or structure having a wheel as its essential part.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a car.",
+      "definitions_ex_en": "she's got wheels now",
+      "definitions_ex_vn": "Bây giờ cô ấy có bánh xe bây giờ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing resembling a wheel in form or function, in particular a cheese made in the form of a disk.",
+      "definitions_ex_en": "a small wheel of Brie",
+      "definitions_ex_vn": "một bánh xe nhỏ của brie",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an instance of wheeling; a turn or rotation.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "push or pull (a vehicle with wheels).",
+      "definitions_ex_en": "the sled was wheeled out to the flight deck",
+      "definitions_ex_vn": "Sled đã được chuyển đến sàn bay",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a bird or aircraft) fly in a wide circle or curve.",
+      "definitions_ex_en": "the birds wheeled and dived",
+      "definitions_ex_vn": "Những con chim có bánh xe và lặn xuống",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376187_759b2926e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376187_c7dc90c5ff_o.png",
+      "id_image": "wheel_1399491"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686559_54f57a2990_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686559_84a90f4b20_o.png",
+      "id_image": "wheel_545974"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376232_85f9304e92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376232_47bde5b6c9_o.png",
+      "id_image": "wheel_827194"
+    }
+  ]
+}

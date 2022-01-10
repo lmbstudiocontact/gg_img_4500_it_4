@@ -1,0 +1,33 @@
+{
+  "english": "technician",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chuyên viên kỷ thuật",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà kỷ thuật",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person employed to look after technical equipment or do practical work in a laboratory.",
+      "definitions_ex_en": "a laboratory technician",
+      "definitions_ex_vn": "một kỹ thuật viên phòng thí nghiệm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810090605_27db3fe64f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810090605_53a45cebd1_o.png",
+      "id_image": "technician_6036812"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810090580_fba72c3a8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810090580_58f90a9b70_o.png",
+      "id_image": "technician_6342684"
+    }
+  ]
+}

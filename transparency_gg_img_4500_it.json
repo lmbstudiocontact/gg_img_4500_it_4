@@ -1,0 +1,49 @@
+{
+  "english": "transparency",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tính trong suốt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính trong trẻo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the condition of being transparent.",
+      "definitions_ex_en": "the transparency of ice",
+      "definitions_ex_vn": "Độ trong suốt của băng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an image, text, or positive transparent photograph printed on transparent plastic or glass, able to be viewed using a projector.",
+      "definitions_ex_en": "color transparencies of the Grand Canyon",
+      "definitions_ex_vn": "Màu sắc trong suốt của Grand Canyon",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692429_6cfff041ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692429_47a6e64949_o.png",
+      "id_image": "transparency_4371115"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074085_eac766bf95_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074085_5cbfb46f0a_o.png",
+      "id_image": "transparency_5261274"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074055_5a2b88c959_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074055_199aefcd94_o.png",
+      "id_image": "transparency_5307760"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382052_66bb95411f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382052_fdb326fdc3_o.png",
+      "id_image": "transparency_5572534"
+    }
+  ]
+}

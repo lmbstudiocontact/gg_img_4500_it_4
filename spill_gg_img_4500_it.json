@@ -1,0 +1,76 @@
+{
+  "english": "spill",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự té lộn nhào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chảy ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm đổ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm té ngựa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm tràn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "cause or allow (liquid) to flow over the edge of its container, especially unintentionally.",
+      "definitions_ex_en": "you'll spill that tea if you're not careful",
+      "definitions_ex_vn": "bạn sẽ tràn trà đó nếu bạn không cẩn thận",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "reveal (confidential information) to someone.",
+      "definitions_ex_en": "there's nothing worse than friends who spill secrets",
+      "definitions_ex_vn": "Không có gì tệ hơn những người bạn tràn đầy bí mật",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cause to fall off a horse or bicycle.",
+      "definitions_ex_en": "the horse was wrenched off course, spilling his rider",
+      "definitions_ex_vn": "Con ngựa đã bị vuốt ve, tràn ra người lái của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "let (wind) out of a sail, typically by slackening the sheets.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a quantity of liquid that has spilled or been spilled.",
+      "definitions_ex_en": "wipe up spills immediately",
+      "definitions_ex_vn": "Lau sạch sự cố tràn ngay lập tức",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a fall from a horse or bicycle.",
+      "definitions_ex_en": "Granddad took a spill while riding the bay mare",
+      "definitions_ex_vn": "Granddad tràn ngập một sự cố tràn trong khi cưỡi ngựa con ngựa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thin strip of wood or paper used for lighting a fire, candle, pipe, etc.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808398842_3ba9989460_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808398842_b2fd764ceb_o.png",
+      "id_image": "spill_5091318"
+    }
+  ]
+}

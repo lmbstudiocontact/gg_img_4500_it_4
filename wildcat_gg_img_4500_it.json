@@ -1,0 +1,36 @@
+{
+  "english": "wildcat",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lô an ủi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small native Eurasian and African cat that is typically gray with black markings and a bushy tail, noted for its ferocity.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an exploratory oil well.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a strike) sudden and unofficial.",
+      "definitions_ex_en": "legislation to curb wildcat strikes",
+      "definitions_ex_vn": "Pháp luật để kiềm chế cuộc đình công Wildcat",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066220_72c3be0ddc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066220_7cdcbdcb27_o.png",
+      "id_image": "wildcat_2417601"
+    }
+  ]
+}

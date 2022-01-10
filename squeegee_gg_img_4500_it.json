@@ -1,0 +1,44 @@
+{
+  "english": "squeegee",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây chổi quét sân tàu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật giống cây chổi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a scraping implement with a rubber-edged blade set on a handle, typically used for cleaning windows.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "clean or scrape (something) with a squeegee.",
+      "definitions_ex_en": "squeegee the shower doors while the surfaces are still wet",
+      "definitions_ex_vn": "Squeegee cửa tắm trong khi bề mặt vẫn ướt",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396177_8c194c06a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396177_ee8f93b421_o.png",
+      "id_image": "squeegee_2493085"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088625_5bf23d8955_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088625_7ba0f88ff3_o.png",
+      "id_image": "squeegee_3216149"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465958_74b45f0a38_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465958_b5302a03ee_o.png",
+      "id_image": "squeegee_6419664"
+    }
+  ]
+}

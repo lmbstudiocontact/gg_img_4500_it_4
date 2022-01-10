@@ -1,0 +1,56 @@
+{
+  "english": "wholesale",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự bán sỉ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bán sỉ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the selling of goods in large quantities to be retailed by others.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "being sold in large quantities to be retailed by others.",
+      "definitions_ex_en": "bottles from this region sell wholesale at about $72 a case",
+      "definitions_ex_vn": "Chai từ khu vực này bán buôn ở khoảng 72 đô la một trường hợp",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "done on a large scale; extensive.",
+      "definitions_ex_en": "the wholesale destruction of the natural order",
+      "definitions_ex_vn": "phá hủy bán buôn của trật tự tự nhiên",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "sell (goods) in large quantities at low prices to be retailed by others.",
+      "definitions_ex_en": "imported clothing, which he now wholesales to 20 retail stores",
+      "definitions_ex_vn": "Quần áo nhập khẩu, giờ ông bán sỉ đến 20 cửa hàng bán lẻ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330021_eaa86e79ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330021_d2a531938a_o.png",
+      "id_image": "wholesale_2867956"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684934_c66f7b85a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684934_c5a721c3ca_o.png",
+      "id_image": "wholesale_3737175"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444968_1ba860f5b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444968_53a477ed7a_o.png",
+      "id_image": "wholesale_5235112"
+    }
+  ]
+}

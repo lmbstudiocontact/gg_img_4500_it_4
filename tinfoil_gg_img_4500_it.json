@@ -1,0 +1,24 @@
+{
+  "english": "tinfoil",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gói bằng giấy thiếc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "foil made of aluminum or a similar silvery-gray metal, used especially for covering or wrapping food.",
+      "definitions_ex_en": "garlic bread wrapped in tinfoil",
+      "definitions_ex_vn": "Bánh mì tỏi bọc trong Tinfoil",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347071_359422c21c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347071_8ca070f43a_o.png",
+      "id_image": "tinfoil_5228481"
+    }
+  ]
+}

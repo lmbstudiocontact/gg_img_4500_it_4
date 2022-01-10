@@ -1,0 +1,24 @@
+{
+  "english": "survivor",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người sống sót",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who survives, especially a person remaining alive after an event in which others have died.",
+      "definitions_ex_en": "the sole survivor of the massacre",
+      "definitions_ex_vn": "người sống sót duy nhất của vụ thảm sát",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450153_bb64f2b7c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450153_3961429707_o.png",
+      "id_image": "survivor_6174442"
+    }
+  ]
+}

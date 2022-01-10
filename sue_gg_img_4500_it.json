@@ -1,0 +1,34 @@
+{
+  "english": "sue",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kiện người nào",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm đơn thưa người nào",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "institute legal proceedings against (a person or institution), typically for redress.",
+      "definitions_ex_en": "she is to sue the baby's father",
+      "definitions_ex_vn": "cô ấy là để kiện cha của em bé",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "appeal formally to a person for something.",
+      "definitions_ex_en": "the rebels were forced to sue for peace",
+      "definitions_ex_vn": "Phiến quân bị buộc phải kiện vì hòa bình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454073_f33320bc07_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454073_aa446ccb68_o.png",
+      "id_image": "sue_2419693"
+    }
+  ]
+}

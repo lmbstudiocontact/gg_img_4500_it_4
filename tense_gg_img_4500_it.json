@@ -1,0 +1,56 @@
+{
+  "english": "tense",
+  "list_translation_mean": [
+    {
+      "translate_mean": "căng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khẩn trương",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tình thế căng thẳng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thẳng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tiếng nghẹn ngào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thì của động từ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(especially of a muscle or someone's body) stretched tight or rigid.",
+      "definitions_ex_en": "she tried to relax her tense muscles",
+      "definitions_ex_vn": "Cô đã cố gắng để thư giãn cơ bắp căng thẳng của mình",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "become tense, typically through anxiety or nervousness.",
+      "definitions_ex_en": "her body tensed up",
+      "definitions_ex_vn": "Cơ thể cô căng thẳng lên",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a set of forms taken by a verb to indicate the time (and sometimes also the continuance or completeness) of the action in relation to the time of the utterance.",
+      "definitions_ex_en": "the past tense",
+      "definitions_ex_vn": "thì quá khứ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706779_98a74deb14_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706779_e3a1b40587_o.png",
+      "id_image": "tense_3362407"
+    }
+  ]
+}

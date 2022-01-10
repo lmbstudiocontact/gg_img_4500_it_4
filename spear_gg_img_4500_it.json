@@ -1,0 +1,48 @@
+{
+  "english": "spear",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giáo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giết bằng giáo",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a weapon with a long shaft and a pointed tip, typically of metal, used for thrusting or throwing.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "pierce or strike with a spear or other pointed object.",
+      "definitions_ex_en": "she speared her last French fry with her fork",
+      "definitions_ex_vn": "Cô ấy đã đánh đập cô cá Pháp cuối cùng với ngã ba của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061570_7357d95ce5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061570_89afa24e38_o.png",
+      "id_image": "spear_3806320"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324616_4a6c08783d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324616_7e7927fd0b_o.png",
+      "id_image": "spear_3949807"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679859_717fb62b5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679859_054df1dc05_o.png",
+      "id_image": "spear_506947"
+    }
+  ]
+}

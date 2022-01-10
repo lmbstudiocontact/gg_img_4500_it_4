@@ -1,0 +1,46 @@
+{
+  "english": "solitaire",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ẩn sỉ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người ở ẩn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "any of various card games played by one person, the object of which is to use up all one's cards by forming particular arrangements and sequences.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a diamond or other gem set in a piece of jewelry by itself.",
+      "definitions_ex_en": "a diamond solitaire",
+      "definitions_ex_vn": "một solitaire kim cương",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "either of two large extinct flightless birds related to the dodo, found on two of the Mascarene Islands until they were exterminated in the 18th century.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a large American thrush with mainly gray plumage and a short bill.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441113_a8ec94d229_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441113_7787bfde6e_o.png",
+      "id_image": "solitaire_1707249"
+    }
+  ]
+}

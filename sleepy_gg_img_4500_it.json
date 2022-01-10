@@ -1,0 +1,38 @@
+{
+  "english": "sleepy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "buồn ngũ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "uể oải",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "needing or ready for sleep.",
+      "definitions_ex_en": "the wine had made her sleepy",
+      "definitions_ex_vn": "Rượu đã làm cô buồn ngủ",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448908_849a0d1501_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448908_4d9e181529_o.png",
+      "id_image": "sleepy_1553281"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378737_8870f80322_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378737_487aacdd93_o.png",
+      "id_image": "sleepy_1747710"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333816_3f68f25cb6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333816_2bf8c12b66_o.png",
+      "id_image": "sleepy_4860802"
+    }
+  ]
+}

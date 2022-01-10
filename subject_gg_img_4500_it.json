@@ -1,0 +1,125 @@
+{
+  "english": "subject",
+  "list_translation_mean": [
+    {
+      "translate_mean": "công dân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chủ từ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dân của một nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thi thể để mổ xẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vấn đề",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bị chinh phục",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có thể",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không tránh khỏi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bắt buộc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chinh phục",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or thing that is being discussed, described, or dealt with.",
+      "definitions_ex_en": "I've said all there is to be said on the subject",
+      "definitions_ex_vn": "Tôi đã nói tất cả những gì sẽ được nói về chủ đề này",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a branch of knowledge studied or taught in a school, college, or university.",
+      "definitions_ex_en": "math is not my best subject",
+      "definitions_ex_vn": "Toán học không phải là chủ đề tốt nhất của tôi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a citizen or member of a state other than its supreme ruler.",
+      "definitions_ex_en": "the legislation is applicable only to British subjects",
+      "definitions_ex_vn": "Pháp luật chỉ áp dụng cho các đối tượng của Anh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a noun phrase functioning as one of the main components of a clause, being the element about which the rest of the clause is predicated.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thinking or feeling entity; the conscious mind; the ego, especially as opposed to anything external to the mind.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "likely or prone to be affected by (a particular condition or occurrence, typically an unwelcome or unpleasant one).",
+      "definitions_ex_en": "he was subject to bouts of manic depression",
+      "definitions_ex_vn": "Anh ta chịu những cơn sốt hưng cảm",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "dependent or conditional upon.",
+      "definitions_ex_en": "the proposed merger is subject to the approval of the shareholders",
+      "definitions_ex_vn": "Sáp nhập đề xuất phải được sự chấp thuận của các cổ đông",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "under the authority of.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "conditionally upon.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "cause or force to undergo (a particular experience of form of treatment).",
+      "definitions_ex_en": "he'd subjected her to a terrifying ordeal",
+      "definitions_ex_vn": "anh ta đã làm cô ấy để một thử thách đáng sợ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "bring (a person or country) under one's control or jurisdiction, typically by using force.",
+      "definitions_ex_en": "the city had been subjected to Macedonian rule",
+      "definitions_ex_vn": "Thành phố đã phải chịu sự cai trị của người Macedonia",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455328_72388c8000_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455328_dc2f9dea09_o.png",
+      "id_image": "subject_3528038"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340421_9fc5012dff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340421_65e0077364_o.png",
+      "id_image": "subject_957203"
+    }
+  ]
+}

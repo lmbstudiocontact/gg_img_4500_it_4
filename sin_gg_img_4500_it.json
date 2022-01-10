@@ -1,0 +1,48 @@
+{
+  "english": "sin",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tội",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tội ác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tội lổi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phạm tội",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an immoral act considered to be a transgression against divine law.",
+      "definitions_ex_en": "a sin in the eyes of God",
+      "definitions_ex_vn": "một tội lỗi trong mắt của Thiên Chúa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "commit a sin.",
+      "definitions_ex_en": "I sinned and brought shame down on us",
+      "definitions_ex_vn": "Tôi phạm tội và mang xấu hổ về chúng tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "sine.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383062_4c5eb59799_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383062_ff65b1eaed_o.png",
+      "id_image": "sin_4727683"
+    }
+  ]
+}

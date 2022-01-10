@@ -1,0 +1,42 @@
+{
+  "english": "sunny",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có ánh nắng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hớn hở",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nắng",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "bright with sunlight.",
+      "definitions_ex_en": "a sunny day",
+      "definitions_ex_vn": "một ngày nắng",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452398_182e0ff356_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452398_bd0a05be9d_o.png",
+      "id_image": "sunny_2204335"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382537_e2b2ba1bc2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382537_fd09007abb_o.png",
+      "id_image": "sunny_4647909"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452313_b9e1f51ffe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452313_71b40e59db_o.png",
+      "id_image": "sunny_4647931"
+    }
+  ]
+}

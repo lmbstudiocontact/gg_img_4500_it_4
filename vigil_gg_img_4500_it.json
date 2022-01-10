@@ -1,0 +1,38 @@
+{
+  "english": "vigil",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự mất ngũ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thức đêm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thức khuya",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a period of keeping awake during the time usually spent asleep, especially to keep watch or pray.",
+      "definitions_ex_en": "my birdwatching vigils lasted for hours",
+      "definitions_ex_vn": "đêm không ngủ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in the Christian Church) the eve of a festival or holy day as an occasion of religious observance.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389157_33c01e88da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389157_6b1342a002_o.png",
+      "id_image": "vigil_3530379"
+    }
+  ]
+}

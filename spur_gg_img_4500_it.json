@@ -1,0 +1,71 @@
+{
+  "english": "spur",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dao nhọn cột ở cựa gà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "móc sắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kích thích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự khuyến khích",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a device with a small spike or a spiked wheel that is worn on a rider's heel and used for urging a horse forward.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing that prompts or encourages someone; an incentive.",
+      "definitions_ex_en": "profit was both the spur and the reward of enterprise",
+      "definitions_ex_vn": "Lợi nhuận là cả sự thúc đẩy và phần thưởng của doanh nghiệp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a projection from a mountain or mountain range.",
+      "definitions_ex_en": "it's an easy walk up the spur that leads to the summit",
+      "definitions_ex_vn": "Dễ dàng bước lên Spur dẫn đến hội nghị thượng đỉnh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "urge (a horse) forward by digging one's spurs into its sides.",
+      "definitions_ex_en": "she spurred her horse towards the hedge",
+      "definitions_ex_vn": "cô ấy đã thúc đẩy con ngựa của mình về phía hàng rào",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "give an incentive or encouragement to (someone).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "prune in (a side shoot of a plant) so as to form a spur close to the stem.",
+      "definitions_ex_en": "spur back the lateral shoots",
+      "definitions_ex_vn": "Spur trở lại các chồi bên",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466553_b064bb2f74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466553_ea4d64dd56_o.png",
+      "id_image": "spur_2968330"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352086_b5dccd848d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352086_c66d6f42e5_o.png",
+      "id_image": "spur_996889"
+    }
+  ]
+}

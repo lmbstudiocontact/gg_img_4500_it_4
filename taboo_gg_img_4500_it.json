@@ -1,0 +1,52 @@
+{
+  "english": "taboo",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bị cấm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cấm kỵ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "điều cấm kỵ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cấm dùng vật gì",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cấm dùng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a social or religious custom prohibiting or forbidding discussion of a particular practice or forbidding association with a particular person, place, or thing.",
+      "definitions_ex_en": "many taboos have developed around physical exposure",
+      "definitions_ex_vn": "nhiều điều cấm kỵ đã phát triển xung quanh việc tiếp xúc về thể xác",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "prohibited or restricted by social custom.",
+      "definitions_ex_en": "sex was a taboo subject",
+      "definitions_ex_vn": "Tình dục là một chủ đề cấm kỵ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "place under prohibition.",
+      "definitions_ex_en": "traditional societies taboo female handling of food during this period",
+      "definitions_ex_vn": "Xã hội truyền thống Taboo xử lý đồ ăn nữ trong giai đoạn này",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065655_9747ae3f42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065655_a523950a8e_o.png",
+      "id_image": "taboo_1354773"
+    }
+  ]
+}

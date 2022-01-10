@@ -1,0 +1,80 @@
+{
+  "english": "wear",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự bận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự mang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự mặc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự mòn vì thường dùng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dùng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xài mòn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "have on one's body or a part of one's body as clothing, decoration, protection, or for some other purpose.",
+      "definitions_ex_en": "he was wearing a dark suit",
+      "definitions_ex_vn": "anh ấy đang mặc một bộ đồ tối",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "damage, erode, or destroy by friction or use.",
+      "definitions_ex_en": "the track has been worn down in part to bare rock",
+      "definitions_ex_vn": "Đường ray đã bị mòn một phần cho rock trần",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "pass (a period of time) in some activity.",
+      "definitions_ex_en": "spinning long stories, wearing half the day",
+      "definitions_ex_vn": "quay truyện dài, mặc nửa ngày",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "bring (a ship) about by turning its head away from the wind.",
+      "definitions_ex_en": "Shannon gives the order to wear ship",
+      "definitions_ex_vn": "Shannon đưa ra thứ tự để mặc tàu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "the wearing of something or the state of being worn as clothing.",
+      "definitions_ex_en": "some new tops for wear in the evening",
+      "definitions_ex_vn": "Một số ngọn mới để mặc vào buổi tối",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "clothing suitable for a particular purpose or of a particular type.",
+      "definitions_ex_en": "evening wear",
+      "definitions_ex_vn": "Đồ ngủ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "damage or deterioration sustained from continuous use.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379092_3fb8179d7f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379092_689946a4c1_o.png",
+      "id_image": "wear_4845986"
+    }
+  ]
+}

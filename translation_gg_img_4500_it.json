@@ -1,0 +1,56 @@
+{
+  "english": "translation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự biến dạng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chuyển đổi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phiên dịch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thông dịch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự truyền lại",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the process of translating words or text from one language into another.",
+      "definitions_ex_en": "Constantine's translation of Arabic texts into Latin",
+      "definitions_ex_vn": "Bản dịch của các văn bản tiếng Ả Rập của Constantine thành tiếng Latin",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the process of moving something from one place to another.",
+      "definitions_ex_en": "the translation of the relics of St. Thomas of Canterbury",
+      "definitions_ex_vn": "bản dịch của các di tích của St. Thomas of Canterbury",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452338_9a9f8b598d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452338_bba145ce1d_o.png",
+      "id_image": "translation_6090999"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382507_e8f39a50b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382507_23ee5df5f0_o.png",
+      "id_image": "translation_6091180"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074510_4c1cd01d46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074510_7d1a55727c_o.png",
+      "id_image": "translation_6091217"
+    }
+  ]
+}

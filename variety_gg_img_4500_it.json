@@ -1,0 +1,46 @@
+{
+  "english": "variety",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bác chủng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bác giống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính cách bất đồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính cách bất nhứt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ý kiến bất đồng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the quality or state of being different or diverse; the absence of uniformity, sameness, or monotony.",
+      "definitions_ex_en": "it's the variety that makes my job so enjoyable",
+      "definitions_ex_vn": "Đó là sự đa dạng làm cho công việc của tôi rất thú vị",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a taxonomic category that ranks below subspecies (where present) or species, its members differing from others of the same subspecies or species in minor but permanent or heritable characteristics. Varieties are more often recognized in botany, in which they are designated in the style Apium graveolens var. dulce.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348281_b334130c74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348281_c960eb9268_o.png",
+      "id_image": "variety_5139806"
+    }
+  ]
+}

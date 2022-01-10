@@ -1,0 +1,54 @@
+{
+  "english": "underline",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đường gạch ở dưới",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gạch ở dưới",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhấn mạnh",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "draw a line under (a word or phrase) to give emphasis or indicate special type.",
+      "definitions_ex_en": "certain phrases had been underlined",
+      "definitions_ex_vn": "cụm từ nhất định",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a line drawn under a word or phrase, especially for emphasis.",
+      "definitions_ex_en": "subheadings have an underline in blue",
+      "definitions_ex_vn": "phân nhóm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the line of the lower part of an animal's body.",
+      "definitions_ex_en": "she has a white tail and underline",
+      "definitions_ex_vn": "cô ấy có",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809353871_fef1003db2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809353871_1b4cb4e253_o.png",
+      "id_image": "underline_1994395"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468653_686ee01878_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468653_f11c772572_o.png",
+      "id_image": "underline_264253"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810091240_e88fc3099f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810091240_a8078c71ee_o.png",
+      "id_image": "underline_391338"
+    }
+  ]
+}

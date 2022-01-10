@@ -1,0 +1,33 @@
+{
+  "english": "warn",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cho hay",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "báo cho biết trước",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "inform someone in advance of an impending or possible danger, problem, or other unpleasant situation.",
+      "definitions_ex_en": "his father had warned him of what might happen",
+      "definitions_ex_vn": "Cha anh đã cảnh báo anh về những gì có thể xảy ra",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074320_d309e2e7a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074320_81bb5a8195_o.png",
+      "id_image": "warn_1641855"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692554_d2be67cfce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692554_0085feb7f3_o.png",
+      "id_image": "warn_2598222"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "english": "straight",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ngay",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chân thật",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có thứ tự",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "minh bạch",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rỏ ràng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thành thật",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thẳng",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "extending or moving uniformly in one direction only; without a curve or bend.",
+      "definitions_ex_en": "a long, straight road",
+      "definitions_ex_vn": "Một con đường dài, thẳng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "properly positioned so as to be level, upright, or symmetrical.",
+      "definitions_ex_en": "he made sure his tie was straight",
+      "definitions_ex_vn": "anh ấy chắc chắn rằng cà vạt của anh ấy thẳng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "not evasive; honest.",
+      "definitions_ex_en": "a straight answer",
+      "definitions_ex_vn": "một câu trả lời thẳng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "in continuous succession.",
+      "definitions_ex_en": "he scored his fourth straight win",
+      "definitions_ex_vn": "Anh ấy đã ghi được chiến thắng thứ tư của mình",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of an alcoholic drink) undiluted; neat.",
+      "definitions_ex_en": "straight brandy",
+      "definitions_ex_vn": "thẳng rượu mạnh",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(especially of drama) serious as opposed to comic or musical; employing the conventional techniques of its art form.",
+      "definitions_ex_en": "a straight play",
+      "definitions_ex_vn": "một vở kịch thẳng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a person) conventional or respectable.",
+      "definitions_ex_en": "she looked pretty straight in her school clothes",
+      "definitions_ex_vn": "Cô ấy trông khá thẳng trong quần áo đi học của mình",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "in a straight line; directly.",
+      "definitions_ex_en": "he was gazing straight at her",
+      "definitions_ex_vn": "Anh đang nhìn thẳng vào cô.",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "in or into a level, even, or upright position.",
+      "definitions_ex_en": "he pulled his clothes straight",
+      "definitions_ex_vn": "anh ta kéo quần áo của mình thẳng",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "correctly; clearly.",
+      "definitions_ex_en": "I'm so tired I can hardly think straight",
+      "definitions_ex_vn": "Tôi rất mệt mỏi Tôi khó có thể nghĩ thẳng",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "without a break; continuously.",
+      "definitions_ex_en": "he remembered working sixteen hours straight",
+      "definitions_ex_vn": "anh nhớ làm việc mười sáu giờ thẳng",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "a part of something that is not curved or bent, especially a section of a racetrack.",
+      "definitions_ex_en": "he pulled away in the straight to win by half a second",
+      "definitions_ex_vn": "anh ta kéo đi thẳng để giành chiến thắng một nửa giây",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in poker) a continuous sequence of five cards.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a conventional person.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344206_ec9ff5039c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344206_ddeed76813_o.png",
+      "id_image": "straight_1814992"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458953_8592d7c7d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458953_3a01f60989_o.png",
+      "id_image": "straight_1815038"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389217_77900102c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389217_d9a333f455_o.png",
+      "id_image": "straight_214258"
+    }
+  ]
+}

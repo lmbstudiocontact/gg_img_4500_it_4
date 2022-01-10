@@ -1,0 +1,63 @@
+{
+  "english": "spine",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cạnh ở giữa hai sườn núi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gáy sách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngạnh cá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xương sống",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a series of vertebrae extending from the skull to the small of the back, enclosing the spinal cord and providing support for the thorax and abdomen; the backbone.",
+      "definitions_ex_en": "a soft voice that sent a shiver down her spine",
+      "definitions_ex_vn": "một giọng nói nhẹ nhàng đã rùng mình xuống cột sống của cô",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the part of a book's jacket or cover that encloses the inner edges of the pages, facing outward when the book is on a shelf and typically bearing the title and the author's name.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "any hard, pointed defensive projection or structure, such as a prickle of a hedgehog, a spike-like projection on a sea urchin, a sharp ray in a fish's fin, or a spike on the stem of a plant.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a tall mass of viscous lava extruded from a volcano.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809708459_71f99ce09f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809708459_41ba676dfb_o.png",
+      "id_image": "spine_2864366"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809708444_a9f8cbe01a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809708444_5f57ef1399_o.png",
+      "id_image": "spine_4892388"
+    }
+  ]
+}

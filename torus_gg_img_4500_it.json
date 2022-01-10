@@ -1,0 +1,56 @@
+{
+  "english": "torus",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đường tròn ở chân cột",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hình xuyến",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a surface or solid formed by rotating a closed curve, especially a circle, around a line that lies in the same plane but does not intersect it (e.g., like a ring-shaped doughnut).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a large convex molding, typically semicircular in cross section, especially as the lowest part of the base of a column.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a ridge of bone or muscle.",
+      "definitions_ex_en": "the maxillary torus",
+      "definitions_ex_vn": "Torus Maxilary.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the receptacle of a flower.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387812_0509e79091_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387812_3c57f107cd_o.png",
+      "id_image": "torus_3810194"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698069_e2c9c7e1c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698069_e0fa359386_o.png",
+      "id_image": "torus_5853807"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387752_ab20df18ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387752_7b35432dee_o.png",
+      "id_image": "torus_5853893"
+    }
+  ]
+}

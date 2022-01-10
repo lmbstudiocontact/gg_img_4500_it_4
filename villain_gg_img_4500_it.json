@@ -1,0 +1,44 @@
+{
+  "english": "villain",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người đểu giả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người xỏ lá",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(in a film, novel, or play) a character whose evil actions or motives are important to the plot.",
+      "definitions_ex_en": "I have played more good guys than villains",
+      "definitions_ex_vn": "Tôi đã chơi nhiều chàng trai tốt hơn nhân vật phản diện",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "variant spelling of villein.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081125_7157e9dc39_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081125_32b9a4dd18_o.png",
+      "id_image": "villain_2155380"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343701_49c68eb333_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343701_e8f619c3c7_o.png",
+      "id_image": "villain_5039273"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698854_b45dab208f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698854_e34c5ea8ed_o.png",
+      "id_image": "villain_5039320"
+    }
+  ]
+}

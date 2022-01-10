@@ -1,0 +1,46 @@
+{
+  "english": "sorrow",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nổi âu sầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nổi đau đờn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nổi khổ sở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm buồn rầu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm phiền muộn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a feeling of deep distress caused by loss, disappointment, or other misfortune suffered by oneself or others.",
+      "definitions_ex_en": "he understood the sorrow and discontent underlying his brother's sigh",
+      "definitions_ex_vn": "Anh hiểu nỗi buồn và bất mãn sự suy nghĩ của anh trai mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "feel or display deep distress.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325786_0095f9101a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325786_e954298c7d_o.png",
+      "id_image": "sorrow_5664187"
+    }
+  ]
+}

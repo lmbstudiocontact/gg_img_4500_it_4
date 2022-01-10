@@ -1,0 +1,94 @@
+{
+  "english": "trust",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lòng tin",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giao thác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trách nhiệm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kỳ vọng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự trông mong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tin cậy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tín nhiệm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hy vọng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tín nhiệm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trông cậy",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "firm belief in the reliability, truth, ability, or strength of someone or something.",
+      "definitions_ex_en": "relations have to be built on trust",
+      "definitions_ex_vn": "Quan hệ phải được xây dựng trên niềm tin",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an arrangement whereby a person (a trustee) holds property as its nominal owner for the good of one or more beneficiaries.",
+      "definitions_ex_en": "a trust was set up",
+      "definitions_ex_vn": "Một niềm tin đã được thiết lập",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a hope or expectation.",
+      "definitions_ex_en": "all the great trusts of womanhood",
+      "definitions_ex_vn": "tất cả những niềm tin lớn của phụ nữ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "believe in the reliability, truth, ability, or strength of.",
+      "definitions_ex_en": "I should never have trusted her",
+      "definitions_ex_vn": "Tôi không bao giờ nên tin tưởng cô ấy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "allow credit to (a customer).",
+      "definitions_ex_en": "all persons are forbid to trust sailors",
+      "definitions_ex_vn": "Tất cả những người đều bị cấm đối với các thủy thủ tin tưởng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686024_4507f63361_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686024_afcc4a6d3a_o.png",
+      "id_image": "trust_1622629"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375662_688869184c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375662_c27e189949_o.png",
+      "id_image": "trust_2191224"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375597_91f67dfa03_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375597_2c3acce27a_o.png",
+      "id_image": "trust_3317740"
+    }
+  ]
+}

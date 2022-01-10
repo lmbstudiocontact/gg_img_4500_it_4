@@ -1,0 +1,91 @@
+{
+  "english": "try",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự thử",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thí nghiệm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắt chịu gian nan",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "biện hộ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thí nghiệm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thử",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thử thách",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xét đoán",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xử đoán",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make an attempt or effort to do something.",
+      "definitions_ex_en": "he tried to regain his breath",
+      "definitions_ex_vn": "Anh cố lấy lấy lấy hơi thở của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "subject (someone) to trial.",
+      "definitions_ex_en": "he was arrested and tried for the murder",
+      "definitions_ex_vn": "Anh ta bị bắt và cố gắng giết người",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make severe demands on (a person or a quality, typically patience).",
+      "definitions_ex_en": "Mary tried everyone's patience to the limit",
+      "definitions_ex_vn": "Mary đã cố gắng kiên nhẫn của mọi người đến giới hạn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "smooth (roughly planed wood) with a plane to give an accurately flat surface.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an effort to accomplish something; an attempt.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of touching the ball down behind the opposing goal line, scoring points and entitling the scoring side to a goal kick.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810118105_79e3a32d65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810118105_94912229a5_o.png",
+      "id_image": "try_5278684"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067500_9c0812f576_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067500_c96b9d401f_o.png",
+      "id_image": "try_5625759"
+    }
+  ]
+}

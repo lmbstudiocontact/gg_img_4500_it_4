@@ -1,0 +1,49 @@
+{
+  "english": "wireless",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không dây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vô tuyến điện",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "using radio, microwaves, etc. (as opposed to wires or cables) to transmit signals.",
+      "definitions_ex_en": "wireless broadband",
+      "definitions_ex_vn": "băng thông rộng không dây",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "broadcasting, computer networking, or other communication using radio signals, microwaves, etc.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336336_95c9c4c50b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336336_7bdc59d54a_o.png",
+      "id_image": "wireless_1610462"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691704_7c1bb3dd8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691704_c3014f025b_o.png",
+      "id_image": "wireless_180981"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073230_69d78616fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073230_93af8d4d9d_o.png",
+      "id_image": "wireless_5100289"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691674_7a226852d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691674_b48e720bee_o.png",
+      "id_image": "wireless_958374"
+    }
+  ]
+}

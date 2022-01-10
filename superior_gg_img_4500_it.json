@@ -1,0 +1,78 @@
+{
+  "english": "superior",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cao",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có noản sào",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ở trên cao",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hách dịch",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "hống hách",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kiêu ngạo",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "người có địa vị cao",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "higher in rank, status, or quality.",
+      "definitions_ex_en": "a superior officer",
+      "definitions_ex_vn": "một sĩ quan cao cấp",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "having or showing an overly high opinion of oneself; supercilious.",
+      "definitions_ex_en": "that girl was frightfully superior",
+      "definitions_ex_vn": "Cô gái đó thật đáng sợ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a letter, figure, or symbol) written or printed above the line.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "further above or out; higher in position.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a person or thing superior to another in rank, status, or quality, especially a colleague in a higher position.",
+      "definitions_ex_en": "obeying their superiors' orders",
+      "definitions_ex_vn": "Tuân thủ đơn hàng của cấp trên của họ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a superior letter, figure, or symbol.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382302_8049df3393_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382302_e666cecdce_o.png",
+      "id_image": "superior_994651"
+    }
+  ]
+}

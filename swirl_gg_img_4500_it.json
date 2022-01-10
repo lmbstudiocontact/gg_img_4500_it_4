@@ -1,0 +1,42 @@
+{
+  "english": "swirl",
+  "list_translation_mean": [
+    {
+      "translate_mean": "vật bị cuốn đi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuốn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quay cuồng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xoáy",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "move in a twisting or spiraling pattern.",
+      "definitions_ex_en": "the smoke was swirling around him",
+      "definitions_ex_vn": "Khói bị xoáy quanh anh ta",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a quantity of something moving in a swirl.",
+      "definitions_ex_en": "swirls of dust swept across the floor",
+      "definitions_ex_vn": "Quay bụi quét qua sàn nhà",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331856_e9f4dc3fb0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331856_d0c4d9bd2f_o.png",
+      "id_image": "swirl_6006266"
+    }
+  ]
+}

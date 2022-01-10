@@ -1,0 +1,43 @@
+{
+  "english": "visible",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có thể thấy",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tính trông thấy được",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trông thấy được",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "able to be seen.",
+      "definitions_ex_en": "the church spire is visible from miles away",
+      "definitions_ex_vn": "Spire nhà thờ có thể nhìn thấy từ dặm",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to imports or exports of tangible commodities.",
+      "definitions_ex_en": "the visible trade gap",
+      "definitions_ex_vn": "Khoảng cách thương mại có thể nhìn thấy",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342476_78075bc1e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342476_c9c5a42a47_o.png",
+      "id_image": "visible_169124"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387512_345b9c1baf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387512_b9f415a28e_o.png",
+      "id_image": "visible_5875369"
+    }
+  ]
+}

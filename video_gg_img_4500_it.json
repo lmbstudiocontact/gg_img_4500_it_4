@@ -1,0 +1,50 @@
+{
+  "english": "video",
+  "list_translation_mean": [
+    {
+      "translate_mean": "video",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chiếu phim",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the recording, reproducing, or broadcasting of moving visual images.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a recording of moving visual images made digitally or on videotape.",
+      "definitions_ex_en": "they sat down to watch a video",
+      "definitions_ex_vn": "Họ ngồi xuống để xem một video",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "record on videotape.",
+      "definitions_ex_en": "he declined an invitation to be videoed",
+      "definitions_ex_vn": "Ông đã từ chối một lời mời để được quay video",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699869_547130c2be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699869_860b935a05_o.png",
+      "id_image": "video_1246622"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389742_d3e9e3fbbc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389742_c8a45350e0_o.png",
+      "id_image": "video_183606"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699899_152ef15491_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699899_8a7d9ded37_o.png",
+      "id_image": "video_563034"
+    }
+  ]
+}

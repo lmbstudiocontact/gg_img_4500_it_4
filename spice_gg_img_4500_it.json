@@ -1,0 +1,65 @@
+{
+  "english": "spice",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đồ gia vị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hương liệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bỏ gia vị",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an aromatic or pungent vegetable substance used to flavor food, e.g. cloves, pepper, or cumin.",
+      "definitions_ex_en": "enjoy the taste and aroma of freshly ground spices",
+      "definitions_ex_vn": "Tận hưởng hương vị và mùi thơm của gia vị mới xay",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a russet color.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a type of synthetic marijuana.",
+      "definitions_ex_en": "he was smoking spice to cope with his anxiety",
+      "definitions_ex_vn": "Anh ta đang hút gia vị để đối phó với sự lo lắng của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "flavor with spice.",
+      "definitions_ex_en": "I've spiced the stew with cloves, pepper, and fennel seed",
+      "definitions_ex_vn": "Tôi đã gia vị hầm với đinh hương, hạt tiêu và hạt cây thì là",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368947_0b2b78300c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368947_5dc18c2bfe_o.png",
+      "id_image": "spice_1553048"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679234_99f9614f4c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679234_ea5fb28a06_o.png",
+      "id_image": "spice_2230426"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679214_3347bdb2d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679214_829475d771_o.png",
+      "id_image": "spice_4993418"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439073_a97a128f3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439073_c2af3143d9_o.png",
+      "id_image": "spice_5495595"
+    }
+  ]
+}

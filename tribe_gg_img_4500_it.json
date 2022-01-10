@@ -1,0 +1,38 @@
+{
+  "english": "tribe",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bộ lạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bộ tộc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đám người cùng một nghề",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a social division in a traditional society consisting of families or communities linked by social, economic, religious, or blood ties, with a common culture and dialect, typically having a recognized leader.",
+      "definitions_ex_en": "indigenous Indian tribes",
+      "definitions_ex_vn": "Tribes Ấn Độ bản địa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a taxonomic category that ranks above genus and below family or subfamily, usually ending in -ini (in zoology) or -eae (in botany).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688844_1307348ab5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688844_5c2ee07c86_o.png",
+      "id_image": "tribe_3787994"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "english": "weave",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cách dệt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự dệt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đan lại với nhau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kết lại với nhau",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "form (fabric or a fabric item) by interlacing long threads passing in one direction with others at a right angle to them.",
+      "definitions_ex_en": "textiles woven from linen or wool",
+      "definitions_ex_vn": "Dệt may dệt từ vải lanh hoặc len",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make (a complex story or pattern) from a number of interconnected elements.",
+      "definitions_ex_en": "he weaves colourful, cinematic plots",
+      "definitions_ex_vn": "Anh ta dệt những mảnh đất đầy màu sắc, điện ảnh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "twist and turn from side to side while moving somewhere in order to avoid obstructions.",
+      "definitions_ex_en": "he had to weave his way through the crowds",
+      "definitions_ex_vn": "anh phải dệt theo cách của mình thông qua đám đông",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a particular style or manner in which something is woven.",
+      "definitions_ex_en": "scarlet cloth of a very fine weave",
+      "definitions_ex_vn": "Vải đỏ tươi của một kiểu dệt rất mịn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a hairstyle created by weaving pieces of real or artificial hair into a person's existing hair, typically in order to increase its length or thickness.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333796_1d2b58e6f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333796_e8121bf227_o.png",
+      "id_image": "weave_1230735"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070790_70fe264aec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070790_a214bace13_o.png",
+      "id_image": "weave_3461831"
+    }
+  ]
+}

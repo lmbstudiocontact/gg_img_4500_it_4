@@ -1,0 +1,57 @@
+{
+  "english": "viewer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người có năng lực thấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người ngó thấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người nhìn thấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người trông thấy",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who looks at or inspects something.",
+      "definitions_ex_en": "the viewer of paintings or sculpture",
+      "definitions_ex_vn": "người xem tranh hoặc điêu khắc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a device for looking at slides or similar photographic images.",
+      "definitions_ex_en": "a slide viewer",
+      "definitions_ex_vn": "một người xem slide",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699599_267efd8e86_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699599_2cc55893d0_o.png",
+      "id_image": "viewer_1390265"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081885_0a32f0036b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081885_57ce061105_o.png",
+      "id_image": "viewer_2201281"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699504_5b3277e5a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699504_45c4f3e74e_o.png",
+      "id_image": "viewer_4443792"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081795_581f51fc3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081795_47a786f672_o.png",
+      "id_image": "viewer_5853632"
+    }
+  ]
+}

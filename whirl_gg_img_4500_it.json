@@ -1,0 +1,46 @@
+{
+  "english": "whirl",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự hồi chuyển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự quay tròn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự quây cuồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xoay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm cuốn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "move or cause to move rapidly around and around.",
+      "definitions_ex_en": "leaves whirled in eddies of wind",
+      "definitions_ex_vn": "Lá quay cuồng trong eddies của gió",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a rapid movement around and around.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375587_3e8c710a5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375587_7bf5b172c0_o.png",
+      "id_image": "whirl_2430106"
+    }
+  ]
+}

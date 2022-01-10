@@ -1,0 +1,98 @@
+{
+  "english": "shy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bẻn lẻn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhát",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rụt rè",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sự liệng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự quăng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "liệng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ném",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhảy thình lình",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "being reserved or having or showing nervousness or timidity in the company of other people.",
+      "definitions_ex_en": "I was pretty shy at school",
+      "definitions_ex_vn": "Tôi khá nhút nhát ở trường",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "less than; short of.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a plant) not bearing flowers or fruit well or prolifically.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(especially of a horse) start suddenly aside in fright at an object, noise, or movement.",
+      "definitions_ex_en": "their horses shied at the unfamiliar sight",
+      "definitions_ex_vn": "Ngựa của họ bị cản trở trong tầm nhìn xa lạ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "fling or throw (something) at a target.",
+      "definitions_ex_en": "he tore the glasses off and shied them at her",
+      "definitions_ex_vn": "Anh ta xé kính và khiến chúng bị cô ấy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a sudden startled movement, especially of a frightened horse.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of flinging or throwing something at a target.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078050_0f833e210f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078050_0d33c64aa8_o.png",
+      "id_image": "shy_214255"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385652_1a3c6c9930_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385652_99d33ffc06_o.png",
+      "id_image": "shy_599568"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695959_95ff121ff8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695959_e91d26c621_o.png",
+      "id_image": "shy_6001194"
+    }
+  ]
+}

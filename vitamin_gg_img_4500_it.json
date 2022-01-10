@@ -1,0 +1,33 @@
+{
+  "english": "vitamin",
+  "list_translation_mean": [
+    {
+      "translate_mean": "vitamin",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sinh tố",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "any of a group of organic compounds which are essential for normal growth and nutrition and are required in small quantities in the diet because they cannot be synthesized by the body.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079215_33e6946778_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079215_c175dafcaf_o.png",
+      "id_image": "vitamin_4005511"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697004_98d616f77e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697004_ab4697c39f_o.png",
+      "id_image": "vitamin_5046988"
+    }
+  ]
+}

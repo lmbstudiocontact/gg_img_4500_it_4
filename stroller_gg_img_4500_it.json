@@ -1,0 +1,46 @@
+{
+  "english": "stroller",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đi thơ thẩn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đi thơ thẩn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đi dạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đi vẩn vơ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person taking a leisurely walk.",
+      "definitions_ex_en": "shady gardens where strollers could relax",
+      "definitions_ex_vn": "những khu vườn râm mát nơi xe đẩy có thể thư giãn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386992_619bb8f650_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386992_3739c2a98e_o.png",
+      "id_image": "stroller_394434"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386952_f36d88050e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386952_f53c585171_o.png",
+      "id_image": "stroller_5020259"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386937_92f310d846_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386937_2a34ea1059_o.png",
+      "id_image": "stroller_5101272"
+    }
+  ]
+}

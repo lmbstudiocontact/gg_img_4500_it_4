@@ -1,0 +1,67 @@
+{
+  "english": "usher",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giám thị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hoàng môn quan",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người rể phụ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phụ giáo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thừa phát lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trợ giáo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who shows people to their seats, especially in a theater or at a wedding.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an assistant teacher.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "show or guide (someone) somewhere.",
+      "definitions_ex_en": "a waiter ushered me to a table",
+      "definitions_ex_vn": "Một người phục vụ mở ra cho tôi một cái bàn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cause or mark the start of something new.",
+      "definitions_ex_en": "the railroads ushered in an era of cheap mass travel",
+      "definitions_ex_vn": "Đường sắt mở ra một kỷ nguyên du lịch hàng loạt giá rẻ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350681_2d0b48c2dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350681_6ed194eeb3_o.png",
+      "id_image": "usher_6413973"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350646_7094649a2c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350646_4e9e2e8b5e_o.png",
+      "id_image": "usher_6413992"
+    }
+  ]
+}

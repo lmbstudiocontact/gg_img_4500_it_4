@@ -1,0 +1,109 @@
+{
+  "english": "term",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kêu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chỉ định",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "điều khoản",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giới hạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kỳ hạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khoảng ba tháng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hạn kỳ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giao thiệp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thời gian",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a word or phrase used to describe a thing or to express a concept, especially in a particular kind of language or branch of study.",
+      "definitions_ex_en": "the musical term “leitmotiv”",
+      "definitions_ex_vn": "thuật ngữ âm nhạc \"leitmotiv\"",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a fixed or limited period for which something, e.g., office, imprisonment, or investment, lasts or is intended to last.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "each of the periods in the year, alternating with holidays or vacations, during which instruction is given in a school, college, or university, or during which a court holds sessions.",
+      "definitions_ex_en": "the summer term",
+      "definitions_ex_vn": "Học kỳ mùa hè",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "conditions under which an action may be undertaken or agreement reached; stipulated or agreed-upon requirements.",
+      "definitions_ex_en": "he could only be dealt with on his own terms",
+      "definitions_ex_vn": "anh ta chỉ có thể được xử lý theo cách riêng của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "each of the quantities in a ratio, series, or mathematical expression.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "another term for terminus.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "give a descriptive name to; call by a specified name.",
+      "definitions_ex_en": "he has been termed the father of modern theology",
+      "definitions_ex_vn": "Ông đã được gọi là cha đẻ của thần học hiện đại",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "terminal.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    },
+    {
+      "definitions_word_en": "termination.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466573_c3f2b7e3d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466573_60124628cc_o.png",
+      "id_image": "term_1356598"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089275_02b7f891a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089275_0962ee02fd_o.png",
+      "id_image": "term_2302723"
+    }
+  ]
+}

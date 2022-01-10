@@ -1,0 +1,52 @@
+{
+  "english": "summary",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khái lược",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "sơ lược",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tóm lại",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tóm lược",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tóm tắc",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a brief statement or account of the main points of something.",
+      "definitions_ex_en": "a summary of Chapter Three",
+      "definitions_ex_vn": "một bản tóm tắt của chương ba",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "dispensing with needless details or formalities; brief.",
+      "definitions_ex_en": "summary financial statements",
+      "definitions_ex_vn": "Tóm tắt báo cáo tài chính",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a judicial process) conducted without the customary legal formalities.",
+      "definitions_ex_en": "summary arrest",
+      "definitions_ex_vn": "Tóm tắt ARREST.",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453048_15ca33fbb8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453048_c0265813c8_o.png",
+      "id_image": "summary_4833961"
+    }
+  ]
+}

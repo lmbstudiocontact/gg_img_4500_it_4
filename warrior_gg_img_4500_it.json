@@ -1,0 +1,40 @@
+{
+  "english": "warrior",
+  "list_translation_mean": [
+    {
+      "translate_mean": "quân nhân",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(especially in former times) a brave or experienced soldier or fighter.",
+      "definitions_ex_en": "the warrior heroes of ancient Greece",
+      "definitions_ex_vn": "Những anh hùng chiến binh của Hy Lạp cổ đại",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "any of a number of standing poses in yoga in which the legs are held apart and the arms are stretched outwards.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381957_3386f12b66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381957_a9758dd72b_o.png",
+      "id_image": "warrior_1615657"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692179_a389566430_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692179_d89ac88c3f_o.png",
+      "id_image": "warrior_2229982"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692129_ccd5b7fa66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692129_969fb07133_o.png",
+      "id_image": "warrior_4742477"
+    }
+  ]
+}

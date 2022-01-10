@@ -1,0 +1,92 @@
+{
+  "english": "trailer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây leo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây bò",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đi kéo lết ở sau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đi sau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người lùng bắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà di động",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xe rờ mọt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an unpowered vehicle towed by another.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an excerpt or series of excerpts from a movie or program used to advertise it in advance; a preview.",
+      "definitions_ex_en": "terrific trailers for mediocre movies",
+      "definitions_ex_vn": "trailer tuyệt vời cho phim tầm thường",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing that trails, especially a trailing plant.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "advertise (a movie or program) in advance by broadcasting excerpts or details.",
+      "definitions_ex_en": "the series has already been heavily trailered",
+      "definitions_ex_vn": "Sê-ri đã bị mòn nhiều",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "transport (something) by trailer.",
+      "definitions_ex_en": "the aircraft is easy to trailer and will fit into any garage",
+      "definitions_ex_vn": "Máy bay dễ để trailer và sẽ phù hợp với bất kỳ nhà để xe",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454918_7b5cc6a2ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454918_f6c4b70f04_o.png",
+      "id_image": "trailer_1580085"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454863_51ecf3aec6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454863_39938a293d_o.png",
+      "id_image": "trailer_1846271"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077220_854c1da1ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077220_23412ac1a1_o.png",
+      "id_image": "trailer_2123926"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695154_920e61091c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695154_88f388dd60_o.png",
+      "id_image": "trailer_2308034"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077140_a499111631_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077140_1f8cb5c6b9_o.png",
+      "id_image": "trailer_4269183"
+    }
+  ]
+}

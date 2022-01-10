@@ -1,0 +1,43 @@
+{
+  "english": "yogurt",
+  "list_translation_mean": [
+    {
+      "translate_mean": "da ua",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sữa chua",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a semisolid food prepared from milk fermented by added bacteria, often sweetened and flavored.",
+      "definitions_ex_en": "low-fat yogurt",
+      "definitions_ex_vn": "sữa chua ít chất béo",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445378_d99d00f923_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445378_5258c1cdb5_o.png",
+      "id_image": "yogurt_1867864"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067250_169d1d5b42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067250_a40af94f2d_o.png",
+      "id_image": "yogurt_1907132"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685459_5cb881e09d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685459_3cd065b6cb_o.png",
+      "id_image": "yogurt_2923208"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375037_cd4eaaba1b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375037_8cae637048_o.png",
+      "id_image": "yogurt_2934145"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "english": "trainer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "huấn luyện viên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người tập dượt cho vỏ sĩ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who trains people or animals.",
+      "definitions_ex_en": "a racehorse owner and trainer",
+      "definitions_ex_vn": "một chủ sở hữu và huấn luyện viên đua ngựa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person whose job is to provide medical assistance to athletes.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454613_86c14201c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454613_8f41c24a29_o.png",
+      "id_image": "trainer_1226258"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339621_ed34c74b6e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339621_cc123e2bbc_o.png",
+      "id_image": "trainer_3476302"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694829_b7f20b7821_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694829_b6642dabf3_o.png",
+      "id_image": "trainer_6036814"
+    }
+  ]
+}

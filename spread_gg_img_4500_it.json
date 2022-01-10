@@ -1,0 +1,139 @@
+{
+  "english": "spread",
+  "list_translation_mean": [
+    {
+      "translate_mean": "căng ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trương ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chạy dài ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lan tràn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "trải ra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "truyền bịnh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đồn tin",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cánh xoè ra",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lan rộng ra",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trải ra",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bữa ăn tiệc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "diện tích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lan rộng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự phân cách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự truyền bá",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "open out (something) so as to extend its surface area, width, or length.",
+      "definitions_ex_en": "I spread a towel on the sand and sat down",
+      "definitions_ex_vn": "Tôi trải một chiếc khăn trên cát và ngồi xuống",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "extend over a large or increasing area.",
+      "definitions_ex_en": "she stood at the window looking at the town spread out below",
+      "definitions_ex_vn": "Cô đứng ở cửa sổ nhìn vào thị trấn trải rộng bên dưới",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "apply (a substance) to an object or surface in an even layer.",
+      "definitions_ex_en": "he sighed, spreading jam on a croissant",
+      "definitions_ex_vn": "Anh thở dài, rải kẹt trên một chiếc croissant",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "lay (a table) for a meal.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "the fact or process of spreading over an area.",
+      "definitions_ex_en": "warmer temperatures could help reduce the spread of the disease",
+      "definitions_ex_vn": "Nhiệt độ ấm hơn có thể giúp giảm sự lây lan của bệnh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the extent, width, or area covered by something.",
+      "definitions_ex_en": "the male's antlers can attain a spread of six feet",
+      "definitions_ex_vn": "gạc của nam giới có thể đạt được sự lây lan sáu feet",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the range or variety of something.",
+      "definitions_ex_en": "a wide spread of ages",
+      "definitions_ex_vn": "Một lứa tuổi rộng rãi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a soft paste that can be applied in a layer to bread or other food.",
+      "definitions_ex_en": "low-fat spreads",
+      "definitions_ex_vn": "lây lan ít chất béo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an article or advertisement covering several columns or pages of a newspaper or magazine, especially one on two facing pages.",
+      "definitions_ex_en": "a double-page spread",
+      "definitions_ex_vn": "một sự lây lan hai trang",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a large and impressively elaborate meal.",
+      "definitions_ex_en": "his mother laid on a huge spread",
+      "definitions_ex_vn": "Mẹ anh nằm trên một sự lây lan lớn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352516_b391b0d4e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352516_d8bf87f6a5_o.png",
+      "id_image": "spread_2707427"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352486_7d6d1f2082_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352486_717549e669_o.png",
+      "id_image": "spread_2746312"
+    }
+  ]
+}

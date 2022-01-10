@@ -1,0 +1,79 @@
+{
+  "english": "thread",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chỉ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dây nhỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường chỉ may",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật giống hình sợi chỉ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắt chỉ đinh ốc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xỏ kim",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a long, thin strand of cotton, nylon, or other fibers used in sewing or weaving.",
+      "definitions_ex_en": "he had a loose thread on his shirt",
+      "definitions_ex_vn": "Anh ta có một sợi loãng trên áo sơ mi của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a theme or characteristic, typically forming one of several, running throughout a situation or piece of writing.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a helical ridge on the outside of a screw, bolt, etc. or on the inside of a cylindrical hole, to allow two parts to be screwed together.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "pass a thread through the eye of (a needle) or through the needle and guides of (a sewing machine).",
+      "definitions_ex_en": "I can't even thread a needle",
+      "definitions_ex_vn": "Tôi thậm chí không thể luồn kim",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "pluck hairs from (the eyebrows or another part of the body) using a twisted cotton thread.",
+      "definitions_ex_en": "I had my eyebrows threaded today",
+      "definitions_ex_vn": "Tôi đã có lông mày của tôi luồn ngày hôm nay",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cut a screw thread in or on (a hole, screw, bolt, etc.).",
+      "definitions_ex_en": "we're laser-cutting holes to be threaded for screws",
+      "definitions_ex_vn": "Chúng tôi là các lỗ cắt laser để được ren cho ốc vít",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086510_8acb3d7f0f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086510_5cbc061cdf_o.png",
+      "id_image": "thread_4301333"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703889_fcf89d2d27_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703889_6b5e7edd72_o.png",
+      "id_image": "thread_6306789"
+    }
+  ]
+}

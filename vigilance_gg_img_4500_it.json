@@ -1,0 +1,43 @@
+{
+  "english": "vigilance",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự canh gác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xem chừng cẩn thận",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action or state of keeping careful watch for possible danger or difficulties.",
+      "definitions_ex_en": "security duties that demand long hours of vigilance",
+      "definitions_ex_vn": "Nhiệm vụ bảo mật mà đòi hỏi nhiều giờ cảnh giác",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458888_163cacaa90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458888_ff54c0e4c8_o.png",
+      "id_image": "vigilance_1088917"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081525_a9dc5c4f8e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081525_fd0e851341_o.png",
+      "id_image": "vigilance_4310484"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081460_c9e4b4f197_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081460_595f2e99ee_o.png",
+      "id_image": "vigilance_4412774"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389117_e4fc973ac8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389117_a952491c79_o.png",
+      "id_image": "vigilance_708645"
+    }
+  ]
+}

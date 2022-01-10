@@ -1,0 +1,69 @@
+{
+  "english": "swipe",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cú đánh mạnh gôn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gàu múc nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vết đánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ăn cắp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh hết sức mạnh",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "hit or try to hit with a swinging blow.",
+      "definitions_ex_en": "she swiped me right across the nose",
+      "definitions_ex_vn": "Cô ấy quẹt tôi ngay trên mũi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "pass (a swipe card) through an electronic device designed to read and process the information encoded on it.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "steal.",
+      "definitions_ex_en": "someone swiped one of his sausages",
+      "definitions_ex_vn": "ai đó quẹt một trong những xúc xích của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a sweeping blow.",
+      "definitions_ex_en": "he missed the ball with his first swipe",
+      "definitions_ex_vn": "Anh bỏ lỡ quả bóng với cú vuốt đầu tiên của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act or instance of moving one's finger across a touchscreen to activate a function.",
+      "definitions_ex_en": "a swipe to the right archives or deletes the message",
+      "definitions_ex_vn": "một vuốt sang lưu trữ bên phải hoặc xóa tin nhắn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686979_6d6e291256_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686979_47cc84a25e_o.png",
+      "id_image": "swipe_2121059"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376757_0966d90fbd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376757_915d9cc802_o.png",
+      "id_image": "swipe_219658"
+    }
+  ]
+}

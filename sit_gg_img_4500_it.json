@@ -1,0 +1,67 @@
+{
+  "english": "sit",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đậu trên cây",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngồi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhóm họp",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "adopt or be in a position in which one's weight is supported by one's buttocks rather than one's feet and one's back is upright.",
+      "definitions_ex_en": "I sat next to him at dinner",
+      "definitions_ex_vn": "Tôi ngồi cạnh anh ấy vào bữa tối",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be or remain in a particular position or state.",
+      "definitions_ex_en": "the fridge was sitting in a pool of water",
+      "definitions_ex_vn": "Tủ lạnh đang ngồi trong một vũng nước",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a legislature, committee, court of law, etc.) be engaged in its business.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "stay in someone's house while they are away and look after their house or pet.",
+      "definitions_ex_en": "Kelly had been cat-sitting for me",
+      "definitions_ex_vn": "Kelly đã được ngồi cho tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a period of sitting.",
+      "definitions_ex_en": "a sit in the shade",
+      "definitions_ex_vn": "ngồi trong bóng râm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the way in which an item of clothing fits someone.",
+      "definitions_ex_en": "the sit of her gown",
+      "definitions_ex_vn": "ngồi áo choàng của cô ấy",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692124_7490a2f6a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692124_6af30234c9_o.png",
+      "id_image": "sit_619179"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336756_eef75e76a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336756_6d5c884c3b_o.png",
+      "id_image": "sit_6401005"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "english": "sponge",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bọt biển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự bỏ cuộc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chịu thua",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ăn chực",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chùi bằng bọt biển",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rửa vết thương",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a primitive sedentary aquatic invertebrate with a soft porous body that is typically supported by a framework of fibers or calcareous or glassy spicules. Sponges draw in a current of water to extract nutrients and oxygen.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a piece of a soft, light, porous substance originally consisting of the fibrous skeleton of an invertebrate but now usually made of synthetic material. Sponges absorb liquid and are used for washing and cleaning.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a heavy drinker.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "wipe, rub, or clean with a wet sponge or cloth.",
+      "definitions_ex_en": "she sponged him down in an attempt to cool his fever",
+      "definitions_ex_vn": "Cô ấy giẫm lên anh ta trong một nỗ lực để làm mát cơn sốt của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "obtain or accept money or food from other people without doing or intending to do anything in return.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467978_a224d6d990_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467978_c4267bdbb9_o.png",
+      "id_image": "sponge_1619265"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810090575_c442023d53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810090575_6cdbcf2875_o.png",
+      "id_image": "sponge_2203683"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808398107_97aa5f8c69_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808398107_1f50f67ae9_o.png",
+      "id_image": "sponge_5732176"
+    }
+  ]
+}

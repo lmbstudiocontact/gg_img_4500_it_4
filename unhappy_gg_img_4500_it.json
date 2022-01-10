@@ -1,0 +1,37 @@
+{
+  "english": "unhappy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "buồn rầu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khổ sở",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phiền muộn",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "not happy.",
+      "definitions_ex_en": "an unhappy marriage",
+      "definitions_ex_vn": "một cuộc hôn nhân không hạnh phúc",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809353176_66a6f47b15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809353176_40e564d52f_o.png",
+      "id_image": "unhappy_5132862"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810090535_f55e2f23dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810090535_5fcc396221_o.png",
+      "id_image": "unhappy_6306506"
+    }
+  ]
+}

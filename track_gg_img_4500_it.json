@@ -1,0 +1,133 @@
+{
+  "english": "track",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dấu chân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường chạy qua",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường chạy trong máy hát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường của người đi qua",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường đi qua",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường đua xe",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường ray",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường xe lửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "những lằn trong dĩa hát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "theo dấu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "truy nả",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a rough path or minor road, typically one beaten by use rather than constructed.",
+      "definitions_ex_en": "follow the track to the farm",
+      "definitions_ex_vn": "Theo dõi đường đua đến trang trại",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a mark or line of marks left by a person, animal, or vehicle in passing.",
+      "definitions_ex_en": "he followed the tracks made by the cars in the snow",
+      "definitions_ex_vn": "Anh theo dõi các đường ray do những chiếc xe trong tuyết",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a continuous line of rails on a railroad.",
+      "definitions_ex_en": "commuters had to leave trains to walk along the tracks",
+      "definitions_ex_vn": "những người đi làm đã phải để những chuyến tàu để đi bộ dọc theo đường ray",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a recording of one song or piece of music.",
+      "definitions_ex_en": "the CD contains early Elvis Presley tracks",
+      "definitions_ex_vn": "CD chứa các bản nhạc Elvis Presley đầu tiên",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a continuous articulated metal band around the wheels of a heavy vehicle such as a tank or bulldozer, intended to facilitate movement over rough or soft ground.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the transverse distance between a vehicle's wheels.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "follow the course or trail of (someone or something), typically in order to find them or note their location at various points.",
+      "definitions_ex_en": "secondary radars that track the aircraft in flight",
+      "definitions_ex_vn": "radar thứ cấp theo dõi máy bay trong chuyến bay",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of wheels) run so that the back ones are exactly in the track of the front ones.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a tunable circuit or component) vary in frequency in the same way as another circuit or component, so that the frequency difference between them remains constant.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "tow (a boat) along a waterway from the bank.",
+      "definitions_ex_en": "he was going to track the canoe up the ice-hung rapids",
+      "definitions_ex_vn": "Anh ta sẽ theo dõi ca nô lên băng băng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696319_10103674ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696319_bedca329f2_o.png",
+      "id_image": "track_3967489"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696304_c85ee948c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696304_1b02d2a73b_o.png",
+      "id_image": "track_6246147"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696389_706438627e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696389_061468ca4a_o.png",
+      "id_image": "track_684451"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341131_73b96abc8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341131_6d48e91914_o.png",
+      "id_image": "track_684456"
+    }
+  ]
+}

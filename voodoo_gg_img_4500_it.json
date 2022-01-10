@@ -1,0 +1,50 @@
+{
+  "english": "voodoo",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thư",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thần ma giáo ở phi châu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trù",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ma giáo ở phi châu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự dùng tà thuật để thư",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự dùng tà thuật để trù",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a religion practiced in parts of the Caribbean and the southern US, combining elements of Roman Catholic ritual with traditional African magical and religious rites, and characterized by sorcery and spirit possession.",
+      "definitions_ex_en": "they can use voodoo to help people",
+      "definitions_ex_vn": "Họ có thể sử dụng Voodoo để giúp mọi người",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "affect (someone) by the practice of voodoo.",
+      "definitions_ex_en": "someone had voodooed her",
+      "definitions_ex_vn": "ai đó đã voodooed cô ấy",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455268_7cf4fe5ebf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455268_1f00ecc891_o.png",
+      "id_image": "voodoo_5327140"
+    }
+  ]
+}

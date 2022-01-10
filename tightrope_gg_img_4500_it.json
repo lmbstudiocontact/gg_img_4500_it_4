@@ -1,0 +1,35 @@
+{
+  "english": "tightrope",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dây thẳng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a rope or wire stretched tightly high above the ground, on which acrobats perform feats of balancing.",
+      "definitions_ex_en": "a tightrope walker",
+      "definitions_ex_vn": "một người đi bộ trên đỉnh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "walk or perform on a tightrope.",
+      "definitions_ex_en": "the man who tightroped across Niagara Falls",
+      "definitions_ex_vn": "Người đàn ông lightroped qua thác Niagara",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462593_83e77d49ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462593_8a16600418_o.png",
+      "id_image": "tightrope_1020791"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702534_dceb323512_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702534_f80b813b15_o.png",
+      "id_image": "tightrope_805550"
+    }
+  ]
+}

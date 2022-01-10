@@ -1,0 +1,58 @@
+{
+  "english": "tenor",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bản sao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giọng cao của đàn ông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kỳ hạn của ngân phiếu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nội dung bức thơ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình trạng của công việc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a singing voice between baritone and alto or countertenor, the highest of the ordinary adult male range.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the general meaning, sense, or content of something.",
+      "definitions_ex_en": "the general tenor of the debate",
+      "definitions_ex_vn": "Tổng số kỳ hạn của cuộc tranh luận",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the actual wording of a document.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the time that must elapse before a bill of exchange or promissory note becomes due for payment.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466788_0409d6ea0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466788_4419305594_o.png",
+      "id_image": "tenor_320487"
+    }
+  ]
+}

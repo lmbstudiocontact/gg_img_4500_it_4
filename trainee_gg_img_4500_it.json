@@ -1,0 +1,32 @@
+{
+  "english": "trainee",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có huấn luyện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người huấn luyện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người tập dượt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person undergoing training for a particular job or profession.",
+      "definitions_ex_en": "trainee solicitors",
+      "definitions_ex_vn": "GIAO DỊCH GIANKEE",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454643_ee868f8087_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454643_1c4dc4ea46_o.png",
+      "id_image": "trainee_4126690"
+    }
+  ]
+}

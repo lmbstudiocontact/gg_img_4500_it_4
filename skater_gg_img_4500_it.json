@@ -1,0 +1,29 @@
+{
+  "english": "skater",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người trượt trên băng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who skates, especially on ice.",
+      "definitions_ex_en": "he was working as a professional skater at ice shows",
+      "definitions_ex_vn": "Anh ta đang làm một người trượt băng chuyên nghiệp tại Ice Shows",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336201_fb5edb47e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336201_b7b4f91c22_o.png",
+      "id_image": "skater_1995325"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691539_8067718373_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691539_f36b0f5cb3_o.png",
+      "id_image": "skater_5020968"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "english": "slave",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nô lệ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who is the legal property of another and is forced to obey them.",
+      "definitions_ex_en": "they kidnapped entire towns and turned them into slaves",
+      "definitions_ex_vn": "Họ bắt cóc cả thị trấn và biến họ thành nô lệ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "work excessively hard.",
+      "definitions_ex_en": "after slaving away for fourteen years all he gets is two thousand",
+      "definitions_ex_vn": "Sau khi trốn đi trong mười bốn năm, tất cả những gì anh ta nhận được là hai ngàn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689619_ed169e66aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689619_f78fd7baef_o.png",
+      "id_image": "slave_5773048"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689574_248c171dde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689574_8a5ae9b923_o.png",
+      "id_image": "slave_5906183"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379397_46685ef08a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379397_a59ea76cdb_o.png",
+      "id_image": "slave_6146655"
+    }
+  ]
+}

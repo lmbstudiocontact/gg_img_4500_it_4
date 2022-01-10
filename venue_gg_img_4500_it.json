@@ -1,0 +1,32 @@
+{
+  "english": "venue",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chổ hội họp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ tòa hợp để xử",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ tụ họp",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the place where something happens, especially an organized event such as a concert, conference, or sports event.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461218_ce8108e59b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461218_707f18aaba_o.png",
+      "id_image": "venue_2132657"
+    }
+  ]
+}

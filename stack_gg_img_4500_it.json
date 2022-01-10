@@ -1,0 +1,78 @@
+{
+  "english": "stack",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây rơm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đơn vị đo lướng thể tích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đụn rơm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ống khói của xe lửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chất thành đống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chất rơm thành đụn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a pile of objects, typically one that is neatly arranged.",
+      "definitions_ex_en": "a stack of boxes",
+      "definitions_ex_vn": "một chồng hộp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a chimney, especially one on a factory, or a vertical exhaust pipe on a vehicle.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "arrange (a number of things) in a pile, typically a neat one.",
+      "definitions_ex_en": "she stood up, beginning to stack the plates",
+      "definitions_ex_vn": "Cô đứng dậy, bắt đầu xếp các tấm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "shuffle or arrange (a deck of cards) dishonestly so as to gain an unfair advantage.",
+      "definitions_ex_en": "I know the cards are stacked",
+      "definitions_ex_vn": "Tôi biết các thẻ được xếp chồng lên nhau",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(in snowboarding) fall over.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395662_e2c54ece35_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395662_92f6596664_o.png",
+      "id_image": "stack_1580485"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705479_47ca6b8d45_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705479_6d827dde07_o.png",
+      "id_image": "stack_2450181"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809465443_f949dc96ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809465443_dfafecd104_o.png",
+      "id_image": "stack_3342140"
+    }
+  ]
+}

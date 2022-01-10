@@ -1,0 +1,57 @@
+{
+  "english": "silence",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự làm thinh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự lặng thinh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nín thinh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắt làm thinh",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "complete absence of sound.",
+      "definitions_ex_en": "sirens pierce the silence of the night",
+      "definitions_ex_vn": "Sirens xuyên qua sự im lặng của đêm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "prohibit or prevent from speaking.",
+      "definitions_ex_en": "she was silenced by the officer's stern look",
+      "definitions_ex_vn": "Cô im lặng bởi vẻ ngoài nghiêm khắc của cảnh sát",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453893_27af60f42f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453893_e577fa6104_o.png",
+      "id_image": "silence_1201895"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075950_8f8b8f2a18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075950_0060d9d231_o.png",
+      "id_image": "silence_1450731"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453848_76f1dca1c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453848_b058d94e16_o.png",
+      "id_image": "silence_1464062"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076070_74075e2450_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076070_b35384b874_o.png",
+      "id_image": "silence_631751"
+    }
+  ]
+}

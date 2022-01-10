@@ -1,0 +1,89 @@
+{
+  "english": "staple",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái mấu sắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ kẹp giấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nguyên liệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sản phẫm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sản vật chính",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sợi len",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kẹp giấy",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a piece of thin wire with a long center portion and two short end pieces that are driven by a stapler through sheets of paper to fasten them together.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a main or important element of something, especially of a diet.",
+      "definitions_ex_en": "bread, milk, and other staples",
+      "definitions_ex_vn": "Bánh mì, sữa và các mặt hàng chủ lực khác",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the fiber of cotton or wool considered with regard to its length and degree of fineness.",
+      "definitions_ex_en": "jackets made from long-staple Egyptian cotton",
+      "definitions_ex_vn": "Áo khoác làm từ cotton Ai Cập dài",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a center of trade, especially in a specified commodity.",
+      "definitions_ex_en": "proposals were made for a wool staple at Pisa",
+      "definitions_ex_vn": "Các đề xuất được thực hiện cho một cây gậy len tại Pisa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "attach or secure with a staple or staples.",
+      "definitions_ex_en": "Mark stapled a batch of papers together",
+      "definitions_ex_vn": "Mark dập ghim một loạt các bài báo với nhau",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "sort or classify (wool, etc.) according to fiber.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "main or important, especially in terms of consumption.",
+      "definitions_ex_en": "the staple foods of the poor",
+      "definitions_ex_vn": "thức ăn chủ yếu của người nghèo",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704159_26cfc91d89_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704159_bab76cf9e1_o.png",
+      "id_image": "staple_2244331"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394272_81f44c500f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394272_3751f82d9f_o.png",
+      "id_image": "staple_548261"
+    }
+  ]
+}

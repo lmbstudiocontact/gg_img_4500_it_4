@@ -1,0 +1,97 @@
+{
+  "english": "view",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cách nhìn thấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cảnh quan",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "viển cảnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "năng lực thấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhìn thấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phong cảnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quang cảnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sức thấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nhìn qua",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trông thấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trông thấy",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the ability to see something or to be seen from a particular place.",
+      "definitions_ex_en": "the end of the tunnel came into view",
+      "definitions_ex_vn": "Sự kết thúc của đường hầm xuất hiện",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sight or prospect, typically of attractive natural scenery, that can be taken in by the eye from a particular place.",
+      "definitions_ex_en": "a fine view of the castle",
+      "definitions_ex_vn": "một cái nhìn tốt về lâu đài",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a particular way of considering or regarding something; an attitude or opinion.",
+      "definitions_ex_en": "strong political views",
+      "definitions_ex_vn": "Lượt xem chính trị mạnh mẽ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "look at or inspect (something).",
+      "definitions_ex_en": "the public can view the famous hall with its unique staircase",
+      "definitions_ex_vn": "Công chúng có thể xem hội trường nổi tiếng với cầu thang độc đáo của nó",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "regard in a particular light or with a particular attitude.",
+      "definitions_ex_en": "farmers are viewing the rise in rabbit numbers with concern",
+      "definitions_ex_vn": "Nông dân đang xem sự gia tăng của những con thỏ với mối quan tâm",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699634_d45ed68c92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699634_dc0ac8ba52_o.png",
+      "id_image": "view_2033280"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389442_9bc2ffd822_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389442_2179cbf243_o.png",
+      "id_image": "view_4470917"
+    }
+  ]
+}

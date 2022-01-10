@@ -1,0 +1,123 @@
+{
+  "english": "stem",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thân cây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "buồng chuối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuống hoa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngữ căn của một chữ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tổ tiên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuống lá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thủy tổ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh bật trở lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đánh lui",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đắp đập ngăn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi ngược",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the main body or stalk of a plant or shrub, typically rising above ground but occasionally subterranean.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a long, thin supportive or main section of something.",
+      "definitions_ex_en": "the main stem of the wing feathers",
+      "definitions_ex_vn": "thân chính của lông cánh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the root or main part of a noun, adjective, or other word, to which inflections or formative elements are added.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the main upright timber or metal piece at the bow of a ship, to which the ship's sides are joined.",
+      "definitions_ex_en": "the spines and bow stems of abandoned hulks",
+      "definitions_ex_vn": "các gai và nơ thân của những kẻ bỏ hoang",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "originate in or be caused by.",
+      "definitions_ex_en": "many of the universities' problems stem from rapid expansion",
+      "definitions_ex_vn": "Nhiều vấn đề của các trường đại học xuất phát từ sự mở rộng nhanh chóng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "remove the stems from (fruit or tobacco leaves).",
+      "definitions_ex_en": "her aunt and her mother were stemming currants on the side porch",
+      "definitions_ex_vn": "dì của cô và mẹ cô đang xuất phát nho trên hiên bên",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a boat) make headway against (the tide or current).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "stop or restrict (the flow of something).",
+      "definitions_ex_en": "a nurse did her best to stem the bleeding",
+      "definitions_ex_vn": "một y tá đã làm hết sức mình để ngăn chặn chảy máu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "slide the tail of one ski or both skis outward in order to turn or slow down.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "science, technology, engineering, and mathematics (as an educational category).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084850_1dfdeca6d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084850_4c04f4eebb_o.png",
+      "id_image": "stem_4776049"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347506_6971516f56_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347506_9becdb9231_o.png",
+      "id_image": "stem_4797127"
+    }
+  ]
+}

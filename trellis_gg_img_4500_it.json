@@ -1,0 +1,39 @@
+{
+  "english": "trellis",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đở nho bằng lưới",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lưới sắt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a framework of light wooden or metal bars, chiefly used as a support for fruit trees or climbing plants.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "provide with or enclose in a trellis.",
+      "definitions_ex_en": "Bruno's father repurposed concrete telephone poles to trellis the vineyard",
+      "definitions_ex_vn": "cha của Bruno thêm thắt cột điện thoại cụ thể để Trellis vườn nho",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690039_ebbed84438_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690039_699b8ea248_o.png",
+      "id_image": "trellis_242526"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689984_fbe1928814_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689984_1f20d8e231_o.png",
+      "id_image": "trellis_801777"
+    }
+  ]
+}

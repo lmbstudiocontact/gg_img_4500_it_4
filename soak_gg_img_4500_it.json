@@ -1,0 +1,82 @@
+{
+  "english": "soak",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự làm thấm nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ngâm da thú",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự say rượu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chỉ trích ác liệt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm thấm nước",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "uống quá độ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngâm da vào nước",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make or allow (something) to become thoroughly wet by immersing it in liquid.",
+      "definitions_ex_en": "soak the beans overnight in water",
+      "definitions_ex_vn": "ngâm đậu qua đêm trong nước",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "impose heavy charges or taxation on.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "drink heavily.",
+      "definitions_ex_en": "you keep soaking in taverns",
+      "definitions_ex_vn": "Bạn tiếp tục ngâm trong các quán rượu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of immersing someone or something in liquid for a period of time.",
+      "definitions_ex_en": "I'm looking forward to a long soak in the tub",
+      "definitions_ex_vn": "Tôi đang mong đợi một cơn đắm mình trong bồn tắm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a heavy drinker.",
+      "definitions_ex_en": "his daughter stayed up to put the old soak to bed",
+      "definitions_ex_vn": "con gái của anh ta thức dậy để ngâm mình lên giường",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443153_aa4c53d9b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443153_b54a0bb04c_o.png",
+      "id_image": "soak_2099975"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443108_89c23d98bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443108_9294c2e05e_o.png",
+      "id_image": "soak_3219344"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683114_bf17292494_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683114_3939173882_o.png",
+      "id_image": "soak_3953731"
+    }
+  ]
+}

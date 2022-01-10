@@ -1,0 +1,58 @@
+{
+  "english": "write",
+  "list_translation_mean": [
+    {
+      "translate_mean": "viết",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "mark (letters, words, or other symbols) on a surface, typically paper, with a pen, pencil, or similar implement.",
+      "definitions_ex_en": "he wrote his name on the paper",
+      "definitions_ex_vn": "Anh ấy đã viết tên của mình trên tờ giấy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "compose, write, and send (a letter) to someone.",
+      "definitions_ex_en": "I wrote a letter to Alison",
+      "definitions_ex_vn": "Tôi đã viết một lá thư cho Alison",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "compose (a text or work) for written or printed reproduction or publication; put into literary form and set down in writing.",
+      "definitions_ex_en": "I didn't know you wrote poetry",
+      "definitions_ex_vn": "Tôi không biết bạn đã viết thơ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "enter (data) into an electronic or magnetic storage device, or into a particular location in a computer’s file system.",
+      "definitions_ex_en": "files can be read and written directly into the file system",
+      "definitions_ex_vn": "Các tệp có thể được đọc và ghi trực tiếp vào hệ thống tệp",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "underwrite (an insurance policy).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068665_2624411487_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068665_0b4b8a2b55_o.png",
+      "id_image": "write_5511966"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068775_759eb45cff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068775_5c7c121765_o.png",
+      "id_image": "write_705059"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687049_3da3b6ed9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687049_c3d880e802_o.png",
+      "id_image": "write_878563"
+    }
+  ]
+}

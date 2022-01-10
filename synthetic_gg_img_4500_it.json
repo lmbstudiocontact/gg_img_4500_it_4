@@ -1,0 +1,73 @@
+{
+  "english": "synthetic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về họp lại",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phép tổng hợp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sợi tổng hợp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hóa hợp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kết hợp",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a substance) made by chemical synthesis, especially to imitate a natural product.",
+      "definitions_ex_en": "synthetic rubber",
+      "definitions_ex_vn": "cao su tổng hợp",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a proposition) having truth or falsity determinable by recourse to experience.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a language) characterized by the use of inflections rather than word order to express grammatical structure.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a synthetic material or chemical, especially a textile fiber.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330101_7ccdbef8e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330101_5f526b98c6_o.png",
+      "id_image": "synthetic_1466540"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685044_4225a0df2f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685044_0aabfe0ce7_o.png",
+      "id_image": "synthetic_1742038"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684994_3c4e3d354a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684994_17f17804f2_o.png",
+      "id_image": "synthetic_5376466"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374692_6c9afd70e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374692_56769ce226_o.png",
+      "id_image": "synthetic_5830331"
+    }
+  ]
+}

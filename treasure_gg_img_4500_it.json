@@ -1,0 +1,49 @@
+{
+  "english": "treasure",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tiền bạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quý trọng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a quantity of precious metals, gems, or other valuable objects.",
+      "definitions_ex_en": "the ransom was to be paid in diamonds and treasure",
+      "definitions_ex_vn": "Tiền chuộc sẽ được thanh toán bằng kim cương và kho báu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "keep carefully (a valuable or valued item).",
+      "definitions_ex_en": "my mother gave me the ring and I'll treasure it always",
+      "definitions_ex_vn": "Mẹ tôi đã cho tôi chiếc nhẫn và tôi sẽ luôn trân trọng nó",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072445_f7df7c0559_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072445_8d1cc49ea9_o.png",
+      "id_image": "treasure_1862659"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335536_a85756ed01_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335536_7c2a254487_o.png",
+      "id_image": "treasure_2642175"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690714_ef13b6209d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690714_c5f2bdbc01_o.png",
+      "id_image": "treasure_2653402"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380562_cf8d0f4beb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380562_77f8ec08ac_o.png",
+      "id_image": "treasure_6263986"
+    }
+  ]
+}

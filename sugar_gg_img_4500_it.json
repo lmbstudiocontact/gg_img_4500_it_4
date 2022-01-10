@@ -1,0 +1,68 @@
+{
+  "english": "sugar",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời nói ngọt ngào",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a sweet crystalline substance obtained from various plants, especially sugar cane and sugar beet, consisting essentially of sucrose, and used as a sweetener in food and drink.",
+      "definitions_ex_en": "a spoonful of sugar",
+      "definitions_ex_vn": "Một muỗng đường",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "any of the class of soluble, crystalline, typically sweet-tasting carbohydrates found in living tissues and exemplified by glucose and sucrose.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "used as a euphemism for “shit.”.",
+      "definitions_ex_en": "“Oh sugar!” cried Sally",
+      "definitions_ex_vn": "\"Ôi đường!\"",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a psychoactive drug in the form of white powder, especially heroin or cocaine.",
+      "definitions_ex_en": "bags full of extra-fine Colombian sugar",
+      "definitions_ex_vn": "túi đầy đủ đường Colombia",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "sweeten, sprinkle, or coat with sugar.",
+      "definitions_ex_en": "she absentmindedly sugared her tea",
+      "definitions_ex_vn": "Cô lơ đãng trà đường",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make more agreeable or palatable.",
+      "definitions_ex_en": "the novel was preachy but sugared heavily with jokes",
+      "definitions_ex_vn": "Tiểu thuyết đã được thuyết tạ nhưng có đường rất nhiều với những câu chuyện cười",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383812_485691aab4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383812_6766b2d3f1_o.png",
+      "id_image": "sugar_1497133"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383767_b67ab7e8d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383767_7a4a50a893_o.png",
+      "id_image": "sugar_3778975"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075875_f1e555212d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075875_e1e9a5ffdb_o.png",
+      "id_image": "sugar_5900648"
+    }
+  ]
+}

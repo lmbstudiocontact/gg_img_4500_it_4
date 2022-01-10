@@ -1,0 +1,55 @@
+{
+  "english": "slope",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xiên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giốc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đoạn đường lài lài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "độ giốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đường giốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giốc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a surface of which one end or side is at a higher level than another; a rising or falling surface.",
+      "definitions_ex_en": "he slithered helplessly down the slope",
+      "definitions_ex_vn": "Anh trượt xuống dốc xuống dốc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a surface or line) be inclined from a horizontal or vertical line; slant up or down.",
+      "definitions_ex_en": "the garden sloped down to a stream",
+      "definitions_ex_vn": "Khu vườn dốc xuống một dòng suối",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687344_65c292422a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687344_d6fd577892_o.png",
+      "id_image": "slope_1413074"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687389_41aaf61d18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687389_93594a31b6_o.png",
+      "id_image": "slope_933071"
+    }
+  ]
+}

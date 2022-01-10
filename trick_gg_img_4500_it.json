@@ -1,0 +1,108 @@
+{
+  "english": "trick",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lường gạt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mưu kế",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngón lừa phỉnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự khéo léo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tánh tinh nghịch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trò khéo léo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lừa đảo",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lường gạt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phỉnh lừa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a cunning or skillful act or scheme intended to deceive or outwit someone.",
+      "definitions_ex_en": "he's a double-dealer capable of any mean trick",
+      "definitions_ex_vn": "anh ấy là một đại lý kép có khả năng bất kỳ mánh khóe nào",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a peculiar or characteristic habit or mannerism.",
+      "definitions_ex_en": "she had a trick of clipping off certain words and phrases",
+      "definitions_ex_vn": "Cô có một mẹo cắt bỏ những từ và cụm từ nhất định",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in bridge, whist, and similar card games) a sequence of cards forming a single round of play. One card is laid down by each player, the highest card being the winner.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a prostitute's client.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sailor's turn at the helm, usually lasting for two or four hours.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "deceive or outwit (someone) by being cunning or skillful.",
+      "definitions_ex_en": "buyers can be tricked by savvy sellers",
+      "definitions_ex_vn": "Người mua có thể bị lừa bởi người bán Savvy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "sketch (a coat of arms) in outline, with the colors indicated by letters or signs.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "intended or used to deceive or mystify, or to create an illusion.",
+      "definitions_ex_en": "a trick question",
+      "definitions_ex_vn": "một câu hỏi mẹo",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070490_bfb424be82_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070490_c44eac9b73_o.png",
+      "id_image": "trick_1299395"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688624_4aaf0d66fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688624_d74995aba1_o.png",
+      "id_image": "trick_2446572"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070520_8bfda25324_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070520_7d1558ee38_o.png",
+      "id_image": "trick_849051"
+    }
+  ]
+}

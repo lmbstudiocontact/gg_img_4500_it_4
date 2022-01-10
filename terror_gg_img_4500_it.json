@@ -1,0 +1,34 @@
+{
+  "english": "terror",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự kinh hải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự khủng khiếp",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "extreme fear.",
+      "definitions_ex_en": "people fled in terror",
+      "definitions_ex_vn": "mọi người chạy trốn trong khủng bố",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person, especially a child, who causes trouble or annoyance.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808396427_7df9d3bf72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808396427_f7223ecbe3_o.png",
+      "id_image": "terror_708634"
+    }
+  ]
+}

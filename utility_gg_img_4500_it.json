@@ -1,0 +1,65 @@
+{
+  "english": "utility",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hữu dụng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hữu ích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lợi ích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính có ích",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the state of being useful, profitable, or beneficial.",
+      "definitions_ex_en": "he had a poor opinion of the utility of book learning",
+      "definitions_ex_vn": "anh ta có một ý kiến kém về tiện ích của học sách",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an organization supplying the community with electricity, gas, water, or sewerage.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a utility program.",
+      "definitions_ex_en": "a handy utility for converting one graphics file type to another",
+      "definitions_ex_vn": "một tiện ích tiện dụng để chuyển đổi một loại tệp đồ họa sang loại khác",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "useful, especially through being able to perform several functions.",
+      "definitions_ex_en": "a utility truck",
+      "definitions_ex_vn": "một chiếc xe tải tiện ích",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "functional rather than attractive.",
+      "definitions_ex_en": "utility clothing",
+      "definitions_ex_vn": "Quần áo tiện ích",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395142_e31261cc85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395142_df8ac441c6_o.png",
+      "id_image": "utility_4757480"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087535_2dbdf4c740_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087535_9248b6a46a_o.png",
+      "id_image": "utility_5966739"
+    }
+  ]
+}

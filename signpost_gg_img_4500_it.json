@@ -1,0 +1,44 @@
+{
+  "english": "signpost",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bảng chỉ đường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trụ chỉ đường",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a sign giving information such as the direction and distance to a nearby town, typically found at a crossroads.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "provide (an area) with a signpost or signposts.",
+      "definitions_ex_en": "most of the walks were well signposted",
+      "definitions_ex_vn": "hầu hết các cuộc đi bộ đều được đăng nhập tốt",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076335_f99d770389_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076335_9f517ec3ef_o.png",
+      "id_image": "signpost_2357464"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339166_0c5cf576b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339166_cac7dbfa35_o.png",
+      "id_image": "signpost_6236578"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076240_22376cb2a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076240_d35ea44e9f_o.png",
+      "id_image": "signpost_6248479"
+    }
+  ]
+}

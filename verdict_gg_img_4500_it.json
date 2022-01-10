@@ -1,0 +1,28 @@
+{
+  "english": "verdict",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự phán quyết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự quyết định",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a decision on a disputed issue in a civil or criminal case or an inquest.",
+      "definitions_ex_en": "the jury returned a verdict of ‘not guilty.’",
+      "definitions_ex_vn": "bồi thẩm đoàn đã trả lại một bản án 'không có tội.'",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346441_b150532dd3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346441_b6c6661fb0_o.png",
+      "id_image": "verdict_2861325"
+    }
+  ]
+}

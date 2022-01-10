@@ -1,0 +1,52 @@
+{
+  "english": "zone",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cầu đới",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chia ra từng khu vực",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an area or stretch of land having a particular characteristic, purpose, or use, or subject to particular restrictions.",
+      "definitions_ex_en": "a pedestrian zone",
+      "definitions_ex_vn": "một khu vực dành cho người đi bộ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an encircling band or stripe of distinctive color, texture, or character.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a belt or girdle worn around a person's body.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "divide into or assign to zones.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "encircle as or with a band or stripe.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330046_b80c0bc97b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330046_3e3269b722_o.png",
+      "id_image": "zone_2191451"
+    }
+  ]
+}

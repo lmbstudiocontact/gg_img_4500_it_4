@@ -1,0 +1,105 @@
+{
+  "english": "value",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đánh giá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "định giá hàng hóa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giá cả",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giá tiền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giá trị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trị giá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trị số",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the regard that something is held to deserve; the importance, worth, or usefulness of something.",
+      "definitions_ex_en": "your support is of great value",
+      "definitions_ex_vn": "Sự hỗ trợ của bạn có giá trị lớn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person's principles or standards of behavior; one's judgment of what is important in life.",
+      "definitions_ex_en": "they internalize their parents' rules and values",
+      "definitions_ex_vn": "họ nội tâm hóa các quy tắc và giá trị của cha mẹ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the numerical amount denoted by an algebraic term; a magnitude, quantity, or number.",
+      "definitions_ex_en": "the mean value of x",
+      "definitions_ex_vn": "giá trị trung bình của x",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the relative duration of the sound signified by a note.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the meaning of a word or other linguistic unit.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the relative degree of lightness or darkness of a particular color.",
+      "definitions_ex_en": "the artist has used adjacent color values as the landscape recedes",
+      "definitions_ex_vn": "Các nghệ sĩ đã sử dụng các giá trị màu liền kề khi cảnh quan receedes",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "estimate the monetary worth of (something).",
+      "definitions_ex_en": "his estate was valued at $45,000",
+      "definitions_ex_vn": "bất động sản của ông có giá trị 45.000 đô la",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "consider (someone or something) to be important or beneficial; have a high opinion of.",
+      "definitions_ex_en": "she had come to value her privacy and independence",
+      "definitions_ex_vn": "Cô đã đến để coi trọng sự riêng tư và sự độc lập của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086395_b99128b223_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086395_da5c6be7cb_o.png",
+      "id_image": "value_1328631"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349101_1aa40e8e1e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349101_9d5f98459c_o.png",
+      "id_image": "value_3985666"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393852_62eb5e702a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393852_f1e6cdaf75_o.png",
+      "id_image": "value_4126350"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703799_a2c1f2d5bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703799_2130cfd67f_o.png",
+      "id_image": "value_5235573"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "english": "slavery",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tình trạng của kẻ nô lệ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thân phận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "việc làm mệt nhọc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the state of being a slave.",
+      "definitions_ex_en": "thousands had been sold into slavery",
+      "definitions_ex_vn": "Hàng ngàn người đã được bán thành chế độ nô lệ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071400_e854166db2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071400_a11c8a1733_o.png",
+      "id_image": "slavery_1396585"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334426_4b077f731d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334426_5d9dcbf1ac_o.png",
+      "id_image": "slavery_3782230"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334396_96fe7a4132_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334396_33e27695e6_o.png",
+      "id_image": "slavery_4110378"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334331_ee5df6150f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334331_546f40676e_o.png",
+      "id_image": "slavery_4484310"
+    }
+  ]
+}

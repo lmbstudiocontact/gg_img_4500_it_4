@@ -1,0 +1,72 @@
+{
+  "english": "stone",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đá sỏi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thạch",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "hard solid nonmetallic mineral matter of which rock is made, especially as a building material.",
+      "definitions_ex_en": "the houses are built of stone",
+      "definitions_ex_vn": "Những ngôi nhà được xây dựng bằng đá",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a piece of stone shaped for a purpose, especially one of commemoration, ceremony, or demarcation.",
+      "definitions_ex_en": "a memorial stone",
+      "definitions_ex_vn": "một hòn đá tưởng niệm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a hard seed in a cherry, plum, peach, and some other fruits.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a natural shade of whitish-gray or brownish-gray.",
+      "definitions_ex_en": "stone stretch trousers",
+      "definitions_ex_vn": "quần co giãn đá",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "throw stones at.",
+      "definitions_ex_en": "three vehicles were stoned and torched",
+      "definitions_ex_vn": "Ba xe đã bị ném đá và bị bỏ rơi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "build, face, or pave with stone.",
+      "definitions_ex_en": "the honey-stoned, eighteenth-century city",
+      "definitions_ex_vn": "thành phố mật ong bị ném đá, thế kỷ thứ mười tám",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460258_bf8a72ba7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460258_55c55f95af_o.png",
+      "id_image": "stone_5833180"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460328_1faffd5e05_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460328_8656c335a4_o.png",
+      "id_image": "stone_721107"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460288_13b159fb8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460288_725b10a6e4_o.png",
+      "id_image": "stone_826917"
+    }
+  ]
+}

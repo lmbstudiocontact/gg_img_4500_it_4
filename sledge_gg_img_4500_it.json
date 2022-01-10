@@ -1,0 +1,67 @@
+{
+  "english": "sledge",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xe trượt trên tuyết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đi xe trượt trên tuyết",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a vehicle on runners for conveying loads or passengers over snow or ice, often pulled by draft animals.",
+      "definitions_ex_en": "a dog sledge",
+      "definitions_ex_vn": "một con chó dốc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a taunting or teasing remark made to an opposing player in order to disturb their concentration.",
+      "definitions_ex_en": "he was upset after a very personal sledge by the Australian captain",
+      "definitions_ex_vn": "Anh buồn bã sau một đội trưởng Úc rất cá nhân",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sledgehammer.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "carry (a load or passengers) on a sledge.",
+      "definitions_ex_en": "the task of sledging lifeboats across tundra",
+      "definitions_ex_vn": "Nhiệm vụ kéo dài xuồng cứu sinh trên Tundra",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "make taunting or teasing remarks to (an opposing player, especially a batsman) in order to disturb their concentration.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334256_29fe04f371_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334256_918eef6415_o.png",
+      "id_image": "sledge_1403910"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449288_66222b4787_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449288_73f8f5a75f_o.png",
+      "id_image": "sledge_4861808"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449213_ee5ac4309a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449213_2e0c35ff6c_o.png",
+      "id_image": "sledge_6235724"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689249_3ac04b7bf3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689249_96413b5274_o.png",
+      "id_image": "sledge_6263048"
+    }
+  ]
+}

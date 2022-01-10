@@ -1,0 +1,28 @@
+{
+  "english": "torrent",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giòng nước chảy mạnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giòng nước lũ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a strong and fast-moving stream of water or other liquid.",
+      "definitions_ex_en": "rain poured down in torrents",
+      "definitions_ex_vn": "Mưa đổ xuống torrent",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387852_f212bc376e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387852_27f037d99a_o.png",
+      "id_image": "torrent_2800123"
+    }
+  ]
+}

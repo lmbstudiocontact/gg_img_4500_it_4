@@ -1,0 +1,42 @@
+{
+  "english": "visitor",
+  "list_translation_mean": [
+    {
+      "translate_mean": "viên thanh tra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khách đến viếng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đến thăm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person visiting a person or place, especially socially or as a tourist.",
+      "definitions_ex_en": "she's a frequent visitor to London",
+      "definitions_ex_vn": "Cô ấy là một vị khách thường xuyên đến London",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079640_9dfb56ffa0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079640_18c3f5c908_o.png",
+      "id_image": "visitor_4615753"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697444_2b9e9cbc26_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697444_ca80a0eeb7_o.png",
+      "id_image": "visitor_827057"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342236_a972ac57bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342236_fe8fe044fc_o.png",
+      "id_image": "visitor_874676"
+    }
+  ]
+}

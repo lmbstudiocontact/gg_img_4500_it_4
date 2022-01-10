@@ -1,0 +1,89 @@
+{
+  "english": "wrench",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái mỏ lết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đau đớn vì chia rẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đau đớn vì xa nhau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nổi khổ sở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vặn mạnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cướp lấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đoạt lấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giựt lấy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vặn mạnh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm sai nghĩa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a sudden violent twist or pull.",
+      "definitions_ex_en": "with a wrench Tony wriggled free",
+      "definitions_ex_vn": "với một cờ lê tony wriggled miễn phí",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a feeling of sadness or distress caused by one's own or another's departure.",
+      "definitions_ex_en": "it will be a real wrench to leave after eight years",
+      "definitions_ex_vn": "Nó sẽ là một cờ lê thực sự để rời đi sau tám năm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a tool used for gripping and turning nuts, bolts, pipes, etc.",
+      "definitions_ex_en": "you will need a wrench to tighten it in position",
+      "definitions_ex_vn": "bạn sẽ cần một cờ lê để thắt chặt nó ở vị trí",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a combination of a couple with a force along its axis.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "pull or twist (someone or something) suddenly and violently.",
+      "definitions_ex_en": "Casey grabbed the gun and wrenched it upward from my hand",
+      "definitions_ex_vn": "Casey nắm lấy khẩu súng và vặn vẹo nó lên từ tay tôi",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377612_29ffa0bf71_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377612_310364248e_o.png",
+      "id_image": "wrench_1768196"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447813_d40b5ff458_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447813_0826f5412e_o.png",
+      "id_image": "wrench_2137963"
+    }
+  ]
+}

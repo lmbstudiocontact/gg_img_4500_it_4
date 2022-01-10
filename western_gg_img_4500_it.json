@@ -1,0 +1,45 @@
+{
+  "english": "western",
+  "list_translation_mean": [
+    {
+      "translate_mean": "từ hướng tây",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về hướng tây",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "situated in the west, or directed toward or facing the west.",
+      "definitions_ex_en": "there will be showers in some western areas",
+      "definitions_ex_vn": "Sẽ có vòi sen ở một số khu vực phương Tây",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "living in or originating from the West, in particular Europe or the United States.",
+      "definitions_ex_en": "Western society",
+      "definitions_ex_vn": "xã hội phương Tây",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a film, television drama, or novel about cowboys in western North America, set especially in the late 19th and early 20th centuries.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687019_78f4d6f9ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687019_e79396681d_o.png",
+      "id_image": "western_2267578"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446978_ff45b0db2c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446978_8414d052a0_o.png",
+      "id_image": "western_6348496"
+    }
+  ]
+}

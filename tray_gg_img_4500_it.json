@@ -1,0 +1,47 @@
+{
+  "english": "tray",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mâm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật giống cái khay",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a flat, shallow container with a raised rim, typically used for carrying food and drink, or for holding small items.",
+      "definitions_ex_en": "they ate supper off a tray in front of the fire",
+      "definitions_ex_vn": "Họ đã ăn bữa ăn tối một khay trước ngọn lửa",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450643_f4af825713_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450643_c7cdcd384b_o.png",
+      "id_image": "tray_2204172"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072550_1ff2230e41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072550_29b87d4b34_o.png",
+      "id_image": "tray_2323819"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690974_0d5e1a4bec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690974_c629d4dd43_o.png",
+      "id_image": "tray_333427"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450673_8c3c5ac040_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450673_73207c1821_o.png",
+      "id_image": "tray_376525"
+    }
+  ]
+}

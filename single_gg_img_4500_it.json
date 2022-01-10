@@ -1,0 +1,103 @@
+{
+  "english": "single",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chân thật",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chưa kết hôn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "còn độc thân",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "độc thân",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đơn độc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "một mình",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ngay thật",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thành thật",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trận đánh đơn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "only one; not one of several.",
+      "definitions_ex_en": "a single red rose",
+      "definitions_ex_vn": "một bông hồng đỏ duy nhất",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "unmarried or not involved in a stable sexual relationship.",
+      "definitions_ex_en": "a single mother",
+      "definitions_ex_vn": "một bà mẹ đơn thân",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "consisting of one part.",
+      "definitions_ex_en": "the studio was a single large room",
+      "definitions_ex_vn": "Studio là một căn phòng lớn duy nhất",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "free from duplicity or deceit; ingenuous.",
+      "definitions_ex_en": "a pure and single heart",
+      "definitions_ex_vn": "Một trái tim đơn thuần và duy nhất",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "an individual person or thing rather than part of a pair or a group.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(especially in tennis and badminton) a game or competition for individual players, not pairs or teams.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "choose someone or something from a group for special treatment.",
+      "definitions_ex_en": "one newspaper was singled out for criticism",
+      "definitions_ex_vn": "Một tờ báo đã được chọn ra để phê bình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "hit a single.",
+      "definitions_ex_en": "Aaron singled to center",
+      "definitions_ex_vn": "Aaron đơn lẻ đến trung tâm",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337656_ef2ca85421_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337656_be498b6563_o.png",
+      "id_image": "single_2442287"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692899_8920b3a95b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692899_dcefa8810d_o.png",
+      "id_image": "single_5509321"
+    }
+  ]
+}

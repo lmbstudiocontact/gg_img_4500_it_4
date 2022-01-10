@@ -1,0 +1,34 @@
+{
+  "english": "singer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ca sĩ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who sings, especially professionally.",
+      "definitions_ex_en": "a pop singer",
+      "definitions_ex_vn": "một ca sĩ nhạc pop",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452713_a192a81b7a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452713_50005fd3c9_o.png",
+      "id_image": "singer_307958"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074855_b59f754807_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074855_84f542bf85_o.png",
+      "id_image": "singer_360479"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382782_3d329fbc2d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382782_260c903e4f_o.png",
+      "id_image": "singer_5167402"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "english": "van",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cánh quân tại mặt trận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đội quân xung phong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "loại xe lớn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xe thùng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a medium-sized motor vehicle with a boxy shape and high roof, used for transporting goods or passengers.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the foremost part of a company of people moving or preparing to move forward, especially the foremost division of an advancing military force.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a winnowing fan.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a bird's wing.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348826_3e32c616c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348826_accdb2ac05_o.png",
+      "id_image": "van_256746"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393582_a7d85f360c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393582_a04d89677c_o.png",
+      "id_image": "van_2819334"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703489_a12b235c65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703489_5e733872da_o.png",
+      "id_image": "van_2819338"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086010_a801bf8294_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086010_cc872aab7b_o.png",
+      "id_image": "van_6182883"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463468_cc34a64651_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463468_71d444932b_o.png",
+      "id_image": "van_6183850"
+    }
+  ]
+}

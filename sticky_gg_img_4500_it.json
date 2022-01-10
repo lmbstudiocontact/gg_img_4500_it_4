@@ -1,0 +1,61 @@
+{
+  "english": "sticky",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dính",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dính khó gở được",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dính trết",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "tending or designed to stick to things on contact or covered with something that sticks.",
+      "definitions_ex_en": "her sticky bubblegum",
+      "definitions_ex_vn": "Bubblegum dính của cô",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of the weather) hot and damp; muggy.",
+      "definitions_ex_en": "it was an unusually hot and sticky summer",
+      "definitions_ex_vn": "Đó là một mùa hè nóng bỏng bất thường và dính",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "involving problems; difficult or awkward.",
+      "definitions_ex_en": "the relationship is going through a sticky patch",
+      "definitions_ex_vn": "Mối quan hệ đang trải qua một miếng dán dính",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a website or its content) attracting a long visit or repeat visits from users.",
+      "definitions_ex_en": "make your site as sticky as possible to keep visitors there longer",
+      "definitions_ex_vn": "Làm cho trang web của bạn như dính nhất có thể để giữ khách truy cập lâu hơn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(in an online forum) a thread containing important information that is set to remain at the top of the other threads regardless of when it was last updated.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701444_bed6379370_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701444_04d8805c89_o.png",
+      "id_image": "sticky_1443457"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346541_004ccf7b0d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346541_0dcc6607af_o.png",
+      "id_image": "sticky_2519446"
+    }
+  ]
+}

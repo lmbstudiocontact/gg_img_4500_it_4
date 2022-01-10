@@ -1,0 +1,50 @@
+{
+  "english": "soup",
+  "list_translation_mean": [
+    {
+      "translate_mean": "canh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "soup",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a liquid dish, typically made by boiling meat, fish, or vegetables, etc., in stock or water.",
+      "definitions_ex_en": "a bowl of tomato soup",
+      "definitions_ex_vn": "một bát súp cà chua",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a substance or mixture perceived to resemble soup in appearance or consistency.",
+      "definitions_ex_en": "the waves and the water beyond have become a thick brown soup",
+      "definitions_ex_vn": "Sóng và nước ngoài đã trở thành một món súp màu nâu dày",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "increase the power and efficiency of an engine or other machine.",
+      "definitions_ex_en": "souping up an engine's power can increase pollutants",
+      "definitions_ex_vn": "bốc lên sức mạnh của động cơ có thể làm tăng chất ô nhiễm",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440493_721f1ec89d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440493_ff3a8743a5_o.png",
+      "id_image": "soup_129358"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680519_749725a4d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680519_153cf62012_o.png",
+      "id_image": "soup_184447"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370287_fa9ed07b4a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370287_dd6d980e46_o.png",
+      "id_image": "soup_570729"
+    }
+  ]
+}

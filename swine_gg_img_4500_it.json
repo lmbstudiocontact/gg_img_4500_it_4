@@ -1,0 +1,24 @@
+{
+  "english": "swine",
+  "list_translation_mean": [
+    {
+      "translate_mean": "heo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a pig.",
+      "definitions_ex_en": "a contagious viral disease of animals that primarily affects swine",
+      "definitions_ex_vn": "một bệnh do virus truyền nhiễm của động vật chủ yếu ảnh hưởng đến lợn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332271_3ce0070915_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332271_87539083fd_o.png",
+      "id_image": "swine_4310590"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "english": "white",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trắng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trong trắng",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of the color of milk or fresh snow, due to the reflection of most wavelengths of visible light; the opposite of black.",
+      "definitions_ex_en": "a sheet of white paper",
+      "definitions_ex_vn": "một tờ giấy trắng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "belonging to or denoting a human group having light-colored skin (chiefly used of peoples of European extraction).",
+      "definitions_ex_en": "a white farming community",
+      "definitions_ex_vn": "một cộng đồng nông nghiệp trắng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "counterrevolutionary or reactionary.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "white color or pigment.",
+      "definitions_ex_en": "garnet-red flowers flecked with white",
+      "definitions_ex_vn": "hoa garnet-đỏ đánh dấu với màu trắng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the visible pale part of the eyeball around the iris.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the outer part (white when cooked) which surrounds the yolk of an egg; the albumen.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a member of a light-skinned people, especially one of European extraction.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a white or cream butterfly that has dark veins or spots on the wings. It can be a serious crop pest.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "paint or turn (something) white.",
+      "definitions_ex_en": "your passion hath whited your face",
+      "definitions_ex_vn": "niềm đam mê của bạn đã làm phiền khuôn mặt của bạn",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685344_17777f887e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685344_b7ca89b331_o.png",
+      "id_image": "white_3944295"
+    }
+  ]
+}

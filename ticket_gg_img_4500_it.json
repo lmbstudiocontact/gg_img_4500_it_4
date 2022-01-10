@@ -1,0 +1,90 @@
+{
+  "english": "ticket",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giấy ghi gía",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giấy hát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhản hiệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thẻ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vé",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vé khứ hồi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a piece of paper or small card that gives the holder a certain right, especially to enter a place, travel by public transport, or participate in an event.",
+      "definitions_ex_en": "admission is by ticket only",
+      "definitions_ex_vn": "Nhập học chỉ bằng vé",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a certificate or warrant.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a label attached to a retail product, giving its price, size, and other details.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the desirable or correct thing.",
+      "definitions_ex_en": "a wet spring would be just the ticket for the garden",
+      "definitions_ex_vn": "Một mùa xuân ẩm ướt sẽ chỉ là vé cho khu vườn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "issue (someone) with an official notice of a traffic offense.",
+      "definitions_ex_en": "park illegally and you are likely to be ticketed",
+      "definitions_ex_vn": "công viên bất hợp pháp và bạn có khả năng được bán vé",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a passenger) be issued with a travel ticket.",
+      "definitions_ex_en": "passengers can now get electronically ticketed",
+      "definitions_ex_vn": "Hành khách bây giờ có thể được bán vé điện tử",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a retail product) be marked with a label giving its price, size, and other details.",
+      "definitions_ex_en": "the sports jacket had been ticketed at two hundred dollars",
+      "definitions_ex_vn": "Áo khoác thể thao đã được bán vé với hai trăm đô la",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702919_4c29684f1e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702919_9b061483cf_o.png",
+      "id_image": "ticket_169464"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393047_113023790c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393047_3f8048cbb0_o.png",
+      "id_image": "ticket_218372"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348111_e7ef66b047_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348111_59e547a5ba_o.png",
+      "id_image": "ticket_884097"
+    }
+  ]
+}

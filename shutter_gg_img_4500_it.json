@@ -1,0 +1,46 @@
+{
+  "english": "shutter",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đóng cửa hàng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "each of a pair of hinged panels, often louvered, fixed inside or outside a window that can be closed for security or privacy or to keep out light.",
+      "definitions_ex_en": "he threw open the shutters to let in air and light",
+      "definitions_ex_vn": "Anh ta ném mở cửa chớp để để không khí và ánh sáng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a device that opens and closes to expose the film in a camera.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "close the shutters of (a window or building).",
+      "definitions_ex_en": "the windows were shuttered against the afternoon heat",
+      "definitions_ex_vn": "Các cửa sổ bị đóng vào nhiệt độ nóng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340936_972d36aa49_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340936_d53f952765_o.png",
+      "id_image": "shutter_1366108"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078205_79f3b87281_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078205_20aed9b896_o.png",
+      "id_image": "shutter_2985539"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696114_c7247158c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696114_2908421610_o.png",
+      "id_image": "shutter_3255615"
+    }
+  ]
+}

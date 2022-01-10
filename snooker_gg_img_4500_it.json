@@ -1,0 +1,35 @@
+{
+  "english": "snooker",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người chế nhạo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a game played with cues on a billiard table in which the players use a cue ball (white) to pocket the other balls (fifteen red and six colored) in a set order.",
+      "definitions_ex_en": "a snooker hall",
+      "definitions_ex_vn": "một hội trường Snooker.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "subject (oneself or one's opponent) to a snooker.",
+      "definitions_ex_en": "he potted yellow and green, and then snookered Davis on the brown",
+      "definitions_ex_vn": "Anh trong chậu vàng và xanh, rồi snookered davis trên màu nâu",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374067_bdf94325d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374067_4cf1fe3e58_o.png",
+      "id_image": "snooker_3713337"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684394_a972fbac24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684394_f8503b65d8_o.png",
+      "id_image": "snooker_540150"
+    }
+  ]
+}

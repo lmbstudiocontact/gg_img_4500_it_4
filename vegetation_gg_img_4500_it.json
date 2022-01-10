@@ -1,0 +1,53 @@
+{
+  "english": "vegetation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chứng vưu thủng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sanh trưởng của cây cối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sanh trưởng của thảo mộc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sanh trưởng của thực vật",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "plants considered collectively, especially those found in a particular area or habitat.",
+      "definitions_ex_en": "the chalk cliffs are mainly sheer with little vegetation",
+      "definitions_ex_vn": "Các vách đá phấn chủ yếu là tuyệt đối với thảm thực vật nhỏ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the action or process of vegetating.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an abnormal growth on or in the body.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462113_70432171ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462113_1c5f7c57fb_o.png",
+      "id_image": "vegetarian_5635512"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462083_74dce8c9ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462083_6a37f7abcb_o.png",
+      "id_image": "vegetation_5302965"
+    }
+  ]
+}

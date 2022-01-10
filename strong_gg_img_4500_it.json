@@ -1,0 +1,84 @@
+{
+  "english": "strong",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ánh sáng chói",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bền",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cường tráng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "kiên cố",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mạnh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "vững chắc",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "having the power to move heavy weights or perform other physically demanding tasks.",
+      "definitions_ex_en": "she cut through the water with her strong arms",
+      "definitions_ex_vn": "Cô ấy cắt xuống nước với cánh tay mạnh mẽ của mình",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "able to withstand great force or pressure.",
+      "definitions_ex_en": "cotton is strong, hard-wearing, and easy to handle",
+      "definitions_ex_vn": "Bông là mạnh mẽ, cứng, và dễ xử lý",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "very intense.",
+      "definitions_ex_en": "a strong smell",
+      "definitions_ex_vn": "một mùi mạnh mẽ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "used after a number to indicate the size of a group.",
+      "definitions_ex_en": "a hostile crowd several thousand strong",
+      "definitions_ex_vn": "một đám đông thù địch vài ngàn mạnh mẽ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "denoting a class of verbs in Germanic languages that form the past tense and past participle by a change of vowel within the stem rather than by addition of a suffix (e.g. swim, swam, swum ).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "relating to or denoting the strongest of the known kinds of force between particles, which acts between nucleons and other hadrons when closer than about 10−13 cm (so binding protons in a nucleus despite the repulsion due to their charge), and which conserves strangeness, parity, and isospin.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456728_43903d8d09_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456728_e5de3f8792_o.png",
+      "id_image": "strong_5236732"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386862_2260ce079b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386862_98cef74b1d_o.png",
+      "id_image": "strong_6171960"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341881_bcba62e6fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341881_54cf69e849_o.png",
+      "id_image": "strong_755278"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "english": "warfare",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chiến tranh",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "engagement in or the activities involved in war or conflict.",
+      "definitions_ex_en": "guerrilla warfare",
+      "definitions_ex_vn": "Chiên tranh du kich",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692904_22cb0f9039_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692904_2c8d6854a3_o.png",
+      "id_image": "warfare_3380934"
+    }
+  ]
+}

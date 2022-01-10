@@ -1,0 +1,42 @@
+{
+  "english": "urgency",
+  "list_translation_mean": [
+    {
+      "translate_mean": "gấp rút",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khẩn cấp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cần dùng gấp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính cách gấp",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "importance requiring swift action.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an earnest and persistent quality; insistence.",
+      "definitions_ex_en": "Emilia heard the urgency in his voice",
+      "definitions_ex_vn": "Emilia nghe thấy sự khẩn cấp trong giọng nói của mình",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705799_343bc3802a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705799_43055feee0_o.png",
+      "id_image": "urgency_3079298"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "english": "smug",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhẳn nhụi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tự phụ",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "having or showing an excessive pride in oneself or one's achievements.",
+      "definitions_ex_en": "he was feeling smug after his win",
+      "definitions_ex_vn": "anh ấy đã cảm thấy tự mãn sau chiến thắng của mình",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330421_793c55b5b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330421_40b469b271_o.png",
+      "id_image": "smug_3362399"
+    }
+  ]
+}

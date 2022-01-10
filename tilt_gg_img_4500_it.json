@@ -1,0 +1,75 @@
+{
+  "english": "tilt",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nghiên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cởi ngựa đấu thương",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nghiên qua một bên",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cuộc đấu thương cởi ngựa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cải nhau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tốx lực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trạng thái nghiên nghiên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trạng thái xiên",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "move or cause to move into a sloping position.",
+      "definitions_ex_en": "the floor tilted slightly",
+      "definitions_ex_vn": "sàn nghiêng một chút",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(in jousting) thrust at with a lance or other weapon.",
+      "definitions_ex_en": "he tilts at his prey",
+      "definitions_ex_vn": "anh ấy nghiêng về con mồi của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a sloping position or movement.",
+      "definitions_ex_en": "the tilt of her head",
+      "definitions_ex_vn": "nghiêng đầu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a combat for exercise or sport between two men on horseback with lances; a joust.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462348_023aa14910_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462348_a7fb77d152_o.png",
+      "id_image": "tilt_1260013"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084905_7ac50bb07e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084905_66cfb93e43_o.png",
+      "id_image": "tilt_4335020"
+    }
+  ]
+}

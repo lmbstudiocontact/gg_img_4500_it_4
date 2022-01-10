@@ -1,0 +1,28 @@
+{
+  "english": "spay",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hoạn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thiến",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "sterilize (a female animal) by removing the ovaries.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439853_7e8ed2d451_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439853_1814f72846_o.png",
+      "id_image": "spay_2904474"
+    }
+  ]
+}

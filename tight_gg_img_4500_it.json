@@ -1,0 +1,102 @@
+{
+  "english": "tight",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bó sát",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "căng thẳng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xinh xắn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chật",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "eo hẹp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không rỉ qua",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không thấm nước",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lấp khít",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "một cách khít khao",
+      "type_word": "adverb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "fixed, fastened, or closed firmly; hard to move, undo, or open.",
+      "definitions_ex_en": "she twisted her handkerchief into a tight knot",
+      "definitions_ex_vn": "Cô vặn tay mình vào một nút thắt chặt chẽ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a rope, fabric, or surface) stretched so as to leave no slack; not loose.",
+      "definitions_ex_en": "the drawcord pulls tight",
+      "definitions_ex_vn": "Drawcord kéo chặt",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of an area or space) having or allowing little room for maneuver.",
+      "definitions_ex_en": "a tight parking spot",
+      "definitions_ex_vn": "một chỗ đậu xe chặt chẽ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a formation or a group of people or things) closely or densely packed together.",
+      "definitions_ex_en": "he levered the bishop out from a tight knot of clerical wives",
+      "definitions_ex_vn": "Anh ta nhằm thúc đẩy Đức cha ra khỏi một nút thắt chặt chẽ của những người vợ văn thư",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a game or contest) with evenly matched competitors; very close.",
+      "definitions_ex_en": "he won in a tight finish",
+      "definitions_ex_vn": "anh ấy đã thắng trong một kết thúc chặt chẽ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "drunk.",
+      "definitions_ex_en": "later, at the club, he got tight on brandy",
+      "definitions_ex_vn": "Sau đó, tại câu lạc bộ, anh ta đã chặt chẽ trên Brandy",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "very firmly, closely, or tensely.",
+      "definitions_ex_en": "he went downstairs, holding tight to the banisters",
+      "definitions_ex_vn": "Anh ta đi xuống cầu thang, ôm chặt vào các lệnh cấm",
+      "definitions_type_word": "adverb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462518_ca0fc4dcd1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462518_63c15d1516_o.png",
+      "id_image": "tights_2093998"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462548_71b5e105da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462548_a335cd0afd_o.png",
+      "id_image": "tights_387415"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085020_f2d7285a30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085020_9d06e1e8c6_o.png",
+      "id_image": "tights_4321447"
+    }
+  ]
+}

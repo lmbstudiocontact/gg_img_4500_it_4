@@ -1,0 +1,39 @@
+{
+  "english": "undercover",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không bao lại",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không trùm lại",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a person or their activities) involved in or involving secret work within a community or organization, especially for the purposes of police investigation or espionage.",
+      "definitions_ex_en": "an undercover police operation",
+      "definitions_ex_vn": "một hoạt động cảnh sát bí mật",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "as an undercover agent.",
+      "definitions_ex_en": "a special unit of the police that operates undercover",
+      "definitions_ex_vn": "một đơn vị đặc biệt của cảnh sát vận hành bí mật",
+      "definitions_type_word": "adverb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468738_a2c732c6bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468738_44af32f0f2_o.png",
+      "id_image": "undercover_2472570"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809354001_d671350f95_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809354001_c660f6af11_o.png",
+      "id_image": "undercover_2621960"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "english": "sole",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chỉ một mình",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "duy nhất",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bàn chân",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cá lưởi trâu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đế giày",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nền nhà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đóng đế giày",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the undersurface of a person's foot.",
+      "definitions_ex_en": "the soles of their feet were nearly black with dirt",
+      "definitions_ex_vn": "lòng bàn chân của họ gần như đen với bụi bẩn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a marine flatfish of almost worldwide distribution, important as a food fish.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "put a new sole on to (a shoe).",
+      "definitions_ex_en": "he wanted several pairs of boots to be soled and heeled",
+      "definitions_ex_vn": "Anh ấy muốn một vài đôi giày được đế và gót chân",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "one and only.",
+      "definitions_ex_en": "my sole aim was to contribute to the national team",
+      "definitions_ex_vn": "Mục đích duy nhất của tôi là đóng góp cho đội tuyển quốc gia",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063190_a7004b53ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063190_fbf2114e52_o.png",
+      "id_image": "sole_2670905"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063120_74c11582ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063120_5096b51ec8_o.png",
+      "id_image": "sole_5730160"
+    }
+  ]
+}

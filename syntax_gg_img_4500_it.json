@@ -1,0 +1,29 @@
+{
+  "english": "syntax",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cú pháp",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the arrangement of words and phrases to create well-formed sentences in a language.",
+      "definitions_ex_en": "the syntax of English",
+      "definitions_ex_vn": "Cú pháp tiếng Anh",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330166_97841a6c5a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330166_fdb125d9bb_o.png",
+      "id_image": "syntax_6091024"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066940_e538bbe134_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066940_1349d7d9b1_o.png",
+      "id_image": "syntax_6091173"
+    }
+  ]
+}

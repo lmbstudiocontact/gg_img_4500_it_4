@@ -1,0 +1,47 @@
+{
+  "english": "tactical",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có mưu lược",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về binh pháp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về chiến thuật",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to or constituting actions carefully planned to gain a specific military end.",
+      "definitions_ex_en": "as a tactical officer in the field he had no equal",
+      "definitions_ex_vn": "Là một sĩ quan chiến thuật trong lĩnh vực anh ta không bằng nhau",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328326_4e0f7b96bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328326_28bb1cf229_o.png",
+      "id_image": "tactical_1285680"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443318_28a064ea2a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443318_29758bdf1b_o.png",
+      "id_image": "tactical_2369453"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065040_417430f662_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065040_dc52ebd274_o.png",
+      "id_image": "tactics_165077"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683249_9b9e50ecd1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683249_df71219ffc_o.png",
+      "id_image": "tactics_2752057"
+    }
+  ]
+}

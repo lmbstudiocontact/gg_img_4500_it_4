@@ -1,0 +1,88 @@
+{
+  "english": "start",
+  "list_translation_mean": [
+    {
+      "translate_mean": "buổi đầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lúc đầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giựt mình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự khởi hành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắt đầu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cho máy chạy",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "giựt mình",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "begin or be reckoned from a particular point in time or space.",
+      "definitions_ex_en": "the season starts in September",
+      "definitions_ex_vn": "Mùa giải bắt đầu vào tháng 9",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of event or process) happen or come into being.",
+      "definitions_ex_en": "the fire started in the building's upper floor",
+      "definitions_ex_vn": "Ngọn lửa bắt đầu trong tầng trên của tòa nhà",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "give a small jump or make a sudden jerking movement from surprise or alarm.",
+      "definitions_ex_en": "“Oh my!” she said, starting",
+      "definitions_ex_vn": "\"Ôi trời!\"",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "the point in time or space at which something has its origin; the beginning.",
+      "definitions_ex_en": "he takes over as chief executive at the start of next year",
+      "definitions_ex_vn": "Ông tiếp quản như giám đốc điều hành vào đầu năm tới",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sudden movement of surprise or alarm.",
+      "definitions_ex_en": "she awoke with a start",
+      "definitions_ex_vn": "Cô thức dậy với một khởi đầu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "Strategic Arms Reduction Treaty, an agreement between the US and the Soviet Union to limit and reduce strategic nuclear weapons, first signed in 1991.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703914_84b22578d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703914_d9b553e1de_o.png",
+      "id_image": "start_1445124"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349211_5bed6a40f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349211_4297a3d21d_o.png",
+      "id_image": "start_4606991"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808393967_82ef44affb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808393967_f4332804ba_o.png",
+      "id_image": "start_5200702"
+    }
+  ]
+}

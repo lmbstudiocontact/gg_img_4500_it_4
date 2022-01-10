@@ -1,0 +1,54 @@
+{
+  "english": "temple",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chùa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đền",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miếu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a building devoted to the worship, or regarded as the dwelling place, of a god or gods or other objects of religious reverence.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the flat part of either side of the head between the forehead and the ear.",
+      "definitions_ex_en": "a man with curly hair graying at the temples",
+      "definitions_ex_vn": "Một người đàn ông với mái tóc xoăn xám ở những ngôi đền",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a device in a loom for keeping the cloth stretched.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467123_0a141eaa85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467123_5bb015b8ec_o.png",
+      "id_image": "temple_129334"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089790_b4a0438198_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089790_15a1ce29f4_o.png",
+      "id_image": "temple_1531405"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467078_734c77e060_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467078_a4b4c1a9b2_o.png",
+      "id_image": "temple_2456061"
+    }
+  ]
+}

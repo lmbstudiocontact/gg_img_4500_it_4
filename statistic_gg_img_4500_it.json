@@ -1,0 +1,40 @@
+{
+  "english": "statistic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thống kê",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a fact or piece of data from a study of a large quantity of numerical data.",
+      "definitions_ex_en": "the statistics show that the crime rate has increased",
+      "definitions_ex_vn": "số liệu thống kê cho thấy tỷ lệ tội phạm đã tăng lên",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "another term for statistical.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463383_6c6a2de5b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463383_300ae212ae_o.png",
+      "id_image": "statistic_1700206"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703284_7f0fa25c12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703284_75eb463ce5_o.png",
+      "id_image": "statistic_5392176"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348551_e588226d92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348551_7dd78552ff_o.png",
+      "id_image": "statistic_6000881"
+    }
+  ]
+}

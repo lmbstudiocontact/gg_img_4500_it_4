@@ -1,0 +1,72 @@
+{
+  "english": "wonder",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kinh ngạc",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ngạc nhiên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "điều kỳ diệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "huyền diệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thần diệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dị thường",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a feeling of surprise mingled with admiration, caused by something beautiful, unexpected, unfamiliar, or inexplicable.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "desire or be curious to know something.",
+      "definitions_ex_en": "how many times have I written that, I wonder?",
+      "definitions_ex_vn": "Đã bao nhiêu lần tôi đã viết mà tôi tự hỏi?",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "feel doubt.",
+      "definitions_ex_en": "I wonder about such a marriage",
+      "definitions_ex_vn": "Tôi tự hỏi về một cuộc hôn nhân như vậy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "feel admiration and amazement; marvel.",
+      "definitions_ex_en": "people stood by and wondered at such bravery",
+      "definitions_ex_vn": "những người đứng bên cạnh và tự hỏi về sự dũng cảm như vậy",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335091_5e4214704b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335091_5529ea219c_o.png",
+      "id_image": "wonder_1354747"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380107_752ffa2277_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380107_7a094e0a3c_o.png",
+      "id_image": "wonder_3561979"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071990_a8f3676490_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071990_4b78f888d0_o.png",
+      "id_image": "wonder_6143948"
+    }
+  ]
+}

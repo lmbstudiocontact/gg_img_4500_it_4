@@ -1,0 +1,32 @@
+{
+  "english": "wrath",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phẫn nộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự giận",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tức giận",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "extreme anger (chiefly used for humorous or rhetorical effect).",
+      "definitions_ex_en": "he hid his pipe for fear of incurring his father's wrath",
+      "definitions_ex_vn": "Anh ta che giấu đường ống vì sợ phát sinh cơn thịnh nộ của cha mình",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687889_b2b359475a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687889_1bd04fe049_o.png",
+      "id_image": "wrath_1805160"
+    }
+  ]
+}

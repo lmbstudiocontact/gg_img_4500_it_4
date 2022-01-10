@@ -1,0 +1,71 @@
+{
+  "english": "slash",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khía nhọn ở bộ phận cây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vết rạch thịt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chỉ trích ác liệt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phê bình",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quất bằng roi ngựa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rạch bằng dao",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rạch đường dọc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "cut (something) with a violent sweeping movement, typically using a knife or sword.",
+      "definitions_ex_en": "a tire was slashed on my car",
+      "definitions_ex_vn": "Một lốp xe đã bị chém trên xe của tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a cut made with a wide, sweeping stroke.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an oblique stroke (/) in print or writing, used between alternatives (e.g. and/or ), in fractions (e.g. 3/4 ), in ratios (e.g. miles/day ), or between separate elements of a text.",
+      "definitions_ex_en": "sentence breaks are highlighted by slashes",
+      "definitions_ex_vn": "Phá vỡ câu được tô sáng bởi dấu gạch chéo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "used to link alternatives or words describing or denoting a dual (or multiple) function or nature.",
+      "definitions_ex_en": "a model slash actress",
+      "definitions_ex_vn": "Một nữ diễn viên Slash Model",
+      "definitions_type_word": "conjunction"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689749_af700b7dec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689749_84341d3074_o.png",
+      "id_image": "slash_3602460"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334621_7f32cfb21f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334621_8a4306b5fe_o.png",
+      "id_image": "slash_4334081"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "english": "wise",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khôn ngoan",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khôn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cách hành động",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lối hành động",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "having or showing experience, knowledge, and good judgment.",
+      "definitions_ex_en": "she seems kind and wise",
+      "definitions_ex_vn": "Cô ấy có vẻ tốt bụng và khôn ngoan",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "the manner or extent of something.",
+      "definitions_ex_en": "he did it this wise",
+      "definitions_ex_vn": "anh ấy đã làm điều này khôn ngoan",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "forming adjectives and adverbs of manner or respect such as clockwise, otherwise.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "suffix"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335866_e2fc65b364_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335866_3588fbcc24_o.png",
+      "id_image": "wise_401559"
+    }
+  ]
+}

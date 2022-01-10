@@ -1,0 +1,39 @@
+{
+  "english": "temporary",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chốc lát",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tạm thời",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "lasting for only a limited period of time; not permanent.",
+      "definitions_ex_en": "a temporary job",
+      "definitions_ex_vn": "một công việc tạm thời",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a person employed on a temporary basis, typically an office worker who finds employment through an agency.",
+      "definitions_ex_en": "to gain flexibility, companies are bringing in temporaries or contracting out work",
+      "definitions_ex_vn": "Để đạt được sự linh hoạt, các công ty đang mang lại tạm thời hoặc ký kết hợp đồng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809467048_b7868e62a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809467048_5d6d37b8e5_o.png",
+      "id_image": "temporary_6214168"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397212_15ae4e0109_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397212_81cdc69993_o.png",
+      "id_image": "temporary_6214173"
+    }
+  ]
+}

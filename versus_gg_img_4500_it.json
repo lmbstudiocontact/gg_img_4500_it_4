@@ -1,0 +1,38 @@
+{
+  "english": "versus",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chống",
+      "type_word": "preposition"
+    },
+    {
+      "translate_mean": "đấu với",
+      "type_word": "preposition"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "against (especially in sports and legal use).",
+      "definitions_ex_en": "Penn versus Princeton",
+      "definitions_ex_vn": "Penn Vs Princeton.",
+      "definitions_type_word": "preposition"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083370_dd313ec28e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083370_e2ec0548a4_o.png",
+      "id_image": "versus_1888095"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460688_c6a4b264e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460688_4c1ef8d15c_o.png",
+      "id_image": "versus_496577"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083310_8e7c57ab4c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083310_0f34596bb0_o.png",
+      "id_image": "versus_4968315"
+    }
+  ]
+}

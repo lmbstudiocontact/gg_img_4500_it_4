@@ -1,0 +1,94 @@
+{
+  "english": "stall",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chuồng bò",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ngăn tủ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quán để bán hàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sập bán hàng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cho máy xe hơi ngưng lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngăn ra nhiều ngăn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "nhốt vào chuồng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a stand, booth, or compartment for the sale of goods in a market or large covered area.",
+      "definitions_ex_en": "fruit and vegetable stalls",
+      "definitions_ex_vn": "Gian hàng rau quả",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an individual compartment for an animal in a stable or barn, enclosed on three sides.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a fixed seat in the choir or chancel of a church, more or less enclosed at the back and sides and often canopied, typically reserved for a particular member of the clergy.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an instance of an engine, vehicle, aircraft, or boat stalling.",
+      "definitions_ex_en": "speed must be maintained to avoid a stall and loss of control",
+      "definitions_ex_vn": "Tốc độ phải được duy trì để tránh bị đình trệ và mất kiểm soát",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a motor vehicle or its engine) stop running, typically because of an overload on the engine.",
+      "definitions_ex_en": "her car stalled at the crossroads",
+      "definitions_ex_vn": "Xe của cô bị đình trệ ở ngã tư đường",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "stop or cause to stop making progress.",
+      "definitions_ex_en": "his career had stalled, hers taken off",
+      "definitions_ex_vn": "sự nghiệp của anh đã bị đình trệ, cô đã cất cánh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "put or keep (an animal) in a stall, especially in order to fatten it.",
+      "definitions_ex_en": "the horses were stalled at Upper Bolney Farm",
+      "definitions_ex_vn": "Những con ngựa bị đình trệ ở trang trại Upper Bolney",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704724_1c091a32e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704724_a7d6a689be_o.png",
+      "id_image": "stall_863138"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464758_ff92f68737_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464758_d77e7c1fc6_o.png",
+      "id_image": "stall_909159"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350111_8f081982cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350111_e4f361ce9f_o.png",
+      "id_image": "stall_950710"
+    }
+  ]
+}

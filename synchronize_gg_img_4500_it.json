@@ -1,0 +1,49 @@
+{
+  "english": "synchronize",
+  "list_translation_mean": [
+    {
+      "translate_mean": "biến cố một lượt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đồng bộ hóa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho đồng bộ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vận chuyển một lượt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xảy đến đồng thời",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xảy đến một lượt",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "cause to occur or operate at the same time or rate.",
+      "definitions_ex_en": "soldiers used watches to synchronize movements",
+      "definitions_ex_vn": "Những người lính đã sử dụng đồng hồ để đồng bộ hóa các phong trào",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445238_aa4353009a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445238_82e20a8538_o.png",
+      "id_image": "synchronize_2748790"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685379_f5173629a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685379_7528043718_o.png",
+      "id_image": "synchronize_984457"
+    }
+  ]
+}

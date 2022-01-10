@@ -1,0 +1,29 @@
+{
+  "english": "theory",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lý thuyết",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a supposition or a system of ideas intended to explain something, especially one based on general principles independent of the thing to be explained.",
+      "definitions_ex_en": "Darwin's theory of evolution",
+      "definitions_ex_vn": "Lý thuyết tiến hóa của Darwin",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704814_d8598d9629_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704814_1ef6a80c3b_o.png",
+      "id_image": "theory_1900281"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395082_b4914a29c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395082_5957db947c_o.png",
+      "id_image": "theory_647856"
+    }
+  ]
+}

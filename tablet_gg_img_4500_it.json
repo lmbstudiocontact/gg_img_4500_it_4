@@ -1,0 +1,51 @@
+{
+  "english": "tablet",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bảng kỷ niệm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bảng viết chữ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đầu tường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "viên thuốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "viên thuốc tròn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a flat slab of stone, clay, or wood, used especially for an inscription.",
+      "definitions_ex_en": "at the corner of the apse is a memorial tablet",
+      "definitions_ex_vn": "Ở góc của APSE là một máy tính bảng tưởng niệm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small portable computer that accepts input directly on to its screen rather than via a keyboard or mouse.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684024_700b1977be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684024_18683da8d9_o.png",
+      "id_image": "tablet_170591"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443908_76439d0bfa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443908_8328a039f6_o.png",
+      "id_image": "tablet_326861"
+    }
+  ]
+}

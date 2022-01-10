@@ -1,0 +1,54 @@
+{
+  "english": "workshop",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chổ làm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ làm việc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xưởng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a room or building in which goods are manufactured or repaired.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a meeting at which a group of people engage in intensive discussion and activity on a particular subject or project.",
+      "definitions_ex_en": "a writers' workshop was held on July 25–27",
+      "definitions_ex_vn": "Hội thảo của một nhà văn đã được tổ chức vào ngày 25-27 tháng 7",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "present a performance of (a dramatic work), using intensive group discussion and improvisation in order to explore aspects of the production before formal staging.",
+      "definitions_ex_en": "the play was workshopped briefly at the Shaw Festival",
+      "definitions_ex_vn": "Vở kịch đã được trang bị một cách nhanh chóng tại Lễ hội Shaw",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070740_1e3c9075e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070740_520389a5b7_o.png",
+      "id_image": "workshop_2117103"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688819_187426c40e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688819_32572e4a10_o.png",
+      "id_image": "workshop_4514842"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378572_e196c620af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378572_dea1d401a8_o.png",
+      "id_image": "workshop_4647256"
+    }
+  ]
+}

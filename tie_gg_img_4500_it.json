@@ -1,0 +1,116 @@
+{
+  "english": "tie",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cà vạt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dấu nối của nhạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mấu sắt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mối liên lạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dây dùng buộc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mối ràng buộc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự có điểm bằng nhau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "buộc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cột",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đồng hạng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khóa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "attach or fasten (someone or something) with string or similar cord.",
+      "definitions_ex_en": "they tied Max to a chair",
+      "definitions_ex_vn": "Họ buộc max tối đa vào ghế",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "restrict or limit (someone) to a particular situation, occupation, or place.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "connect; link.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "achieve the same score or ranking as another competitor or team.",
+      "definitions_ex_en": "he tied for second in the league",
+      "definitions_ex_vn": "Anh buộc người thứ hai trong giải đấu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a piece of string, cord, or the like used for fastening or tying something.",
+      "definitions_ex_en": "he tightened the tie of his robe",
+      "definitions_ex_vn": "Anh siết chặt cà vạt áo choàng của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a rod or beam holding parts of a structure together.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing that unites or links people.",
+      "definitions_ex_en": "it is important that we keep family ties strong",
+      "definitions_ex_vn": "Điều quan trọng là chúng tôi giữ mối quan hệ gia đình mạnh mẽ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a strip of material worn around the collar and tied in a knot at the front with the ends hanging down, typically forming part of a man's business or formal outfit; a necktie.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a result in a game or other competitive situation in which two or more competitors or teams have the same score or ranking; a draw.",
+      "definitions_ex_en": "there was a tie for first place",
+      "definitions_ex_vn": "Có một cà vạt cho vị trí đầu tiên",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347931_3a65f0a1b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347931_299a8e2fb6_o.png",
+      "id_image": "tie_343341"
+    }
+  ]
+}

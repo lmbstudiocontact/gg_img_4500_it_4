@@ -1,0 +1,49 @@
+{
+  "english": "winter",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mùa đông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mùa lạnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mùa rét",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the coldest season of the year, in the northern hemisphere from December to February and in the southern hemisphere from June to August.",
+      "definitions_ex_en": "the tree has a good crop of berries in winter",
+      "definitions_ex_vn": "Cây có một loại quả mọng tốt trong mùa đông",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of fruit and vegetables) ripening late in the growing season and suitable for storage over the winter.",
+      "definitions_ex_en": "a winter apple",
+      "definitions_ex_vn": "một quả táo mùa đông",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(especially of a bird) spend the winter in a particular place.",
+      "definitions_ex_en": "birds wintering in the Caribbean",
+      "definitions_ex_vn": "Chim mùa đông ở vùng biển Caribbean",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451758_9c7052bff1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451758_401938c033_o.png",
+      "id_image": "winter_382570"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336856_f7fc983f39_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336856_1c912d8bf3_o.png",
+      "id_image": "winter_6249983"
+    }
+  ]
+}

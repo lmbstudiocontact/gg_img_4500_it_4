@@ -1,0 +1,42 @@
+{
+  "english": "watchman",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người canh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người coi chừng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người gác dan",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a man employed to look after an empty building, especially at night.",
+      "definitions_ex_en": "a night watchman",
+      "definitions_ex_vn": "một người canh gác đêm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072800_e2824501e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072800_c0e75c4438_o.png",
+      "id_image": "watchman_1644991"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691104_666e2be38b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691104_719e286740_o.png",
+      "id_image": "watchman_2066966"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450758_e79fbec4ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450758_e77834c04f_o.png",
+      "id_image": "watchman_2067150"
+    }
+  ]
+}

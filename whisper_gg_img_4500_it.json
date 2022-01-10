@@ -1,0 +1,64 @@
+{
+  "english": "whisper",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tiếng đồn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng rì rào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng thì thầm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng xì xào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tin đồn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nói nhỏ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thì thầm",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "speak very softly using one's breath without one's vocal cords, especially for the sake of privacy.",
+      "definitions_ex_en": "Alison was whispering in his ear",
+      "definitions_ex_vn": "Alison thì thầm vào tai anh ấy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a soft or confidential tone of voice; a whispered word or phrase.",
+      "definitions_ex_en": "she spoke in a whisper",
+      "definitions_ex_vn": "Cô nói tiếng thì thầm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067365_72d230a120_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067365_4af32aa6f5_o.png",
+      "id_image": "whisper_4893347"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375187_0a274319e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375187_7c8fbd7b0c_o.png",
+      "id_image": "whisper_5024490"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067300_6622b77e94_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067300_8f71b4a792_o.png",
+      "id_image": "whisper_5508102"
+    }
+  ]
+}

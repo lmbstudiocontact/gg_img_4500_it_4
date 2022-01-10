@@ -1,0 +1,108 @@
+{
+  "english": "water",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước biển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước được đun sôi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước lọc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước sông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước uống",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a colorless, transparent, odorless liquid that forms the seas, lakes, rivers, and rain and is the basis of the fluids of living organisms.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a stretch or area of water, such as a river, sea, or lake.",
+      "definitions_ex_en": "the lawns ran down to the water's edge",
+      "definitions_ex_vn": "Các bãi cỏ chạy xuống rìa của nước",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "urine.",
+      "definitions_ex_en": "drinking alcohol will make you need to pass water more often",
+      "definitions_ex_vn": "uống rượu sẽ khiến bạn cần phải truyền nước thường xuyên hơn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the amniotic fluid surrounding a fetus in the womb, especially as discharged in a flow shortly before birth.",
+      "definitions_ex_en": "I think my waters have broken",
+      "definitions_ex_vn": "Tôi nghĩ rằng nước của tôi đã bị hỏng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the quality of transparency and brilliance shown by a diamond or other gem.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "capital stock that represents a book value greater than the true assets of a company.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "pour or sprinkle water over (a plant or area) in order to encourage plant growth.",
+      "definitions_ex_en": "I went out to water the geraniums",
+      "definitions_ex_vn": "Tôi đã đi ra ngoài để tưới nước Geraniums",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of the eyes) become full of moisture or tears.",
+      "definitions_ex_en": "Rory blinked, his eyes watering",
+      "definitions_ex_vn": "Rory chớp mắt, mắt anh tưới nước",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "dilute or adulterate (a drink, typically an alcoholic one) with water.",
+      "definitions_ex_en": "staff at the club had been watering down the drinks",
+      "definitions_ex_vn": "Nhân viên tại câu lạc bộ đã tưới nước xuống đồ uống",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "increase (a company's debt, or nominal capital) by the issue of new shares without a corresponding addition to assets.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380802_c504d2dbbd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380802_746597300a_o.png",
+      "id_image": "water_1391386"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380762_262960818a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380762_c6f55a3698_o.png",
+      "id_image": "water_1488196"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691004_f153db00e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691004_57e5b413c2_o.png",
+      "id_image": "water_523386"
+    }
+  ]
+}

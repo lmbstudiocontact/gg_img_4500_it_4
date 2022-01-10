@@ -1,0 +1,39 @@
+{
+  "english": "struggle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuộc tranh đấu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rán sức",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make forceful or violent efforts to get free of restraint or constriction.",
+      "definitions_ex_en": "before she could struggle, he lifted her up",
+      "definitions_ex_vn": "Trước khi cô có thể đấu tranh, anh ta nâng cô lên",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a forceful or violent effort to get free of restraint or resist attack.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341626_0dd2b3f075_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341626_075c71ea83_o.png",
+      "id_image": "struggle_4185454"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079025_672b8eb54b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079025_98500c5648_o.png",
+      "id_image": "struggle_4813857"
+    }
+  ]
+}

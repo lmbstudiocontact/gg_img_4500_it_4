@@ -1,0 +1,34 @@
+{
+  "english": "tourism",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thú đi du lịch",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the commercial organization and operation of vacations and visits to places of interest.",
+      "definitions_ex_en": "a national fund for the promotion of tourism",
+      "definitions_ex_vn": "một quỹ quốc gia để thúc đẩy du lịch",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697579_7727a87e7a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697579_7006c7db17_o.png",
+      "id_image": "tourism_3942076"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079740_8dc46c07e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079740_1b94a23113_o.png",
+      "id_image": "tourism_5783719"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697494_9e4b8f6d9f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697494_5a8b902f62_o.png",
+      "id_image": "tourism_5965689"
+    }
+  ]
+}

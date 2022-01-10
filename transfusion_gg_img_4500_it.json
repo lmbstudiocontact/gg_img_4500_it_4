@@ -1,0 +1,43 @@
+{
+  "english": "transfusion",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự rót sang",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự sang máu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an act of transferring donated blood, blood products, or other fluid into the circulatory system of a person or animal.",
+      "definitions_ex_en": "major bleeding necessitating transfusions",
+      "definitions_ex_vn": "Chảy máu lớn đòi hỏi phải truyền máu",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693319_6f82a99277_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693319_409a6d4d1e_o.png",
+      "id_image": "transfusion_1142136"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338011_9b1b92845b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338011_9320a73f5a_o.png",
+      "id_image": "transfusion_1467313"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075150_0095d53644_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075150_53fbbbac1f_o.png",
+      "id_image": "transfusion_354482"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453003_c3888144f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453003_d56086cddc_o.png",
+      "id_image": "transfusion_472923"
+    }
+  ]
+}

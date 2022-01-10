@@ -1,0 +1,61 @@
+{
+  "english": "spray",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bình dùng để xịt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cành cây có lá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật trang sức hình cây lá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nước xịt ra",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tưới cây",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xịt nước",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "liquid that is blown or driven through the air in the form of tiny drops.",
+      "definitions_ex_en": "a torrent of white foam and spray",
+      "definitions_ex_vn": "một torrent bọt trắng và xịt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a stem or small branch of a tree or plant, bearing flowers and foliage.",
+      "definitions_ex_en": "a spray of honeysuckle",
+      "definitions_ex_vn": "một bình xịt kim ngân",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "apply (liquid) to someone or something in the form of a shower of tiny drops.",
+      "definitions_ex_en": "the product can be sprayed onto wet or dry hair",
+      "definitions_ex_vn": "Sản phẩm có thể được phun lên tóc ướt hoặc khô",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089880_1d8d443071_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089880_6a411f1880_o.png",
+      "id_image": "spray_1175775"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089910_134045393f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089910_a1dd0e4785_o.png",
+      "id_image": "spray_529491"
+    }
+  ]
+}

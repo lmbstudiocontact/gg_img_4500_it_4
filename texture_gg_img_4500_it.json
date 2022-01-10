@@ -1,0 +1,55 @@
+{
+  "english": "texture",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cách cấu tạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cách dệt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cách kết cấu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cách xếp đặt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự dệt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tổ chức của tế bào",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the feel, appearance, or consistency of a surface or substance.",
+      "definitions_ex_en": "skin texture and tone",
+      "definitions_ex_vn": "Kết cấu da và tông màu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "give (something) a rough or uneven texture.",
+      "definitions_ex_en": "the artist textures the paper with scalpel blades",
+      "definitions_ex_vn": "Các nghệ sĩ kết cấu giấy với lưỡi dao mổ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705409_7ec25140d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705409_b8e07970fc_o.png",
+      "id_image": "texture_2845074"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705389_924dc4dbe4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705389_0d514d98b8_o.png",
+      "id_image": "texture_5003145"
+    }
+  ]
+}

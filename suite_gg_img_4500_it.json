@@ -1,0 +1,52 @@
+{
+  "english": "suite",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bộ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đoàn tùy tùng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a set of rooms designated for one person's or family's use or for a particular purpose.",
+      "definitions_ex_en": "a suite of reception rooms",
+      "definitions_ex_vn": "một bộ phòng tiếp tân",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a set of instrumental compositions, originally in dance style, to be played in succession.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a group of people in attendance on a monarch or other person of high rank.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a set of programs with a uniform design and the ability to share data.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a group of minerals, rocks, or fossils occurring together and characteristic of a location or period.",
+      "definitions_ex_en": "potassic rock suites are a characteristic feature of the area",
+      "definitions_ex_vn": "Potassic Rock Suites là một đặc điểm đặc trưng của khu vực",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453258_3c91871b38_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453258_ef74677eaa_o.png",
+      "id_image": "suite_5779006"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "english": "spark",
+  "list_translation_mean": [
+    {
+      "translate_mean": "điện tín viên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người vui tánh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tia lửa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tia sáng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắn ra tia sáng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phát ra tia lửa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small fiery particle thrown off from a fire, alight in ashes, or produced by striking together two hard surfaces such as stone or metal.",
+      "definitions_ex_en": "a log fire was sending sparks onto the rug",
+      "definitions_ex_vn": "Một đám cháy nhật ký đã gửi tia lửa lên tấm thảm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a trace of a specified quality or intense feeling.",
+      "definitions_ex_en": "a tiny spark of anger flared within her",
+      "definitions_ex_vn": "một tia sáng giận dữ nhỏ bé bùng lên trong cô ấy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a lively young fellow.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "emit sparks of fire or electricity.",
+      "definitions_ex_en": "the ignition sparks as soon as the gas is turned on",
+      "definitions_ex_vn": "đánh lửa tia lửa ngay khi khí được bật",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "ignite.",
+      "definitions_ex_en": "the explosion sparked a fire",
+      "definitions_ex_vn": "Vụ nổ châm lửa",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "engage in courtship.",
+      "definitions_ex_en": "he went a sparking among the rosy country girls",
+      "definitions_ex_vn": "Anh ta đã có một tia lửa trong số những cô gái quê hương hồng hào",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680084_fb7a019135_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680084_ac98bca2d6_o.png",
+      "id_image": "spark_1870916"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369757_b97e1d5675_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369757_423990f833_o.png",
+      "id_image": "spark_290139"
+    }
+  ]
+}

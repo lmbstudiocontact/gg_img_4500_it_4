@@ -1,0 +1,39 @@
+{
+  "english": "surgical",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về giải phẩu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về mổ xẻ",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to or used in surgery.",
+      "definitions_ex_en": "a surgical dressing",
+      "definitions_ex_vn": "một băng phẫu thuật",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "denoting something done with great precision, especially a swift and highly accurate military attack from the air.",
+      "definitions_ex_en": "surgical bombing",
+      "definitions_ex_vn": "ném bom phẫu thuật",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335656_cde4e587d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335656_4c0726e996_o.png",
+      "id_image": "surgical_1225681"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450573_0694414fc0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450573_6ca5e45ab5_o.png",
+      "id_image": "surgical_4829559"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "english": "subscription",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự ký tên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự mua báo dài hạn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự quyên góp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tán đồng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự tham gia",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiền đặc trước",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of making or agreeing to make an advance payment in order to receive or participate in something.",
+      "definitions_ex_en": "the newsletter is available only on subscription",
+      "definitions_ex_vn": "Bản tin chỉ khả dụng trên đăng ký",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a signature or short piece of writing at the end of a document.",
+      "definitions_ex_en": "he signed the letter and added a subscription",
+      "definitions_ex_vn": "anh ấy đã ký bức thư và thêm một thuê bao",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454833_69125990e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454833_4857ded94f_o.png",
+      "id_image": "subscription_2037336"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384807_9e81afcd0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384807_27bf1f5766_o.png",
+      "id_image": "subscription_2615140"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695119_ea009a6eee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695119_ae802a8688_o.png",
+      "id_image": "subscription_3188091"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "english": "wisdom",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tánh khôn ngoan",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the quality of having experience, knowledge, and good judgment; the quality of being wise.",
+      "definitions_ex_en": "listen to his words of wisdom",
+      "definitions_ex_vn": "lắng nghe những lời khôn ngoan của anh ấy",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335961_9f16cf4a06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335961_9441730f87_o.png",
+      "id_image": "wisdom_2466719"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691194_128245615a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691194_05a79b3d08_o.png",
+      "id_image": "wisdom_2466780"
+    }
+  ]
+}

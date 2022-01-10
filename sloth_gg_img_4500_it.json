@@ -1,0 +1,39 @@
+{
+  "english": "sloth",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tánh biếng nhác",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tánh lười biếng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "reluctance to work or make an effort; laziness.",
+      "definitions_ex_en": "he should overcome his natural sloth and complacency",
+      "definitions_ex_vn": "anh ta nên vượt qua con lười tự nhiên và sự tự mãn của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a slow-moving tropical American mammal that hangs upside down from the branches of trees using its long limbs and hooked claws.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069010_ff40e2c7f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069010_2ca82d9e6e_o.png",
+      "id_image": "sloth_2417565"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687214_50c7fa0244_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687214_fe958e4cfd_o.png",
+      "id_image": "sloth_3069264"
+    }
+  ]
+}

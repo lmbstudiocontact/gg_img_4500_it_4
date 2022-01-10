@@ -1,0 +1,63 @@
+{
+  "english": "sparkle",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự chói sáng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự minh mẩn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tia sáng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chói sáng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "phát ra tia lửa",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "shine brightly with flashes of light.",
+      "definitions_ex_en": "her earrings sparkled as she turned her head",
+      "definitions_ex_vn": "Hoa tai của cô lấp lánh khi cô quay đầu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be vivacious and witty.",
+      "definitions_ex_en": "after a glass of wine, she began to sparkle",
+      "definitions_ex_vn": "Sau một ly rượu, cô bắt đầu lấp lánh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a glittering flash of light.",
+      "definitions_ex_en": "there was a sparkle in his eyes",
+      "definitions_ex_vn": "Có một tia sáng lấp lánh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "vivacity and wit.",
+      "definitions_ex_en": "she's got a kind of sparkle",
+      "definitions_ex_vn": "cô ấy có một loại lấp lánh",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680064_a4f4a49a9f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680064_9e09d5b3cf_o.png",
+      "id_image": "sparkle_1890795"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680044_ec7a7624fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680044_2448172ba2_o.png",
+      "id_image": "sparkle_2519211"
+    }
+  ]
+}

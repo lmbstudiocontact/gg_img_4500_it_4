@@ -1,0 +1,46 @@
+{
+  "english": "steak",
+  "list_translation_mean": [
+    {
+      "translate_mean": "khứa cá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lát thịt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miếng bò hầm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thịt bíp tết",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "high-quality beef taken from the hindquarters of the animal, typically cut into thick slices that are cooked by broiling or frying.",
+      "definitions_ex_en": "he liked his steak rare",
+      "definitions_ex_vn": "anh ấy thích bít tết của anh ấy hiếm",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348106_3b153dc2ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348106_3332c3f4c0_o.png",
+      "id_image": "steak_1939686"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085385_a9832cfc3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085385_ae4b2f7edc_o.png",
+      "id_image": "steak_3005059"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085335_be740915a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085335_9907f1187b_o.png",
+      "id_image": "steak_3005152"
+    }
+  ]
+}

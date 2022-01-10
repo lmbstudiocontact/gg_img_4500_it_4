@@ -1,0 +1,28 @@
+{
+  "english": "suitable",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thích đáng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thích nghi",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "right or appropriate for a particular person, purpose, or situation.",
+      "definitions_ex_en": "these toys are not suitable for children under five",
+      "definitions_ex_vn": "Những đồ chơi này không phù hợp với trẻ em dưới năm tuổi",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453393_abdff1c3c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453393_268f4eddaa_o.png",
+      "id_image": "suitable_6281552"
+    }
+  ]
+}

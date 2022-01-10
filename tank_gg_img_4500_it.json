@@ -1,0 +1,62 @@
+{
+  "english": "tank",
+  "list_translation_mean": [
+    {
+      "translate_mean": "xe tăng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bình nhiên liệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bồn chứa săng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chiến xa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thùng chứa nước",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large receptacle or storage chamber, especially for liquid or gas.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a heavy armored fighting vehicle carrying guns and moving on a continuous articulated metal track.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "fill the tank of a vehicle with fuel.",
+      "definitions_ex_en": "the cars stopped to tank up",
+      "definitions_ex_vn": "Những chiếc xe dừng lại để tăng xe tăng",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371537_a9ae6a6644_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371537_9185f226e6_o.png",
+      "id_image": "tank_1176250"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063780_71302f7d97_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063780_3ee8f9d2ab_o.png",
+      "id_image": "tank_416230"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371572_84d4b55fb6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371572_5c6fd4f175_o.png",
+      "id_image": "tank_942354"
+    }
+  ]
+}

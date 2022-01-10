@@ -1,0 +1,30 @@
+{
+  "english": "textbook",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sách giáo khoa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a book used as a standard work for the study of a particular subject.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "conforming to or corresponding to a standard or type that is prescribed or widely held by theorists.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395667_8858f43e6a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395667_7a4cd891f2_o.png",
+      "id_image": "textbook_1690992"
+    }
+  ]
+}

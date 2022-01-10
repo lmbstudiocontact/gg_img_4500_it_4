@@ -1,0 +1,88 @@
+{
+  "english": "steam",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hơi nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xì hơi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bay hơi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "bốc hơi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chưng bằng hơi",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the vapor into which water is converted when heated, forming a white mist of minute water droplets in the air.",
+      "definitions_ex_en": "a cloud of steam",
+      "definitions_ex_vn": "một đám mây hơi nước",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "give off or produce steam.",
+      "definitions_ex_en": "a mug of coffee was steaming at her elbow",
+      "definitions_ex_vn": "Một cốc cà phê đang hấp ở khuỷu tay của cô ấy",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cook (food) by heating it in steam from boiling water.",
+      "definitions_ex_en": "steam the vegetables until just tender",
+      "definitions_ex_vn": "hấp rau cho đến khi chỉ đấu thầu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a ship or train) travel somewhere under steam power.",
+      "definitions_ex_en": "the 11:54 steamed into the station",
+      "definitions_ex_vn": "11:54 hấp vào nhà ga",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be or become extremely agitated or angry.",
+      "definitions_ex_en": "you got all steamed up over nothing!",
+      "definitions_ex_vn": "Bạn đã có tất cả hấp lên không có gì!",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392767_f4131975ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392767_da69b69f4b_o.png",
+      "id_image": "steam_3690227"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085160_0e5585029a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085160_07a4a88fbe_o.png",
+      "id_image": "steam_4636822"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347821_1e7bb26a60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347821_8c093afb0c_o.png",
+      "id_image": "steam_4675580"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392702_4428d53ce7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392702_ab9fc04720_o.png",
+      "id_image": "steam_5234464"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702599_be42ab0688_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702599_59272728e5_o.png",
+      "id_image": "steam_532373"
+    }
+  ]
+}

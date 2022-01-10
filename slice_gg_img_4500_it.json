@@ -1,0 +1,78 @@
+{
+  "english": "slice",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lát mỏng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miếng mỏng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thái dài và mỏng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cắt ra từng miếng mỏng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thái ra mỏng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thin, broad piece of food, such as bread, meat, or cake, cut from a larger portion.",
+      "definitions_ex_en": "four slices of bread",
+      "definitions_ex_vn": "Bốn lát bánh mì",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a utensil with a broad, flat blade for lifting foods such as cake and fish.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a stroke that makes the ball curve away to the right (for a left-handed player, the left), typically inadvertently.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "cut (something, especially food) into slices.",
+      "definitions_ex_en": "slice the onion into rings",
+      "definitions_ex_vn": "cắt hành tây vào nhẫn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "strike (the ball) or play (a stroke) so that the ball curves away to the right (for a left-handed player, the left), typically inadvertently.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378252_b6914908ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378252_f63d5d5260_o.png",
+      "id_image": "slice_1589430"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448473_e8c6042398_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448473_26abb20348_o.png",
+      "id_image": "slice_3390608"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070290_b24158efeb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070290_b755b2f274_o.png",
+      "id_image": "slice_448754"
+    }
+  ]
+}

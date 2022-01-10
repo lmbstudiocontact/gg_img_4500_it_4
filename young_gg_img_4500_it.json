@@ -1,0 +1,53 @@
+{
+  "english": "young",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thiếu niên",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trẻ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trẻ tuổi",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "having lived or existed for only a short time.",
+      "definitions_ex_en": "a young girl",
+      "definitions_ex_vn": "Một cô gái trẻ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "offspring, especially of an animal before or soon after birth.",
+      "definitions_ex_en": "this species carries its young",
+      "definitions_ex_vn": "Loài này mang non trẻ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375027_0f79870853_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375027_dff425965d_o.png",
+      "id_image": "young_2897024"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685409_168493e8ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685409_a63851197e_o.png",
+      "id_image": "young_3014426"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445278_9813fcbc91_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445278_b8b32c0a00_o.png",
+      "id_image": "young_3088339"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067190_2c1bd5e472_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067190_3a02dd3b2d_o.png",
+      "id_image": "young_3576969"
+    }
+  ]
+}

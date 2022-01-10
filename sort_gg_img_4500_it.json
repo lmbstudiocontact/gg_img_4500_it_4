@@ -1,0 +1,79 @@
+{
+  "english": "sort",
+  "list_translation_mean": [
+    {
+      "translate_mean": "giống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hạng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thứ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "loài",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "loại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lựa chọn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a category of things or people having some common feature; a type.",
+      "definitions_ex_en": "if only we knew the sort of people she was mixing with",
+      "definitions_ex_vn": "Nếu chỉ có chúng ta biết những người cô ấy đang trộn với",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the arrangement of data in a prescribed sequence.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a manner or way.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a letter or piece in a font of type.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "arrange systematically in groups; separate according to type, class, etc.",
+      "definitions_ex_en": "the mail was sorted",
+      "definitions_ex_vn": "Thư đã được sắp xếp",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "resolve (a problem or difficulty).",
+      "definitions_ex_en": "the problem with the engine was soon sorted",
+      "definitions_ex_vn": "Vấn đề với động cơ đã sớm được sắp xếp",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325696_386b0c93bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325696_1f52fb0fcb_o.png",
+      "id_image": "sort_4598422"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325681_9fd5fd3f75_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325681_de5e3582b5_o.png",
+      "id_image": "sort_4828897"
+    }
+  ]
+}

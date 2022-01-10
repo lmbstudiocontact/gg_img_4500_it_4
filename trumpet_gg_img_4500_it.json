@@ -1,0 +1,54 @@
+{
+  "english": "trumpet",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kèn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người thổi kèn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật giống cái kèn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thổi kèn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a brass musical instrument with a flared bell and a bright, penetrating tone. The modern instrument has the tubing looped to form a straight-sided coil, with three valves.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a North American pitcher plant.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "play a trumpet.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "proclaim widely or loudly.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446378_ac9bebd603_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446378_d0ffd38427_o.png",
+      "id_image": "trumpet_820175"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "english": "signature",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chữ ký",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dấu ở đầu bản nhạc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tên ký",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person's name written in a distinctive way as a form of identification in authorizing a check or document or concluding a letter.",
+      "definitions_ex_en": "the signature of a senior manager",
+      "definitions_ex_vn": "Chữ ký của một người quản lý cao cấp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for key signature or time signature.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a letter or figure printed at the foot of one or more pages of each sheet of a book as a guide in binding.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339376_eb95d91ae5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339376_8abc97cd69_o.png",
+      "id_image": "signature_4391557"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384267_efb9b6cd54_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384267_e6b15e1cbd_o.png",
+      "id_image": "signature_4736027"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076475_9b3e8c7739_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076475_63e8ddf527_o.png",
+      "id_image": "signature_4827475"
+    }
+  ]
+}

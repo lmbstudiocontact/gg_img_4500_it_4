@@ -1,0 +1,49 @@
+{
+  "english": "tailor",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thợ may",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm nghề thợ may",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "may quần áo",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person whose occupation is making fitted clothes such as suits, pants, and jackets to fit individual customers.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "another term for bluefish.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a tailor) make (clothes) to fit individual customers.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327851_4f0c66e43e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327851_8a9813961c_o.png",
+      "id_image": "tailor_5857235"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064485_38d86b59f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064485_973d867ae4_o.png",
+      "id_image": "tailor_6036809"
+    }
+  ]
+}

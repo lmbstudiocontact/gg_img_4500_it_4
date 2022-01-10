@@ -1,0 +1,59 @@
+{
+  "english": "sponsor",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cha mẹ đở đầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người bảo đảm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người bảo lảnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đở đầu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an individual or organization that pays some or all of the costs involved in staging a sporting or artistic event in return for advertising.",
+      "definitions_ex_en": "the production cost $50,000, most coming from local sponsors",
+      "definitions_ex_vn": "sản xuất có giá 50.000 đô la, hầu hết đến từ các nhà tài trợ địa phương",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person who introduces and supports a proposal for legislation.",
+      "definitions_ex_en": "a leading sponsor of the bill",
+      "definitions_ex_vn": "một nhà tài trợ hàng đầu của hóa đơn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "provide funds for (a project or activity or the person carrying it out).",
+      "definitions_ex_en": "Joe is being sponsored by his church",
+      "definitions_ex_vn": "Joe đang được tài trợ bởi nhà thờ của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "introduce and support (a proposal) in a legislative assembly.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809707824_fc192d36b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809707824_67a56e638b_o.png",
+      "id_image": "sponsor_2329325"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810090485_123158d678_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810090485_df5a684644_o.png",
+      "id_image": "sponsor_950592"
+    }
+  ]
+}

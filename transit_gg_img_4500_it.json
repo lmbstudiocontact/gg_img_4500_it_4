@@ -1,0 +1,59 @@
+{
+  "english": "transit",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự chuyên chở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đi qua",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vận tải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vượt qua",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the carrying of people, goods, or materials from one place to another.",
+      "definitions_ex_en": "a painting was damaged in transit",
+      "definitions_ex_vn": "Một bức tranh đã bị hư hại trong quá cảnh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an act of passing through or across a place.",
+      "definitions_ex_en": "the first west-to-east transit of the Northwest Passage",
+      "definitions_ex_vn": "tuyến đường đông phía tây đầu tiên của đoạn đường tây bắc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a tool used by surveyors to measure horizontal angles.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "pass across or through (an area).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693079_4f4962d22d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693079_5d9601b46c_o.png",
+      "id_image": "transit_3456126"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337746_ae6055b76f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337746_b050d3cc70_o.png",
+      "id_image": "transit_4283286"
+    }
+  ]
+}

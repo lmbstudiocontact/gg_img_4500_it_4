@@ -1,0 +1,41 @@
+{
+  "english": "snorkel",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ống thông hơi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a short tube for a swimmer to breathe through while keeping their face under water.",
+      "definitions_ex_en": "bring a snorkel and flippers to explore the offshore reef",
+      "definitions_ex_vn": "Mang theo một ống thở và chân chèo để khám phá rạn san hô ngoài khơi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a type of hydraulically elevated platform for firefighting.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "swim using a snorkel.",
+      "definitions_ex_en": "snorkel around the unspoiled coral reefs",
+      "definitions_ex_vn": "Snorkel xung quanh các rạn san hô hoang sơ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329121_9cddb5c076_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329121_ac81d4ed5d_o.png",
+      "id_image": "snorkel_1923030"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065905_66374223b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065905_91f4c03677_o.png",
+      "id_image": "snorkel_5015734"
+    }
+  ]
+}

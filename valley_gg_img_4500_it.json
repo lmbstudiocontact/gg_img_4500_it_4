@@ -1,0 +1,44 @@
+{
+  "english": "valley",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đường rảnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thung lũng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a low area of land between hills or mountains, typically with a river or stream flowing through it.",
+      "definitions_ex_en": "the Thames Valley",
+      "definitions_ex_vn": "Thung lũng Thames",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an internal angle formed by the intersecting planes of a roof, or by the slope of a roof and a wall.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704014_e23d279a71_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704014_1a433708b0_o.png",
+      "id_image": "valley_3038825"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703979_ed75e3994a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703979_4584c9ab38_o.png",
+      "id_image": "valley_5026454"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349346_e3ce33fcd3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349346_c69e1bbb16_o.png",
+      "id_image": "valley_721099"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "english": "silent",
+  "list_translation_mean": [
+    {
+      "translate_mean": "im lặng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không nói",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "làm thinh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tỉnh mịch",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thanh vắng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "yên lặng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "yên tỉnh",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "not making or accompanied by any sound.",
+      "definitions_ex_en": "the woods were still and silent",
+      "definitions_ex_vn": "Các khu rừng vẫn còn và im lặng",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453803_b043d96eb4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453803_f39eeb7b35_o.png",
+      "id_image": "silent_2222912"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383682_ccb5b53bcf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383682_3c970a5bda_o.png",
+      "id_image": "silent_3115605"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383637_dfa3097a5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383637_253d2bc484_o.png",
+      "id_image": "silent_3508242"
+    }
+  ]
+}

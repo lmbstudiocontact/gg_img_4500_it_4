@@ -1,0 +1,24 @@
+{
+  "english": "spinal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về xương sống",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to the spine.",
+      "definitions_ex_en": "spinal injuries",
+      "definitions_ex_vn": "Chấn thương cột sống",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809468608_5b761b1e23_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809468608_acd6e9865b_o.png",
+      "id_image": "spinal_1823747"
+    }
+  ]
+}

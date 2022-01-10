@@ -1,0 +1,46 @@
+{
+  "english": "varnish",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dầu sơn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "men tráng đồ sành",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đánh vẹt ni",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vẹt ni",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đánh vẹt ni",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "resin dissolved in a liquid for applying on wood, metal, or other materials to form a hard, clear, shiny surface when dry.",
+      "definitions_ex_en": "several coats of varnish",
+      "definitions_ex_vn": "một số lớp vecni",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "apply varnish to.",
+      "definitions_ex_en": "we stripped the floor and varnished it",
+      "definitions_ex_vn": "Chúng tôi lột sàn và đánh vần nó",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702984_f36efaee5f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702984_432e571641_o.png",
+      "id_image": "varnish_3468348"
+    }
+  ]
+}

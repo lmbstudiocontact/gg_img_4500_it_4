@@ -1,0 +1,97 @@
+{
+  "english": "tail",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bím tóc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đoạn cuối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đuôi thú",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trang cuối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cắt đuôi thú vật",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đứng chót",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the hindmost part of an animal, especially when prolonged beyond the rest of the body, such as the flexible extension of the backbone in a vertebrate, the feathers at the hind end of a bird, or a terminal appendage in an insect.",
+      "definitions_ex_en": "the dog's tail began to wag frantically",
+      "definitions_ex_vn": "Đuôi chó bắt đầu điên cuồng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing resembling an animal's tail in its shape or position, typically something extending downward or outward at the end of something.",
+      "definitions_ex_en": "the trailed tail of a capital Q",
+      "definitions_ex_vn": "đuôi đuôi của thủ đô Q",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the end of a long train or line of people or vehicles.",
+      "definitions_ex_en": "an armored truck at the tail of the convoy",
+      "definitions_ex_vn": "một chiếc xe tải bọc thép ở đuôi của đoàn xe",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person secretly following another to observe their movements.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the reverse side of a coin (used when tossing a coin).",
+      "definitions_ex_en": "the chances of heads and tails in the long run are equal",
+      "definitions_ex_vn": "cơ hội của đầu và đuôi trong thời gian dài bằng nhau",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "limitation of ownership, especially of an estate or title limited to a person and their heirs.",
+      "definitions_ex_en": "the land was held in tail general",
+      "definitions_ex_vn": "Vùng đất được tổ chức ở Đuôi nói chung",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "follow and observe (someone) closely, especially in secret.",
+      "definitions_ex_en": "a flock of paparazzi had tailed them all over Paris",
+      "definitions_ex_vn": "Một đàn Paparazzi đã đặt đuôi tất cả qua Paris",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "provide with a tail.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "join (one thing) to another.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327896_cf928fb61d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327896_6c0b25312e_o.png",
+      "id_image": "tail_2002609"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327876_453dcdaa64_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327876_93d2223926_o.png",
+      "id_image": "tail_3387945"
+    }
+  ]
+}

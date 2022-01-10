@@ -1,0 +1,29 @@
+{
+  "english": "timber",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây làm nhà",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "wood prepared for use in building and carpentry.",
+      "definitions_ex_en": "the exploitation of forests for timber",
+      "definitions_ex_vn": "Khai thác rừng cho gỗ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702329_56b93117cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702329_046428bb86_o.png",
+      "id_image": "timber_2191475"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392487_ba5edd611e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392487_ef2b448160_o.png",
+      "id_image": "timber_3555826"
+    }
+  ]
+}

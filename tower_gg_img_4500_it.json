@@ -1,0 +1,60 @@
+{
+  "english": "tower",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cao hơn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tháp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xe kéo",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a tall, narrow building, either freestanding or forming part of a building such as a church or castle.",
+      "definitions_ex_en": "the south-west tower is a wonderful example of late Gothic",
+      "definitions_ex_vn": "Tháp phía tây nam là một ví dụ tuyệt vời về muộn gothic",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a tall structure that houses machinery, operators, etc.",
+      "definitions_ex_en": "a control tower",
+      "definitions_ex_vn": "một tháp điều khiển",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "rise to or reach a great height.",
+      "definitions_ex_en": "he seemed to tower over everyone else",
+      "definitions_ex_vn": "anh ấy dường như để vượt qua những người khác",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a bird) soar to a great height, especially (of a falcon) so as to be able to swoop down on the quarry.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079260_22ecc1d790_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079260_d1d1504de0_o.png",
+      "id_image": "tower_1835019"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341771_a4943a8554_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341771_4df8e22510_o.png",
+      "id_image": "tower_4458936"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456608_4f0cf9da53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456608_ed9caa38b0_o.png",
+      "id_image": "tower_5559362"
+    }
+  ]
+}

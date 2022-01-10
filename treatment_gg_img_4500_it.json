@@ -1,0 +1,63 @@
+{
+  "english": "treatment",
+  "list_translation_mean": [
+    {
+      "translate_mean": "điều trị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phép trị bịnh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phép trị liệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chế hóa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cư xử",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đối đải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự nghiên cứu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the manner in which someone behaves toward or deals with someone or something.",
+      "definitions_ex_en": "the directive required equal treatment for men and women",
+      "definitions_ex_vn": "Chỉ thị yêu cầu đối xử bình đẳng đối với nam và nữ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335251_0a66346290_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335251_81914a5552_o.png",
+      "id_image": "treatment_2358537"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072165_718c033fa5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072165_0c18965477_o.png",
+      "id_image": "treatment_2688386"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380257_13c3989256_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380257_48916c2749_o.png",
+      "id_image": "treatment_3027624"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690444_81cca986e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690444_6679d52687_o.png",
+      "id_image": "treatment_963310"
+    }
+  ]
+}

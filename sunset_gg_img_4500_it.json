@@ -1,0 +1,39 @@
+{
+  "english": "sunset",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lúc già yếu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lúc mặt trời lặn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the time in the evening when the sun disappears or daylight fades.",
+      "definitions_ex_en": "sunset was still a couple of hours away",
+      "definitions_ex_vn": "hoàng hôn vẫn còn vài giờ nữa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "denoting a legal provision under which a program, agency, regulation, etc., is automatically terminated at the end of a fixed period unless renewed by legislative action.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074445_f115e7bde7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074445_0c830f88d6_o.png",
+      "id_image": "sunset_286615"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337346_732981afb8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337346_9173e665e0_o.png",
+      "id_image": "sunset_5136154"
+    }
+  ]
+}

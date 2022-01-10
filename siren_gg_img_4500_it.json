@@ -1,0 +1,50 @@
+{
+  "english": "siren",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhân ngư",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "còi máy",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a device that makes a loud prolonged sound as a signal or warning.",
+      "definitions_ex_en": "ambulance sirens",
+      "definitions_ex_vn": "cứu thương còi báo động",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "each of a number of women or winged creatures whose singing lured unwary sailors on to rocks.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an eel-like American amphibian with tiny forelimbs, no hind limbs, small eyes, and external gills, typically living in muddy pools.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692294_d6815a4413_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692294_79e4f8cbdd_o.png",
+      "id_image": "siren_2399471"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073940_ce52ae8aa3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073940_8711e32659_o.png",
+      "id_image": "siren_2605938"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074005_35415bfdd2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074005_9d539a436c_o.png",
+      "id_image": "siren_427193"
+    }
+  ]
+}

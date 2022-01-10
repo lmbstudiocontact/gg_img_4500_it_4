@@ -1,0 +1,133 @@
+{
+  "english": "snap",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ảnh chụp lẹ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nói với giọng chua cay",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự gãy thình lình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự táp thình lình",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vở bể",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tiếng răng run lập cặp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính linh hoạt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bị chó cắn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "quất đen đét",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chụp hình lẹ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gãy nghe cái rắc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm thình lình",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "break or cause to break suddenly and completely, typically with a sharp cracking sound.",
+      "definitions_ex_en": "guitar strings kept snapping",
+      "definitions_ex_vn": "dây đàn guitar tiếp tục chụp",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of an animal) make a sudden audible bite.",
+      "definitions_ex_en": "a dog was snapping at his heels",
+      "definitions_ex_vn": "Một con chó đang chụp vào gót chân của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "suddenly lose one's self-control.",
+      "definitions_ex_en": "she claims she snapped after years of violence",
+      "definitions_ex_vn": "Cô ấy tuyên bố cô ấy đã chụp sau nhiều năm bạo lực.",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "take a snapshot of.",
+      "definitions_ex_en": "he planned to spend the time snapping rare wildlife",
+      "definitions_ex_vn": "anh ấy đã lên kế hoạch dành thời gian cho động vật hoang dã quý hiếm",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "put (the ball) into play by a quick backward movement from the ground.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "fasten with snaps.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a sudden, sharp cracking sound or movement.",
+      "definitions_ex_en": "she closed her purse with a snap",
+      "definitions_ex_vn": "Cô đóng ví bằng một cái snap",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a hurried, irritable tone or manner.",
+      "definitions_ex_en": "“I'm still waiting,” he said with a snap",
+      "definitions_ex_vn": "\"Tôi vẫn đang chờ đợi,\" anh nói với một snap",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a snapshot.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a quick backward movement of the ball from the ground that begins a play.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "done or taken on the spur of the moment, unexpectedly, or without notice.",
+      "definitions_ex_en": "a snap judgment",
+      "definitions_ex_vn": "một bản án snap.",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685019_cf88bf54bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685019_ab4a6d0b60_o.png",
+      "id_image": "snap_3798305"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329996_178acd3bf2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329996_87c6c5ac01_o.png",
+      "id_image": "snap_4151741"
+    }
+  ]
+}

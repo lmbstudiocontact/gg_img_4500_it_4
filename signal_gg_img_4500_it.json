@@ -1,0 +1,66 @@
+{
+  "english": "signal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ám hiệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dấu hiệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tín hiệu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a gesture, action, or sound that is used to convey information or instructions, typically by prearrangement between the parties concerned.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an electrical impulse or radio wave transmitted or received.",
+      "definitions_ex_en": "equipment for receiving TV signals",
+      "definitions_ex_vn": "Thiết bị nhận tín hiệu TV",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an apparatus on a railroad, typically a colored light or a semaphore, giving indications to train engineers of whether or not the line is clear.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "transmit information or instructions by means of a gesture, action, or sound.",
+      "definitions_ex_en": "hold your fire until I signal",
+      "definitions_ex_vn": "Giữ lửa của bạn cho đến khi tôi báo hiệu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "striking in extent, seriousness, or importance; outstanding.",
+      "definitions_ex_en": "their signal failure to achieve a satisfactory solution to the problem",
+      "definitions_ex_vn": "Tín hiệu của họ không đạt được một giải pháp thỏa đáng cho vấn đề",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384592_8df2829a34_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384592_7a005221d0_o.png",
+      "id_image": "signal_1680169"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694879_e98f2d7c90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694879_c55aee85b4_o.png",
+      "id_image": "signal_1871150"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076915_29aa192e43_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076915_5a75d3a6b3_o.png",
+      "id_image": "signal_224666"
+    }
+  ]
+}

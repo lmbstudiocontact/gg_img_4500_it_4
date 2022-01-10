@@ -1,0 +1,42 @@
+{
+  "english": "subpoena",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chia làm nhiều quyển",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có nhiều quyển sách",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "cồng kềnh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "viết nhiều sách",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of clothing or drapery) loose and ample.",
+      "definitions_ex_en": "a voluminous purple cloak",
+      "definitions_ex_vn": "một chiếc áo choàng màu tím s tông đàng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of writing) very lengthy and full.",
+      "definitions_ex_en": "we all scribbled down voluminous notes",
+      "definitions_ex_vn": "Tất cả chúng ta đều viết nguệch ngoạc ghi chú",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077395_73bf91ef03_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077395_135a03f848_o.png",
+      "id_image": "subpoena_2861312"
+    }
+  ]
+}

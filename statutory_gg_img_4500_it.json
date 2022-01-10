@@ -1,0 +1,28 @@
+{
+  "english": "statutory",
+  "list_translation_mean": [
+    {
+      "translate_mean": "do pháp luật định",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "đúng theo điều lệ",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "required, permitted, or enacted by statute.",
+      "definitions_ex_en": "the courts did award statutory damages to each of the plaintiffs",
+      "definitions_ex_vn": "Các tòa án đã làm những thiệt hại theo luật định cho mỗi nguyên đơn",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348261_d590b6ced4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348261_1ac197e848_o.png",
+      "id_image": "statutory_1622625"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "english": "visibility",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự trông thấy được",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thị giả",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the state of being able to see or be seen.",
+      "definitions_ex_en": "a reduction in police presence and visibility on the streets",
+      "definitions_ex_vn": "giảm sự hiện diện của cảnh sát và tầm nhìn trên đường phố",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697794_c44eb01c07_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697794_d7b951472f_o.png",
+      "id_image": "visibility_2765236"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080115_e803712e88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080115_fc3c57ba8a_o.png",
+      "id_image": "visibility_283662"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342556_a4bcb77790_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342556_aab997b6d1_o.png",
+      "id_image": "visibility_296926"
+    }
+  ]
+}

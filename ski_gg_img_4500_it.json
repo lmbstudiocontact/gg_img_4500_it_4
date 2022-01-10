@@ -1,0 +1,35 @@
+{
+  "english": "ski",
+  "list_translation_mean": [
+    {
+      "translate_mean": "trượt tuyết",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "each of a pair of long narrow pieces of hard flexible material, typically pointed and turned up at the front, fastened under the feet for gliding over snow.",
+      "definitions_ex_en": "a pair of skis",
+      "definitions_ex_vn": "một cặp ván trượt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "travel over snow on skis; take part in the sport or recreation of skiing.",
+      "definitions_ex_en": "they skied down the mountain",
+      "definitions_ex_vn": "Họ trượt xuống núi",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690904_40dfa5c42c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690904_17c579b2d0_o.png",
+      "id_image": "ski_3118218"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072565_42c6d840cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072565_f3175d1d73_o.png",
+      "id_image": "ski_4669581"
+    }
+  ]
+}

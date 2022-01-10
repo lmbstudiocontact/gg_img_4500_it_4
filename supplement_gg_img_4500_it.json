@@ -1,0 +1,66 @@
+{
+  "english": "supplement",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bản phụ lục",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điều thêm vào",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần bổ sung",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần bổ túc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bổ khuyết",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thêm vào",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "something that completes or enhances something else when added to it.",
+      "definitions_ex_en": "the handout is a supplement to the official manual",
+      "definitions_ex_vn": "Bản tin là một bổ sung cho hướng dẫn chính thức",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the amount by which an angle is less than 180°.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "add an extra element or amount to.",
+      "definitions_ex_en": "I looked for a part-time job to supplement my income",
+      "definitions_ex_vn": "Tôi tìm kiếm một công việc bán thời gian để bổ sung thu nhập của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336911_01e6e5d41e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336911_7ebdbd8dfc_o.png",
+      "id_image": "supplement_2885328"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381942_e1edf0a571_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381942_e5e85055aa_o.png",
+      "id_image": "supplement_4669404"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692174_dd756c8417_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692174_764029f75f_o.png",
+      "id_image": "supplement_5220992"
+    }
+  ]
+}

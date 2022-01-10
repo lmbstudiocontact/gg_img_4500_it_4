@@ -1,0 +1,62 @@
+{
+  "english": "soldier",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chiến sĩ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lính",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who serves in an army.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a wingless caste of ant or termite with a large specially modified head and jaws, involved chiefly in defense.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an upright brick, timber, or other building element.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "serve as a soldier.",
+      "definitions_ex_en": "I soldiered with your father on his last four campaigns",
+      "definitions_ex_vn": "Tôi đã chiến sĩ với cha của bạn trong bốn chiến dịch cuối cùng của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "carry on doggedly; persevere.",
+      "definitions_ex_en": "Graham wasn't enjoying this, but he soldiered on",
+      "definitions_ex_vn": "Graham không tận hưởng điều này, nhưng anh ấy đã chiến đấu",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326361_8931668fef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326361_3907f306f1_o.png",
+      "id_image": "soldier_1100229"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326481_c11719a3fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326481_8b0c3736c8_o.png",
+      "id_image": "soldier_307932"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441378_03e427ae27_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441378_d348cec24e_o.png",
+      "id_image": "soldier_875294"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "english": "woodland",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhiều cây cối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "xứ có nhiều rừng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "land covered with trees.",
+      "definitions_ex_en": "large areas of ancient woodland",
+      "definitions_ex_vn": "khu vực rộng lớn của rừng cổ",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379807_31e6428617_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379807_08ea082048_o.png",
+      "id_image": "woodland_1566640"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379792_cb0da9620d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379792_8d08d52663_o.png",
+      "id_image": "woodland_1780304"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449828_f1ae22ede4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449828_ac4609f916_o.png",
+      "id_image": "woodland_2933728"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334741_bcc6a3216e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334741_8aba08e820_o.png",
+      "id_image": "woodland_3075162"
+    }
+  ]
+}

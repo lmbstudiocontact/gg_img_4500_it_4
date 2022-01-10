@@ -1,0 +1,62 @@
+{
+  "english": "sprout",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chồi cây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mầm non",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mộng cây",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đâm chồi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "mọc lên",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a plant) put forth shoots.",
+      "definitions_ex_en": "the weeds begin to sprout",
+      "definitions_ex_vn": "Các loại cỏ dại bắt đầu mọc lên",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a shoot of a plant.",
+      "definitions_ex_en": "the flower pots are full of green sprouts",
+      "definitions_ex_vn": "Những chậu hoa đầy rau mầm xanh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "short for Brussels sprout.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466723_e29048e801_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466723_f8311e51e5_o.png",
+      "id_image": "sprout_179148"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089420_3e7bd1aa1f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089420_500e1a894d_o.png",
+      "id_image": "sprout_209199"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810089400_d6501355e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810089400_5cdde40a75_o.png",
+      "id_image": "sprout_649154"
+    }
+  ]
+}

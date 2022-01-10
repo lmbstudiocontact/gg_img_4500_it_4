@@ -1,0 +1,29 @@
+{
+  "english": "sweetener",
+  "list_translation_mean": [
+    {
+      "translate_mean": "viên ngọt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a substance used to sweeten food or drink, especially one other than sugar.",
+      "definitions_ex_en": "diet drinks contain artificial sweeteners like saccharin",
+      "definitions_ex_vn": "đồ uống chế độ ăn uống có chứa chất ngọt nhân tạo như saccharin",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377772_4b33bd311d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377772_6a041f0c85_o.png",
+      "id_image": "sweetener_4142969"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069730_4ebb7df1e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069730_4c770398ee_o.png",
+      "id_image": "sweetener_4142999"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "english": "skewer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lụi để nướng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a long piece of wood or metal used for holding pieces of food, typically meat, together during cooking.",
+      "definitions_ex_en": "thread the meat onto large skewers and grill over a gentle heat",
+      "definitions_ex_vn": "Thép thịt lên xiên lớn và nướng trên một cái nóng nhẹ nhàng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "fasten together or pierce with a pin or skewer.",
+      "definitions_ex_en": "skewer the cubes of beef, using six to eight per skewer",
+      "definitions_ex_vn": "xiên các khối thịt bò, sử dụng sáu đến tám mỗi skewer",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072670_959583def0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072670_aae31d0cd9_o.png",
+      "id_image": "skewer_1393921"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450668_2eef32dc21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450668_ded7d31e72_o.png",
+      "id_image": "skewer_1505118"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380847_601c441e18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380847_4975e4ff54_o.png",
+      "id_image": "skewer_532374"
+    }
+  ]
+}

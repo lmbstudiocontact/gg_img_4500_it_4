@@ -1,0 +1,55 @@
+{
+  "english": "slim",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tinh ranh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "mảnh khảnh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "làm cho mỏng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a person or their build) gracefully thin; slenderly built (used approvingly).",
+      "definitions_ex_en": "her slim figure",
+      "definitions_ex_vn": "con số mảnh mai của cô",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of something abstract, especially a chance or margin) very small.",
+      "definitions_ex_en": "there was just a slim chance of success",
+      "definitions_ex_vn": "chỉ có một cơ hội thành công mỏng manh",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a course or period of slimming.",
+      "definitions_ex_en": "a sponsored slim",
+      "definitions_ex_vn": "một người tài trợ mỏng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a term used in parts of Africa to refer to AIDS.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377952_f3bfa39452_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377952_621da4c1c7_o.png",
+      "id_image": "slim_412588"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069880_a8db629296_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069880_87f679eb0d_o.png",
+      "id_image": "slim_6381877"
+    }
+  ]
+}

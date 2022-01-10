@@ -1,0 +1,63 @@
+{
+  "english": "swear",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lới thề",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nguyền rủa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tuyên thệ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thề",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make a solemn statement or promise undertaking to do something or affirming that something is the case.",
+      "definitions_ex_en": "Maria made me swear I would never tell anyone",
+      "definitions_ex_vn": "Maria làm tôi thề tôi sẽ không bao giờ nói với ai",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "use offensive language, especially as an expression of anger.",
+      "definitions_ex_en": "Peter swore under his breath",
+      "definitions_ex_vn": "Peter thề dưới hơi thở của mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an offensive word, used especially to express anger; a swear word.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689004_3174ab2988_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689004_d8eacb02e2_o.png",
+      "id_image": "swear_2323084"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448958_eb0d807d21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448958_b903197765_o.png",
+      "id_image": "swear_247659"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378792_faaf30708b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378792_e369f3c32e_o.png",
+      "id_image": "swear_2861317"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448883_63966c7980_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448883_4ed7522097_o.png",
+      "id_image": "swear_3561933"
+    }
+  ]
+}

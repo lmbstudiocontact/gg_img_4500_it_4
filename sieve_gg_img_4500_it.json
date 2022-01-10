@@ -1,0 +1,52 @@
+{
+  "english": "sieve",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái sàng để sảy thóc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái sàng lớn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người hay nói",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người không giử bí mật",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a utensil consisting of a wire or plastic mesh held in a frame, used for straining solids from liquids, for separating coarser from finer particles, or for reducing soft solids to a pulp.",
+      "definitions_ex_en": "puree the potatoes through a sieve",
+      "definitions_ex_vn": "xay nhuyễn khoai tây thông qua một cái rây",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "put (a food substance or other material) through a sieve.",
+      "definitions_ex_en": "sieve the flour and sugar together in a bowl",
+      "definitions_ex_vn": "rây bột và đường với nhau trong một cái bát",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077550_b0df889205_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077550_ab59c5b192_o.png",
+      "id_image": "sieve_1027108"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340231_04653ea4f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340231_ba3c9a7ef1_o.png",
+      "id_image": "sieve_3690118"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455103_87085047ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455103_fa3e330b88_o.png",
+      "id_image": "sieve_5900472"
+    }
+  ]
+}

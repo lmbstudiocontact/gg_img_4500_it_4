@@ -1,0 +1,24 @@
+{
+  "english": "skydive",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhảy dù tự do từ máy bay",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "engage in the sport or activity of skydiving.",
+      "definitions_ex_en": "he will be skydiving to raise money and awareness for the charity",
+      "definitions_ex_vn": "Anh ta sẽ nhảy dù để quyên tiền và nhận thức về từ thiện",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379927_6b53cff60c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379927_043d914743_o.png",
+      "id_image": "skydive_1403945"
+    }
+  ]
+}

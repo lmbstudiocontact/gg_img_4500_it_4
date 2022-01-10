@@ -1,0 +1,24 @@
+{
+  "english": "trilogy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bộ sách ba đoạn tiếp nhau",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a group of three related novels, plays, films, operas, or albums.",
+      "definitions_ex_en": "J.R.R. Tolkien's epic fantasy trilogy, The Lord of the Rings",
+      "definitions_ex_vn": "J.r.r. Bộ ba giả tưởng tưởng tượng của Tolkien, Chúa tể của những chiếc nhẫn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378257_c77bf04435_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378257_79d3bac7dc_o.png",
+      "id_image": "trilogy_5381198"
+    }
+  ]
+}

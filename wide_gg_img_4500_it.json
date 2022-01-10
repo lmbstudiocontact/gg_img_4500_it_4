@@ -1,0 +1,77 @@
+{
+  "english": "wide",
+  "list_translation_mean": [
+    {
+      "translate_mean": "học thức rộng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rộng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rộng lớn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "uyên bác",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "of great or more than average width.",
+      "definitions_ex_en": "a wide road",
+      "definitions_ex_vn": "một con đường rộng lớn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "including a great variety of people or things.",
+      "definitions_ex_en": "a wide range of opinion",
+      "definitions_ex_vn": "một loạt các ý kiến",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "at a considerable or specified distance from a point or mark.",
+      "definitions_ex_en": "Bodie's shot was inches wide",
+      "definitions_ex_vn": "Bodie Shot rộng inch",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "another term for lax1.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "to the full extent.",
+      "definitions_ex_en": "his eyes opened wide",
+      "definitions_ex_vn": "Đôi mắt anh mở to",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "far from a particular point or mark.",
+      "definitions_ex_en": "a shot that went wide to the right",
+      "definitions_ex_vn": "một phát súng đi rộng sang phải",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "a ball that is judged to be too wide of the stumps for the batsman to play, for which an extra is awarded to the batting side.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444618_e57b79747f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444618_61f5b03445_o.png",
+      "id_image": "wide_2205431"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329616_4954f21d9e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329616_053c8bbb44_o.png",
+      "id_image": "wide_4563957"
+    }
+  ]
+}

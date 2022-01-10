@@ -1,0 +1,71 @@
+{
+  "english": "smear",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dấu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đốm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm dơ bẩn",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "coat or mark (something) messily or carelessly with a greasy or sticky substance.",
+      "definitions_ex_en": "his face was smeared with dirt",
+      "definitions_ex_vn": "Khuôn mặt anh ta bị bôi bẩn với bụi bẩn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "damage the reputation of (someone) by false accusations; slander.",
+      "definitions_ex_en": "someone was trying to smear her by faking letters",
+      "definitions_ex_vn": "Ai đó đang cố gắng bôi nhọ cô ấy bằng cách giả mạo thư",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a mark or streak of a greasy or sticky substance.",
+      "definitions_ex_en": "there was an oil smear on his jacket",
+      "definitions_ex_vn": "Có một vết bẩn dầu trên áo khoác của mình",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sample of material spread thinly on a microscope slide for examination, typically for medical diagnosis.",
+      "definitions_ex_en": "the smears were stained for cryptosporidium",
+      "definitions_ex_vn": "Các vết bẩn đã được nhuộm cho cryptosporidium",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a false accusation intended to damage someone's reputation.",
+      "definitions_ex_en": "the media were indulging in unwarranted smears",
+      "definitions_ex_vn": "Các phương tiện truyền thông đang đắm chìm trong những vết bẩn không chính đáng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an insecure foothold.",
+      "definitions_ex_en": "soon you're eyeballing the top, just one smear away",
+      "definitions_ex_vn": "Chẳng mấy chốc, bạn là nhãn cầu trên đỉnh, chỉ là một vết bẩn đi",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376272_5af656fbdc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376272_7407f020d5_o.png",
+      "id_image": "smear_5978876"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686519_a108a16834_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686519_1faef51468_o.png",
+      "id_image": "smear_5979185"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "english": "strainer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người cố gắng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người rán sức",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a device having holes punched in it or made of crossed wires for separating solid matter from a liquid.",
+      "definitions_ex_en": "a tea strainer",
+      "definitions_ex_vn": "một bộ lọc trà",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344041_91fe72f5e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344041_8671d4f3b7_o.png",
+      "id_image": "strainer_259106"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699194_43c7822b48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699194_cb2429341b_o.png",
+      "id_image": "strainer_5304821"
+    }
+  ]
+}

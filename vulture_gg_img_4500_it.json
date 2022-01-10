@@ -1,0 +1,39 @@
+{
+  "english": "vulture",
+  "list_translation_mean": [
+    {
+      "translate_mean": "con kên kên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người tham tàn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a large bird of prey with the head and neck more or less bare of feathers, feeding chiefly on carrion and reputed to gather with others in anticipation of the death of a sick or injured animal or person.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a contemptible person who preys on or exploits others.",
+      "definitions_ex_en": "the press are vultures",
+      "definitions_ex_vn": "Báo chí là kền kền",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339941_f86d65a58f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339941_967ae47c64_o.png",
+      "id_image": "vulture_2188053"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384762_b48b875968_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384762_0aff36db9a_o.png",
+      "id_image": "vulture_4215426"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "english": "wound",
+  "list_translation_mean": [
+    {
+      "translate_mean": "làm phật ý",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chạm đến",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự làm tổn thương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xúc phạm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vết thương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làm người nào bị thương",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an injury to living tissue caused by a cut, blow, or other impact, typically one in which the skin is cut or broken.",
+      "definitions_ex_en": "a knife wound",
+      "definitions_ex_vn": "một con dao bị thương.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "inflict an injury on (someone).",
+      "definitions_ex_en": "the sergeant was seriously wounded",
+      "definitions_ex_vn": "Trung sĩ bị thương nặng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "past and past participle of wind2.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070105_2a5c86caf9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070105_b54bc34779_o.png",
+      "id_image": "wound_1068397"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378097_935ab13f2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378097_ef723fa52b_o.png",
+      "id_image": "wound_4236974"
+    }
+  ]
+}

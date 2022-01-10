@@ -1,0 +1,28 @@
+{
+  "english": "wicker",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đan bằng giống liểu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "giống liểu cành mềm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "pliable twigs, typically of willow, plaited or woven to make items such as furniture and baskets.",
+      "definitions_ex_en": "a wicker chair",
+      "definitions_ex_vn": "một chiếc ghế đan lát",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066550_317cf4398f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066550_3c31aceb05_o.png",
+      "id_image": "wicker_4271019"
+    }
+  ]
+}

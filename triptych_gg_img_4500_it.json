@@ -1,0 +1,28 @@
+{
+  "english": "triptych",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bộ ba bức họa để liền nhau",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bức họa",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a picture or relief carving on three panels, typically hinged together side by side and used as an altarpiece.",
+      "definitions_ex_en": "a triptych depicting the Crucifixion",
+      "definitions_ex_vn": "một bộ ba mô tả sự đóng đinh",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688014_9c6487f421_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688014_938b3a13d3_o.png",
+      "id_image": "triptych_1221998"
+    }
+  ]
+}

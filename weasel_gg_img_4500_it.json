@@ -1,0 +1,41 @@
+{
+  "english": "weasel",
+  "list_translation_mean": [
+    {
+      "translate_mean": "con lợn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a small, slender, carnivorous mammal related to, but generally smaller than, the stoat.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a deceitful or treacherous person.",
+      "definitions_ex_en": "he was a double-crossing weasel",
+      "definitions_ex_vn": "anh ấy là một con chồn hai lần",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "achieve something by use of cunning or deceit.",
+      "definitions_ex_en": "she suspects me of trying to weasel my way into his affections",
+      "definitions_ex_vn": "Cô nghi ngờ tôi cố gắng đánh nhau theo cách của mình vào tình cảm của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449143_2c7ff5db78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449143_d4dce3a03d_o.png",
+      "id_image": "weasel_185711"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449108_f78d1ddeb4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449108_d3e4e17959_o.png",
+      "id_image": "weasel_371968"
+    }
+  ]
+}

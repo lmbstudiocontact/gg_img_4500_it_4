@@ -1,0 +1,50 @@
+{
+  "english": "traction",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự kéo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kéo bằng điện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự kéo bằng hơi",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of drawing or pulling something over a surface, especially a road or track.",
+      "definitions_ex_en": "a primitive vehicle used in animal traction",
+      "definitions_ex_vn": "một chiếc xe nguyên thủy được sử dụng trong lực kéo động vật",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the grip of a tire on a road or a wheel on a rail.",
+      "definitions_ex_en": "his car hit a patch of ice and lost traction",
+      "definitions_ex_vn": "Xe của anh ta đập vào một mảng băng và mất lực kéo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the extent to which a product, idea, etc., gains popularity or acceptance.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the application of a sustained pull on a limb or muscle, especially in order to maintain the position of a fractured bone or to correct a deformity.",
+      "definitions_ex_en": "his leg is in traction",
+      "definitions_ex_vn": "chân của anh ấy đang bị kéo",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078250_24974c22d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078250_945bb530cb_o.png",
+      "id_image": "traction_1960586"
+    }
+  ]
+}

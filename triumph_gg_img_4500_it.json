@@ -1,0 +1,68 @@
+{
+  "english": "triumph",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuộc khải hoàn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đại thắng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hân hoan",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ca khúc khải hoàn",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chiến thắng",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a great victory or achievement.",
+      "definitions_ex_en": "a garden built to celebrate Napoleon's many triumphs",
+      "definitions_ex_vn": "một khu vườn được xây dựng để kỷ niệm nhiều chiến thắng của Napoleon",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the processional entry of a victorious general into ancient Rome.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "achieve a victory; be successful.",
+      "definitions_ex_en": "spectacle has once again triumphed over content",
+      "definitions_ex_vn": "cảnh tượng đã một lần nữa chiến thắng nội dung",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a Roman general) ride into ancient Rome after a victory.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448018_9ff993c6d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448018_d5169374c6_o.png",
+      "id_image": "triumph_1805251"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069770_0037b9ac62_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069770_03229b74f9_o.png",
+      "id_image": "triumph_1961433"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377842_e474184aff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377842_117277258a_o.png",
+      "id_image": "triumph_708665"
+    }
+  ]
+}

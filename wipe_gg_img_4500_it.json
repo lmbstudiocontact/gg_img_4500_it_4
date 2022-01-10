@@ -1,0 +1,72 @@
+{
+  "english": "wipe",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lau",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chùi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "khăn tay",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "clean or dry (something) by rubbing its surface with a cloth, a piece of paper, or one's hand.",
+      "definitions_ex_en": "Paul wiped his face with a handkerchief",
+      "definitions_ex_vn": "Paul lau mặt bằng khăn tay",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "remove or eliminate (something) completely.",
+      "definitions_ex_en": "things have happened to wipe the smile off Kate's face",
+      "definitions_ex_vn": "Mọi thứ đã xảy ra để lau nụ cười trên khuôn mặt của Kate",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "erase data from (a computer system or electronic or magnetic storage device).",
+      "definitions_ex_en": "I discovered all of my hard drives had been wiped",
+      "definitions_ex_vn": "Tôi phát hiện ra tất cả các ổ cứng của tôi đã bị xóa sổ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of wiping.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a disposable cloth treated with a cleansing agent, for wiping things clean.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a cinematographic effect in which an existing picture seems to be wiped out by a new one as the boundary between them moves across the screen.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451678_7db721f82c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451678_1c9555656a_o.png",
+      "id_image": "wipe_1619248"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381782_d088ec6f3f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381782_c1eceb8d42_o.png",
+      "id_image": "wipe_3027997"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336821_40eac7a365_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336821_9b6a2e61c5_o.png",
+      "id_image": "wipe_578005"
+    }
+  ]
+}

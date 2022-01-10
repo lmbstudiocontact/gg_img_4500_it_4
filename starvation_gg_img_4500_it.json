@@ -1,0 +1,42 @@
+{
+  "english": "starvation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự chết đói",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự không có lương thực",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thiếu ăn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "suffering or death caused by hunger.",
+      "definitions_ex_en": "thousands died of starvation",
+      "definitions_ex_vn": "Hàng ngàn người chết đói",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703824_bb05c5d82f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703824_88b0370d20_o.png",
+      "id_image": "starvation_3382504"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086320_06e3315dc0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086320_c085d61816_o.png",
+      "id_image": "starvation_5256113"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809703774_d26b6e9c16_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809703774_147cdb3da6_o.png",
+      "id_image": "starvation_5256709"
+    }
+  ]
+}

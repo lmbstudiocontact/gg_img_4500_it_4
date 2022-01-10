@@ -1,0 +1,43 @@
+{
+  "english": "straw",
+  "list_translation_mean": [
+    {
+      "translate_mean": "rơm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ống rơm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ống sậy",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "dried stalks of grain, used especially as fodder or as material for thatching, packing, or weaving.",
+      "definitions_ex_en": "a straw hat",
+      "definitions_ex_vn": "một chiếc mũ rơm.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thin hollow tube of paper or plastic for sucking drink from a glass or bottle.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458318_496466b80a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458318_63069a727b_o.png",
+      "id_image": "straw_1996945"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458228_8b739769a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458228_e9b118e508_o.png",
+      "id_image": "straw_5727261"
+    }
+  ]
+}

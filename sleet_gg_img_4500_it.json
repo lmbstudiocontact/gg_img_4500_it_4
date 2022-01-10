@@ -1,0 +1,44 @@
+{
+  "english": "sleet",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mưa tuyết",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tuyết hơi tan",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a form of precipitation consisting of ice pellets, often mixed with rain or snow.",
+      "definitions_ex_en": "driving sleet and rain made conditions horrendous",
+      "definitions_ex_vn": "lái xe mưa và mưa làm điều kiện khủng khiếp",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "sleet falls.",
+      "definitions_ex_en": "it was sleeting so hard we could barely see",
+      "definitions_ex_vn": "Nó đã rất khó khăn, chúng ta hầu như không thể nhìn thấy",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378697_d1064872d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378697_75efcd77bb_o.png",
+      "id_image": "sleet_2581087"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333746_57522077e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333746_ba3989f61e_o.png",
+      "id_image": "sleet_3750467"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688809_88023d6fae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688809_5e7211eb34_o.png",
+      "id_image": "sleet_3755313"
+    }
+  ]
+}

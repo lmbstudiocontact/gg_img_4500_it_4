@@ -1,0 +1,212 @@
+{
+  "english": "square",
+  "list_translation_mean": [
+    {
+      "translate_mean": "vuông",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ô vuông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bày trận theo hình vuông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bình phương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hình vuông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khối vuông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thước vuông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cách dàn binh",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "có góc vuông",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "thành thật",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "đẻo vuông góc",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gạch vuông",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hối lộ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "kẻ ô vuông",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho vuông",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tự thừa",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "thanh toán",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a plane figure with four equal straight sides and four right angles.",
+      "definitions_ex_en": "a grid of ruled squares",
+      "definitions_ex_vn": "một lưới các ô vuông cai trị",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an open (typically four-sided) area surrounded by buildings in a town, village, or city.",
+      "definitions_ex_en": "a market square",
+      "definitions_ex_vn": "một hình vuông thị trường",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the product of a number multiplied by itself.",
+      "definitions_ex_en": "a circle's area is proportional to the square of its radius",
+      "definitions_ex_vn": "diện tích của một vòng tròn tỷ lệ thuận với quảng trường bán kính của nó",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an L-shaped or T-shaped instrument used for obtaining or testing right angles.",
+      "definitions_ex_en": "a carpenter's square",
+      "definitions_ex_vn": "một quảng trường của thợ mộc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person considered to be old-fashioned or boringly conventional in attitude or behavior.",
+      "definitions_ex_en": "Reg is such a square",
+      "definitions_ex_vn": "Reg là một hình vuông như vậy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "having the shape or approximate shape of a square.",
+      "definitions_ex_en": "a square table",
+      "definitions_ex_vn": "một bảng vuông",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "denoting a unit of measurement equal to the area of a square whose side is of the unit specified.",
+      "definitions_ex_en": "30,000 square feet of new gallery space",
+      "definitions_ex_vn": "30.000 feet vuông của bộ sưu tập mới",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "at right angles; perpendicular.",
+      "definitions_ex_en": "these lines must be square to the top and bottom marked edges",
+      "definitions_ex_vn": "Những dòng này phải vuông với các cạnh được đánh dấu trên cùng và dưới cùng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "level or parallel.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of two people) owing nothing to each other.",
+      "definitions_ex_en": "an acknowledgment that we are square",
+      "definitions_ex_vn": "một sự thừa nhận rằng chúng ta là hình vuông",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "old-fashioned or boringly conventional.",
+      "definitions_ex_en": "Elvis was anything but square",
+      "definitions_ex_vn": "Elvis là bất cứ thứ gì ngoài hình vuông",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of rhythm) simple and straightforward.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "directly; straight.",
+      "definitions_ex_en": "it hit me square in the forehead",
+      "definitions_ex_vn": "Nó đánh tôi vuông trên trán",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "make square or rectangular; give a square or rectangular cross section to.",
+      "definitions_ex_en": "you can square off the other edge",
+      "definitions_ex_vn": "Bạn có thể hình vuông ra khỏi cạnh kia",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "multiply (a number) by itself.",
+      "definitions_ex_en": "5 squared equals 25",
+      "definitions_ex_vn": "5 bình phương bằng 25",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "balance (an account).",
+      "definitions_ex_en": "they're anxious to square their books before the audit",
+      "definitions_ex_vn": "Họ lo lắng với quảng trường sách của họ trước khi kiểm toán",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "bring (one's shoulders) into a position in which they appear square and broad, typically to prepare oneself for a difficult task or event.",
+      "definitions_ex_en": "chin up, shoulders squared, she stepped into the room",
+      "definitions_ex_vn": "cằm lên, vai bình phương, cô bước vào phòng",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "secure the help, acquiescence, or silence of (someone), especially by offering an inducement.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "set (a yard or other part of a ship) approximately at right angles to the keel or other point of reference.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a planet) have a square aspect with (another planet or position).",
+      "definitions_ex_en": "Saturn squares the Sun on the 17th",
+      "definitions_ex_vn": "Sao Thổ hình vuông mặt trời vào ngày 17",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706304_7d4f731875_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706304_f804fb6d95_o.png",
+      "id_image": "square_217237"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466298_e123393694_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466298_3b0fa799b5_o.png",
+      "id_image": "square_2845069"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466288_ee7a27f86d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466288_a8431c073b_o.png",
+      "id_image": "square_6006398"
+    }
+  ]
+}

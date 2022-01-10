@@ -1,0 +1,39 @@
+{
+  "english": "suffer",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cam chịu",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chịu thiệt hại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "experience or be subjected to (something bad or unpleasant).",
+      "definitions_ex_en": "he'd suffered intense pain",
+      "definitions_ex_vn": "Anh ấy phải chịu nỗi đau dữ dội",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "tolerate.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694179_73e9f4c247_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694179_d0be4bced3_o.png",
+      "id_image": "suffer_6001221"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454008_7ec042cbb1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454008_300d6d13c8_o.png",
+      "id_image": "suffer_6003116"
+    }
+  ]
+}

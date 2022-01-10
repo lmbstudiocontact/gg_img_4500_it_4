@@ -1,0 +1,34 @@
+{
+  "english": "versatile",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có nhiều tài năng khác nhau",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "có thể xoay tròn được",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "able to adapt or be adapted to many different functions or activities.",
+      "definitions_ex_en": "a versatile sewing machine",
+      "definitions_ex_vn": "một máy may đa năng",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "changeable; inconstant.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346006_c633a719c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346006_0a67f8aa26_o.png",
+      "id_image": "versatile_3645286"
+    }
+  ]
+}

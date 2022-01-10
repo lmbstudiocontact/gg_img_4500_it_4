@@ -1,0 +1,36 @@
+{
+  "english": "turbulence",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sự huyên náo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự khó dạy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ngỗ nghịch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự ồn ào",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "violent or unsteady movement of air or water, or of some other fluid.",
+      "definitions_ex_en": "the plane shuddered as it entered some turbulence",
+      "definitions_ex_vn": "Máy bay run rẩy khi nó bước vào một số nhiễu loạn",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373517_1b2f4404c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373517_b05d1ffa76_o.png",
+      "id_image": "turbulence_1638692"
+    }
+  ]
+}

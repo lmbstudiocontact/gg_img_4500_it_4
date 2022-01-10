@@ -1,0 +1,44 @@
+{
+  "english": "skeleton",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bộ xương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đại ý của bài văn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "hài cốt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an internal or external framework of bone, cartilage, or other rigid material supporting or containing the body of an animal or plant.",
+      "definitions_ex_en": "the human skeleton",
+      "definitions_ex_vn": "bộ xương người.",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the supporting framework, basic structure, or essential part of something.",
+      "definitions_ex_en": "the concrete skeleton of an unfinished building",
+      "definitions_ex_vn": "bộ xương bê tông của một tòa nhà chưa hoàn thành",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small sled for one person, ridden head first while lying in a prone position.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381047_1190e14d11_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381047_b8462187ca_o.png",
+      "id_image": "skeleton_421619"
+    }
+  ]
+}

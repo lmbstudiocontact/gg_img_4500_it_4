@@ -1,0 +1,64 @@
+{
+  "english": "sore",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đau đớn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lở loét",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhức nhối",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "phiền muộn",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chổ bị thương",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ ung nhọt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự buồn rầu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vết thương",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a part of one's body) painful or aching.",
+      "definitions_ex_en": "my feet were sore and my head ached",
+      "definitions_ex_vn": "chân tôi bị đau và đau đầu",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a raw or painful place on the body.",
+      "definitions_ex_en": "we had sores on our hands",
+      "definitions_ex_vn": "Chúng tôi đã có vết loét trên tay của chúng tôi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "extremely; severely.",
+      "definitions_ex_en": "they were sore afraid",
+      "definitions_ex_vn": "họ sợ sợ hãi",
+      "definitions_type_word": "adverb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325831_f11b0edec1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325831_54c653ef93_o.png",
+      "id_image": "sore_5726797"
+    }
+  ]
+}

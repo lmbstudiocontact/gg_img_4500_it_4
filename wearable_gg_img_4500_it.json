@@ -1,0 +1,29 @@
+{
+  "english": "wearable",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có thể mặc được",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(especially of clothing) easy to wear; suitable for wearing.",
+      "definitions_ex_en": "the simple tailoring make this a stylish and infinitely wearable collection",
+      "definitions_ex_vn": "Mạnh mẽ đơn giản làm cho một bộ sưu tập có thể đeo được phong cách và vô hạn",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379047_1ccd21f8cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379047_1ac3f694a9_o.png",
+      "id_image": "wearable_1558898"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379012_4911287622_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379012_c124c8a95f_o.png",
+      "id_image": "wearable_1998151"
+    }
+  ]
+}

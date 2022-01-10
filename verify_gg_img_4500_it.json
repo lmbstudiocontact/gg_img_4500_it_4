@@ -1,0 +1,51 @@
+{
+  "english": "verify",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tra",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "chứng minh",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "soát lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "xác nhận",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "make sure or demonstrate that (something) is true, accurate, or justified.",
+      "definitions_ex_en": "his conclusions have been verified by later experiments",
+      "definitions_ex_vn": "Kết luận của ông đã được xác minh bởi các thí nghiệm sau này",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460838_9935bb574d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460838_6a3b2041d9_o.png",
+      "id_image": "verify_1564260"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391047_1fddf35499_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391047_8a59dda765_o.png",
+      "id_image": "verify_4565072"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346026_ff2d46126e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346026_e54a564228_o.png",
+      "id_image": "verify_5059625"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701049_635e5a7b85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701049_8333f7d276_o.png",
+      "id_image": "verify_5151183"
+    }
+  ]
+}

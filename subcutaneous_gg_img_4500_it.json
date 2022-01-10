@@ -1,0 +1,24 @@
+{
+  "english": "subcutaneous",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dưới da",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "situated or applied under the skin.",
+      "definitions_ex_en": "subcutaneous fat",
+      "definitions_ex_vn": "mỡ dưới da.",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077795_689a42df46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077795_31e7274175_o.png",
+      "id_image": "subcutaneous_4813876"
+    }
+  ]
+}

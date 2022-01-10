@@ -1,0 +1,24 @@
+{
+  "english": "wanderlust",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tánh thích phiêu lưu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a strong desire to travel.",
+      "definitions_ex_en": "a man consumed by wanderlust",
+      "definitions_ex_vn": "Một người đàn ông tiêu thụ bởi Wanderlust",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452873_41665d1cfd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452873_761ddc7152_o.png",
+      "id_image": "wanderlust_708670"
+    }
+  ]
+}

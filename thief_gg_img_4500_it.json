@@ -1,0 +1,28 @@
+{
+  "english": "thief",
+  "list_translation_mean": [
+    {
+      "translate_mean": "kẻ ăn cắp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kẻ trộm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who steals another person's property, especially by stealth and without using force or violence.",
+      "definitions_ex_en": "car thieves",
+      "definitions_ex_vn": "Kẻ trộm xe",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394507_46191b537e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394507_61ded5759a_o.png",
+      "id_image": "thief_2267675"
+    }
+  ]
+}

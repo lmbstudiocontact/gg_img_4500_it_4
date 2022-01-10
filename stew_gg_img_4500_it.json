@@ -1,0 +1,76 @@
+{
+  "english": "stew",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ao nuôi cá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chổ rộng cá",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nhà điếm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự khó chịu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "món thịt hầm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nấu thịt hầm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ngộp thở",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a dish of meat and vegetables cooked slowly in liquid in a closed dish or pan.",
+      "definitions_ex_en": "lamb stew",
+      "definitions_ex_vn": "Món cừu hầm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a state of great anxiety or agitation.",
+      "definitions_ex_en": "I suppose he's all in a stew",
+      "definitions_ex_vn": "Tôi cho rằng anh ấy đang ở trong một món hầm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a heated public room used for hot steam baths.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(with reference to meat, fruit, or other food) cook or be cooked slowly in liquid in a closed dish or pan.",
+      "definitions_ex_en": "a new way to stew rhubarb",
+      "definitions_ex_vn": "Một cách mới để chích đàn ran",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461798_2a156b7a2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461798_c11f52ab15_o.png",
+      "id_image": "stew_3690235"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084340_f6b3cc3d54_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084340_243486ced3_o.png",
+      "id_image": "stew_4834107"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347006_cd4f519b66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347006_b46999791e_o.png",
+      "id_image": "stew_661308"
+    }
+  ]
+}

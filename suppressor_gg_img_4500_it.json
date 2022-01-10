@@ -1,0 +1,29 @@
+{
+  "english": "suppressor",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người đàn áp",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or group that deprives others of power or prevents something from happening.",
+      "definitions_ex_en": "suppressors of free speech",
+      "definitions_ex_vn": "Bộ đàn áp bài phát biểu miễn phí",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336176_11845106ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336176_e95198d0c7_o.png",
+      "id_image": "suppressor_1485090"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073070_e879db4dc6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073070_bfb90faa7d_o.png",
+      "id_image": "suppressor_1487571"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "english": "traditional",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về truyền tyhống",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "existing in or as part of a tradition; long-established.",
+      "definitions_ex_en": "the traditional festivities of the Church year",
+      "definitions_ex_vn": "Các lễ hội truyền thống của năm nhà thờ",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385362_9b5fd2e460_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385362_ef9cfb5464_o.png",
+      "id_image": "traditional_5333249"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077680_cd0647e23c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077680_9d926792e2_o.png",
+      "id_image": "traditional_6194048"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077635_3cafb91910_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077635_719a00c299_o.png",
+      "id_image": "traditional_6371075"
+    }
+  ]
+}

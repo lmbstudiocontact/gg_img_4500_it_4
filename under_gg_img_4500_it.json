@@ -1,0 +1,125 @@
+{
+  "english": "under",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dưới",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ít quá",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không đủ",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nhỏ quá",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ở dưới",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "ít quá",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "không đủ",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "ở dưới",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "dưới",
+      "type_word": "preposition"
+    },
+    {
+      "translate_mean": "ở dưới",
+      "type_word": "preposition"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "extending or directly below.",
+      "definitions_ex_en": "the streams that ran under the melting glaciers",
+      "definitions_ex_vn": "các dòng chảy chạy dưới sông băng tan chảy",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "at a lower level than.",
+      "definitions_ex_en": "the room under his study",
+      "definitions_ex_vn": "căn phòng theo nghiên cứu của mình",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "lower than (a specified amount, rate, norm, or age).",
+      "definitions_ex_en": "they averaged just under 2.8 percent",
+      "definitions_ex_vn": "họ trung bình chỉ dưới 2,8 phần trăm",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "controlled, managed, or governed by.",
+      "definitions_ex_en": "the country is now under martial law",
+      "definitions_ex_vn": "Đất nước hiện đang theo luật võ",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "undergoing (a process).",
+      "definitions_ex_en": "under construction",
+      "definitions_ex_vn": "đang xây dựng",
+      "definitions_type_word": "preposition"
+    },
+    {
+      "definitions_word_en": "extending or directly below something.",
+      "definitions_ex_en": "weaving the body through the crossbars, over and under, over and under",
+      "definitions_ex_vn": "dệt cơ thể thông qua xà ngang, hơn và dưới, hơn và dưới",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "under water.",
+      "definitions_ex_en": "he was floating for some time but suddenly went under",
+      "definitions_ex_vn": "anh ta đang trôi nổi một thời gian nhưng đột nhiên đi theo",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "denoting the lowest part or surface of something; on the underside.",
+      "definitions_ex_en": "the under part of the shell is concave",
+      "definitions_ex_vn": "phần dưới của vỏ là lõm",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "unconscious, typically as a result of general anesthesia.",
+      "definitions_ex_en": "the operation was quick—she was only under for 15 minutes",
+      "definitions_ex_vn": "Các hoạt động đã nhanh chóng - cô chỉ còn trong 15 phút",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "below; beneath.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "prefix"
+    },
+    {
+      "definitions_word_en": "insufficiently; incompletely.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "prefix"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810091450_f425b65711_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810091450_cfb9e9136f_o.png",
+      "id_image": "under_2844288"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808398922_bfe443e76d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808398922_91c0ff2708_o.png",
+      "id_image": "under_4525558"
+    }
+  ]
+}

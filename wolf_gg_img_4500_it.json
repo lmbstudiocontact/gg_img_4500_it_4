@@ -1,0 +1,60 @@
+{
+  "english": "wolf",
+  "list_translation_mean": [
+    {
+      "translate_mean": "chó sói",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người tham lam",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nuốt ngấu nghiến",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a wild carnivorous mammal of the dog family, living and hunting in packs. It is native to both Eurasia and North America, but has been widely exterminated.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "used figuratively to refer to a rapacious, ferocious, or voracious person or thing.",
+      "definitions_ex_en": "he calls the media ravening wolves",
+      "definitions_ex_vn": "Anh ta gọi những con sói bị tàn phá truyền thông",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a harsh or out-of-tune effect produced when playing particular notes or intervals on a musical instrument, caused either by the instrument's construction or by divergence from equal temperament.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "devour (food) greedily.",
+      "definitions_ex_en": "he wolfed down his breakfast",
+      "definitions_ex_vn": "Anh sói xuống bữa sáng của mình",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380317_40365f709e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380317_d3a48197a2_o.png",
+      "id_image": "wolf_185704"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335221_19d5e07187_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335221_09455af139_o.png",
+      "id_image": "wolf_292686"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690374_5aa433d174_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690374_265d4180c0_o.png",
+      "id_image": "wolf_4727715"
+    }
+  ]
+}

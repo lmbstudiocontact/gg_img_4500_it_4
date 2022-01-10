@@ -1,0 +1,128 @@
+{
+  "english": "tap",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cái tát",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cái vổ nhẹ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khoan để bắt đinh ốc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rượu bia",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vòi nước",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vòi thùng rượu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đồ uống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giùi cái lổ trên thùng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lấy rượu trong thùng",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "tát khẻ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vổ nhẹ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a device by which a flow of liquid or gas from a pipe or container can be controlled.",
+      "definitions_ex_en": "she turned the cold tap on",
+      "definitions_ex_vn": "Cô bật vòi lạnh",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a device connected to a telephone used for listening secretly to someone's conversations.",
+      "definitions_ex_en": "those taps produced hundreds of hours of recordings",
+      "definitions_ex_vn": "Những vòi được sản xuất hàng trăm giờ ghi âm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an instrument for cutting a threaded hole in a material.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a quick light blow, or the sound of such a blow.",
+      "definitions_ex_en": "there was a sharp tap at the door",
+      "definitions_ex_vn": "Có một vòi sắc nhọn ở cửa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "tap dancing.",
+      "definitions_ex_en": "a rhythm much used in tap",
+      "definitions_ex_vn": "một nhịp điệu được sử dụng nhiều trong vòi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "draw liquid through the tap or spout of (a cask, barrel, or other container).",
+      "definitions_ex_en": "bragging of tests they had aced and kegs they had tapped",
+      "definitions_ex_vn": "khoe khoang các bài kiểm tra họ đã có aced và kegs mà họ đã gõ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "exploit or draw a supply from (a resource).",
+      "definitions_ex_en": "clients from industry seeking to tap Philadelphia's resources of expertise",
+      "definitions_ex_vn": "Khách hàng từ ngành công nghiệp đang tìm cách khai thác tài nguyên chuyên môn của Philadelphia",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "connect a device to (a telephone) so that conversation can be listened to secretly.",
+      "definitions_ex_en": "the telephones were tapped by the state security police",
+      "definitions_ex_vn": "Các điện thoại đã được cảnh sát an ninh nhà nước khai thác",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cut a thread in (something) to accept a screw.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "strike (someone or something) with a quick light blow or blows.",
+      "definitions_ex_en": "one of my staff tapped me on the shoulder",
+      "definitions_ex_vn": "Một trong những nhân viên của tôi đã khai thác tôi trên vai",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063680_9b311955ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063680_40a1e2a460_o.png",
+      "id_image": "tap_169798"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371477_eeda535cf3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371477_bbc3a67fa8_o.png",
+      "id_image": "tap_219664"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441788_1e1f1e690e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441788_49eb360d6d_o.png",
+      "id_image": "tap_246537"
+    }
+  ]
+}

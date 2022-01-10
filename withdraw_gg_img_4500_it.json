@@ -1,0 +1,57 @@
+{
+  "english": "withdraw",
+  "list_translation_mean": [
+    {
+      "translate_mean": "lấy lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rút",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rút lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "rút lui",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "triệt thối",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "remove or take away (something) from a particular place or position.",
+      "definitions_ex_en": "slowly Ruth withdrew her hand from his",
+      "definitions_ex_vn": "từ từ Ruth rút tay ra khỏi mình",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "leave or cause to leave a place or situation.",
+      "definitions_ex_en": "UN forces withdrew from the province",
+      "definitions_ex_vn": "Lực lượng Liên Hợp Quốc đã rút khỏi tỉnh",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "cease to take an addictive drug.",
+      "definitions_ex_en": "for the cocaine user, it is possible to withdraw without medication",
+      "definitions_ex_vn": "Đối với người dùng cocaine, có thể rút mà không có thuốc",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072605_a967bb73be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072605_84ccfa6e18_o.png",
+      "id_image": "withdraw_4292470"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690869_3dd6327379_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690869_4d21a682ea_o.png",
+      "id_image": "withdraw_6159823"
+    }
+  ]
+}

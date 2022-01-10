@@ -1,0 +1,59 @@
+{
+  "english": "text",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bản văn",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a book or other written or printed work, regarded in terms of its content rather than its physical form.",
+      "definitions_ex_en": "a text that explores pain and grief",
+      "definitions_ex_vn": "một văn bản khám phá nỗi đau và đau buồn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the main body of a book or other piece of writing, as distinct from other material such as notes, appendices, and illustrations.",
+      "definitions_ex_en": "the pictures are clear and relate well to the text",
+      "definitions_ex_vn": "Những hình ảnh rõ ràng và liên quan tốt đến văn bản",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a written work chosen or assigned as a subject of study.",
+      "definitions_ex_en": "the book is intended as a secondary text for religion courses",
+      "definitions_ex_vn": "Cuốn sách được dự định là một văn bản thứ cấp cho các khóa học tôn giáo",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a text message.",
+      "definitions_ex_en": "just give us a call or send us a text",
+      "definitions_ex_vn": "Chỉ cần cho chúng tôi một cuộc gọi hoặc gửi cho chúng tôi một văn bản",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "fine, large handwriting, used especially for manuscripts.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "send a text message to.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810088135_7d6b23c6e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810088135_7248254a16_o.png",
+      "id_image": "text_165046"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705519_468b9138e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705519_4e23a14a13_o.png",
+      "id_image": "text_551095"
+    }
+  ]
+}

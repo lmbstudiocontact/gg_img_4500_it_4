@@ -1,0 +1,47 @@
+{
+  "english": "therapy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "liệu pháp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phép trị liệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trị liệu",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "treatment intended to relieve or heal a disorder.",
+      "definitions_ex_en": "a course of antibiotic therapy",
+      "definitions_ex_vn": "một quá trình trị liệu kháng sinh",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350141_ab73e00892_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350141_519cb199ef_o.png",
+      "id_image": "therapy_1653088"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350106_c1a4b7fa29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350106_874f4cf921_o.png",
+      "id_image": "therapy_2770935"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394852_ee7562f285_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394852_f4e89fefd6_o.png",
+      "id_image": "therapy_4310361"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704614_0ee32e365c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704614_c06534a3d3_o.png",
+      "id_image": "therapy_5984067"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "english": "tube",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ống",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ống cao su",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đặt ống",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "gắn ống vào",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a long, hollow cylinder of metal, plastic, glass, etc. for holding or transporting something, chiefly liquids or gases.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a thing in the form of or resembling a tube.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the subway system in London.",
+      "definitions_ex_en": "a cross-London trek on the Tube",
+      "definitions_ex_vn": "một chuyến đi chéo London trên ống",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sealed container, typically of glass and either evacuated or filled with gas, containing two electrodes between which an electric current can be made to flow.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "fit (a person or animal) with a tube to assist breathing, especially after a laryngotomy.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "convey in a tube.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "ride on water on a large inflated inner tube.",
+      "definitions_ex_en": "we tubed down creeks, slid down water cascades, and fished in canyons",
+      "definitions_ex_vn": "chúng tôi ống xuống những con lạch, trượt xuống thác nước, và đánh bắt ở hẻm núi",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685294_0bf9c4e01c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685294_d1ffbcf1db_o.png",
+      "id_image": "tube_1373939"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374892_ee3b5512bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374892_a221ef5a7c_o.png",
+      "id_image": "tube_2421628"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685224_3b773a275f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685224_a0851b9d68_o.png",
+      "id_image": "tube_2491467"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067165_5ef25da3f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067165_4b5e9119fb_o.png",
+      "id_image": "tube_752547"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330261_9405ee3b93_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330261_37831348b0_o.png",
+      "id_image": "tube_772952"
+    }
+  ]
+}

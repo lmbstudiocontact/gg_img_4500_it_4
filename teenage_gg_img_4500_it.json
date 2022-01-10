@@ -1,0 +1,28 @@
+{
+  "english": "teenage",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc tuổi chưa quá 20",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "chỉ tuổi khoảng 13 đến 20",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "denoting a person between 13 and 19 years old.",
+      "definitions_ex_en": "a teenage girl",
+      "definitions_ex_vn": "một cô gái tuổi teen",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810090405_5684166907_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810090405_5cc5a52383_o.png",
+      "id_image": "teenage_6263845"
+    }
+  ]
+}

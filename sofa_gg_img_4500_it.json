@@ -1,0 +1,28 @@
+{
+  "english": "sofa",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ghế dài có lưng dựa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ghế trường kỷ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a long upholstered seat with a back and arms, for two or more people.",
+      "definitions_ex_en": "sofa cushions",
+      "definitions_ex_vn": "đệm sofa",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327106_d47101a2ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327106_f48d7bf6c2_o.png",
+      "id_image": "sofa_603393"
+    }
+  ]
+}

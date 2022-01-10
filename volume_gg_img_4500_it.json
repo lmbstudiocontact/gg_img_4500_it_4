@@ -1,0 +1,62 @@
+{
+  "english": "volume",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bổn sách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cuốn sách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "quyển sách",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thể tích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dung tích",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a book forming part of a work or series.",
+      "definitions_ex_en": "a biography of George Bernard Shaw in three volumes",
+      "definitions_ex_vn": "Tiểu sử của George Bernard Shaw trong ba tập",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the amount of space that a substance or object occupies, or that is enclosed within a container, especially when great.",
+      "definitions_ex_en": "the sewer could not cope with the volume of rainwater",
+      "definitions_ex_vn": "cống thoát nước không thể đối phó với khối lượng nước mưa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "quantity or power of sound; degree of loudness.",
+      "definitions_ex_en": "he turned the volume up on the radio",
+      "definitions_ex_vn": "Anh ta biến âm lượng lên radio",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455648_a4f746b03a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455648_70cbfa361d_o.png",
+      "id_image": "volume_227193"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385677_16eb7ae227_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385677_8f07bb3f92_o.png",
+      "id_image": "volume_227194"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340716_eeb3403a8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340716_5434b61cdb_o.png",
+      "id_image": "volume_227196"
+    }
+  ]
+}

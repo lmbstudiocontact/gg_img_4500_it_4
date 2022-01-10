@@ -1,0 +1,96 @@
+{
+  "english": "squash",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bí đao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đám đông",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đè bẹp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đè giẹp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự làm bằng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bẻ lại làm",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đáp lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đè bẹp",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "ép trái cây",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "crush or squeeze (something) with force so that it becomes flat, soft, or out of shape.",
+      "definitions_ex_en": "wash and squash the cans for the recycling bin",
+      "definitions_ex_vn": "Rửa và đè bẹp lon để lấy thùng tái chế",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a state of being squeezed or forced into a small or restricted space.",
+      "definitions_ex_en": "it was a tight squash but he didn't seem to mind",
+      "definitions_ex_vn": "Đó là một bí đao chật hẹp nhưng anh ta dường như không bận tâm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a game in which two players use rackets to hit a small, soft rubber ball against the walls of a closed court.",
+      "definitions_ex_en": "a squash club",
+      "definitions_ex_vn": "một câu lạc bộ squash",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a preparation of softened tissue that has been made thin for microscopic examination by gently compressing or tapping it.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an edible gourd, the flesh of which may be cooked and eaten as a vegetable.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the trailing plant of the gourd family that produces the squash.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706114_d0484aebeb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706114_df239f7d87_o.png",
+      "id_image": "squash_2358695"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706084_580283f48d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706084_b7f8bef098_o.png",
+      "id_image": "squash_2503876"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466148_7c214298fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466148_36b1ba9048_o.png",
+      "id_image": "squash_2690179"
+    }
+  ]
+}

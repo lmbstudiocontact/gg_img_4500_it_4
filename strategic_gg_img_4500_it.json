@@ -1,0 +1,38 @@
+{
+  "english": "strategic",
+  "list_translation_mean": [
+    {
+      "translate_mean": "thuộc về chiến lược",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về mưu kế",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to the identification of long-term or overall aims and interests and the means of achieving them.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699044_ce019b15c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699044_6ba324f094_o.png",
+      "id_image": "strategic_1900288"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698989_83d3504896_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698989_85e75de52a_o.png",
+      "id_image": "strategic_2503780"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343786_e516fb5af3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343786_6d2645bf80_o.png",
+      "id_image": "strategic_5807499"
+    }
+  ]
+}

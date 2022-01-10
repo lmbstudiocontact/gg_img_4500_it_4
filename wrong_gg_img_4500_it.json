@@ -1,0 +1,87 @@
+{
+  "english": "wrong",
+  "list_translation_mean": [
+    {
+      "translate_mean": "sai",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không đúng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "lầm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "tồi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trái",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "xấu",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "điều ác",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "not correct or true; incorrect.",
+      "definitions_ex_en": "that is the wrong answer",
+      "definitions_ex_vn": "đó là câu trả lời sai",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "unjust, dishonest, or immoral.",
+      "definitions_ex_en": "they were wrong to take the law into their own hands",
+      "definitions_ex_vn": "họ đã sai để đưa luật vào tay của chính họ",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "in an unsuitable or undesirable manner or direction.",
+      "definitions_ex_en": "what am I doing wrong?",
+      "definitions_ex_vn": "Tôi đang làm gì sai?",
+      "definitions_type_word": "adverb"
+    },
+    {
+      "definitions_word_en": "an unjust, dishonest, or immoral action.",
+      "definitions_ex_en": "I have done you a great wrong",
+      "definitions_ex_vn": "Tôi đã làm cho bạn một sai lầm lớn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "act unjustly or dishonestly toward.",
+      "definitions_ex_en": "please forgive me these things and the people I have wronged",
+      "definitions_ex_vn": "Xin hãy tha thứ cho tôi những điều này và những người tôi đã sai",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686774_1ca233e9aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686774_a3b46b5e27_o.png",
+      "id_image": "wrong_1540647"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446788_a546d625fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446788_4fc95373c7_o.png",
+      "id_image": "wrong_488697"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376487_e73fa849be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376487_4d1c40992e_o.png",
+      "id_image": "wrong_5672746"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331706_75e79f04f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331706_de1f1bf662_o.png",
+      "id_image": "wrong_5705495"
+    }
+  ]
+}

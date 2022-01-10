@@ -1,0 +1,33 @@
+{
+  "english": "stability",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tính chắc chắn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tính kiên cố",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the state of being stable.",
+      "definitions_ex_en": "there are fears for the political stability of the area",
+      "definitions_ex_vn": "Có những nỗi sợ hãi cho sự ổn định chính trị của khu vực",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809705619_12302827ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809705619_8742e5c84e_o.png",
+      "id_image": "stability_4813539"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395757_c2fb98151b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395757_856884da4f_o.png",
+      "id_image": "stability_4827338"
+    }
+  ]
+}

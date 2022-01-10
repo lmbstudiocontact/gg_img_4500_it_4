@@ -1,0 +1,46 @@
+{
+  "english": "vacation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hưu thẩm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kỳ hưu hạ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kỳ nghỉ hè",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nghĩ hè",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the action of leaving something one previously occupied.",
+      "definitions_ex_en": "his marriage was the reason for the vacation of his fellowship",
+      "definitions_ex_vn": "Cuộc hôn nhân của ông là lý do cho kỳ nghỉ của học bổng của mình",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394922_65aaff1908_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394922_79dedecb8c_o.png",
+      "id_image": "vacation_5020622"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394892_97085c289e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394892_b3a8a2c5b9_o.png",
+      "id_image": "vacation_5776439"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809350071_6048d94167_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809350071_d9a80a44f3_o.png",
+      "id_image": "vacation_5965707"
+    }
+  ]
+}

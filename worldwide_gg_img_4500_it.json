@@ -1,0 +1,52 @@
+{
+  "english": "worldwide",
+  "list_translation_mean": [
+    {
+      "translate_mean": "có kinh nghiệm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khắp nơi",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "khắp thế giới",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thạo đời",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "extending or reaching throughout the world.",
+      "definitions_ex_en": "worldwide sales of television rights",
+      "definitions_ex_vn": "Bán hàng trên toàn thế giới về quyền truyền hình",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "throughout the world.",
+      "definitions_ex_en": "she travels worldwide as a consultant",
+      "definitions_ex_vn": "cô ấy đi trên toàn thế giới như một nhà tư vấn",
+      "definitions_type_word": "adverb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333576_cdeb471266_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333576_403681e840_o.png",
+      "id_image": "worldwide_169480"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333566_e39e548ae0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333566_0025c08cb9_o.png",
+      "id_image": "worldwide_179706"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333536_2333031eca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333536_d64887c303_o.png",
+      "id_image": "worldwide_230604"
+    }
+  ]
+}

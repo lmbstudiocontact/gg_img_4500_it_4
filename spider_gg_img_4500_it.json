@@ -1,0 +1,53 @@
+{
+  "english": "spider",
+  "list_translation_mean": [
+    {
+      "translate_mean": "con nhện",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an eight-legged predatory arachnid with an unsegmented body consisting of a fused head and thorax and a rounded abdomen. Spiders have fangs which inject poison into their prey, and most kinds spin webs in which to capture insects.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an object resembling a spider, especially one having numerous or prominent legs or radiating spokes.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "another term for crawler (sense 2).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "move in a scuttling manner suggestive of a spider.",
+      "definitions_ex_en": "a treecreeper spidered head first down the tree trunk",
+      "definitions_ex_vn": "Một chiếc Treecreepper nhện đầu tiên xuống thân cây",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "another term for crawl (sense 4 of the verb).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809354151_a4d2e594e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809354151_b2896d8bde_o.png",
+      "id_image": "spider_194969"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808398972_788a5c1713_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808398972_a74fcdd413_o.png",
+      "id_image": "spider_218321"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "english": "stopper",
+  "list_translation_mean": [
+    {
+      "translate_mean": "con tắc kê",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "nút chai",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật làm nghẹt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đóng nút lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "vặn nút lại",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a plug for sealing a hole, especially in the neck of a bottle or other container.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person or thing that halts or obstructs a specified thing.",
+      "definitions_ex_en": "a crime-stopper",
+      "definitions_ex_vn": "một nút chặn tội phạm",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "use a stopper to seal (a bottle or other container).",
+      "definitions_ex_en": "stopper the jug with a cork",
+      "definitions_ex_vn": "stop the jug với một nút chai",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700324_5f1aecfd15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700324_df8714b08d_o.png",
+      "id_image": "stopper_2867443"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700289_63e8b5475f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700289_5e6648c663_o.png",
+      "id_image": "stopper_3295358"
+    }
+  ]
+}

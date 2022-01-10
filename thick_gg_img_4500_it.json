@@ -1,0 +1,106 @@
+{
+  "english": "thick",
+  "list_translation_mean": [
+    {
+      "translate_mean": "không trong",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "dầy",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "rậm rạp",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thân thiết",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "bằng giọng nhừa nhựa",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "dầy",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "khít",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "bằng một lớp dầy",
+      "type_word": "adverb"
+    },
+    {
+      "translate_mean": "có nhiều thịt",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lời nói tục tỉu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phần có thịt",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "with opposite sides or surfaces that are a great or relatively great distance apart.",
+      "definitions_ex_en": "thick slices of bread",
+      "definitions_ex_vn": "lát bánh mì dày",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "made up of a large number of things or people close together.",
+      "definitions_ex_en": "his hair was long and thick",
+      "definitions_ex_vn": "Tóc anh dài và dày",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a liquid or a semiliquid substance) relatively firm in consistency; not flowing freely.",
+      "definitions_ex_en": "thick mud",
+      "definitions_ex_vn": "bùn dày",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "of low intelligence; stupid.",
+      "definitions_ex_en": "he's a bit thick",
+      "definitions_ex_vn": "Anh ấy hơi dày",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of a voice) not clear or distinct; hoarse or husky.",
+      "definitions_ex_en": "Guy's voice was thick with desire",
+      "definitions_ex_vn": "Giọng nói của Guy dày với mong muốn",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "having a very close, friendly relationship.",
+      "definitions_ex_en": "he's very thick with the new boss",
+      "definitions_ex_vn": "Anh ấy rất dày với ông chủ mới",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "the busiest or most crowded part of something; the middle of something.",
+      "definitions_ex_en": "we were in the thick of the battle",
+      "definitions_ex_vn": "Chúng tôi đã ở trong trận chiến dày đặc",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "in or with deep, dense, or heavy mass.",
+      "definitions_ex_en": "bread spread thick with butter",
+      "definitions_ex_vn": "Bánh mì trải dày bằng bơ",
+      "definitions_type_word": "adverb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809464463_7743a8ce95_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809464463_d31bfd1a04_o.png",
+      "id_image": "thick_4637345"
+    }
+  ]
+}

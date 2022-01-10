@@ -1,0 +1,43 @@
+{
+  "english": "summation",
+  "list_translation_mean": [
+    {
+      "translate_mean": "phép cộng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự cộng lại",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "toán cộng",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the process of adding things together.",
+      "definitions_ex_en": "the summation of numbers of small pieces of evidence",
+      "definitions_ex_vn": "tổng kết số lượng bằng chứng nhỏ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the process of summing something up.",
+      "definitions_ex_en": "these will need summation in a single document",
+      "definitions_ex_vn": "Những thứ này sẽ cần tổng kết trong một tài liệu duy nhất",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383072_6fdce57607_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383072_85eff4527b_o.png",
+      "id_image": "summation_2106627"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693314_df65aebd43_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693314_8d6679de88_o.png",
+      "id_image": "summation_4598429"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "english": "tag",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đầu cái đuôi của thú",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "điệp khúc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mép dây giày",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miếng giấy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "miếng vải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bịt đầu cán",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "cột thẻ",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a label attached to someone or something for the purpose of identification or to give other information.",
+      "definitions_ex_en": "he gave his pet a collar with a metal name tag",
+      "definitions_ex_vn": "anh ấy đã cho thú cưng của mình một cổ áo với một thẻ tên kim loại",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a small piece or part that is attached to a main body.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a frequently repeated quotation or stock phrase.",
+      "definitions_ex_en": "his writing is full of tags from the Bible and Shakespeare",
+      "definitions_ex_vn": "Bài viết của anh ấy có đầy đủ các thẻ từ Kinh thánh và Shakespeare",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a children's game in which one child chases the others and anyone who is touched then becomes the pursuer.",
+      "definitions_ex_en": "we began to play tag under the water",
+      "definitions_ex_vn": "Chúng tôi bắt đầu chơi thẻ dưới nước",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "attach a label to.",
+      "definitions_ex_en": "the bears were tagged and released",
+      "definitions_ex_vn": "Những con gấu đã được gắn thẻ và phát hành",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "add to something, especially as an afterthought or with no real connection.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "shear away ragged locks of wool from (sheep).",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "touch (someone being chased) in a game of tag.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328101_c2607466aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328101_31b9321dce_o.png",
+      "id_image": "tag_122918"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443118_a9637d4f4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443118_29e0743bcb_o.png",
+      "id_image": "tag_413859"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064745_98915d4a25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064745_732726752e_o.png",
+      "id_image": "tag_445294"
+    }
+  ]
+}

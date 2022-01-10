@@ -1,0 +1,32 @@
+{
+  "english": "university",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đại học đường",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "trường đại học",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "trường đại học tổng hợp",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an educational institution designed for instruction, examination, or both, of students in many branches of advanced learning, conferring degrees in various faculties, and often embodying colleges and similar institutions.",
+      "definitions_ex_en": "Oxford University",
+      "definitions_ex_vn": "đại học Oxford",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809707164_5de3a02692_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809707164_b539515efc_o.png",
+      "id_image": "university_4459470"
+    }
+  ]
+}

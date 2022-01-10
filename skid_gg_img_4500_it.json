@@ -1,0 +1,74 @@
+{
+  "english": "skid",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cây đà",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "cây xà ngang để chống đở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chạy trợt qua",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chạy trợt",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "hãm bánh xe lại",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "làm cho trợt ra ngoài",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "(of a vehicle) slide, typically sideways or obliquely, on slippery ground or as a result of stopping or turning too quickly.",
+      "definitions_ex_en": "the taxicab skidded to a halt",
+      "definitions_ex_vn": "Các taxi đã dừng lại",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "fasten a skid to (a wheel) as a brake.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of skidding or sliding.",
+      "definitions_ex_en": "the Volvo went into a skid",
+      "definitions_ex_vn": "Volvo đi vào một chiếc trượt",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a runner attached to the underside of an aircraft for use when landing on snow or grass.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a braking device consisting of a wooden or metal shoe preventing a wheel from revolving.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a beam or plank used to support a ship under construction or repair.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450608_8d6e5c53a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450608_b3203967f0_o.png",
+      "id_image": "skid_5727806"
+    }
+  ]
+}

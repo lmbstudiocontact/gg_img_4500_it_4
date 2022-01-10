@@ -1,0 +1,118 @@
+{
+  "english": "walk",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cách đi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chỗ nuôi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dáng đi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lề đường",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "phạm vi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đi",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự đi dạo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bắt người nào đi",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi bộ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "đi dạo",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "move at a regular pace by lifting and setting down each foot in turn, never having both feet off the ground at once.",
+      "definitions_ex_en": "I walked across the lawn",
+      "definitions_ex_vn": "Tôi đi bộ qua bãi cỏ",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "guide, accompany, or escort (someone) on foot.",
+      "definitions_ex_en": "he walked her home to her door",
+      "definitions_ex_vn": "Anh đưa nhà cô đến cửa nhà cô.",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "be awarded first base after not swinging at four balls pitched outside the strike zone.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a ghost) be present and visible.",
+      "definitions_ex_en": "the ghosts of Bannockburn walked abroad",
+      "definitions_ex_vn": "Những con ma của Bannockburn đi nước ngoài",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "used to describe the way in which someone lives or behaves.",
+      "definitions_ex_en": "walk humbly with your God",
+      "definitions_ex_vn": "bước đi khiêm tốn với chúa của bạn",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act of traveling or an excursion on foot.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a route recommended or marked out for recreational walking.",
+      "definitions_ex_en": "there are picnic places and waymarked walks",
+      "definitions_ex_vn": "Có những nơi dã ngoại và đi bộ theo dõi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an unhurried rate of movement on foot.",
+      "definitions_ex_en": "they crossed the field at a leisurely walk",
+      "definitions_ex_vn": "Họ băng qua cánh đồng đang đi dạo nhàn nhã",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an instance of being awarded (or allowing a batter to reach) first base after not swinging at four balls pitched outside the strike zone.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693954_ca2af8e49b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693954_5690d8483f_o.png",
+      "id_image": "walk_1693000"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453783_a7bfb0a799_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453783_b77b88ae24_o.png",
+      "id_image": "walk_5147283"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383737_7c610ed28b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383737_13fbeb20ec_o.png",
+      "id_image": "walk_599542"
+    }
+  ]
+}

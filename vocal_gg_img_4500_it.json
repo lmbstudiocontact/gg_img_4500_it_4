@@ -1,0 +1,63 @@
+{
+  "english": "vocal",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nói lớn tiếng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "nói to tiếng",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về sự phát âm",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về tiếng nói",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "thuộc về thanh âm",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "relating to the human voice.",
+      "definitions_ex_en": "nonlinguistic vocal effects like laughs and sobs",
+      "definitions_ex_vn": "Hiệu ứng thanh nhạc không tuân mật như cười và tiếng nức nở",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "(of music) consisting of or incorporating singing.",
+      "definitions_ex_en": "a four-part vocal composition",
+      "definitions_ex_vn": "một thành phần thanh nhạc bốn phần",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "expressing opinions or feelings freely or loudly.",
+      "definitions_ex_en": "he was vocal in condemning the action",
+      "definitions_ex_vn": "anh ấy đã hát về việc lên án hành động",
+      "definitions_type_word": "adjective"
+    },
+    {
+      "definitions_word_en": "a part of a piece of music that is sung.",
+      "definitions_ex_en": "a clear guitar backing topped with haunting vocals",
+      "definitions_ex_vn": "Một cái lùi guitar rõ ràng đứng đầu với giọng hát ám ảnh",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078950_3d164b3b8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078950_4e198fedd8_o.png",
+      "id_image": "vocal_122871"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456378_1873edfe6e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456378_b05169c767_o.png",
+      "id_image": "vocal_4806603"
+    }
+  ]
+}

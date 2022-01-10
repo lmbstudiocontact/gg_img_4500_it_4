@@ -1,0 +1,86 @@
+{
+  "english": "trial",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bước gian nan",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mối khổ nảo",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mối khổ sở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự thí nghiệm",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xét đoán",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự xử án",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "việc tố tụng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "việc thưa kiện",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a formal examination of evidence before a judge, and typically before a jury, in order to decide guilt in a case of criminal or civil proceedings.",
+      "definitions_ex_en": "the newspaper accounts of the trial",
+      "definitions_ex_vn": "Các tài khoản báo của phiên tòa",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a test of the performance, qualities, or suitability of someone or something.",
+      "definitions_ex_en": "clinical trials must establish whether the new hip replacements are working",
+      "definitions_ex_vn": "Các thử nghiệm lâm sàng phải thiết lập liệu các thay thế hông mới đang hoạt động",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a person, thing, or situation that tests a person's endurance or forbearance.",
+      "definitions_ex_en": "the trials and tribulations of married life",
+      "definitions_ex_vn": "Các thử nghiệm và đau khổ của cuộc sống hôn nhân",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "test (something, especially a new product) to assess its suitability or performance.",
+      "definitions_ex_en": "all seeds are carefully trialed in a variety of growing conditions",
+      "definitions_ex_vn": "Tất cả các hạt giống được thử nghiệm cẩn thận trong một loạt các điều kiện phát triển",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(of a horse, dog, or other animal) compete in trials.",
+      "definitions_ex_en": "the pup trialed on Saturday",
+      "definitions_ex_vn": "Pup đã thử vào thứ bảy",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071390_97e42c184b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071390_f7cd1a0b96_o.png",
+      "id_image": "trial_2720697"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071435_ccd20591d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071435_f46024d8e6_o.png",
+      "id_image": "trial_354504"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449428_dfbb3451a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449428_10d0948aa7_o.png",
+      "id_image": "trial_5110820"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "english": "tabloid",
+  "list_translation_mean": [
+    {
+      "translate_mean": "tin tức vắn tắc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tờ báo khổ nhỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "truyện ngắn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "viên thuốc",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a newspaper having pages half the size of those of a standard newspaper, typically popular in style and dominated by headlines, photographs, and sensational stories.",
+      "definitions_ex_en": "the tabloid press",
+      "definitions_ex_vn": "Máy ép lá cải",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373677_41643b7ff2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373677_644fd2da01_o.png",
+      "id_image": "tabloid_3966926"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065725_9f4d6518e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065725_216aed56b8_o.png",
+      "id_image": "tabloid_4441544"
+    }
+  ]
+}

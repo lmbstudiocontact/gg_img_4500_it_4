@@ -1,0 +1,75 @@
+{
+  "english": "staff",
+  "list_translation_mean": [
+    {
+      "translate_mean": "nhân viên",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "ba toong",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bộ tham mưu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gậy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "gây biểu hiệu chức tước",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "all the people employed by a particular organization.",
+      "definitions_ex_en": "a staff of 600",
+      "definitions_ex_vn": "một nhân viên của 600",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a group of officers assisting an officer in command of an army formation or administration headquarters.",
+      "definitions_ex_en": "the Polish General and his staff",
+      "definitions_ex_vn": "Tổng cục Ba Lan và nhân viên của ông",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a long stick used as a support when walking or climbing or as a weapon.",
+      "definitions_ex_en": "a shepherd's staff",
+      "definitions_ex_vn": "Nhân viên của người chăn cừu",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a set of five parallel lines and the spaces between them, on which notes are written to indicate their pitch.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a mixture of plaster of Paris, cement, or a similar material, used for temporary building work.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "provide (an organization, business, etc.) with staff.",
+      "definitions_ex_en": "legal advice centers are staffed by volunteer lawyers",
+      "definitions_ex_vn": "Trung tâm tư vấn pháp lý được nhân viên luật sư tình nguyện",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808395502_9d1574a101_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808395502_3f0f8814b2_o.png",
+      "id_image": "staff_3043379"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810087875_e7a3494a2c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810087875_ee4a5e8703_o.png",
+      "id_image": "staff_3461579"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "english": "transport",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mối cảm kích",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự chuyên chở",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự hoan hỉ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự vận tải",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tù bị đày",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "take or carry (people or goods) from one place to another by means of a vehicle, aircraft, or ship.",
+      "definitions_ex_en": "the bulk of freight traffic was transported by truck",
+      "definitions_ex_vn": "Phần lớn giao thông vận tải được vận chuyển bằng xe tải",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "overwhelm (someone) with a strong emotion, especially joy.",
+      "definitions_ex_en": "she was transported with pleasure",
+      "definitions_ex_vn": "Cô đã được vận chuyển với niềm vui",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a system or means of conveying people or goods from place to place by means of a vehicle, aircraft, or ship.",
+      "definitions_ex_en": "many possess their own forms of transport",
+      "definitions_ex_vn": "nhiều người sở hữu các hình thức vận chuyển của riêng họ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an overwhelmingly strong emotion.",
+      "definitions_ex_en": "art can send people into transports of delight",
+      "definitions_ex_vn": "Nghệ thuật có thể gửi người vào vận chuyển niềm vui",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451633_64de65065c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451633_ed6ee0c897_o.png",
+      "id_image": "transport_4636444"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691989_7258d42852_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691989_266b001ce8_o.png",
+      "id_image": "transport_4660752"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381777_dc0dff7b3b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381777_3c17a18a69_o.png",
+      "id_image": "transport_848548"
+    }
+  ]
+}

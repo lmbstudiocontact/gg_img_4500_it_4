@@ -1,0 +1,50 @@
+{
+  "english": "sprint",
+  "list_translation_mean": [
+    {
+      "translate_mean": "cuộc đua nước rút",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "chạy hết tốc lực",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "run at full speed over a short distance.",
+      "definitions_ex_en": "I saw Charlie sprinting through the traffic toward me",
+      "definitions_ex_vn": "Tôi thấy Charlie chạy nước rút thông qua giao thông về phía tôi",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "an act or short spell of running at full speed.",
+      "definitions_ex_en": "Greg broke into a sprint",
+      "definitions_ex_vn": "Greg đã đột nhập vào một chạy nước rút",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(especially in software development) a set period of time during which specific tasks must be completed.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397042_b285a8b0f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397042_aa1ac0f5f5_o.png",
+      "id_image": "sprint_1934014"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809466798_5c6a2fc6be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809466798_48b717b7e5_o.png",
+      "id_image": "sprint_2620681"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706774_76782e5394_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706774_a6d51b5fc7_o.png",
+      "id_image": "sprint_3965798"
+    }
+  ]
+}

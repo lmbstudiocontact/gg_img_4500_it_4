@@ -1,0 +1,62 @@
+{
+  "english": "sun",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mặt trời",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thái dương",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the star around which the earth orbits.",
+      "definitions_ex_en": "the sun shone from a cloudless sky",
+      "definitions_ex_vn": "Mặt trời chiếu sáng từ một bầu trời không mây",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the light or warmth received from the earth's sun.",
+      "definitions_ex_en": "we sat outside in the sun",
+      "definitions_ex_vn": "Chúng tôi ngồi ngoài trời dưới ánh mặt trời",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a day or a year.",
+      "definitions_ex_en": "after going so many suns without food, I was sleeping",
+      "definitions_ex_vn": "Sau khi đi rất nhiều mặt trời mà không có thức ăn, tôi đang ngủ",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "sit or lie in the sun.",
+      "definitions_ex_en": "Buzz could see Clare sunning herself on the terrace below",
+      "definitions_ex_vn": "Buzz có thể thấy Clare Sneting mình trên sân thượng bên dưới",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "Sunday.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "abbreviation"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452748_7295d97564_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452748_1c261bd0f3_o.png",
+      "id_image": "sun_272723"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337841_e212faa2b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337841_896e76bd3e_o.png",
+      "id_image": "sun_499401"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382807_a7f430348b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382807_a7f24fd50c_o.png",
+      "id_image": "sun_616645"
+    }
+  ]
+}

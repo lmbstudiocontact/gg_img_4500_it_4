@@ -1,0 +1,38 @@
+{
+  "english": "tomahawk",
+  "list_translation_mean": [
+    {
+      "translate_mean": "loại bom hỏa tiển cma mỹ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "rìu nhỏ của người da đỏ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "giết người bằng rìu",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a light axe used as a tool or weapon by North American Indians.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "strike or cut with or as if with a tomahawk.",
+      "definitions_ex_en": "I took a hammer from the drawer and tomahawked their dolls",
+      "definitions_ex_vn": "Tôi lấy một cái búa từ ngăn kéo và Tomahawks búp bê của họ",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082270_7849dffde6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082270_eb95be31ae_o.png",
+      "id_image": "tomahawk_287128"
+    }
+  ]
+}

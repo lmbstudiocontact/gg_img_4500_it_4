@@ -1,0 +1,75 @@
+{
+  "english": "token",
+  "list_translation_mean": [
+    {
+      "translate_mean": "dấu hiệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dấu riêng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "biểu hiệu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một đồng xu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "vật kỷ niệm",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a thing serving as a visible or tangible representation of a fact, quality, feeling, etc.",
+      "definitions_ex_en": "I wanted to offer you a small token of my appreciation",
+      "definitions_ex_vn": "Tôi muốn cung cấp cho bạn một token nhỏ của sự đánh giá cao của tôi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a voucher that can be exchanged for goods or services, typically one given as a gift or offered as part of a promotional offer.",
+      "definitions_ex_en": "redeem this token for a free dessert",
+      "definitions_ex_vn": "Đổi mã thông báo này cho một món tráng miệng miễn phí",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "an individual occurrence of a linguistic unit in speech or writing, as contrasted with the type or class of linguistic unit of which it is an instance.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sequence of bits passed continuously between nodes in a fixed order and enabling a node to transmit information.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a member of a minority group included in an otherwise homogeneous set of people in order to give the appearance of diversity.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "done for the sake of appearances or as a symbolic gesture.",
+      "definitions_ex_en": "cases like these often bring just token fines from the courts",
+      "definitions_ex_vn": "Các trường hợp như những trường hợp thường mang đến các khoản tiền mã thông báo từ các tòa án",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082560_fb3883e8e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082560_dba9051a6a_o.png",
+      "id_image": "token_5131787"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459858_a737bc4df3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459858_cd47e3859f_o.png",
+      "id_image": "token_6295383"
+    }
+  ]
+}

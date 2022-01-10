@@ -1,0 +1,64 @@
+{
+  "english": "unit",
+  "list_translation_mean": [
+    {
+      "translate_mean": "đơn vị",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "khối",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "một cái",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "an individual thing or person regarded as single and complete but which can also form an individual component of a larger or more complex whole.",
+      "definitions_ex_en": "large areas of land made up of smaller units",
+      "definitions_ex_vn": "diện tích lớn của đất được tạo thành từ các đơn vị nhỏ hơn",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a device that has a specified function, especially one forming part of a complex mechanism.",
+      "definitions_ex_en": "the gearbox and transmission unit",
+      "definitions_ex_vn": "Hộp số và đơn vị truyền",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a quantity chosen as a standard in terms of which other quantities may be expressed.",
+      "definitions_ex_en": "a unit of measurement",
+      "definitions_ex_vn": "một đơn vị đo lường",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "the number one.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809352766_1beb99e1cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809352766_23d3ebace5_o.png",
+      "id_image": "unit_1088879"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808397637_cd992117ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808397637_88dd348bb2_o.png",
+      "id_image": "unit_4099187"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810090150_4a3936fb06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810090150_27d0f09296_o.png",
+      "id_image": "unit_6133665"
+    }
+  ]
+}

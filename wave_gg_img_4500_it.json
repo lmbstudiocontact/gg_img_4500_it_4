@@ -1,0 +1,107 @@
+{
+  "english": "wave",
+  "list_translation_mean": [
+    {
+      "translate_mean": "biển",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dấu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "đưa đẩy",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sóng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "sự uốn tóc dợn",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "làn sóng điện",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "tình trạng lúc lắc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "lằn dợn như sóng",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "bay phất phơ",
+      "type_word": "verb"
+    },
+    {
+      "translate_mean": "lúc lắc",
+      "type_word": "verb"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "move one's hand to and fro in greeting or as a signal.",
+      "definitions_ex_en": "he waved to me from the train",
+      "definitions_ex_vn": "Anh vẫy tay với tôi từ tàu",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "move to and fro with a swaying or undulating motion while remaining fixed to one point.",
+      "definitions_ex_en": "the flag waved in the wind",
+      "definitions_ex_vn": "Cờ vẫy trong gió",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "style (hair) so that it curls slightly.",
+      "definitions_ex_en": "her hair had been carefully waved for the evening",
+      "definitions_ex_vn": "Tóc cô đã được vẫy cẩn thận vào buổi tối",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "a long body of water curling into an arched form and breaking on the shore.",
+      "definitions_ex_en": "he was swept out to sea by a freak wave",
+      "definitions_ex_vn": "Anh ta bị cuốn xuống biển bởi một làn sóng kỳ dị",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a sudden occurrence of or increase in a specified phenomenon, feeling, or emotion.",
+      "definitions_ex_en": "horror came over me in waves",
+      "definitions_ex_vn": "Kinh dị đến với tôi trong sóng",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a gesture or signal made by moving one's hand to and fro.",
+      "definitions_ex_en": "he gave a little wave and walked off",
+      "definitions_ex_vn": "Anh đưa một chút sóng và bước đi",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a slightly curling lock of hair.",
+      "definitions_ex_en": "his hair was drying in unruly waves",
+      "definitions_ex_vn": "Tóc anh ta đang khô trong sóng unululy",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a periodic disturbance of the particles of a substance which may be propagated without net movement of the particles, such as in the passage of undulating motion, heat, or sound.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690414_c1d2ef44a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690414_7a60c0863e_o.png",
+      "id_image": "wave_433984"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380292_3c9d40f424_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380292_2cd8619479_o.png",
+      "id_image": "wave_468351"
+    }
+  ]
+}

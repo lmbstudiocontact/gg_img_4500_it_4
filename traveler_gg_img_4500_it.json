@@ -1,0 +1,41 @@
+{
+  "english": "traveler",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người đi du lịch",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đi mời mua hàng hóa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "người đi xa",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "du khách",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person who is traveling or who often travels.",
+      "definitions_ex_en": "thousands of air travelers were left stranded",
+      "definitions_ex_vn": "Hàng ngàn du khách hàng không bị bỏ lại",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073095_ea68e8ea14_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073095_b252c6401a_o.png",
+      "id_image": "traveler_1426401"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691474_a8ac5cfe68_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691474_68fa70a528_o.png",
+      "id_image": "traveler_3762238"
+    }
+  ]
+}

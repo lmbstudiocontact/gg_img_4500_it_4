@@ -1,0 +1,33 @@
+{
+  "english": "summertime",
+  "list_translation_mean": [
+    {
+      "translate_mean": "mùa nghĩ hè",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thời gian hè",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "the season or period of summer.",
+      "definitions_ex_en": "in summertime trains run every ten minutes",
+      "definitions_ex_vn": "Trong các chuyến tàu Summertime chạy cứ sau mười phút",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337951_018187da6e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337951_ca36ff1ecd_o.png",
+      "id_image": "summertime_306713"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452818_454defc269_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452818_7d20e2634a_o.png",
+      "id_image": "summertime_3579891"
+    }
+  ]
+}

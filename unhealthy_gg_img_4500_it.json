@@ -1,0 +1,42 @@
+{
+  "english": "unhealthy",
+  "list_translation_mean": [
+    {
+      "translate_mean": "hại sức khỏe",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không hợp vệ sinh",
+      "type_word": "adjective"
+    },
+    {
+      "translate_mean": "không khỏe mạnh",
+      "type_word": "adjective"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "harmful to health.",
+      "definitions_ex_en": "an unhealthy diet",
+      "definitions_ex_vn": "một chế độ ăn uống không lành mạnh",
+      "definitions_type_word": "adjective"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808398087_d9183346e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808398087_8c3a2d5c3d_o.png",
+      "id_image": "unhealthy_5705018"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809707869_bdb37e16c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809707869_9b39e4a350_o.png",
+      "id_image": "unhealthy_6194087"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808398042_6f0cc0cc79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808398042_293dd0eeb8_o.png",
+      "id_image": "unhealthy_6214069"
+    }
+  ]
+}

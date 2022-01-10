@@ -1,0 +1,63 @@
+{
+  "english": "star",
+  "list_translation_mean": [
+    {
+      "translate_mean": "ngôi sao",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "mề đay",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a fixed luminous point in the night sky which is a large, remote incandescent body like the sun.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a conventional or stylized representation of a star, typically one having five or more points.",
+      "definitions_ex_en": "the walls were painted with silver moons and stars",
+      "definitions_ex_vn": "Các bức tường được vẽ bằng mặt trăng bạc và các ngôi sao",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a famous or exceptionally talented performer in the world of entertainment or sports.",
+      "definitions_ex_en": "a pop star",
+      "definitions_ex_vn": "một ngôi sao nhạc pop",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a planet, constellation, or configuration regarded as influencing someone's fortunes or personality.",
+      "definitions_ex_en": "his golf destiny was written in the stars",
+      "definitions_ex_vn": "Định mệnh golf của anh ta được viết trong những vì sao",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(of a movie, play, or other show) have (someone) as a principal performer.",
+      "definitions_ex_en": "a film starring Liza Minnelli",
+      "definitions_ex_vn": "Một bộ phim tham gia Liza Minnelli",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "decorate or cover with star-shaped marks or objects.",
+      "definitions_ex_en": "thick grass starred with flowers",
+      "definitions_ex_vn": "Cỏ dày đóng vai chính với hoa",
+      "definitions_type_word": "verb"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808394207_2092a23be4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808394207_df743015d8_o.png",
+      "id_image": "star_292616"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809704119_28f12147d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809704119_98a6892f91_o.png",
+      "id_image": "star_560896"
+    }
+  ]
+}

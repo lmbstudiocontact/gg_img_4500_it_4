@@ -1,0 +1,29 @@
+{
+  "english": "wholesaler",
+  "list_translation_mean": [
+    {
+      "translate_mean": "người buôn bán sỉ",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a person or company that sells goods in large quantities at low prices, typically to retailers.",
+      "definitions_ex_en": "chicken supplied by wholesalers to restaurants",
+      "definitions_ex_vn": "Gà được cung cấp bởi các nhà bán buôn cho nhà hàng",
+      "definitions_type_word": "noun"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329936_ea8e10ae1c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329936_8b7cdaf6a9_o.png",
+      "id_image": "wholesaler_4003691"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329906_a020269364_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329906_228acd8347_o.png",
+      "id_image": "wholesaler_4065469"
+    }
+  ]
+}

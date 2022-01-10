@@ -1,0 +1,92 @@
+{
+  "english": "style",
+  "list_translation_mean": [
+    {
+      "translate_mean": "bút pháp",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "dao khắc chữ",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kiểu kiến trúc",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "kiểu mẫu",
+      "type_word": "noun"
+    },
+    {
+      "translate_mean": "thời trang",
+      "type_word": "noun"
+    }
+  ],
+  "list_definition_mean": [
+    {
+      "definitions_word_en": "a manner of doing something.",
+      "definitions_ex_en": "different styles of management",
+      "definitions_ex_vn": "Phong cách quản lý khác nhau",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "a distinctive appearance, typically determined by the principles according to which something is designed.",
+      "definitions_ex_en": "the pillars are no exception to the general style",
+      "definitions_ex_vn": "Các trụ cột cũng không ngoại lệ đối với phong cách chung",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "elegance and sophistication.",
+      "definitions_ex_en": "a sophisticated nightspot with style and taste",
+      "definitions_ex_vn": "Một đêm tinh vi với phong cách và hương vị",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in a flower) a narrow, typically elongated extension of the ovary, bearing the stigma.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "(in an invertebrate) a small, slender pointed appendage; a stylet.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "noun"
+    },
+    {
+      "definitions_word_en": "design or make in a particular form.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "designate with a particular name, description, or title.",
+      "definitions_ex_en": "the official is styled principal and vice chancellor of the university",
+      "definitions_ex_vn": "quan chức là hiệu trưởng và phó hiệu trưởng của trường đại học",
+      "definitions_type_word": "verb"
+    },
+    {
+      "definitions_word_en": "(forming adjectives and adverbs) in a manner characteristic of.",
+      "definitions_ex_en": "",
+      "definitions_ex_vn": "",
+      "definitions_type_word": "suffix"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385712_f351d54344_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385712_9db6d689b8_o.png",
+      "id_image": "style_2844521"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078090_64efca9740_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078090_050ba38a2c_o.png",
+      "id_image": "style_4515876"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340741_d428b016b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340741_4bd4ab2224_o.png",
+      "id_image": "style_4515932"
+    }
+  ]
+}
